@@ -30,6 +30,7 @@ GEMINI_API_URL = (
     f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 )
 LINE_PUSH_URL = "https://api.line.me/v2/bot/message/push"
+LINE_MULTICAST_URL = "https://api.line.me/v2/bot/message/multicast"
 
 
 def today_taipei() -> str:
@@ -85,12 +86,21 @@ def gemini_generate(prompt: str, *, json_mode: bool = True) -> str:
 # --- LINE ---------------------------------------------------------------------
 def line_push(text: str) -> None:
     token = env("LINE_CHANNEL_ACCESS_TOKEN")
-    user_id = env("LINE_USER_ID")
-    body = json.dumps(
-        {"to": user_id, "messages": [{"type": "text", "text": text}]}
-    ).encode("utf-8")
+    ids_raw = os.environ.get("LINE_USER_IDS") or os.environ.get("LINE_USER_ID", "")
+    user_ids = [u.strip() for u in ids_raw.split(",") if u.strip()]
+    if not user_ids:
+        sys.exit("❌ 缺少環境變數：LINE_USER_IDS 或 LINE_USER_ID")
+
+    if len(user_ids) == 1:
+        url = LINE_PUSH_URL
+        payload = {"to": user_ids[0], "messages": [{"type": "text", "text": text}]}
+    else:
+        url = LINE_MULTICAST_URL
+        payload = {"to": user_ids, "messages": [{"type": "text", "text": text}]}
+
+    body = json.dumps(payload).encode("utf-8")
     req = request.Request(
-        LINE_PUSH_URL,
+        url,
         data=body,
         headers={
             "Authorization": f"Bearer {token}",
@@ -98,10 +108,13 @@ def line_push(text: str) -> None:
         },
         method="POST",
     )
-    with request.urlopen(req, timeout=30) as resp:
-        resp_body = resp.read().decode("utf-8")
-        if resp.status >= 300:
-            sys.exit(f"❌ LINE push failed ({resp.status}): {resp_body}")
+    try:
+        with request.urlopen(req, timeout=30) as resp:
+            resp_body = resp.read().decode("utf-8")
+            if resp.status >= 300:
+                sys.exit(f"❌ LINE push failed ({resp.status}): {resp_body}")
+    except error.HTTPError as e:
+        sys.exit(f"❌ LINE HTTP {e.code}: {e.read().decode('utf-8', 'ignore')}")
 
 
 # --- Prompts ------------------------------------------------------------------
