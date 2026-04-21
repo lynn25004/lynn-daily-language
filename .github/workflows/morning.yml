@@ -1,0 +1,40 @@
+name: Morning Lesson (09:00 Taipei, Mon-Sat)
+
+on:
+  schedule:
+    # 01:00 UTC = 09:00 Taipei. 週一到週六
+    - cron: "0 1 * * 1-6"
+  workflow_dispatch:  # 手動觸發用
+
+jobs:
+  morning:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate & push morning lesson
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+          TZ: Asia/Taipei
+        run: python scripts/coach.py morning
+
+      - name: Commit today's lesson
+        run: |
+          git config user.name  "daily-coach-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add lessons/
+          if ! git diff --cached --quiet; then
+            DATE=$(TZ=Asia/Taipei date +%Y-%m-%d)
+            git commit -m "lesson: morning $DATE"
+            git push
+          else
+            echo "No lesson changes to commit."
+          fi

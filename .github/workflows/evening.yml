@@ -1,0 +1,25 @@
+name: Evening Review (23:00 Taipei, Mon-Sat)
+
+on:
+  schedule:
+    # 15:00 UTC = 23:00 Taipei. 週一到週六
+    - cron: "0 15 * * 1-6"
+  workflow_dispatch:
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate & push evening review
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+          TZ: Asia/Taipei
+        run: python scripts/coach.py review
