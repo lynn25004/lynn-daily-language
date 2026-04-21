@@ -110,37 +110,89 @@ def gemini_generate(prompt: str, *, json_mode: bool = True, max_retries: int = 5
 
 
 # --- LINE ---------------------------------------------------------------------
-def line_push(text: str) -> None:
-    token = env("LINE_CHANNEL_ACCESS_TOKEN")
+def _line_push_once(text: str, max_retries: int = 5) -> tuple[bool, str]:
+    """嘗試推播到 LINE，內建 429/5xx/網路錯誤重試。回傳 (成功?, 最後錯誤說明)。"""
+    token = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN")
     ids_raw = os.environ.get("LINE_USER_IDS") or os.environ.get("LINE_USER_ID", "")
     user_ids = [u.strip() for u in ids_raw.split(",") if u.strip()]
+    if not token:
+        return False, "缺少 LINE_CHANNEL_ACCESS_TOKEN"
     if not user_ids:
-        sys.exit("❌ 缺少環境變數：LINE_USER_IDS 或 LINE_USER_ID")
+        return False, "缺少 LINE_USER_IDS / LINE_USER_ID"
 
     if len(user_ids) == 1:
-        url = LINE_PUSH_URL
-        payload = {"to": user_ids[0], "messages": [{"type": "text", "text": text}]}
+        url, payload = LINE_PUSH_URL, {"to": user_ids[0], "messages": [{"type": "text", "text": text}]}
     else:
-        url = LINE_MULTICAST_URL
-        payload = {"to": user_ids, "messages": [{"type": "text", "text": text}]}
+        url, payload = LINE_MULTICAST_URL, {"to": user_ids, "messages": [{"type": "text", "text": text}]}
 
     body = json.dumps(payload).encode("utf-8")
-    req = request.Request(
-        url,
-        data=body,
-        headers={
+    last_err = ""
+    for attempt in range(1, max_retries + 1):
+        req = request.Request(url, data=body, headers={
             "Authorization": f"Bearer {token}",
             "Content-Type": "application/json",
-        },
-        method="POST",
-    )
-    try:
-        with request.urlopen(req, timeout=30) as resp:
-            resp_body = resp.read().decode("utf-8")
-            if resp.status >= 300:
-                sys.exit(f"❌ LINE push failed ({resp.status}): {resp_body}")
-    except error.HTTPError as e:
-        sys.exit(f"❌ LINE HTTP {e.code}: {e.read().decode('utf-8', 'ignore')}")
+        }, method="POST")
+        try:
+            with request.urlopen(req, timeout=30) as resp:
+                if resp.status < 300:
+                    return True, ""
+                last_err = f"HTTP {resp.status}: {resp.read().decode('utf-8','ignore')[:200]}"
+        except error.HTTPError as e:
+            err_body = e.read().decode("utf-8", "ignore")
+            last_err = f"HTTP {e.code}: {err_body[:200]}"
+            retryable = e.code == 429 or 500 <= e.code < 600
+            if retryable and attempt < max_retries:
+                wait = min(2 ** attempt, 32)
+                print(f"⚠️  LINE HTTP {e.code}，{wait}s 後重試（{attempt}/{max_retries}）", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            return False, last_err
+        except (error.URLError, TimeoutError) as e:
+            last_err = f"網路錯誤: {e}"
+            if attempt < max_retries:
+                wait = min(2 ** attempt, 32)
+                print(f"⚠️  LINE 網路錯誤，{wait}s 後重試（{attempt}/{max_retries}）", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            return False, last_err
+    return False, last_err or "unknown"
+
+
+def telegram_send(text: str) -> tuple[bool, str]:
+    """備援通道：推到 Telegram。只要兩個 env 有設就會嘗試。"""
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        return False, "缺少 TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID"
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    # Telegram 單則上限 4096 字元，保守切 3800
+    for chunk in _split_for_line(text, limit=3800):
+        body = json.dumps({"chat_id": chat_id, "text": chunk}).encode("utf-8")
+        req = request.Request(url, data=body, headers={"Content-Type": "application/json"}, method="POST")
+        try:
+            with request.urlopen(req, timeout=30) as resp:
+                if resp.status >= 300:
+                    return False, f"Telegram HTTP {resp.status}"
+        except error.HTTPError as e:
+            return False, f"Telegram HTTP {e.code}: {e.read().decode('utf-8','ignore')[:200]}"
+        except (error.URLError, TimeoutError) as e:
+            return False, f"Telegram 網路錯誤: {e}"
+    return True, ""
+
+
+def line_push(text: str) -> None:
+    """主推送：LINE 優先，全部重試失敗就自動 fallback Telegram；再失敗才 exit。"""
+    ok, err = _line_push_once(text)
+    if ok:
+        return
+    print(f"⚠️  LINE 推送最終失敗：{err}", file=sys.stderr)
+    print("🔁 fallback 到 Telegram...", file=sys.stderr)
+    alert = f"⚠️ LINE 推送失敗，用 Telegram 補上\n原因：{err}\n\n{text}"
+    ok2, err2 = telegram_send(alert)
+    if ok2:
+        print("✅ Telegram fallback 成功", file=sys.stderr)
+        return
+    sys.exit(f"❌ LINE 和 Telegram 都失敗\nLINE: {err}\nTelegram: {err2}")
 
 
 # --- Prompts ------------------------------------------------------------------
@@ -491,6 +543,10 @@ def cmd_review() -> None:
     messages = format_review_messages(review, date, extras=extras)
     for m in messages:
         line_push(m)
+    # 標記今天晚課已推（watchdog 用來判斷是否需要補推）
+    (LESSONS_DIR / f"{date}.reviewed.txt").write_text(
+        datetime.now(TAIPEI).isoformat(), encoding="utf-8"
+    )
     print(f"✅ Evening review for {date} pushed ({len(messages)} messages).")
 
 

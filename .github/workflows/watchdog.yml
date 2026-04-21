@@ -1,13 +1,14 @@
-name: Evening Review (23:00 Taipei, Mon-Sat)
+name: Watchdog (hourly catch-up)
 
 on:
   schedule:
-    # 15:00 UTC = 23:00 Taipei. 週一到週六
-    - cron: "0 15 * * 1-6"
+    # 每小時 10 分跑（避開主 workflow 的 :00 尖峰）
+    # 涵蓋 02:10 UTC（10:10 Taipei）~ 23:10 UTC（07:10 Taipei 隔日）
+    - cron: "10 2-23 * * *"
   workflow_dispatch:
 
 jobs:
-  review:
+  watchdog:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -18,7 +19,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate & push evening review
+      - name: Check & catch-up
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
@@ -26,17 +27,17 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TZ: Asia/Taipei
-        run: python scripts/coach.py review
+        run: python scripts/watchdog.py
 
-      - name: Commit reviewed marker
+      - name: Commit any new lesson/marker files
         run: |
-          git config user.name  "daily-coach-bot"
+          git config user.name  "watchdog-bot"
           git config user.email "bot@users.noreply.github.com"
           git add lessons/
           if ! git diff --cached --quiet; then
             DATE=$(TZ=Asia/Taipei date +%Y-%m-%d)
-            git commit -m "lesson: reviewed $DATE"
+            git commit -m "watchdog: catch-up $DATE"
             git push
           else
-            echo "No marker changes to commit."
+            echo "No changes to commit."
           fi
