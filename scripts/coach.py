@@ -196,71 +196,77 @@ REVIEW_PROMPT = textwrap.dedent("""
 
 # --- Formatters ---------------------------------------------------------------
 def format_morning_messages(lesson: dict, date: str, weekday: str) -> list[str]:
+    """合併成 1 則長訊息（節省 LINE 推播額度）"""
     w = lesson["english_words"]
     eg = lesson["english_grammar"]
     jw = lesson["japanese_words"]
     jg = lesson["japanese_grammar"]
 
-    # Message 1: English words
-    lines = [f"🌅 {date[5:]}（{weekday}）早課 — 英文單字篇", ""]
+    lines = [f"🌅 {date[5:]}（{weekday}）英日文早課", ""]
+
+    # 英文單字
+    lines.append("━━━ 🇬🇧 英文單字 ━━━")
     for i, e in enumerate(w, 1):
         lines.append(f"{i}. {e['word']} ({e['pos']}) {e['meaning']}")
         lines.append(f"   {e['example']}")
         lines.append(f"   → {e['example_zh']}")
-        lines.append("")
-    lines.append("💡 1/4")
-    msg1 = "\n".join(lines).rstrip()
+    lines.append("")
 
-    # Message 2: English grammar
-    lines = ["📘 英文文法篇", ""]
+    # 英文文法
+    lines.append("━━━ 📘 英文文法 ━━━")
     for i, g in enumerate(eg, 1):
         lines.append(f"【{i}】{g['title']}")
         lines.append(g["rule"])
-        lines.append("")
         for ex in g["examples"]:
             lines.append(f"• {ex}")
         lines.append("")
-    lines.append("💡 2/4")
-    msg2 = "\n".join(lines).rstrip()
 
-    # Message 3: Japanese words
-    lines = ["🇯🇵 日文單字篇（N5）", ""]
+    # 日文單字
+    lines.append("━━━ 🇯🇵 日文單字（N5）━━━")
     for i, j in enumerate(jw, 1):
-        lines.append(f"{i}. {j['kana']} / {j['kanji_romaji']}")
-        lines.append(f"   {j['meaning']}")
+        lines.append(f"{i}. {j['kana']} / {j['kanji_romaji']}  {j['meaning']}")
         lines.append(f"   {j['example']}")
         lines.append(f"   → {j['example_zh']}")
-        lines.append("")
-    lines.append("💡 3/4")
-    msg3 = "\n".join(lines).rstrip()
+    lines.append("")
 
-    # Message 4: Japanese grammar + summary
-    lines = ["🗾 日文文法篇（N5）", ""]
+    # 日文文法
+    lines.append("━━━ 🗾 日文文法（N5）━━━")
     for i, g in enumerate(jg, 1):
         lines.append(f"【{i}】{g['title']}")
         lines.append(f"結構：{g['structure']}")
         lines.append(g["rule"])
-        lines.append("")
         for ex in g["examples"]:
             lines.append(f"• {ex}")
         lines.append("")
-    lines.append("━━━━━━━━━━━")
-    lines.append(f"📝 今日完成！23:00 睡前複習再見 💪")
-    lines.append("")
-    lines.append(f"💡 4/4 — {date} 早課")
-    msg4 = "\n".join(lines).rstrip()
 
-    return [msg1, msg2, msg3, msg4]
+    lines.append("━━━━━━━━━━━")
+    lines.append("📝 晚上 23:00 睡前複習見 💪")
+    return ["\n".join(lines).rstrip()]
 
 
 def format_review_messages(review: dict, date: str) -> list[str]:
-    prefix = f"🌙 {date[5:]} 睡前複習"
-    return [
-        f"{prefix} 1/4 — 英文單字小卡\n\n{review['english_words_quiz']}",
-        f"📘 英文文法小測 2/4\n\n{review['english_grammar_quiz']}",
-        f"🇯🇵 日文單字小卡 3/4\n\n{review['japanese_words_quiz']}",
-        f"🗾 日文文法小測 4/4\n\n{review['japanese_grammar_quiz']}\n\n━━━━━━━━━━━\n早睡，明天繼續加油！🌟",
-    ]
+    """合併成 1 則長訊息（節省 LINE 推播額度）"""
+    lines = [f"🌙 {date[5:]} 睡前複習時間", ""]
+
+    lines.append("━━━ 🇬🇧 英文單字小卡 ━━━")
+    lines.append(review["english_words_quiz"])
+    lines.append("")
+
+    lines.append("━━━ 📘 英文文法小測 ━━━")
+    lines.append(review["english_grammar_quiz"])
+    lines.append("")
+
+    lines.append("━━━ 🇯🇵 日文單字小卡 ━━━")
+    lines.append(review["japanese_words_quiz"])
+    lines.append("")
+
+    lines.append("━━━ 🗾 日文文法小測 ━━━")
+    lines.append(review["japanese_grammar_quiz"])
+    lines.append("")
+
+    lines.append("━━━━━━━━━━━")
+    lines.append("早睡，明天繼續加油！🌟")
+    return ["\n".join(lines).rstrip()]
 
 
 def lesson_to_markdown(lesson: dict, date: str, weekday: str) -> str:
