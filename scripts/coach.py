@@ -25,7 +25,7 @@ LESSONS_DIR.mkdir(exist_ok=True)
 
 # --- Config -------------------------------------------------------------------
 TAIPEI = timezone(timedelta(hours=8))
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 GEMINI_API_URL = (
     f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 )
