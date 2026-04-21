@@ -28,9 +28,9 @@ LESSONS_DIR.mkdir(exist_ok=True)
 # --- Config -------------------------------------------------------------------
 TAIPEI = timezone(timedelta(hours=8))
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
-GEMINI_API_URL = (
-    f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-)
+# 主模型失敗時的 fallback 鏈（依序嘗試，避開 503 尖峰）
+GEMINI_FALLBACK_MODELS = ["gemini-2.5-flash-lite", "gemini-2.0-flash"]
+GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 LINE_PUSH_URL = "https://api.line.me/v2/bot/message/push"
 LINE_MULTICAST_URL = "https://api.line.me/v2/bot/message/multicast"
 
@@ -52,58 +52,61 @@ def env(name: str) -> str:
 
 
 # --- Gemini -------------------------------------------------------------------
-def gemini_generate(prompt: str, *, json_mode: bool = True, max_retries: int = 3) -> str:
-    """Call Gemini generateContent with retry on 5xx / network errors."""
+def _gemini_call_once(model: str, prompt: str, json_mode: bool, max_retries: int) -> str | None:
+    """對單一模型呼叫，帶指數退避（最長 32s）。回傳 text，或 None 表示該模型耗盡重試。"""
     api_key = env("GEMINI_API_KEY")
     body: dict = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature": 0.9,
-            "maxOutputTokens": 16384,
-        },
+        "generationConfig": {"temperature": 0.9, "maxOutputTokens": 16384},
     }
     if json_mode:
         body["generationConfig"]["responseMimeType"] = "application/json"
-
     data = json.dumps(body).encode("utf-8")
-    url = f"{GEMINI_API_URL}?key={parse.quote(api_key)}"
+    url = f"{GEMINI_API_BASE}/{model}:generateContent?key={parse.quote(api_key)}"
 
-    last_err = None
     for attempt in range(1, max_retries + 1):
-        req = request.Request(
-            url,
-            data=data,
-            headers={"Content-Type": "application/json"},
-            method="POST",
-        )
+        req = request.Request(url, data=data, headers={"Content-Type": "application/json"}, method="POST")
         try:
             with request.urlopen(req, timeout=60) as resp:
                 payload = json.loads(resp.read().decode("utf-8"))
-            break
+            try:
+                return payload["candidates"][0]["content"]["parts"][0]["text"]
+            except (KeyError, IndexError):
+                print(f"❌ [{model}] 回應格式異常：{json.dumps(payload)[:300]}", file=sys.stderr)
+                return None
         except error.HTTPError as e:
             err_body = e.read().decode("utf-8", "ignore")
-            if 500 <= e.code < 600 and attempt < max_retries:
-                wait = 2 ** attempt
-                print(f"⚠️  Gemini HTTP {e.code}，{wait}s 後重試（{attempt}/{max_retries}）", file=sys.stderr)
+            # 5xx / 429 都視為可重試
+            retryable = 500 <= e.code < 600 or e.code == 429
+            if retryable and attempt < max_retries:
+                wait = min(2 ** attempt, 32)
+                print(f"⚠️  [{model}] HTTP {e.code}，{wait}s 後重試（{attempt}/{max_retries}）", file=sys.stderr)
                 time.sleep(wait)
-                last_err = f"HTTP {e.code}: {err_body}"
                 continue
-            sys.exit(f"❌ Gemini HTTP {e.code}: {err_body}")
+            print(f"⚠️  [{model}] HTTP {e.code}: {err_body[:200]}", file=sys.stderr)
+            return None
         except (error.URLError, TimeoutError) as e:
             if attempt < max_retries:
-                wait = 2 ** attempt
-                print(f"⚠️  網路錯誤 ({e})，{wait}s 後重試（{attempt}/{max_retries}）", file=sys.stderr)
+                wait = min(2 ** attempt, 32)
+                print(f"⚠️  [{model}] 網路錯誤，{wait}s 後重試（{attempt}/{max_retries}）", file=sys.stderr)
                 time.sleep(wait)
-                last_err = str(e)
                 continue
-            sys.exit(f"❌ Gemini 網路錯誤（已重試 {max_retries} 次）：{e}")
-    else:
-        sys.exit(f"❌ Gemini 失敗：{last_err}")
+            print(f"⚠️  [{model}] 網路錯誤：{e}", file=sys.stderr)
+            return None
+    return None
 
-    try:
-        return payload["candidates"][0]["content"]["parts"][0]["text"]
-    except (KeyError, IndexError):
-        sys.exit(f"❌ Gemini 回應格式異常：{json.dumps(payload)[:500]}")
+
+def gemini_generate(prompt: str, *, json_mode: bool = True, max_retries: int = 5) -> str:
+    """主模型 + fallback 鏈，每個模型內部帶重試，避開 Gemini 503 尖峰。"""
+    models = [GEMINI_MODEL] + [m for m in GEMINI_FALLBACK_MODELS if m != GEMINI_MODEL]
+    for model in models:
+        print(f"🤖 嘗試模型：{model}", file=sys.stderr)
+        result = _gemini_call_once(model, prompt, json_mode, max_retries)
+        if result is not None:
+            if model != GEMINI_MODEL:
+                print(f"✅ 主模型失敗，已用 fallback：{model}", file=sys.stderr)
+            return result
+    sys.exit(f"❌ Gemini 所有模型都失敗（tried: {models}）")
 
 
 # --- LINE ---------------------------------------------------------------------
