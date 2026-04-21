@@ -12,8 +12,10 @@ from __future__ import annotations
 
 import json
 import os
+import random
 import sys
 import textwrap
+import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib import request, parse, error
@@ -50,8 +52,8 @@ def env(name: str) -> str:
 
 
 # --- Gemini -------------------------------------------------------------------
-def gemini_generate(prompt: str, *, json_mode: bool = True) -> str:
-    """Call Gemini generateContent; return raw text."""
+def gemini_generate(prompt: str, *, json_mode: bool = True, max_retries: int = 3) -> str:
+    """Call Gemini generateContent with retry on 5xx / network errors."""
     api_key = env("GEMINI_API_KEY")
     body: dict = {
         "contents": [{"parts": [{"text": prompt}]}],
@@ -65,17 +67,38 @@ def gemini_generate(prompt: str, *, json_mode: bool = True) -> str:
 
     data = json.dumps(body).encode("utf-8")
     url = f"{GEMINI_API_URL}?key={parse.quote(api_key)}"
-    req = request.Request(
-        url,
-        data=data,
-        headers={"Content-Type": "application/json"},
-        method="POST",
-    )
-    try:
-        with request.urlopen(req, timeout=60) as resp:
-            payload = json.loads(resp.read().decode("utf-8"))
-    except error.HTTPError as e:
-        sys.exit(f"❌ Gemini HTTP {e.code}: {e.read().decode('utf-8', 'ignore')}")
+
+    last_err = None
+    for attempt in range(1, max_retries + 1):
+        req = request.Request(
+            url,
+            data=data,
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        try:
+            with request.urlopen(req, timeout=60) as resp:
+                payload = json.loads(resp.read().decode("utf-8"))
+            break
+        except error.HTTPError as e:
+            err_body = e.read().decode("utf-8", "ignore")
+            if 500 <= e.code < 600 and attempt < max_retries:
+                wait = 2 ** attempt
+                print(f"⚠️  Gemini HTTP {e.code}，{wait}s 後重試（{attempt}/{max_retries}）", file=sys.stderr)
+                time.sleep(wait)
+                last_err = f"HTTP {e.code}: {err_body}"
+                continue
+            sys.exit(f"❌ Gemini HTTP {e.code}: {err_body}")
+        except (error.URLError, TimeoutError) as e:
+            if attempt < max_retries:
+                wait = 2 ** attempt
+                print(f"⚠️  網路錯誤 ({e})，{wait}s 後重試（{attempt}/{max_retries}）", file=sys.stderr)
+                time.sleep(wait)
+                last_err = str(e)
+                continue
+            sys.exit(f"❌ Gemini 網路錯誤（已重試 {max_retries} 次）：{e}")
+    else:
+        sys.exit(f"❌ Gemini 失敗：{last_err}")
 
     try:
         return payload["candidates"][0]["content"]["parts"][0]["text"]
@@ -254,11 +277,11 @@ def format_morning_messages(lesson: dict, date: str, weekday: str) -> list[str]:
 
     lines.append("━━━━━━━━━━━")
     lines.append("📝 晚上 23:00 睡前複習見 💪")
-    return ["\n".join(lines).rstrip()]
+    return _split_for_line("\n".join(lines).rstrip(), limit=4800)
 
 
-def format_review_messages(review: dict, date: str) -> list[str]:
-    """合併成 1 則長訊息（節省 LINE 推播額度）"""
+def format_review_messages(review: dict, date: str, *, extras: list[str] | None = None) -> list[str]:
+    """合併成 1 則長訊息（節省 LINE 推播額度）。extras 為額外段落（間隔重複 / 週總結）。"""
     lines = [f"🌙 {date[5:]} 睡前複習時間", ""]
 
     lines.append("━━━ 🇬🇧 英文單字小卡 ━━━")
@@ -277,9 +300,105 @@ def format_review_messages(review: dict, date: str) -> list[str]:
     lines.append(review["japanese_grammar_quiz"])
     lines.append("")
 
+    for extra in extras or []:
+        if extra:
+            lines.append(extra)
+            lines.append("")
+
     lines.append("━━━━━━━━━━━")
     lines.append("早睡，明天繼續加油！🌟")
-    return ["\n".join(lines).rstrip()]
+
+    full = "\n".join(lines).rstrip()
+    # LINE 單則上限 5000 字元 → 超過就自動切段
+    return _split_for_line(full, limit=4800)
+
+
+def _split_for_line(text: str, limit: int = 4800) -> list[str]:
+    """若超過 LINE 單則字元上限就切段（以空行為切分點）。"""
+    if len(text) <= limit:
+        return [text]
+    chunks, buf = [], []
+    size = 0
+    for para in text.split("\n\n"):
+        plen = len(para) + 2
+        if size + plen > limit and buf:
+            chunks.append("\n\n".join(buf))
+            buf, size = [], 0
+        buf.append(para)
+        size += plen
+    if buf:
+        chunks.append("\n\n".join(buf))
+    return chunks
+
+
+def load_past_lessons(today: str, days_back: list[int]) -> list[tuple[int, str, dict]]:
+    """Load lessons from N days ago. Returns list of (days_ago, date_str, lesson)."""
+    today_date = datetime.strptime(today, "%Y-%m-%d").date()
+    out = []
+    for d in days_back:
+        date_str = (today_date - timedelta(days=d)).strftime("%Y-%m-%d")
+        p = LESSONS_DIR / f"{date_str}.json"
+        if p.exists():
+            try:
+                out.append((d, date_str, json.loads(p.read_text(encoding="utf-8"))))
+            except json.JSONDecodeError:
+                continue
+    return out
+
+
+def build_spaced_repetition(today: str) -> str:
+    """間隔重複：抓 1/3/7 天前的課，各抽 3 英 + 3 日單字。"""
+    past = load_past_lessons(today, [1, 3, 7])
+    if not past:
+        return ""
+    # 用當天日期當 seed，同一天多次執行會抽到一樣的題目
+    rng = random.Random(today)
+    lines = ["━━━ 🔁 間隔重複（先想答案再看） ━━━"]
+    for days_ago, date_str, lesson in past:
+        ew_pool = lesson.get("english_words", [])
+        jw_pool = lesson.get("japanese_words", [])
+        ew = rng.sample(ew_pool, min(3, len(ew_pool)))
+        jw = rng.sample(jw_pool, min(3, len(jw_pool)))
+        lines.append(f"")
+        lines.append(f"📅 {days_ago} 天前（{date_str[5:]}）")
+        for e in ew:
+            lines.append(f"  🇬🇧 {e['meaning']}（{e['pos']}）→【{e['word']}】")
+        for j in jw:
+            lines.append(f"  🇯🇵 {j['meaning']} →【{j['kana']}／{j['kanji_romaji']}】")
+    return "\n".join(lines)
+
+
+def build_weekly_summary(today: str) -> str:
+    """週六晚課：彙整本週 Mon-Sat 所有單字。"""
+    today_date = datetime.strptime(today, "%Y-%m-%d").date()
+    # 週一到今天
+    monday_offset = today_date.weekday()  # Mon=0, Sat=5
+    days = [monday_offset - i for i in range(monday_offset, -1, -1)]
+    lessons = []
+    for offset in range(monday_offset + 1):
+        d = today_date - timedelta(days=monday_offset - offset)
+        p = LESSONS_DIR / f"{d.strftime('%Y-%m-%d')}.json"
+        if p.exists():
+            try:
+                lessons.append((d.strftime("%m-%d"), json.loads(p.read_text(encoding="utf-8"))))
+            except json.JSONDecodeError:
+                continue
+    if not lessons:
+        return ""
+    lines = ["━━━ 📊 本週單字總結 ━━━"]
+    en_all, jp_all = [], []
+    for date_str, lesson in lessons:
+        en_all.extend([(date_str, w) for w in lesson.get("english_words", [])])
+        jp_all.extend([(date_str, w) for w in lesson.get("japanese_words", [])])
+    lines.append(f"")
+    lines.append(f"🇬🇧 本週英文（共 {len(en_all)} 字）")
+    for date_str, w in en_all:
+        lines.append(f"  {date_str} {w['word']} — {w['meaning']}")
+    lines.append(f"")
+    lines.append(f"🇯🇵 本週日文（共 {len(jp_all)} 字）")
+    for date_str, w in jp_all:
+        lines.append(f"  {date_str} {w['kana']} — {w['meaning']}")
+    return "\n".join(lines)
 
 
 def lesson_to_markdown(lesson: dict, date: str, weekday: str) -> str:
@@ -361,7 +480,12 @@ def cmd_review() -> None:
     raw = gemini_generate(prompt)
     review = _parse_json_or_die(raw, "review")
 
-    messages = format_review_messages(review, date)
+    extras = [build_spaced_repetition(date)]
+    # 週六（weekday=5）加本週總結
+    if datetime.strptime(date, "%Y-%m-%d").weekday() == 5:
+        extras.append(build_weekly_summary(date))
+
+    messages = format_review_messages(review, date, extras=extras)
     for m in messages:
         line_push(m)
     print(f"✅ Evening review for {date} pushed ({len(messages)} messages).")
