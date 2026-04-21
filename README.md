@@ -4,6 +4,8 @@
 [![Morning Lesson](https://github.com/lynn25004/lynn-daily-language/actions/workflows/morning.yml/badge.svg)](https://github.com/lynn25004/lynn-daily-language/actions/workflows/morning.yml)
 [![Evening Review](https://github.com/lynn25004/lynn-daily-language/actions/workflows/evening.yml/badge.svg)](https://github.com/lynn25004/lynn-daily-language/actions/workflows/evening.yml)
 
+🌐 **線上學習紀錄**：<https://lynn25004.github.io/lynn-daily-language/>
+
 > 每天自動推播 10 個英文單字（TOEIC 750 程度）、2 個英文文法、10 個日文單字（N5）、2 個日文文法到 LINE。
 > 晚上複習當日內容 + 間隔重複（1/3/7 天前的單字），週六附上週單字總結。
 
