@@ -56,7 +56,7 @@ def gemini_generate(prompt: str, *, json_mode: bool = True) -> str:
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "temperature": 0.9,
-            "maxOutputTokens": 4096,
+            "maxOutputTokens": 16384,
         },
     }
     if json_mode:
@@ -296,12 +296,31 @@ def lesson_to_markdown(lesson: dict, date: str, weekday: str) -> str:
 
 
 # --- Commands -----------------------------------------------------------------
+def _parse_json_or_die(raw: str, context: str) -> dict:
+    """Parse JSON, stripping markdown fences; print raw on failure for debugging."""
+    text = raw.strip()
+    if text.startswith("```"):
+        # Strip ```json ... ``` fences
+        text = text.split("\n", 1)[1] if "\n" in text else text
+        if text.endswith("```"):
+            text = text.rsplit("```", 1)[0]
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"❌ JSON 解析失敗 ({context}): {e}", file=sys.stderr)
+        print(f"--- Raw response (first 1000 chars) ---", file=sys.stderr)
+        print(raw[:1000], file=sys.stderr)
+        print(f"--- Raw response (last 500 chars) ---", file=sys.stderr)
+        print(raw[-500:], file=sys.stderr)
+        sys.exit(1)
+
+
 def cmd_morning() -> None:
     date = today_taipei()
     weekday = weekday_zh(date)
     prompt = MORNING_PROMPT.format(date=date, weekday=weekday)
     raw = gemini_generate(prompt)
-    lesson = json.loads(raw)
+    lesson = _parse_json_or_die(raw, "morning")
 
     # Save lesson as JSON (for review to read later) and Markdown (for humans)
     (LESSONS_DIR / f"{date}.json").write_text(json.dumps(lesson, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -321,7 +340,7 @@ def cmd_review() -> None:
     lesson_json = lesson_path.read_text(encoding="utf-8")
     prompt = REVIEW_PROMPT.format(lesson_json=lesson_json)
     raw = gemini_generate(prompt)
-    review = json.loads(raw)
+    review = _parse_json_or_die(raw, "review")
 
     messages = format_review_messages(review, date)
     for m in messages:
