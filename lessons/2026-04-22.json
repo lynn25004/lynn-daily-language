@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫或系統",
+      "example": "We need to implement the new security system by next month.",
+      "example_zh": "我們需要在下個月前實施新的安全系統。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使效率最大化",
+      "example": "Can you help me optimize this code for better performance?",
+      "example_zh": "你可以幫我優化這段程式碼以提高性能嗎？"
+    },
+    {
+      "word": "component",
+      "pos": "n.",
+      "meaning": "零件、組成部分",
+      "example": "This small component is crucial for the IoT device to work.",
+      "example_zh": "這個小零件對物聯網裝置的運作至關重要。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、找出並修正程式錯誤",
+      "example": "I spent all morning trying to debug this tricky issue.",
+      "example_zh": "我整個早上都在努力調試這個棘手的問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、雛形產品",
+      "example": "The team is excited to show off their new prototype next week.",
+      "example_zh": "團隊很興奮下週能展示他們的新原型。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的、可更新的",
+      "example": "More companies are investing in renewable energy sources now.",
+      "example_zh": "現在越來越多公司投資再生能源。"
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "meaning": "無縫的、流暢順利的",
+      "example": "We want to provide a seamless user experience for our app.",
+      "example_zh": "我們希望為我們的應用程式提供無縫的使用者體驗。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、共同完成任務",
+      "example": "Let's collaborate on this project to finish it faster.",
+      "example_zh": "我們一起合作這個專案，更快完成吧！"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The deadline for the report is end of day tomorrow.",
+      "example_zh": "這份報告的截止日期是明天底前。"
+    },
+    {
+      "word": "insights",
+      "pos": "n.",
+      "meaning": "見解、深入理解",
+      "example": "Your insights into AI tools are very helpful for our team.",
+      "example_zh": "你對AI工具的見解對我們團隊很有幫助。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 Type 1 (If... will...)",
+      "rule": "用於描述未來可能發生的情況及其結果，通常是事實或高度可能性事件，句型為 If + 主詞 + 現在簡單式動詞, 主詞 + will + 原形動詞。",
+      "examples": [
+        "If you finish your coding early, we will go for coffee. (如果你提早寫完程式碼，我們就去喝咖啡。)",
+        "If the system works, it will save us a lot of time. (如果這個系統成功，它將為我們節省很多時間。)",
+        "If it rains tomorrow, I will work from home. (如果明天下雨，我會在家工作。)"
+      ]
+    },
+    {
+      "title": "片語動詞 (Phrasal Verbs)",
+      "rule": "由動詞加上介系詞或副詞組成，意思常與單字本身不同，常用於日常對話中，例如「figure out (弄懂)」、「come up with (想出)」。",
+      "examples": [
+        "I need to figure out how this embedded system works. (我需要弄清楚這個嵌入式系統是如何運作的。)",
+        "Can you come up with a new idea for our IoT project? (你能為我們的物聯網專案想出一個新點子嗎？)",
+        "Let's back up our data before the update. (在更新前，我們先備份資料吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしのしごとはえんじにあです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "きょう、かいしゃへいきます。",
+      "example_zh": "今天，我要去公司。"
+    },
+    {
+      "kana": "どうりょう",
+      "kanji_romaji": "同僚 / douryou",
+      "meaning": "同事",
+      "example": "わたしのどうりょうはやさしいです。",
+      "example_zh": "我的同事很友善。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "ごぜんちゅうにかいぎがあります。",
+      "example_zh": "上午有會議。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "へやのでんきをつけてください。",
+      "example_zh": "請打開房間的電燈。"
+    },
+    {
+      "kana": "きかい",
+      "kanji_romaji": "機械 / kikai",
+      "meaning": "機械",
+      "example": "あたらしいきかいはとてもべんりです。",
+      "example_zh": "新機器非常方便。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "いま、あたらしいぷろじぇくとをかいはつしています。",
+      "example_zh": "現在，正在開發新專案。"
+    },
+    {
+      "kana": "あんぜん",
+      "kanji_romaji": "安全 / anzen",
+      "meaning": "安全",
+      "example": "あんぜんにきをつけてください。",
+      "example_zh": "請注意安全。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツールをつかいたいです。",
+      "example_zh": "我想使用這個AI工具。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "我每天學習日語。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜をください (o kudasai)",
+      "structure": "名詞 + をください",
+      "rule": "當你想禮貌地請求別人給予你某物時使用，表示「請給我...」。是很實用的日常用語，用在餐廳點餐或購物時都很方便喔。",
+      "examples": [
+        "みずをください。 (請給我水。)",
+        "コーヒーをください。 (請給我咖啡。)"
+      ]
+    },
+    {
+      "title": "〜があります / います (ga arimasu / imasu)",
+      "structure": "名詞 + が + あります / います",
+      "rule": "「あります」用於非生物（物品、地點等）的存在，「います」用於生物（人、動物）的存在，都表示「有...」。",
+      "examples": [
+        "つくえのうえにほしがあります。 (桌子上有書。)",
+        "へやのなかにだれかいます。 (房間裡有人。)"
+      ]
+    }
+  ]
+}
