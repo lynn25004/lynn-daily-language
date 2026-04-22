@@ -1,93 +1,93 @@
 {
   "english_words": [
     {
-      "word": "implement",
-      "pos": "v.",
-      "meaning": "執行、實施計畫或系統",
-      "example": "We need to implement the new security system by next month.",
-      "example_zh": "我們需要在下個月前實施新的安全系統。"
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "做事省時省力",
+      "example": "This new AI tool is super efficient for coding.",
+      "example_zh": "這個新的 AI 工具寫程式超級有效率。"
     },
     {
       "word": "optimize",
       "pos": "v.",
-      "meaning": "優化、使效率最大化",
-      "example": "Can you help me optimize this code for better performance?",
-      "example_zh": "你可以幫我優化這段程式碼以提高性能嗎？"
+      "meaning": "讓系統變更好",
+      "example": "We need to optimize the code for faster performance.",
+      "example_zh": "我們需要優化程式碼來提升效能。"
     },
     {
-      "word": "component",
-      "pos": "n.",
-      "meaning": "零件、組成部分",
-      "example": "This small component is crucial for the IoT device to work.",
-      "example_zh": "這個小零件對物聯網裝置的運作至關重要。"
-    },
-    {
-      "word": "debug",
+      "word": "troubleshoot",
       "pos": "v.",
-      "meaning": "除錯、找出並修正程式錯誤",
-      "example": "I spent all morning trying to debug this tricky issue.",
-      "example_zh": "我整個早上都在努力調試這個棘手的問題。"
+      "meaning": "解決問題或毛病",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
     },
     {
-      "word": "prototype",
+      "word": "interface",
       "pos": "n.",
-      "meaning": "原型、雛形產品",
-      "example": "The team is excited to show off their new prototype next week.",
-      "example_zh": "團隊很興奮下週能展示他們的新原型。"
-    },
-    {
-      "word": "renewable",
-      "pos": "adj.",
-      "meaning": "可再生的、可更新的",
-      "example": "More companies are investing in renewable energy sources now.",
-      "example_zh": "現在越來越多公司投資再生能源。"
-    },
-    {
-      "word": "seamless",
-      "pos": "adj.",
-      "meaning": "無縫的、流暢順利的",
-      "example": "We want to provide a seamless user experience for our app.",
-      "example_zh": "我們希望為我們的應用程式提供無縫的使用者體驗。"
+      "meaning": "軟體或裝置外觀",
+      "example": "The user interface of this app is very intuitive.",
+      "example_zh": "這個應用程式的使用者介面非常直覺。"
     },
     {
       "word": "collaborate",
       "pos": "v.",
-      "meaning": "合作、共同完成任務",
-      "example": "Let's collaborate on this project to finish it faster.",
-      "example_zh": "我們一起合作這個專案，更快完成吧！"
+      "meaning": "一起工作達成目標",
+      "example": "Let's collaborate on this project next week.",
+      "example_zh": "我們下週一起合作這個專案吧。"
     },
     {
-      "word": "deadline",
+      "word": "prototype",
       "pos": "n.",
-      "meaning": "截止日期、最後期限",
-      "example": "The deadline for the report is end of day tomorrow.",
-      "example_zh": "這份報告的截止日期是明天底前。"
+      "meaning": "產品初期模型",
+      "example": "We're building a prototype for our new IoT device.",
+      "example_zh": "我們正在為新的物聯網設備製作原型。"
     },
     {
-      "word": "insights",
+      "word": "leisure",
       "pos": "n.",
-      "meaning": "見解、深入理解",
-      "example": "Your insights into AI tools are very helpful for our team.",
-      "example_zh": "你對AI工具的見解對我們團隊很有幫助。"
+      "meaning": "工作外放鬆時間",
+      "example": "What do you usually do in your leisure time?",
+      "example_zh": "你閒暇時通常做什麼？"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "長期可維持的",
+      "example": "Renewable energy is crucial for a sustainable future.",
+      "example_zh": "再生能源對永續未來至關重要。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "新想法或方法",
+      "example": "We need more innovation in the tech industry.",
+      "example_zh": "科技產業需要更多創新。"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "提供最新資訊",
+      "example": "Don't forget to update the software regularly.",
+      "example_zh": "別忘了定期更新軟體。"
     }
   ],
   "english_grammar": [
     {
-      "title": "條件句 Type 1 (If... will...)",
-      "rule": "用於描述未來可能發生的情況及其結果，通常是事實或高度可能性事件，句型為 If + 主詞 + 現在簡單式動詞, 主詞 + will + 原形動詞。",
+      "title": "第一類條件句 (If 句型)",
+      "rule": "表達未來可能發生的事情及其結果，條件真實或很有可能發生。",
       "examples": [
-        "If you finish your coding early, we will go for coffee. (如果你提早寫完程式碼，我們就去喝咖啡。)",
-        "If the system works, it will save us a lot of time. (如果這個系統成功，它將為我們節省很多時間。)",
-        "If it rains tomorrow, I will work from home. (如果明天下雨，我會在家工作。)"
+        "If the system crashes, I will restart it. (如果系統當機，我就會重啟它。)",
+        "If you finish early, we can grab coffee. (如果你早點忙完，我們可以去喝咖啡。)",
+        "If it rains, I'll work from home tomorrow. (如果下雨，我明天就會在家工作。)"
       ]
     },
     {
-      "title": "片語動詞 (Phrasal Verbs)",
-      "rule": "由動詞加上介系詞或副詞組成，意思常與單字本身不同，常用於日常對話中，例如「figure out (弄懂)」、「come up with (想出)」。",
+      "title": "片語動詞 (與 up 相關)",
+      "rule": "動詞與介係詞 up 結合，產生新意義，常用於日常和工作情境。",
       "examples": [
-        "I need to figure out how this embedded system works. (我需要弄清楚這個嵌入式系統是如何運作的。)",
-        "Can you come up with a new idea for our IoT project? (你能為我們的物聯網專案想出一個新點子嗎？)",
-        "Let's back up our data before the update. (在更新前，我們先備份資料吧。)"
+        "Can you help me set up this new server? (你能幫我設定這台新伺服器嗎？)",
+        "I need to come up with a solution by tomorrow. (我需要明天前想出一個解決方案。)",
+        "We need to speed up the development process. (我們需要加快開發流程。)"
       ]
     }
   ],
@@ -96,90 +96,90 @@
       "kana": "しごと",
       "kanji_romaji": "仕事 / shigoto",
       "meaning": "工作",
-      "example": "わたしのしごとはえんじにあです。",
-      "example_zh": "我的工作是工程師。"
+      "example": "わたしはしごとがすきです。",
+      "example_zh": "我喜歡我的工作。"
     },
     {
-      "kana": "かいしゃ",
-      "kanji_romaji": "会社 / kaisha",
-      "meaning": "公司",
-      "example": "きょう、かいしゃへいきます。",
-      "example_zh": "今天，我要去公司。"
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假期",
+      "example": "きょうはやすみです。",
+      "example_zh": "今天是假日。"
     },
     {
-      "kana": "どうりょう",
-      "kanji_romaji": "同僚 / douryou",
-      "meaning": "同事",
-      "example": "わたしのどうりょうはやさしいです。",
-      "example_zh": "我的同事很友善。"
-    },
-    {
-      "kana": "かいぎ",
-      "kanji_romaji": "会議 / kaigi",
-      "meaning": "會議",
-      "example": "ごぜんちゅうにかいぎがあります。",
-      "example_zh": "上午有會議。"
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありますか。",
+      "example_zh": "你有時間嗎？"
     },
     {
       "kana": "でんき",
       "kanji_romaji": "電気 / denki",
       "meaning": "電、電燈",
-      "example": "へやのでんきをつけてください。",
-      "example_zh": "請打開房間的電燈。"
-    },
-    {
-      "kana": "きかい",
-      "kanji_romaji": "機械 / kikai",
-      "meaning": "機械",
-      "example": "あたらしいきかいはとてもべんりです。",
-      "example_zh": "新機器非常方便。"
-    },
-    {
-      "kana": "かいはつ",
-      "kanji_romaji": "開発 / kaihatsu",
-      "meaning": "開發",
-      "example": "いま、あたらしいぷろじぇくとをかいはつしています。",
-      "example_zh": "現在，正在開發新專案。"
-    },
-    {
-      "kana": "あんぜん",
-      "kanji_romaji": "安全 / anzen",
-      "meaning": "安全",
-      "example": "あんぜんにきをつけてください。",
-      "example_zh": "請注意安全。"
+      "example": "でんきをつけましょう。",
+      "example_zh": "我們把燈打開吧。"
     },
     {
       "kana": "つかう",
       "kanji_romaji": "使う / tsukau",
       "meaning": "使用",
-      "example": "このAIツールをつかいたいです。",
-      "example_zh": "我想使用這個AI工具。"
+      "example": "このアプリをつかいます。",
+      "example_zh": "我使用這個應用程式。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいパソコンがほしいです。",
+      "example_zh": "我想要一台新的電腦。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "わたしはまいにちべんきょうします。",
+      "example_zh": "我每天都學習。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "しごとはたのしいです。",
+      "example_zh": "工作很有趣。"
+    },
+    {
+      "kana": "ほん",
+      "kanji_romaji": "本 / hon",
+      "meaning": "書",
+      "example": "ほんをよみます。",
+      "example_zh": "我讀書。"
     },
     {
       "kana": "べんきょう",
       "kanji_romaji": "勉強 / benkyou",
       "meaning": "學習",
-      "example": "まいにち、にほんごをべんきょうします。",
-      "example_zh": "我每天學習日語。"
+      "example": "にほんごをべんきょうします。",
+      "example_zh": "我學習日語。"
     }
   ],
   "japanese_grammar": [
     {
-      "title": "〜をください (o kudasai)",
-      "structure": "名詞 + をください",
-      "rule": "當你想禮貌地請求別人給予你某物時使用，表示「請給我...」。是很實用的日常用語，用在餐廳點餐或購物時都很方便喔。",
+      "title": "動詞的「～ます / ～ません」形",
+      "structure": "動詞ます形 / 動詞ません形",
+      "rule": "用於表達現在或未來會做某事，或是不會做某事，是日語最基本的禮貌體動詞。",
       "examples": [
-        "みずをください。 (請給我水。)",
-        "コーヒーをください。 (請給我咖啡。)"
+        "わたしはまいにちコーヒーをのみます。(我每天喝咖啡。)",
+        "きょうはしごとをしません。(今天我不工作。)"
       ]
     },
     {
-      "title": "〜があります / います (ga arimasu / imasu)",
-      "structure": "名詞 + が + あります / います",
-      "rule": "「あります」用於非生物（物品、地點等）的存在，「います」用於生物（人、動物）的存在，都表示「有...」。",
+      "title": "助詞「を」",
+      "structure": "名詞 + を + 動詞(ます形)",
+      "rule": "助詞「を」標示動詞的直接受詞，表示動作作用的對象。",
       "examples": [
-        "つくえのうえにほしがあります。 (桌子上有書。)",
-        "へやのなかにだれかいます。 (房間裡有人。)"
+        "ごはんをたべます。(我吃飯。)",
+        "にほんごをべんきょうします。(我學習日語。)"
       ]
     }
   ]
