@@ -1,9 +1,7 @@
 name: Evening Review (23:00 Taipei, Mon-Sat)
 
 on:
-  schedule:
-    # 15:00 UTC = 23:00 Taipei. 週一到週六
-    - cron: "0 15 * * 1-6"
+  # 排程交給 cron-job.org（jobId 7516775）經由 API 觸發 workflow_dispatch。
   workflow_dispatch:
 
 jobs:

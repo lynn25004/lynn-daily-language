@@ -1,10 +1,9 @@
 name: Morning Lesson (09:00 Taipei, Mon-Sat)
 
 on:
-  schedule:
-    # 01:00 UTC = 09:00 Taipei. 週一到週六
-    - cron: "0 1 * * 1-6"
-  workflow_dispatch:  # 手動觸發用
+  # 排程交給 cron-job.org（jobId 7516774）經由 API 觸發 workflow_dispatch。
+  # GitHub 內建 schedule 已移除，因其在免費 tier 常跳過不跑。
+  workflow_dispatch:
 
 jobs:
   morning:
