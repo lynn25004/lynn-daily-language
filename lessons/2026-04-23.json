@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施；執行計畫",
+      "example": "Let's implement this new feature next week.",
+      "example_zh": "我們下週來實施這個新功能吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；使達到最佳狀態",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以提升效能。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯；找出並修正錯誤",
+      "example": "I spent hours to debug this tricky issue!",
+      "example_zh": "我花了數小時來除這個棘手的錯誤！"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合；結合不同部分",
+      "example": "How can we integrate these two systems smoothly?",
+      "example_zh": "我們要如何順利整合這兩個系統呢？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；初版產品",
+      "example": "The team is working on a new IoT prototype.",
+      "example_zh": "團隊正在製作一個新的物聯網原型。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的；值得信賴的",
+      "example": "Our new device is very reliable and stable.",
+      "example_zh": "我們的新設備非常可靠且穩定。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案；問題的答案",
+      "example": "We found a good solution for the power issue.",
+      "example_zh": "我們找到一個解決電源問題的好方案。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "特色；功能；特徵",
+      "example": "This AI tool has many cool new features.",
+      "example_zh": "這個 AI 工具有很多很酷的新功能。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作；協作工作",
+      "example": "Let's collaborate on this project, okay?",
+      "example_zh": "我們在這個專案上合作吧，好嗎？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期；最後期限",
+      "example": "The deadline for this task is tomorrow. Oops!",
+      "example_zh": "這項任務的截止日期是明天。糟了！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "情態動詞 'Should' 表建議",
+      "rule": "Should 用於給予建議、提出義務或表達預期，語氣比 must 輕鬆。",
+      "examples": [
+        "You should check the log file first. (你應該先檢查日誌檔。)",
+        "We should discuss this renewable energy safety issue. (我們應該討論這個再生能源安全問題。)",
+        "It should work perfectly after the update. (更新後它應該能完美運作。)"
+      ]
+    },
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "表示過去發生的動作持續到現在，或在不特定過去時間完成且影響到現在的結果。",
+      "examples": [
+        "I have worked on embedded systems for five years. (我已在嵌入式系統領域工作五年了。)",
+        "The team has developed a new IoT device. (團隊已經開發出一個新的物聯網設備。)",
+        "Have you finished debugging the software yet? (你已經完成軟體除錯了嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "はたらく",
+      "kanji_romaji": "働く / hataraku",
+      "meaning": "工作",
+      "example": "きんようび は どこ で はたらきますか。",
+      "example_zh": "你星期五在哪裡工作？"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "あなたの かいしゃ は どこ ですか。",
+      "example_zh": "你的公司在哪裡？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "あした かいぎ が あります。",
+      "example_zh": "明天有會議。"
+    },
+    {
+      "kana": "しりょう",
+      "kanji_romaji": "資料 / shiryou",
+      "meaning": "資料",
+      "example": "この しりょう を よんで ください。",
+      "example_zh": "請讀一下這份資料。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作；製造",
+      "example": "あたらしい システム を つくります。",
+      "example_zh": "我會製作一個新系統。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦的；嚴重的",
+      "example": "きょう の しごと は たいへん でした。",
+      "example_zh": "今天的工作很辛苦。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "いま なんじかん はたらきますか。",
+      "example_zh": "你現在工作幾個小時？"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂；明白",
+      "example": "この コード が わかりますか。",
+      "example_zh": "你懂這段程式碼嗎？"
+    },
+    {
+      "kana": "コンピューター",
+      "kanji_romaji": "コンピューター / konpyuutaa",
+      "meaning": "電腦",
+      "example": "わたしの コンピューター は おそい です。",
+      "example_zh": "我的電腦很慢。"
+    },
+    {
+      "kana": "システム",
+      "kanji_romaji": "システム / shisutemu",
+      "meaning": "系統",
+      "example": "この システム は べんり ですね。",
+      "example_zh": "這個系統很方便呢。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「〜ますか」「〜ませんか」",
+      "structure": "動詞ます形 + か / 動詞ます形 + ませんか",
+      "rule": "「〜ますか」用於禮貌地詢問，而「〜ませんか」則用於邀請或提議。",
+      "examples": [
+        "いっしょに しごと を しませんか。(要不要一起工作呢？)",
+        "きょう、かいぎ が ありますか。(今天有會議嗎？)"
+      ]
+    },
+    {
+      "title": "「名詞 + で」 (表示工具或手段)",
+      "structure": "名詞 + で",
+      "rule": "助詞「で」在此表示完成某動作所使用的工具、方法或手段。",
+      "examples": [
+        "コンピューター で しごと を します。(用電腦工作。)",
+        "インターネット で しりょう を さがします。(用網路找資料。)"
+      ]
+    }
+  ]
+}
