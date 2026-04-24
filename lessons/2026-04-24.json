@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "嵌入式系統的核心軟體",
+      "example": "We need to update the firmware on these devices.",
+      "example_zh": "我們需要更新這些裝置的韌體。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同部分結合成整體",
+      "example": "We're trying to integrate the new module into the system.",
+      "example_zh": "我們正試著將新模組整合到現有系統中。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "診斷並解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品的初步模型或樣品",
+      "example": "We just finished building the first prototype of our new gadget.",
+      "example_zh": "我們剛完成我們新裝置的第一個原型。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "使功能或效率達到最佳",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以提高效能。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "可能發生的情境或劇本",
+      "example": "Let's consider a few different scenarios for power failure.",
+      "example_zh": "我們來考慮幾種不同的電力故障情境。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "工作的最後期限",
+      "example": "The project deadline is next Friday, so let's hurry!",
+      "example_zh": "專案截止日是下週五，所以我們快點吧！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "與他人共同合作",
+      "example": "We often collaborate with other teams on big projects.",
+      "example_zh": "我們經常在大型專案上與其他團隊合作。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高，不浪費資源",
+      "example": "This new algorithm is much more efficient than the old one.",
+      "example_zh": "這個新演算法比舊的效率高很多。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "持續地監測或檢查",
+      "example": "We need to monitor the system's power consumption closely.",
+      "example_zh": "我們需要密切監控系統的耗電量。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (第一型)",
+      "rule": "用於描述未來可能發生的真實情況，以及其可能帶來的結果，結構為 \"If + 現在簡單式, will/can + 動詞原形\"。",
+      "examples": [
+        "If you finish the task early, we can grab coffee. (如果你早點完成任務，我們可以去喝咖啡。)",
+        "If the system crashes, we will lose all unsaved data. (如果系統當機，我們會遺失所有未儲存的資料。)",
+        "If we optimize this process, it will save us a lot of time. (如果我們優化這個流程，會省下很多時間。)"
+      ]
+    },
+    {
+      "title": "片語動詞 (與 up 相關)",
+      "rule": "\"up\" 常與動詞結合，表示「完成、增加、向上」等動作，讓表達更自然，很適合工程師日常使用。",
+      "examples": [
+        "Could you please set up the new IoT device? (你可以設定好那個新的物聯網裝置嗎？)",
+        "I need to look up some technical terms online. (我需要在網路上查一些技術術語。)",
+        "Let's speed up the development process a bit. (我們來稍微加快一點開發進度吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作、職務",
+      "example": "私の仕事はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "毎日会社へ行きます。",
+      "example_zh": "每天去公司。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力、電器",
+      "example": "電気がつかない、どうしよう？",
+      "example_zh": "電燈不亮，怎麼辦？"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造、建立",
+      "example": "IoTデバイスを作ります。",
+      "example_zh": "我製作IoT裝置。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用、利用",
+      "example": "このAIツールを使います。",
+      "example_zh": "我使用這個AI工具。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的、難懂的",
+      "example": "日本語の文法は少し難しいです。",
+      "example_zh": "日文文法有點難。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "プログラミングは本当に楽しいです。",
+      "example_zh": "程式設計真的很有趣。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、用功",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "每天學習日文。"
+    },
+    {
+      "kana": "いつも",
+      "kanji_romaji": "いつも / itsumo",
+      "meaning": "總是、經常",
+      "example": "彼はいつも新しい技術を学んでいます。",
+      "example_zh": "他總是學習新技術。"
+    },
+    {
+      "kana": "だいじょうぶ",
+      "kanji_romaji": "大丈夫 / daijoubu",
+      "meaning": "沒關係、不要緊、沒問題",
+      "example": "この問題、大丈夫ですか？",
+      "example_zh": "這個問題，沒問題嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください (請...)",
+      "structure": "動詞て形 + ください",
+      "rule": "用於客氣地請求或指示對方做某事。動詞變「て形」是日語學習中很基礎且重要的變化，一定要記熟喔！",
+      "examples": [
+        "この資料を読んでください。 (請讀這份資料。)",
+        "ちょっと待ってください。 (請等一下。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + あります / います (有...)",
+      "structure": "名詞 + は + あります / います",
+      "rule": "「あります」用於非生物或無生命體的存在，「います」用於生物或有生命體的存在，表示「有」。",
+      "examples": [
+        "私の部屋にパソコンがあります。 (我的房間有電腦。)",
+        "会社に同僚がいます。 (公司有同事。)"
+      ]
+    }
+  ]
+}
