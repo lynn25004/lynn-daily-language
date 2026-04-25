@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，讓效率更好",
+      "example": "Let's optimize the code for speed.",
+      "example_zh": "我們來優化程式碼，讓它跑更快。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行，實現某計畫",
+      "example": "We need to implement this feature soon.",
+      "example_zh": "我們需要盡快實現這個功能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障，解決問題",
+      "example": "I spent hours troubleshooting the bug.",
+      "example_zh": "我花了好幾個小時排除那個錯誤。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初步的模型",
+      "example": "This is just a prototype, not final.",
+      "example_zh": "這只是一個原型，還不是最終版。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的，永續的",
+      "example": "Solar is a great renewable energy source.",
+      "example_zh": "太陽能是很好的再生能源。"
+    },
+    {
+      "word": "curious",
+      "pos": "adj.",
+      "meaning": "好奇的，想知道的",
+      "example": "I'm curious about your new project.",
+      "example_zh": "我對你的新專案很好奇。"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好，閒暇時的活動",
+      "example": "What's your favorite weekend hobby?",
+      "example_zh": "你週末最喜歡的嗜好是什麼？"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索，研究新事物",
+      "example": "Let's explore new AI tools together.",
+      "example_zh": "我們一起探索新的AI工具吧。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，合併不同部分",
+      "example": "We need to integrate these modules.",
+      "example_zh": "我們需要整合這些模組。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案，解答",
+      "example": "I hope we find a good solution.",
+      "example_zh": "我希望我們能找到一個好的解決方案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式 (going to / will)",
+      "rule": "「going to」主要用來表達已有計畫或基於現有證據的預測；「will」則用於當下決定、承諾或預測。",
+      "examples": [
+        "I'm going to work on my IoT project this weekend. (我這個週末打算做我的物聯網專案。)",
+        "Oh, the server is down? I'll check it right away. (喔，伺服器掛了？我馬上檢查。)",
+        "Maybe I will go hiking if the weather is good. (如果天氣好，我可能會去健行。)"
+      ]
+    },
+    {
+      "title": "情態助動詞 (should/could/might)",
+      "rule": "這些助動詞用於給予建議、提出可能性或表示不確定性，讓語氣更柔和、更禮貌，適合日常對話。",
+      "examples": [
+        "You should try this new AI tool for your code. (你應該試試這個新的AI工具來寫程式。)",
+        "We could use a different approach for this problem. (我們可以嘗試用不同的方法來解決這個問題。)",
+        "The system might be overloaded with too many requests. (系統可能因為太多請求而過載了。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末に何をしますか？",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "プロジェクト",
+      "kanji_romaji": "project",
+      "meaning": "專案",
+      "example": "新しいプロジェクトを始めます。",
+      "example_zh": "我要開始一個新專案。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "その本はとても面白いです。",
+      "example_zh": "那本書很有趣。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールを使いますか？",
+      "example_zh": "你用這個工具嗎？"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "電気を節約しましょう。",
+      "example_zh": "我們節省電力吧。"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "友達と会います。",
+      "example_zh": "我會見朋友。"
+    },
+    {
+      "kana": "かんたん",
+      "kanji_romaji": "簡単 / kantan",
+      "meaning": "簡單的",
+      "example": "これは簡単ではありません。",
+      "example_zh": "這不簡單。"
+    },
+    {
+      "kana": "つかれる",
+      "kanji_romaji": "疲れる / tsukareru",
+      "meaning": "疲勞",
+      "example": "今日は少し疲れます。",
+      "example_zh": "今天有點累。"
+    },
+    {
+      "kana": "また",
+      "kanji_romaji": "mata",
+      "meaning": "再、又",
+      "example": "また明日会いましょう。",
+      "example_zh": "我們明天再見吧。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 の 名詞 (N の N)",
+      "structure": "名詞 + の + 名詞",
+      "rule": "「の」用於連接兩個名詞，表示所有、所屬、或是前後兩個名詞的修飾關係，讓語意更明確。是N5非常基礎且常用句型。",
+      "examples": [
+        "わたしの会社のプロジェクトです。(這是我公司的專案。)",
+        "これは日本語の本です。(這是日文的書。)"
+      ]
+    },
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "這個句型用於禮貌地請對方做某事，或提出請求，是日常生活中非常實用且常用的句型，務必熟練。",
+      "examples": [
+        "この資料を読んでください。(請閱讀這份資料。)",
+        "ちょっと待ってください。(請稍等一下。)"
+      ]
+    }
+  ]
+}
