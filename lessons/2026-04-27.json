@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行計畫/實施方案",
+      "example": "We need to implement this new plan for the project next week.",
+      "example_zh": "我們下週需要實施這個專案的新計畫。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化效能/最佳化",
+      "example": "How can we optimize the code to run faster and smoother?",
+      "example_zh": "我們如何優化程式碼使其運行更快、更流暢？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除問題/解決故障",
+      "example": "I spent all morning trying to troubleshoot the server connection.",
+      "example_zh": "我花了一整個早上試圖排除伺服器連線問題。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v./n.",
+      "meaning": "監控進度/監視器",
+      "example": "We need to monitor the system's performance closely every day.",
+      "example_zh": "我們需要每天密切監控系統的表現。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合系統/結合功能",
+      "example": "It's challenging to integrate new features into the old software.",
+      "example_zh": "將新功能整合到舊軟體中是很有挑戰的。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "產品特色/主要功能",
+      "example": "This new app has a really cool feature for managing tasks.",
+      "example_zh": "這個新應用程式有一個非常酷的管理任務功能。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的/穩定的",
+      "example": "We need a reliable internet connection for our IoT devices.",
+      "example_zh": "我們的物聯網設備需要可靠的網路連線。"
+    },
+    {
+      "word": "interface",
+      "pos": "n.",
+      "meaning": "使用者介面/連接埠",
+      "example": "The new user interface is much more intuitive and easy to use.",
+      "example_zh": "新的使用者介面更直觀且易於使用。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "客戶回饋/意見",
+      "example": "We're gathering feedback from users to improve our product.",
+      "example_zh": "我們正在收集用戶回饋以改進我們的產品。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "專案截止日/期限",
+      "example": "The project deadline is approaching fast, we need to hurry up.",
+      "example_zh": "專案截止日期快速逼近，我們得趕快了。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "用於描述從過去開始持續到現在的動作或經驗，或對現在有影響的過去事件，常搭配時間副詞如already, yet, ever, never, since, for等。",
+      "examples": [
+        "I have worked on embedded systems for five years now. (我現在已經在嵌入式系統領域工作五年了。)",
+        "She hasn't finished debugging the code yet. (她還沒調試完程式碼。)",
+        "Have you ever designed an IoT device? (你曾經設計過物聯網設備嗎？)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds) 作為主詞或受詞",
+      "rule": "動名詞是動詞加上-ing的形式，可以在句子中作為名詞使用，充當主詞、受詞或介系詞的受詞。",
+      "examples": [
+        "Debugging embedded systems can be really challenging. (調試嵌入式系統可能真的很有挑戰性。)",
+        "I enjoy learning new things about AI tools. (我喜歡學習關於AI工具的新事物。)",
+        "He is good at optimizing code for speed. (他擅長優化程式碼以提高速度。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "今日の仕事はとても楽しいです。",
+      "example_zh": "今天的工作很有趣。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日、日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日、コーヒーを飲みますか？",
+      "example_zh": "你每天都喝咖啡嗎？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "今、何時ですか？",
+      "example_zh": "現在幾點了？"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "友達とゲームをします。",
+      "example_zh": "我和朋友玩遊戲。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的/有趣的",
+      "example": "このプロジェクトはとても楽しいです。",
+      "example_zh": "這個專案很有趣。"
+    },
+    {
+      "kana": "たべる",
+      "kanji_romaji": "食べる / taberu",
+      "meaning": "吃",
+      "example": "毎日、お昼ご飯を食べます。",
+      "example_zh": "我每天吃午餐。"
+    },
+    {
+      "kana": "のむ",
+      "kanji_romaji": "飲む / nomu",
+      "meaning": "喝",
+      "example": "水(みず)を飲みましょうか？",
+      "example_zh": "我們喝水吧？"
+    },
+    {
+      "kana": "いく",
+      "kanji_romaji": "行く / iku",
+      "meaning": "去",
+      "example": "明日、会社に行きます。",
+      "example_zh": "我明天要去公司。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "明白/懂",
+      "example": "日本語が少しわかります。",
+      "example_zh": "我懂一點點日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "表示說話者想做某事的願望，相當於中文的「想...」或「想要...」，用於表達個人意願。",
+      "examples": [
+        "新しいIoTデバイスを作りたいです。 (我想製作新的IoT設備。)",
+        "もっと日本語を勉強したいです。 (我想學更多日文。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "用於介紹或說明事物，表示「名詞1是名詞2」的基本肯定句型，は是助詞，發音為wa。",
+      "examples": [
+        "私(わたし)はエンジニアです。 (我是工程師。)",
+        "これ(これ)は私(わたし)のパソコンです。 (這是我的電腦。)"
+      ]
+    }
+  ]
+}
