@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施",
+      "example": "We need to implement this new feature soon.",
+      "example_zh": "我們需要快點實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Can you optimize the code for better speed?",
+      "example_zh": "你能優化程式碼來提升速度嗎？"
+    },
+    {
+      "word": "component",
+      "pos": "n.",
+      "meaning": "零件、組成部分",
+      "example": "This new component works perfectly.",
+      "example_zh": "這個新零件運作得很好。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想",
+      "example": "What if this scenario happens?",
+      "example_zh": "如果這個情況發生怎麼辦？"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、排解問題",
+      "example": "I spent hours to debug the system.",
+      "example_zh": "我花好幾個小時才把系統除錯。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Let's collaborate on this project together.",
+      "example_zh": "我們一起來合作這個專案吧。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效的、有效率的",
+      "example": "Is this solution more efficient?",
+      "example_zh": "這個解決方案比較有效率嗎？"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "We need more innovative ideas.",
+      "example_zh": "我們需要更多創新的想法。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Do you have any feedback for me?",
+      "example_zh": "你有任何回饋給我嗎？"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "更新、最新訊息",
+      "example": "Please update the software regularly.",
+      "example_zh": "請定期更新軟體。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Present Perfect (現在完成式)",
+      "rule": "表達經驗、從過去持續到現在的動作或影響，常用於描述已完成或未完成的事件。",
+      "examples": [
+        "I have worked on IoT projects before. (我以前做過 IoT 專案。)",
+        "She has updated the system. (她已經更新系統了。)",
+        "We haven't fixed the bug yet. (我們還沒修好那個錯誤。)"
+      ]
+    },
+    {
+      "title": "Modal Verbs: Can, Should, Must (情態助動詞：能、應該、必須)",
+      "rule": "用於表達能力、建議、義務或可能性，為主要動詞增添語氣與意義。",
+      "examples": [
+        "You can use this tool to debug. (你可以用這個工具來除錯。)",
+        "We should check the data security. (我們應該檢查資料安全。)",
+        "Engineers must meet the deadline. (工程師必須在期限內完成。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "パソコンをかいました。",
+      "example_zh": "我買了一台電腦。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電氣、電力、燈",
+      "example": "でんきをけしてください。",
+      "example_zh": "請關燈。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "このアプリはとてもべんりです。",
+      "example_zh": "這個 App 非常方便。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "スマホをよくつかいます。",
+      "example_zh": "我經常使用智慧型手機。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語がわかりますか。",
+      "example_zh": "你懂日文嗎？"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうもしごとがあります。",
+      "example_zh": "今天也有工作。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいスマホがほしいです。",
+      "example_zh": "我想要一台新的智慧型手機。"
+    },
+    {
+      "kana": "システム",
+      "kanji_romaji": "システム / shisutemu",
+      "meaning": "系統",
+      "example": "このシステムはいいですね。",
+      "example_zh": "這個系統很不錯呢。"
+    },
+    {
+      "kana": "かんたん",
+      "kanji_romaji": "簡単 / kantan",
+      "meaning": "簡單的",
+      "example": "これはかんたんです。",
+      "example_zh": "這個很簡單。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありません。",
+      "example_zh": "我沒有時間。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞 + は + 名詞 + です",
+      "rule": "用於說明主語是什麼，表達「A 是 B」的基本肯定句型，是日文最基礎的判斷句。",
+      "examples": [
+        "これはIoTシステムです。(這是 IoT 系統。)",
+        "わたしはエンジニアです。(我是工程師。)"
+      ]
+    },
+    {
+      "title": "名詞 + が + あります/います",
+      "structure": "名詞 + が + あります/います",
+      "rule": "用於表達某物或某人存在於某地，あります用於非生物，います用於生物。",
+      "examples": [
+        "へやにパソコンがあります。(房間裡有電腦。)",
+        "かいぎしつにせんせいがいます。(會議室裡有老師。)"
+      ]
+    }
+  ]
+}
