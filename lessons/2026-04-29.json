@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，融入",
+      "example": "We need to integrate this new feature smoothly.",
+      "example_zh": "我們需要順利整合這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，最佳化",
+      "example": "Let's optimize the code for better speed.",
+      "example_zh": "我們來優化程式碼以提升速度吧。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，配置",
+      "example": "They plan to deploy the update next week.",
+      "example_zh": "他們計畫下週部署更新。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，期限",
+      "example": "My project deadline is pretty tight.",
+      "example_zh": "我的專案截止日期很緊。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見",
+      "example": "Please give me some feedback on this report.",
+      "example_zh": "請給我這份報告一些回饋。"
+    },
+    {
+      "word": "challenge",
+      "pos": "n.",
+      "meaning": "挑戰，難題",
+      "example": "This new task is quite a challenge for us.",
+      "example_zh": "這項新任務對我們來說是個不小的挑戰。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效率的，有效的",
+      "example": "We need a more efficient way to do this.",
+      "example_zh": "我們需要一個更有效率的方法來做這件事。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，樣本",
+      "example": "The team built a cool prototype last month.",
+      "example_zh": "團隊上個月做了一個很酷的原型。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，偵錯",
+      "example": "I spent hours trying to debug this issue.",
+      "example_zh": "我花了好幾個小時試圖解決這個問題。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境，情況",
+      "example": "Let's think about different user scenarios.",
+      "example_zh": "我們來想想不同的使用者情境。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "表達建議或可能性 (Should/Could/Would)",
+      "rule": "用 \"should\" 提出建議；\"could\" 表示可能性或能力；\"would\" 則用於假設語氣或禮貌的請求。",
+      "examples": [
+        "You should check the log files first. (你應該先檢查日誌檔。)",
+        "We could try a different approach here. (我們可以在這裡嘗試不同的方法。)",
+        "I would finish this by tomorrow if possible. (如果可能，我明天會完成這個。)"
+      ]
+    },
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "描述過去發生但與現在相關的動作，或從過去持續到現在的經驗或狀態。",
+      "examples": [
+        "I have worked on several IoT projects. (我曾參與多個物聯網專案。)",
+        "She has learned a lot about AI tools recently. (她最近學了很多關於 AI 工具的知識。)",
+        "We haven't deployed the new system yet. (我們還沒有部署新系統。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日、仕事が忙しいです。",
+      "example_zh": "我每天工作很忙。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "私は日本語を勉強します。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電氣，電燈",
+      "example": "この電気、面白いですね。",
+      "example_zh": "這個電器很有趣呢。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "その本はとても面白いです。",
+      "example_zh": "那本書很有趣。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "この問題は少し難しいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂，明白",
+      "example": "英語が分かりますか。",
+      "example_zh": "你懂英文嗎？"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作",
+      "example": "私はケーキを作ります。",
+      "example_zh": "我製作蛋糕。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "そのAIツールを使います。",
+      "example_zh": "我使用那個AI工具。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日、日本語を話します。",
+      "example_zh": "我每天說日文。"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "私は組み込みシステムが好きです。",
+      "example_zh": "我喜歡嵌入式系統。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください (請做...)",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請求對方做某事，或給予指示，是 N5 階段非常實用的表達方式。",
+      "examples": [
+        "「ちょっと待ってください。」 (請稍等一下。)",
+        "「この資料を読んでください。」 (請讀這份資料。)"
+      ]
+    },
+    {
+      "title": "動詞ます形 + たいです (想做...)",
+      "structure": "動詞ます形 (去掉ます) + たいです",
+      "rule": "表達說話者自己的願望或希望做某事的意願，常用於日常對話和表達目標。",
+      "examples": [
+        "「日本語をもっと勉強したいです。」 (我想更努力學習日文。)",
+        "「新しいシステムを作りたいです。」 (我想製作新的系統。)"
+      ]
+    }
+  ]
+}
