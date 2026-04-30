@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施、應用",
+      "example": "We need to implement this new feature soon.",
+      "example_zh": "我們需要盡快實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "How can we optimize the code for speed?",
+      "example_zh": "我們該如何優化程式碼來提升速度？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、雛形",
+      "example": "Let's build a prototype to test the idea.",
+      "example_zh": "我們來建一個原型測試這個想法吧。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯",
+      "example": "I spent hours debugging this tiny error!",
+      "example_zh": "我花了好幾個小時除這個小錯誤！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "We should collaborate more on this project.",
+      "example_zh": "我們在這個專案上應該多合作。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的、有效率的",
+      "example": "This new tool makes our workflow more efficient.",
+      "example_zh": "這個新工具讓我們的工作流程更有效率。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的、值得信賴的",
+      "example": "We need a reliable power supply for the device.",
+      "example_zh": "我們的設備需要一個可靠的電源。"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創新、革新",
+      "example": "It's important to innovate to stay competitive.",
+      "example_zh": "創新對於保持競爭力很重要。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Can you give me some feedback on my design?",
+      "example_zh": "你能給我一些關於我設計的回饋嗎？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、期限",
+      "example": "The deadline for this task is tomorrow!",
+      "example_zh": "這項任務的截止日期是明天！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Type 1)",
+      "rule": "用來表達如果某個條件在現在或未來發生，未來很有可能會實現的結果。",
+      "examples": [
+        "If you finish early, we can grab some coffee. (如果你早點完成，我們就可以去喝咖啡。)",
+        "If the system crashes, we will lose all data. (如果系統當機，我們將會失去所有資料。)",
+        "If I have time, I'll check that IoT module. (如果我有時間，我會去檢查那個物聯網模組。)"
+      ]
+    },
+    {
+      "title": "片語動詞 (Phrasal Verbs)",
+      "rule": "動詞加上介系詞或副詞，形成一個新的片語動詞，意思通常會改變，很常用於日常對話。",
+      "examples": [
+        "Can you help me set up this new server? (你能幫我設定這台新伺服器嗎？)",
+        "I need to figure out how this software works. (我需要弄清楚這個軟體是怎麼運作的。)",
+        "Let's wrap up this meeting and go home. (我們快點結束這個會議然後回家吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日、仕事に行きます。",
+      "example_zh": "我每天去工作。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "午後から会議があります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間がありますか。",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "今日の天気はいいです。",
+      "example_zh": "今天天氣很好。"
+    },
+    {
+      "kana": "あした",
+      "kanji_romaji": "明日 / ashita",
+      "meaning": "明天",
+      "example": "明日、休みます。",
+      "example_zh": "我明天休息。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "この問題は難しいです。",
+      "example_zh": "這個問題很難。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "電気をつけてください。",
+      "example_zh": "請開燈。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用、用",
+      "example": "このAIツールを使ってください。",
+      "example_zh": "請使用這個AI工具。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、知道",
+      "example": "日本語が分かりますか。",
+      "example_zh": "你懂日文嗎？"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、嚴重",
+      "example": "仕事は大変ですが、楽しいです。",
+      "example_zh": "工作很辛苦，但是很快樂。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "用來禮貌地請求或指示對方做某件事情，是日常會話中非常常用且實用的句型。",
+      "examples": [
+        "ちょっと待ってください。 (請稍等一下。)",
+        "この資料を読んでください。 (請讀一下這份資料。)"
+      ]
+    },
+    {
+      "title": "名詞 + が + あります/います",
+      "structure": "名詞 + が + あります / います",
+      "rule": "「あります」用於非生物，「います」用於生物，表示某物或某人存在於某地。",
+      "examples": [
+        "部屋にパソコンがあります。 (房間裡有電腦。)",
+        "会社に同僚がいます。 (公司裡有同事。)"
+      ]
+    }
+  ]
+}
