@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體（內嵌軟體）",
+      "example": "This device needs a firmware update to fix some bugs.",
+      "example_zh": "這裝置需要更新韌體來修復一些錯誤。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯",
+      "example": "I spent hours trying to debug this tricky code yesterday.",
+      "example_zh": "我昨天花了好幾個小時試圖除錯這段棘手的程式碼。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、配置",
+      "example": "We're ready to deploy the new feature next week, finally!",
+      "example_zh": "我們下週終於準備好部署新功能了！"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本",
+      "example": "The team is building a prototype for the new IoT device.",
+      "example_zh": "團隊正在為新的物聯網裝置打造原型。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the system for better performance and speed.",
+      "example_zh": "我們需要優化系統以獲得更好的效能和速度。"
+    },
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "專案、計畫",
+      "example": "How's your current project coming along? Any challenges?",
+      "example_zh": "你目前的專案進展如何？有遇到什麼挑戰嗎？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The deadline for this task is end of day, so hurry up!",
+      "example_zh": "這項任務的截止日期是今天下班前，所以快點！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "It's super important to collaborate with your teammates effectively.",
+      "example_zh": "與隊友有效合作是非常重要的。"
+    },
+    {
+      "word": "weekend",
+      "pos": "n.",
+      "meaning": "週末",
+      "example": "What are your exciting plans for the upcoming long weekend?",
+      "example_zh": "你這個即將到來的長週末有什麼令人興奮的計畫嗎？"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好、興趣",
+      "example": "Reading tech blogs is my favorite hobby after work.",
+      "example_zh": "下班後，閱讀科技部落格是我最喜歡的嗜好。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在進行式表達未來計畫",
+      "rule": "當我們談論已確定、安排好的未來行程或計畫時，可以使用現在進行式。",
+      "examples": [
+        "I'm having dinner with friends tonight. (我今晚要和朋友吃晚餐。)",
+        "We are presenting our prototype next Friday. (我們下週五要展示我們的原型。)",
+        "They are deploying the update over the weekend. (他們打算在週末部署這次更新。)"
+      ]
+    },
+    {
+      "title": "片語動詞: look forward to (期待)",
+      "rule": "「look forward to + Ving/N」表示對某事感到期待，請注意這裡的「to」是介系詞而非不定詞的「to」。",
+      "examples": [
+        "I'm really looking forward to the long weekend. (我真的很期待這個長週末。)",
+        "We are looking forward to receiving your feedback. (我們期待收到您的回饋。)",
+        "She's looking forward to visiting Japan next year. (她期待明年去日本玩。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "仕事は楽しいですか？",
+      "example_zh": "工作開心嗎？"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "週末はゆっくり休みます。",
+      "example_zh": "週末我會好好休息。"
+    },
+    {
+      "kana": "ぷろじぇくと",
+      "kanji_romaji": "プロジェクト / purojekuto",
+      "meaning": "專案",
+      "example": "新しいプロジェクトが始まりました。",
+      "example_zh": "新專案開始了。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強しています。",
+      "example_zh": "我每天都在學習日文。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間は大切ですね。",
+      "example_zh": "時間很寶貴呢。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "けいかく",
+      "kanji_romaji": "計画 / keikaku",
+      "meaning": "計畫",
+      "example": "旅行の計画を立てます。",
+      "example_zh": "我會制定旅行計畫。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "新製品の開発は難しいです。",
+      "example_zh": "新產品的開發很困難。"
+    },
+    {
+      "kana": "あそぶ",
+      "kanji_romaji": "遊ぶ / asobu",
+      "meaning": "玩、玩耍",
+      "example": "週末、友達と遊びます。",
+      "example_zh": "週末我會和朋友玩。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "嗜好、興趣",
+      "example": "私の趣味は読書です。",
+      "example_zh": "我的興趣是閱讀。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "「て形 + ください」用於向對方提出請求或指示，語氣比直接命令更為禮貌且常用。",
+      "examples": [
+        "ここに座ってください。(請坐在這裡。)",
+        "この資料を読んでください。(請閱讀這份資料。)"
+      ]
+    },
+    {
+      "title": "〜たいです / 〜たくないです",
+      "structure": "動詞ます形 (去掉ます) + たいです / たくないです",
+      "rule": "「〜たいです」表示說話者想做某事，「〜たくないです」則表示不想做某事，用來表達個人意願。",
+      "examples": [
+        "週末は家でゆっくり休みたいです。(週末我想在家好好休息。)",
+        "私は日本で働きたいです。(我想在日本工作。)"
+      ]
+    }
+  ]
+}
