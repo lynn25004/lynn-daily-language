@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "讓效率或效能達到最佳",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化這段程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同部分結合成一個整體",
+      "example": "Let's integrate this module into the main system.",
+      "example_zh": "我們來將這個模組整合到主系統中吧。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "診斷並解決問題",
+      "example": "I spent all morning troubleshooting that network issue.",
+      "example_zh": "我花了一整個早上在解決那個網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品的初步模型或原型",
+      "example": "We're building a new prototype for the IoT device.",
+      "example_zh": "我們正在為這個物聯網設備製作一個新的原型。"
+    },
+    {
+      "word": "weekend",
+      "pos": "n.",
+      "meaning": "一週的最後兩天，週末",
+      "example": "What are your plans for the upcoming weekend?",
+      "example_zh": "你這個即將到來的週末有什麼計畫嗎？"
+    },
+    {
+      "word": "chill",
+      "pos": "v./adj.",
+      "meaning": "放鬆、休息，或很酷的",
+      "example": "Let's just chill at home this Saturday.",
+      "example_zh": "這個星期六我們就在家放鬆吧。"
+    },
+    {
+      "word": "catch up",
+      "pos": "phr. v.",
+      "meaning": "閒聊敘舊，或趕上進度",
+      "example": "Let's catch up over coffee next week!",
+      "example_zh": "下週我們找個時間喝咖啡聊聊吧！"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持續的，能永續發展的",
+      "example": "Renewable energy is crucial for a sustainable future.",
+      "example_zh": "再生能源對永續的未來至關重要。"
+    },
+    {
+      "word": "automate",
+      "pos": "v.",
+      "meaning": "使自動化，無需人工操作",
+      "example": "We're trying to automate some of our testing processes.",
+      "example_zh": "我們正嘗試將一些測試流程自動化。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Could you give me some feedback on my presentation?",
+      "example_zh": "你能給我一些關於我簡報的回饋嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "表達過去發生但影響現在的動作，或從過去持續到現在的經驗，常與\"already\", \"yet\", \"ever\"等詞連用。",
+      "examples": [
+        "I've optimized this code so many times this week. (我這週已經優化這段程式碼好多次了。)",
+        "Have you ever tried building your own IoT device? (你曾經試過自己打造物聯網設備嗎？)",
+        "We haven't integrated the new feature yet. (我們還沒整合那個新功能。)"
+      ]
+    },
+    {
+      "title": "片語動詞 (Phrasal Verbs)",
+      "rule": "動詞加上介系詞或副詞，形成新的意義，常用於口語表達，讓對話更自然。",
+      "examples": [
+        "Let's catch up sometime next week for coffee. (我們下週找時間喝咖啡聊聊吧。)",
+        "I need to look into this bug more deeply. (我需要更深入調查這個錯誤。)",
+        "Don't put off your tasks until the last minute. (不要把你的任務拖到最後一刻。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私はエンジニアの仕事をしています。",
+      "example_zh": "我在做工程師的工作。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "明日は休みです。",
+      "example_zh": "明天是假日。"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "友達と会います。",
+      "example_zh": "我會和朋友見面。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "IoTデバイスを作りたいです。",
+      "example_zh": "我想製作物聯網設備。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "電気をつけてください。",
+      "example_zh": "請開燈。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "このAIツールはとても便利です。",
+      "example_zh": "這個AI工具非常方便。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "學習日語很有趣。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このソフトウェアをよく使います。",
+      "example_zh": "我經常使用這個軟體。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞「たい」形 (表示願望)",
+      "structure": "動詞ます形去ます + たい",
+      "rule": "接續在動詞的ます形後面，表示說話者想做某事的願望或希望。",
+      "examples": [
+        "週末はゆっくり休みたいです。(週末我想好好休息。)",
+        "新しいIoTデバイスを作りたいです。(我想製作新的物聯網設備。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です (基本肯定句)",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "最基本的肯定句型，用於說明或介紹事物，表「名詞１是名詞２」。",
+      "examples": [
+        "私はエンジニアです。(我是工程師。)",
+        "これは私のパソコンです。(這是我的電腦。)"
+      ]
+    }
+  ]
+}
