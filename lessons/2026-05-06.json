@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行計畫",
+      "example": "We need a good plan to implement this new feature.",
+      "example_zh": "我們需要一個好計畫來實施這項新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化系統",
+      "example": "Can you optimize the code to make it run faster?",
+      "example_zh": "你能優化程式碼讓它跑更快嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent all morning troubleshooting that network issue.",
+      "example_zh": "我花了一整個早上排除那個網路問題。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想狀況",
+      "example": "Let's consider a worst-case scenario for the system.",
+      "example_zh": "我們來設想一下系統的最糟情境。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見反應",
+      "example": "Your feedback helps us improve the product a lot.",
+      "example_zh": "你的回饋對我們改進產品很有幫助。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本裝置",
+      "example": "We're building a prototype for the new IoT device.",
+      "example_zh": "我們正在為新的物聯網設備製作原型。"
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "meaning": "無縫的、流暢的",
+      "example": "The new update offers a seamless user experience.",
+      "example_zh": "新的更新提供了流暢無縫的使用者體驗。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "This innovative solution will save us a lot of energy.",
+      "example_zh": "這個創新的解決方案會幫我們省下很多能源。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同部分",
+      "example": "How do we integrate this module with the existing system?",
+      "example_zh": "我們如何將這個模組與現有系統整合？"
+    },
+    {
+      "word": "intuitive",
+      "pos": "adj.",
+      "meaning": "直觀的、易於操作的",
+      "example": "This new AI tool is so intuitive, even beginners can use it.",
+      "example_zh": "這個新的 AI 工具非常直觀，連新手都能用。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to vs. Be used to vs. Get used to",
+      "rule": "「Used to」表示過去的習慣或狀態；「be used to」表示習慣於某事；「「get used to」表示逐漸習慣某事的過程。",
+      "examples": [
+        "I used to work long hours, but not anymore. (我以前常加班，但現在不會了。)",
+        "She is used to debugging complex embedded systems. (她習慣除錯複雜的嵌入式系統。)",
+        "It took me a while to get used to the new software interface. (我花了一點時間才習慣這個新軟體介面。)"
+      ]
+    },
+    {
+      "title": "Conditional Sentences (Type 1 & 2)",
+      "rule": "Type 1 (If + 現在式, will + 原形動詞) 表可能發生的情況；Type 2 (If + 過去式, would + 原形動詞) 表與現在事實相反的假設。",
+      "examples": [
+        "If we fix this bug, the system will run smoothly. (如果我們修好這個錯誤，系統就會順暢運行。)",
+        "If I had more time, I would learn a new programming language. (如果我有更多時間，我就會學一種新的程式語言。)",
+        "If the sensor detects movement, it will send an alert. (如果感測器偵測到移動，它就會發送警報。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしは まいにち しごとを します。",
+      "example_zh": "我每天工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "あなたの かいしゃは どこですか。",
+      "example_zh": "你的公司在哪裡？"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "でんきを つけて ください。",
+      "example_zh": "請把燈打開。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "わたしは パソコンを つかいます。",
+      "example_zh": "我使用電腦。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "この ツールを つかって ください。",
+      "example_zh": "請使用這個工具。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便",
+      "example": "スマホは とても べんりです。",
+      "example_zh": "智慧型手機非常方便。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "これは あたらしい システムです。",
+      "example_zh": "這是個新系統。"
+    },
+    {
+      "kana": "ぎじゅつ",
+      "kanji_romaji": "技術 / gijutsu",
+      "meaning": "技術",
+      "example": "あたらしい ぎじゅつを べんきょうしたいです。",
+      "example_zh": "我想學習新技術。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂、明白",
+      "example": "にほんごが わかりますか。",
+      "example_zh": "你懂日文嗎？"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "わたしは まいにち コーヒーを のみます。",
+      "example_zh": "我每天都喝咖啡。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞「ます」形與肯定/否定、過去式",
+      "structure": "動詞(ます形) / 動詞(ません) / 動詞(ました) / 動詞(ませんでした)",
+      "rule": "「ます」表現在或未來肯定；「ません」表現在或未來否定；「ました」表過去肯定；「ませんでした」表過去否定。",
+      "examples": [
+        "わたしは 毎日 コーヒーを 飲みます。 (我每天喝咖啡。)",
+        "昨日、会社へ 行きませんでした。 (我昨天沒去公司。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です / ではありません",
+      "structure": "名詞1 + は + 名詞2 + です / ではありません",
+      "rule": "用來陳述「某人/某物是...」或「某人/某物不是...」的肯定或否定句型，是基本判斷句。",
+      "examples": [
+        "わたしは エンジニアです。 (我是工程師。)",
+        "これは わたしの パソコンではありません。 (這不是我的電腦。)"
+      ]
+    }
+  ]
+}
