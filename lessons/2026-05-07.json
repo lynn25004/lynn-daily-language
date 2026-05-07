@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "We need to integrate this new module into the main system.",
+      "example_zh": "我們需要將這個新模組整合到主系統中。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "How can we optimize the code for better performance?",
+      "example_zh": "我們該如何優化程式碼以獲得更好的效能？"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯",
+      "example": "I spent all morning trying to debug that stubborn error.",
+      "example_zh": "我花了一整個早上試圖偵錯那個難搞的錯誤。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "The team is building a prototype for the IoT device.",
+      "example_zh": "團隊正在為這個物聯網設備打造一個原型。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的、穩定的",
+      "example": "We need a reliable power supply for the embedded system.",
+      "example_zh": "我們的嵌入式系統需要一個可靠的電源供應。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Engineers often collaborate with different teams on projects.",
+      "example_zh": "工程師們經常與不同團隊合作進行專案。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、期限",
+      "example": "The deadline for this phase is next Friday, so let's hurry.",
+      "example_zh": "這個階段的截止日期是下週五，我們得快點了。"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "優先處理",
+      "example": "I need to prioritize tasks to meet the project goals.",
+      "example_zh": "我需要優先處理任務才能達成專案目標。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "功能、特色",
+      "example": "What's the coolest new feature in the latest software update?",
+      "example_zh": "最新軟體更新最酷的新功能是什麼？"
+    },
+    {
+      "word": "updates",
+      "pos": "n.",
+      "meaning": "更新、最新消息",
+      "example": "Are there any updates on the renewable energy project?",
+      "example_zh": "關於再生能源專案有什麼最新消息嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences Type 1 (如果...就會...)",
+      "rule": "表達未來可能發生的狀況及其結果，常用於規劃或預測。",
+      "examples": [
+        "If we fix this bug, the system will run smoothly. (如果我們修復這個錯誤，系統就會順暢運行。)",
+        "If you have any questions, feel free to ask me. (如果你有任何問題，請隨時問我。)",
+        "If it rains tomorrow, we'll work from home. (如果明天會下雨，我們就居家辦公。)"
+      ]
+    },
+    {
+      "title": "Modal Verbs for Suggestions/Advice (應該、可以、或許)",
+      "rule": "使用 \"should,\" \"could,\" \"might want to\" 等動詞給予建議或提出較婉轉的看法。",
+      "examples": [
+        "You should back up your data regularly. (你應該定期備份你的資料。)",
+        "We could try a different approach for this problem. (我們可以試試用不同的方法來解決這個問題。)",
+        "You might want to check the documentation first. (你或許會想先檢查一下文件。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日、仕事が楽しいです。",
+      "example_zh": "我每天工作都很開心。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "仕事の時間が足りません。",
+      "example_zh": "工作時間不夠。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的、難的",
+      "example": "この問題は少し難しいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "AIツールはとても便利です。",
+      "example_zh": "AI工具非常方便。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "毎日、日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "明日から新しいプロジェクトを始めます。",
+      "example_zh": "我明天會開始一個新專案。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "いつ仕事が終わりますか？",
+      "example_zh": "工作什麼時候結束？"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "今日は何をしますか？",
+      "example_zh": "今天要做什麼？"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂、明白",
+      "example": "先生の説明がよくわかります。",
+      "example_zh": "我很明白老師的解釋。"
+    },
+    {
+      "kana": "いつも",
+      "kanji_romaji": "いつも / itsumo",
+      "meaning": "總是、一直",
+      "example": "私はいつもIoTに興味があります。",
+      "example_zh": "我總是對IoT很有興趣。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞ます形 (肯定/否定/過去式)",
+      "structure": "動詞(ます/ません/ました/ませんでした)",
+      "rule": "用於表達動詞的現在肯定、現在否定、過去肯定和過去否定形式，是日文基礎句型。",
+      "examples": [
+        "毎日、プログラミングをします。(我每天寫程式。)",
+        "昨日は残業しませんでした。(昨天我沒有加班。)"
+      ]
+    },
+    {
+      "title": "〜たいです (想做...)",
+      "structure": "動詞(ます形去ます) + たいです",
+      "rule": "表示說話者「想做某事」的願望或希望，是表達個人意願的常用句型。",
+      "examples": [
+        "もっと日本語を勉強したいです。(我想更努力學習日文。)",
+        "新しいAIツールを使ってみたいです。(我想試用看看新的AI工具。)"
+      ]
+    }
+  ]
+}
