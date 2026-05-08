@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合",
+      "example": "Let's integrate this new module into the system.",
+      "example_zh": "我們來把這個新模組整合到系統裡吧。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，偵錯",
+      "example": "I spent all morning trying to debug that weird bug.",
+      "example_zh": "我整個早上都在試著偵測那個奇怪的錯誤。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，雛形",
+      "example": "The team is building a new IoT prototype this week.",
+      "example_zh": "團隊這週在做一個新的物聯網原型機。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效的，有效率的",
+      "example": "We need a more efficient way to manage our tasks.",
+      "example_zh": "我們需要一個更有效率的方式來管理任務。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，協作",
+      "example": "It's important to collaborate well with your teammates.",
+      "example_zh": "和隊友好好合作是很重要的。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The project deadline is next Friday, so let's focus.",
+      "example_zh": "這個專案的截止日期是下週五，我們專心點吧。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案",
+      "example": "Finding a good solution for this problem is tricky.",
+      "example_zh": "找到這個問題的好解決方案很棘手。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見",
+      "example": "We got some positive feedback on our presentation.",
+      "example_zh": "我們從簡報中得到了一些正面的回饋。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使最佳化",
+      "example": "Let's optimize this code to run faster and smoother.",
+      "example_zh": "我們來優化這段程式碼讓它跑得更快更順。"
+    },
+    {
+      "word": "update",
+      "pos": "n./v.",
+      "meaning": "更新，最新消息",
+      "example": "Do you have any updates on the renewable energy project?",
+      "example_zh": "關於再生能源專案，有什麼最新進度嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "不定詞片語作目的 (Infinitives of Purpose)",
+      "rule": "使用 \"to + 動詞原形\" 表達目的，說明為什麼做某事。",
+      "examples": [
+        "I study English to improve my career opportunities. (我學英文是為了改善我的職涯機會。)",
+        "He went to the lab to test the new embedded system. (他去實驗室是為了測試新的嵌入式系統。)",
+        "We use AI tools to make our work more efficient. (我們使用AI工具是為了讓工作更有效率。)"
+      ]
+    },
+    {
+      "title": "動詞 \"should\" 的用法 (Usage of \"should\")",
+      "rule": "\"should\" 表示建議、義務或可能性，通常用於表達「應該」做什麼。",
+      "examples": [
+        "You should double-check your code before submitting it. (你應該在提交程式碼前再檢查一遍。)",
+        "We should consider more safety features for the IoT device. (我們應該為物聯網設備考慮更多安全功能。)",
+        "They should arrive by now, maybe they got stuck in traffic. (他們現在應該到了，也許他們塞車了。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作，職務",
+      "example": "わたしの しごとは エンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習，讀書",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょうは きんようびです。",
+      "example_zh": "今天是星期五。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束，完成",
+      "example": "しごとは ごじに おわります。",
+      "example_zh": "工作在五點結束。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂，明白",
+      "example": "この コードは よく わかります。",
+      "example_zh": "這段程式碼我懂得很清楚。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "この プロジェクトは すこし むずかしいです。",
+      "example_zh": "這個專案有點困難。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的，有趣的",
+      "example": "にほんごの べんきょうは たのしいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "何処 / doko",
+      "meaning": "哪裡",
+      "example": "あなたの かいしゃは どこですか。",
+      "example_zh": "你的公司在哪裡？"
+    },
+    {
+      "kana": "いつも",
+      "kanji_romaji": "何時も / itsumo",
+      "meaning": "總是，一直",
+      "example": "わたしは いつも あたらしぎじゅつに きょうみがあります。",
+      "example_zh": "我總是對新技術很感興趣。"
+    },
+    {
+      "kana": "せんせい",
+      "kanji_romaji": "先生 / sensei",
+      "meaning": "老師",
+      "example": "わたしの にほんごの せんせいは やさしいです。",
+      "example_zh": "我的日文老師很親切。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「名詞 + は + 名詞 + です」 (N1 wa N2 desu)",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "用於介紹或說明主詞 (N1) 是什麼 (N2)，通常是表示身份或事物的基本說明。",
+      "examples": [
+        "わたしは エンジニアです。（我是工程師。）",
+        "これは IoT デバイスです。（這是物聯網裝置。）"
+      ]
+    },
+    {
+      "title": "「動詞(ます形) + ましょうか」 (Verb(masu-form) + mashou ka)",
+      "structure": "動詞(ます形) + ましょうか",
+      "rule": "用於向對方提議或詢問是否需要幫忙，表達「我來做...好嗎？」或「我們一起...好嗎？」",
+      "examples": [
+        "てつだいましょうか。（我來幫忙好嗎？）",
+        "いっしょに コードを かきましょうか。（我們一起寫程式碼好嗎？）"
+      ]
+    }
+  ]
+}
