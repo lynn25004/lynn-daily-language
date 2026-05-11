@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "初步模型或樣品",
+      "example": "We need to build a prototype for this new gadget.",
+      "example_zh": "我們需要為這個新裝置製作一個原型。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、改善",
+      "example": "How can we optimize the code for better performance?",
+      "example_zh": "我們要如何優化程式碼以獲得更好的效能？"
+    },
+    {
+      "word": "bug",
+      "pos": "n.",
+      "meaning": "程式錯誤、缺陷",
+      "example": "Oh no, I found a bug in the system again!",
+      "example_zh": "喔不，我又在系統裡找到一個錯誤了！"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、配置",
+      "example": "We're ready to deploy the new software update.",
+      "example_zh": "我們準備好部署新的軟體更新了。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、融入",
+      "example": "Can we integrate this module into the existing framework?",
+      "example_zh": "我們可以把這個模組整合到現有框架中嗎？"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的、可信賴的",
+      "example": "This sensor is very reliable even in harsh conditions.",
+      "example_zh": "這個感測器即使在惡劣條件下也非常可靠。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的",
+      "example": "We need a more efficient way to manage data.",
+      "example_zh": "我們需要更有效率的方式來管理資料。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The project deadline is approaching fast, let's hurry!",
+      "example_zh": "專案截止日期快到了，我們快點吧！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Let's collaborate on this task to finish faster.",
+      "example_zh": "我們一起合作這項任務會更快完成。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Your feedback on the design is much appreciated.",
+      "example_zh": "你對設計的回饋意見非常寶貴。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect) - 經驗",
+      "rule": "用來描述過去發生且與現在相關的經驗或行動，強調「曾經做過」或「某事發生過」。",
+      "examples": [
+        "I have worked on several IoT projects. (我曾參與過幾個物聯網專案。)",
+        "Have you ever debugged a really complex system? (你曾經除錯過一個非常複雜的系統嗎？)",
+        "She has learned a lot about renewable energy safety. (她學到很多關於再生能源安全的知識。)"
+      ]
+    },
+    {
+      "title": "常用動詞片語 (Phrasal Verbs)",
+      "rule": "由動詞和介系詞或副詞組成的片語，意思通常與原動詞不同，廣泛用於日常會話。",
+      "examples": [
+        "We need to set up the new server by tomorrow. (我們需要在明天前設定好新伺服器。)",
+        "I'll try to figure out why the system crashed. (我會試著找出系統當機的原因。)",
+        "Let's speed up the process to meet the deadline. (我們加速這個流程來趕上截止日期吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作、職務",
+      "example": "毎日、仕事が楽しいです。",
+      "example_zh": "我每天工作都很開心。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私の会社は駅の近くです。",
+      "example_zh": "我的公司在車站附近。"
+    },
+    {
+      "kana": "でんげん",
+      "kanji_romaji": "電源 / dengen",
+      "meaning": "電源",
+      "example": "電源をオンにします。",
+      "example_zh": "打開電源。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "做、製作",
+      "example": "私はIoTデバイスを作ります。",
+      "example_zh": "我製作IoT裝置。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "用、使用",
+      "example": "このAIツールを使いますか？",
+      "example_zh": "你用這個AI工具嗎？"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "今日は何をしますか？",
+      "example_zh": "你今天要做什麼？"
+    },
+    {
+      "kana": "あした",
+      "kanji_romaji": "明日 / ashita",
+      "meaning": "明天",
+      "example": "明日は会社に行きます。",
+      "example_zh": "我明天要去公司。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "このプロジェクトは面白いです。",
+      "example_zh": "這個專案很有趣。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語が少し分かります。",
+      "example_zh": "我懂一點日文。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞₁ + は + 名詞₂ + です",
+      "rule": "這是最基本的肯定句型，用來表示「名詞₁是名詞₂」，常用於自我介紹或陳述事實。",
+      "examples": [
+        "私はエンジニアです。(我是工程師。)",
+        "これは私の仕事です。(這是我的工作。)"
+      ]
+    },
+    {
+      "title": "名詞 + を + 動詞(ます形)",
+      "structure": "名詞 + を + 動詞(ます形)",
+      "rule": "助詞「を」表示動詞的直接受詞，常用來描述「對某個名詞做某個動作」。",
+      "examples": [
+        "本を読みます。(讀書。)",
+        "コーヒーを飲みます。(喝咖啡。)"
+      ]
+    }
+  ]
+}
