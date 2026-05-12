@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫",
+      "example": "Let's implement this new feature next week.",
+      "example_zh": "我們下週來實施這個新功能吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、改善性能",
+      "example": "We need to optimize the code for better speed.",
+      "example_zh": "我們需要優化程式碼以提高速度。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決問題、排解故障",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、假設狀況",
+      "example": "Consider the worst-case scenario for safety.",
+      "example_zh": "考慮一下最壞情況以確保安全。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同系統",
+      "example": "We need to integrate this module with the main system.",
+      "example_zh": "我們需要將這個模組與主系統整合。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的、有效率的",
+      "example": "This new process is much more efficient.",
+      "example_zh": "這個新流程效率高出許多。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "Don't miss the project deadline, okay?",
+      "example_zh": "別錯過專案截止日期，好嗎？"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Any feedback on my presentation?",
+      "example_zh": "我的簡報有任何回饋嗎？"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Let's collaborate on this task for better results.",
+      "example_zh": "我們在這項任務上合作，以獲得更好的結果吧。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、配置軟體",
+      "example": "We'll deploy the update tonight.",
+      "example_zh": "我們今晚會部署更新。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 Type 1 (If... will)",
+      "rule": "用於表達未來可能發生且結果很有可能實現的假設情境。",
+      "examples": [
+        "If you finish the code today, we will test it tomorrow.（如果你今天寫完程式，我們明天就會測試。）",
+        "If the sensor doesn't work, I'll check its wiring.（如果感測器壞了，我就會檢查它的線路。）",
+        "We'll save energy if we use smart devices.（如果我們使用智慧設備，就能節省能源。）"
+      ]
+    },
+    {
+      "title": "使用 Should 表建議",
+      "rule": "用於給予建議、提出義務或表達某事是正確或理想的，語氣比 Must 委婉。",
+      "examples": [
+        "You should back up your data regularly.（你應該定期備份你的資料。）",
+        "We should discuss this issue in the meeting.（我們應該在會議中討論這個問題。）",
+        "Engineers should always prioritize safety in their designs.（工程師在設計時應始終將安全放在首位。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "どんなしごとをしていますか？",
+      "example_zh": "你在做什麼工作呢？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょう、かいぎがあります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "しごとがおわるじかんは？",
+      "example_zh": "工作結束的時間是？"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "このもんだいはむずかしいです。",
+      "example_zh": "這個問題很難。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごをべんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいパソコンがほしいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをつかいますか？",
+      "example_zh": "你使用這個工具嗎？"
+    },
+    {
+      "kana": "ぱそこん",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "わたしのパソコンはふるいです。",
+      "example_zh": "我的電腦很舊了。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "いま、しごとをはじめてください。",
+      "example_zh": "請現在開始工作。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "かいぎはなんじにおわりますか？",
+      "example_zh": "會議幾點結束？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + ましょう / ましょうか",
+      "structure": "動詞ます形 + ましょう / ましょうか",
+      "rule": "「ましょう」表示提議或邀請對方一起做某事；「ましょうか」則用於主動提出建議或提供幫助。",
+      "examples": [
+        "いっしょにごはんをたべましょう。 （我們一起吃飯吧。）",
+        "かいぎをはじましょうか。 （我們開始會議好嗎？）"
+      ]
+    },
+    {
+      "title": "名詞 + が + あります / います",
+      "structure": "名詞 + が + あります（無生命） / います（有生命）",
+      "rule": "用於表達某物或某人存在於某地。其中「あります」用於無生命物體，「います」用於有生命物體。",
+      "examples": [
+        "つくえのうえにパソコンがあります。 （桌子上面有電腦。）",
+        "へやのなかにねこがいます。 （房間裡有貓。）"
+      ]
+    }
+  ]
+}
