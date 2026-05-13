@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行，實施計畫",
+      "example": "We need to implement this new plan soon.",
+      "example_zh": "我們需要快點實施這個新計畫。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使最佳化",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以提高效能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除，解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初型產品",
+      "example": "The team is building a new IoT prototype.",
+      "example_zh": "團隊正在製作一個新的物聯網原型。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，協同工作",
+      "example": "We should collaborate on this project.",
+      "example_zh": "我們應該在這個專案上合作。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，最後期限",
+      "example": "The deadline for this task is Friday.",
+      "example_zh": "這項任務的截止日期是星期五。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見反饋",
+      "example": "Please give me some feedback on my design.",
+      "example_zh": "請給我一些關於我設計的回饋。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的，革新的",
+      "example": "This innovative solution will save energy.",
+      "example_zh": "這個創新方案將節省能源。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控，監測",
+      "example": "We need to monitor the system's performance.",
+      "example_zh": "我們需要監控系統的效能。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，配置 (軟體)",
+      "example": "Let's deploy the new software update.",
+      "example_zh": "我們來部署新的軟體更新吧。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來條件句 (First Conditional)",
+      "rule": "用 \"If + 現在簡單式, will + 原形動詞\" 表示真實或極可能發生的未來情況。",
+      "examples": [
+        "If you finish early, we will go for coffee. (如果你早點完成，我們就去喝咖啡。)",
+        "If the server crashes, I will restart it immediately. (如果伺服器當機，我會立刻重啟它。)",
+        "If we use AI tools, the work will be much faster. (如果我們使用 AI 工具，工作會快很多。)"
+      ]
+    },
+    {
+      "title": "動詞片語 (Phrasal Verbs)",
+      "rule": "動詞加上介系詞或副詞形成新意思，常用於口語對話與職場情境。",
+      "examples": [
+        "Could you look into this bug for me? (你能幫我調查一下這個錯誤嗎？)",
+        "I need to figure out how to fix this IoT device. (我需要弄清楚如何修復這個物聯網設備。)",
+        "Let's put off the meeting until tomorrow morning. (我們把會議延到明天早上吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作，事情",
+      "example": "毎日仕事があります。",
+      "example_zh": "每天都有工作。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天都學日文。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "午後から会議があります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作，創造",
+      "example": "IoTデバイスを作ります。",
+      "example_zh": "我會製作物聯網設備。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AIツールを使いますか。",
+      "example_zh": "你會使用AI工具嗎？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "休憩の時間です。",
+      "example_zh": "是休息時間了。"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "閱讀，讀",
+      "example": "技術書を読みます。",
+      "example_zh": "我讀技術書籍。"
+    },
+    {
+      "kana": "かく",
+      "kanji_romaji": "書く / kaku",
+      "meaning": "書寫，寫",
+      "example": "メールを書きます。",
+      "example_zh": "我寫信。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "明白，懂",
+      "example": "日本語が少し分かります。",
+      "example_zh": "我懂一點日文。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "休憩しましょう。",
+      "example_zh": "我們休息一下吧。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください (te-form + kudasai)",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請求對方做某事，是很實用的指令或請求句型。",
+      "examples": [
+        "これを読んでください。 (請讀這個。)",
+        "ここで待ってください。 (請在這裡等一下。)"
+      ]
+    },
+    {
+      "title": "名詞1 と 名詞2 (to)",
+      "structure": "名詞1 と 名詞2",
+      "rule": "「と」用於連接兩個或多個名詞，表示「和」或「與」的意思。",
+      "examples": [
+        "コーヒーと水をお願いします。 (請給我咖啡和水。)",
+        "仕事と勉強は大事です。 (工作和學習很重要。)"
+      ]
+    }
+  ]
+}
