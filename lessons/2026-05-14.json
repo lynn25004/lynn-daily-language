@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使最佳化",
+      "example": "Let's optimize this code to run faster.",
+      "example_zh": "我們來優化這段程式碼讓它跑更快。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障",
+      "example": "Can you help me troubleshoot this software bug?",
+      "example_zh": "你可以幫我排除這個軟體錯誤嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n./v.",
+      "meaning": "原型；製作原型",
+      "example": "We're building a prototype for our new product.",
+      "example_zh": "我們正在為我們的新產品製作一個原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合",
+      "example": "It's hard to integrate new features seamlessly sometimes.",
+      "example_zh": "有時候要無縫整合新功能很難。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的，有效率的",
+      "example": "Working efficiently helps us finish tasks on time.",
+      "example_zh": "有效率地工作幫助我們準時完成任務。"
+    },
+    {
+      "word": "commute",
+      "pos": "v./n.",
+      "meaning": "通勤",
+      "example": "How long is your daily commute to the office?",
+      "example_zh": "你每天通勤到辦公室要多久？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "Don't miss the deadline for submitting your report.",
+      "example_zh": "不要錯過提交報告的截止日期喔。"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "優先處理",
+      "example": "I need to prioritize my tasks for this week.",
+      "example_zh": "我需要為這週的任務排定優先順序。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的",
+      "example": "I love learning about innovative renewable energy tech.",
+      "example_zh": "我喜歡學習創新的再生能源技術。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作",
+      "example": "Let's collaborate on this project to get it done.",
+      "example_zh": "我們一起合作這個專案把它完成吧。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Sentences, Type 1)",
+      "rule": "用於描述現在或未來可能發生的情況及其結果，結構為 \"If + S + V(現在式), S + will/can/may + V(原形)\"。",
+      "examples": [
+        "If it rains tomorrow, we will stay home and watch movies. (如果明天下雨，我們就待在家看電影。)",
+        "If you finish your work early, you can join us for dinner. (如果你早點完成工作，就可以和我們一起吃晚餐。)",
+        "If I learn new AI tools, my work might become more efficient. (如果我學新 AI 工具，我的工作可能會更有效率。)"
+      ]
+    },
+    {
+      "title": "片語動詞：與 \"up\" 相關",
+      "rule": "許多動詞加上 \"up\" 可以形成片語動詞，表達完成、增加、向上等意思，需多加練習。",
+      "examples": [
+        "I need to set up my new IoT device tonight. (我今晚需要設定我的新物聯網裝置。)",
+        "We should back up important data regularly to avoid losing it. (我們應該定期備份重要資料，以避免遺失。)",
+        "Let's look up the meaning of this word if we don't know it. (如果我們不知道這個單字的意思，我們就查一下吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日日本語を勉強しています。",
+      "example_zh": "我每天都在學習日文。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "仕事は楽しいですが、少し忙しいです。",
+      "example_zh": "工作很有趣，但是有點忙。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "今日の夜は日本語の勉強をします。",
+      "example_zh": "我今天晚上要學習日文。"
+    },
+    {
+      "kana": "こんしゅう",
+      "kanji_romaji": "今週 / konshuu",
+      "meaning": "這週",
+      "example": "今週の週末は何をしますか？",
+      "example_zh": "你這週末要做什麼？"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的，有趣的",
+      "example": "このゲームはとても楽しいです。",
+      "example_zh": "這個遊戲非常有趣。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "休憩する時間がありますか？",
+      "example_zh": "你有時間休息嗎？"
+    },
+    {
+      "kana": "でんしゃ",
+      "kanji_romaji": "電車 / densha",
+      "meaning": "電車",
+      "example": "毎日電車で会社に行きます。",
+      "example_zh": "我每天搭電車去公司。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "新しいAIツールを使いたいです。",
+      "example_zh": "我想要使用新的AI工具。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂，明白",
+      "example": "先生、もう分かりました。",
+      "example_zh": "老師，我已經明白了。"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點",
+      "example": "少しだけ日本語が話せます。",
+      "example_zh": "我只會說一點點日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "用於表達說話者想做某事的願望或意圖，是日常對話中很常用的一個句型。",
+      "examples": [
+        "日本語を勉強したいです。 (我想學習日文。)",
+        "新しいAIツールを使いたいです。 (我想要使用新的AI工具。)"
+      ]
+    },
+    {
+      "title": "名詞 + が + あります / います",
+      "structure": "名詞 + が + あります (非生物) / います (生物)",
+      "rule": "用於表達某物或某人存在，區分對象是生物（人、動物）或非生物（物品、地點）。",
+      "examples": [
+        "私の部屋にパソコンがあります。 (我的房間裡有一台電腦。)",
+        "会社に新しいエンジニアがいます。 (公司裡有一位新工程師。)"
+      ]
+    }
+  ]
+}
