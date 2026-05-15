@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "控制硬體運作的軟體",
+      "example": "We need to update the device firmware.",
+      "example_zh": "我們需要更新設備的韌體。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同部分整合為一",
+      "example": "Let's integrate this module into the system.",
+      "example_zh": "我們將這個模組整合進系統吧。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "找出並解決問題",
+      "example": "I spent hours trying to troubleshoot the network.",
+      "example_zh": "我花了好幾個小時排除網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "初步模型或樣品",
+      "example": "The team is testing the new prototype.",
+      "example_zh": "團隊正在測試新的原型機。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "做事所花費的時間和精力",
+      "example": "We need to improve our coding efficiency.",
+      "example_zh": "我們需要提升寫程式的效率。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "完成任務的最終日期",
+      "example": "The project deadline is next Friday.",
+      "example_zh": "專案的截止日期是下週五。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "與他人共同合作",
+      "example": "We should collaborate more on this task.",
+      "example_zh": "我們應該在這個任務上多合作。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "具有新想法或方法的",
+      "example": "That's a very innovative solution!",
+      "example_zh": "那是一個非常有創意的解決方案！"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "對工作表現的評論",
+      "example": "Your feedback helps us improve a lot.",
+      "example_zh": "你的回饋對我們改進很有幫助。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "將軟體或設備投入使用",
+      "example": "We plan to deploy the update next week.",
+      "example_zh": "我們計畫下週部署這個更新。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句型 (Type 1)",
+      "rule": "用於表達未來可能發生的情況及其結果，通常表示條件成立的可能性較高。",
+      "examples": [
+        "If you finish early, we will go for coffee. (如果你早點完成，我們就去喝咖啡。)",
+        "If it rains tomorrow, the meeting will be online. (如果明天會下雨，會議就會線上進行。)",
+        "If you study hard, you will pass the TOEIC exam. (如果你努力學習，你就會通過多益考試。)"
+      ]
+    },
+    {
+      "title": "動詞片語：Set up / Figure out",
+      "rule": "這些動詞片語由動詞與介系詞或副詞組成，意思常與字面不同，在日常對話中很常用。",
+      "examples": [
+        "Can you help me set up this new monitor? (你可以幫我設定這台新螢幕嗎？)",
+        "I need to figure out how to fix this bug. (我需要想辦法解決這個錯誤。)",
+        "Let's set up a meeting for next Tuesday. (我們來約一下下週二的會議吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "仕事は楽しいです。",
+      "example_zh": "工作很快樂。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "今日の会議は長かったです。",
+      "example_zh": "今天的會議很長。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間がありますか。",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "仕事はもう終わりました。",
+      "example_zh": "工作已經結束了。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "新しいプロジェクトを始めます。",
+      "example_zh": "我將開始新的專案。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいパソコンが欲しいです。",
+      "example_zh": "我想要一台新的電腦。"
+    },
+    {
+      "kana": "しつもん",
+      "kanji_romaji": "質問 / shitsumon",
+      "meaning": "問題，提問",
+      "example": "質問がありますか。",
+      "example_zh": "你有問題嗎？"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂，明白",
+      "example": "日本語が少し分かります。",
+      "example_zh": "我懂一點日文。"
+    },
+    {
+      "kana": "らいしゅう",
+      "kanji_romaji": "来週 / raishuu",
+      "meaning": "下週",
+      "example": "来週、東京へ行きます。",
+      "example_zh": "下週我要去東京。"
+    },
+    {
+      "kana": "だいじょうぶ",
+      "kanji_romaji": "大丈夫 / daijoubu",
+      "meaning": "沒問題，沒關係",
+      "example": "このシステムは大丈夫です。",
+      "example_zh": "這個系統沒問題。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "表達願望：〜たいです",
+      "structure": "動詞ます形（去掉ます）+ たいです",
+      "rule": "用於表達自己想要做某事的願望或意圖，是日常對話中很實用的句型。",
+      "examples": [
+        "新しいAIツールを勉強したいです。 (我想學習新的AI工具。)",
+        "週末はゆっくり休みたいです。 (週末我想好好休息。)"
+      ]
+    },
+    {
+      "title": "請求或建議：〜てください",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請求或建議對方做某事，是日常生活中常用且重要的表達。",
+      "examples": [
+        "この書類を読んでください。 (請讀一下這份文件。)",
+        "少し待ってください。 (請稍等一下。)"
+      ]
+    }
+  ]
+}
