@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行計畫",
+      "example": "We need to implement this new feature by next month.",
+      "example_zh": "我們下個月要實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Can you help me optimize this code for better performance?",
+      "example_zh": "你能幫我優化這段程式碼以提高效能嗎？"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "It's crucial to integrate the IoT devices smoothly.",
+      "example_zh": "將物聯網設備順暢整合非常關鍵。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯",
+      "example": "Spending hours to debug can be quite frustrating.",
+      "example_zh": "花好幾個小時除錯真的讓人很沮喪。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本",
+      "example": "The team is busy building the new prototype.",
+      "example_zh": "團隊正忙著製作新原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的、有效率的",
+      "example": "We aim for more efficient energy use in our system.",
+      "example_zh": "我們的目標是系統能更有效率地使用能源。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "Renewable energy is key for a sustainable future.",
+      "example_zh": "再生能源是永續未來的關鍵。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "It's common for engineers to collaborate on complex projects.",
+      "example_zh": "工程師們常在複雜的專案上合作。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋意見、反應",
+      "example": "Your feedback helps us improve the product a lot.",
+      "example_zh": "你的回饋對我們改進產品很有幫助。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決故障、排除問題",
+      "example": "I spent all morning trying to troubleshoot the network issue.",
+      "example_zh": "我花了一整個早上在解決網路問題。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "當動作的執行者不重要或不明確時，強調動作的承受者，使語氣更客觀。",
+      "examples": [
+        "This new feature was implemented last week.（這個新功能上週已經被實施了。）",
+        "The system is being optimized right now.（這個系統正在被優化中。）",
+        "Our IoT devices are often integrated with cloud services.（我們的物聯網設備通常與雲端服務整合。）"
+      ]
+    },
+    {
+      "title": "條件句 (Conditional Sentences - Type 1)",
+      "rule": "表達未來可能發生，且結果也可能發生的情境。結構為 If + 現在式, will + 原形動詞。",
+      "examples": [
+        "If you finish debugging, we can go home early.（如果你完成除錯，我們就可以早點回家。）",
+        "If we optimize the code, the app will run faster.（如果我們優化程式碼，應用程式會跑得更快。）",
+        "If the prototype works well, we will start mass production.（如果原型運作良好，我們就會開始量產。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "日本語のべんきょうはたのしいです。",
+      "example_zh": "學習日語很有趣。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしのしごとはエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "まいにちかいしゃへいきます。",
+      "example_zh": "我每天去公司。"
+    },
+    {
+      "kana": "でんち",
+      "kanji_romaji": "電池 / denchi",
+      "meaning": "電池",
+      "example": "IoTデバイスにでんちがひつようです。",
+      "example_zh": "物聯網設備需要電池。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち日本語をべんきょうします。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつ、なにをしますか？",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "わたしはさいせいエネルギーがすきです。",
+      "example_zh": "我喜歡再生能源。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AIツールをよくつかいます。",
+      "example_zh": "我常用AI工具。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "あたらしいプロジェクトがはじまります。",
+      "example_zh": "新專案要開始了。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "しごとはごじにおわります。",
+      "example_zh": "工作五點結束。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです (想做...)",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "表示說話者「想要做某事」的願望或意圖，是非常直接且常用的表達方式。",
+      "examples": [
+        "週末、友達と映画を見たいです。（週末我想和朋友看電影。）",
+        "新しいAIツールを使ってみたいです。（我想試用看看新的AI工具。）"
+      ]
+    },
+    {
+      "title": "名詞 + が + あります/います (有... / 存在...)",
+      "structure": "名詞 + が + あります (非生物) / います (生物)",
+      "rule": "表示「有」某物或某人存在。對於靜態的非生物用「あります」，動態的生物用「います」。",
+      "examples": [
+        "机の上に本があります。（桌子上有書。）",
+        "会議室にエンジニアがいます。（會議室裡有工程師。）"
+      ]
+    }
+  ]
+}
