@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "專案、企劃",
+      "example": "Our new IoT project is super exciting!",
+      "example_zh": "我們的新物聯網專案超令人興奮的！"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The deadline for this task is Friday.",
+      "example_zh": "這項任務的截止日期是星期五。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "We need to build a prototype soon.",
+      "example_zh": "我們需要盡快製作一個原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "Let's integrate this feature into our system.",
+      "example_zh": "我們把這個功能整合到系統裡吧。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯",
+      "example": "I spent hours trying to debug this code.",
+      "example_zh": "我花了數小時試圖對這段程式碼除錯。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的",
+      "example": "We need to find an efficient way to work.",
+      "example_zh": "我們需要找到一個有效率的工作方式。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋意見",
+      "example": "Please give me some feedback on my design.",
+      "example_zh": "請給我一些關於我設計的回饋意見。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "We should collaborate more often on projects.",
+      "example_zh": "我們應該在專案上更常合作。"
+    },
+    {
+      "word": "schedule",
+      "pos": "n./v.",
+      "meaning": "行程表；安排",
+      "example": "What's your schedule like next week?",
+      "example_zh": "你下週的行程是怎樣的？"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "特點、功能",
+      "example": "This new feature is really cool, right?",
+      "example_zh": "這個新功能真的很酷，對吧？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 Type 1 (未來可能發生的情況)",
+      "rule": "用於描述未來可能發生的事情及其結果，強調實際可能性，結構為 If + 現在簡單式, will + 原形動詞。",
+      "examples": [
+        "If it rains tomorrow, we will work from home. (如果明天會下雨，我們就在家工作。)",
+        "If you finish the report, you can take a break. (如果你寫完報告，就可以休息了。)",
+        "If the system crashes, we will restart it immediately. (如果系統當機，我們就會立刻重啟。)"
+      ]
+    },
+    {
+      "title": "常用片語動詞 (Phrasal Verbs)",
+      "rule": "動詞與介系詞或副詞結合，產生新的意義，常用於口語和日常交流，讓表達更自然。",
+      "examples": [
+        "Let's set up a meeting for next Tuesday. (我們把會議訂在下週二吧。)",
+        "I need to figure out how to fix this bug. (我需要想辦法解決這個錯誤。)",
+        "Don't give up on your dreams, okay? (別放棄你的夢想，好嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしは まいにち しごとを します。",
+      "example_zh": "我每天都工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしの かいしゃは ここです。",
+      "example_zh": "我的公司在這裡。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごの べんきょうは たのしいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょう、かいぎが あります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "おひるごはんの じかん です。",
+      "example_zh": "是午餐時間了。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、大変",
+      "example": "きょうの しごとは たいへん でした。",
+      "example_zh": "今天的工作很辛苦。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは なにを しますか。",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "これは あたらしい パソコン です。",
+      "example_zh": "這是新的電腦。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、創造",
+      "example": "IoTの デバイスを つくります。",
+      "example_zh": "我製作物聯網裝置。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "N1 は N2 です",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "這個句型用來介紹或描述事物，表示「名詞1是名詞2」，是日語最基礎的判斷句。",
+      "examples": [
+        "わたしは エンジニア です。(我是工程師。)",
+        "これは わたしの パソコン です。(這是我的電腦。)"
+      ]
+    },
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "這個句型用來禮貌地請求或指示對方做某事，表示「請做...」。て形是動詞的一種變化形式。",
+      "examples": [
+        "ちょっと まって ください。(請稍等一下。)",
+        "このほんを よんで ください。(請讀這本書。)"
+      ]
+    }
+  ]
+}
