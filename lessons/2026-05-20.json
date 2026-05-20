@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使效率提升",
+      "example": "Let's optimize this code for better performance.",
+      "example_zh": "我們來優化這段程式碼以提升效能吧。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障，解決問題",
+      "example": "I need to troubleshoot why the IoT device isn't connecting.",
+      "example_zh": "我需要解決物聯網設備無法連線的問題。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行，實施",
+      "example": "We decided to implement the new safety protocol.",
+      "example_zh": "我們決定實施新的安全協議。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，最後期限",
+      "example": "The project deadline is next Friday, so let's hurry!",
+      "example_zh": "專案截止日是下週五，我們快點吧！"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見",
+      "example": "Your feedback on the design is much appreciated.",
+      "example_zh": "你對設計的回饋意見非常寶貴。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，樣本",
+      "example": "The team is testing the first prototype of the new gadget.",
+      "example_zh": "團隊正在測試新裝置的第一個原型。"
+    },
+    {
+      "word": "secure",
+      "pos": "adj.",
+      "meaning": "安全的，穩固的",
+      "example": "We need to make sure our network is secure.",
+      "example_zh": "我們需要確保我們的網路是安全的。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，協作",
+      "example": "It's great to collaborate with talented engineers.",
+      "example_zh": "能與有才華的工程師合作真是太棒了。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "創新，革新",
+      "example": "Innovation drives progress in the tech industry.",
+      "example_zh": "創新推動著科技產業的進步。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的，有效的",
+      "example": "This new tool makes our workflow more efficient.",
+      "example_zh": "這個新工具讓我們的工作流程更有效率。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "情態動詞 (Modal Verbs) - \"Should\" 和 \"Must\"",
+      "rule": "\"Should\" 表建議或責任，語氣較軟；\"Must\" 表必要或義務，語氣較強烈。",
+      "examples": [
+        "You should check the log files regularly. (你應該定期檢查日誌檔。)",
+        "We must finish this report before the meeting. (我們必須在會議前完成這份報告。)",
+        "Engineers should always prioritize safety in design. (工程師在設計時應始終將安全放在首位。)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds) 作主詞或受詞",
+      "rule": "動名詞 (V-ing) 可當句子的主詞或受詞，表示一個動作或活動本身。",
+      "examples": [
+        "Troubleshooting is a crucial part of my job. (排除故障是我工作中很關鍵的一部分。)",
+        "I enjoy learning about new AI tools. (我喜歡學習新的 AI 工具。)",
+        "Developing renewable energy solutions is exciting. (開發再生能源解決方案令人興奮。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私のしごとはエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "毎日かいしゃに行きます。",
+      "example_zh": "每天去公司。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "午前にかいぎがあります。",
+      "example_zh": "上午有會議。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんは大切です。",
+      "example_zh": "時間很重要。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "少しきゅうけいしましょう。",
+      "example_zh": "稍微休息一下吧。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "日本語を毎日べんきょうします。",
+      "example_zh": "每天學習日文。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをつかいますか？",
+      "example_zh": "你用這個工具嗎？"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "新しいパソコンがほしいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "かだい",
+      "kanji_romaji": "課題 / kadai",
+      "meaning": "課題，問題",
+      "example": "このかだいはむずかしいです。",
+      "example_zh": "這個課題很難。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "しごとはごじにおわります。",
+      "example_zh": "工作五點結束。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + を + 動詞(ます形)",
+      "structure": "名詞 + を + 動詞(ます形)",
+      "rule": "「を」是受格助詞，用於表示動詞作用的對象，後面接動詞的ます形。",
+      "examples": [
+        "ごはんを食べます。 (我吃飯。)",
+        "日本語をべんきょうします。 (我學習日文。)"
+      ]
+    },
+    {
+      "title": "～ませんか (提議/邀請)",
+      "structure": "動詞(ます形) + ませんか",
+      "rule": "用於禮貌地向對方提出邀請或建議，表達「要不要～？」的語氣。",
+      "examples": [
+        "いっしょにコーヒーを飲みませんか？ (要不要一起喝咖啡？)",
+        "午後、会議室ではなしませんか？ (下午要不要在會議室談談？)"
+      ]
+    }
+  ]
+}
