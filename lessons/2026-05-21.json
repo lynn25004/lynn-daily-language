@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫",
+      "example": "We need to implement this new feature soon to improve performance.",
+      "example_zh": "我們需要盡快實施這個新功能以提升效能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "讓事物變得更好",
+      "example": "Can we optimize this code for better speed and efficiency?",
+      "example_zh": "我們能優化這段程式碼以提高速度和效率嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "找出並解決問題",
+      "example": "I need to troubleshoot why the embedded system crashed suddenly.",
+      "example_zh": "我需要找出並解決為什麼嵌入式系統突然當機了。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "假設的情況或情境",
+      "example": "Let's consider a few different scenarios for the project's future.",
+      "example_zh": "讓我們考慮一下專案未來可能出現的幾種不同情境。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將東西合併",
+      "example": "We need to integrate this new IoT module into the system.",
+      "example_zh": "我們需要將這個新的物聯網模組整合到系統中。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "快速又好地完成",
+      "example": "This new process is very efficient and saves a lot of time.",
+      "example_zh": "這個新流程非常有效率，節省了很多時間。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可信賴、穩定",
+      "example": "Our server needs to be reliable for all renewable energy data.",
+      "example_zh": "我們的伺服器需要對所有再生能源數據保持可靠性。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "問題的解決辦法",
+      "example": "I found a great solution for the bug in the software.",
+      "example_zh": "我為軟體中的這個錯誤找到了一個很棒的解決方案。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "意見或回報",
+      "example": "Please give me some immediate feedback on this prototype design.",
+      "example_zh": "請針對這個原型設計給我一些即時的回饋意見。"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "更新資訊或版本",
+      "example": "Did you update the software on your embedded device yet?",
+      "example_zh": "你更新你嵌入式裝置上的軟體了嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "If + S + V (present), S + will + V (base)。描述未來可能發生的情況及其結果。",
+      "examples": [
+        "If it rains tomorrow, we will stay home. (如果明天會下雨，我們就待在家。)",
+        "If you finish early, you can leave. (如果你早點完成，就可以離開。)",
+        "If the system works, it will save time. (如果系統能運作，它將節省時間。)"
+      ]
+    },
+    {
+      "title": "Passive Voice",
+      "rule": "S + be + Vpp。強調動作的承受者，而非執行者，常用於客觀報告。",
+      "examples": [
+        "The project was completed by the team. (這個專案由團隊完成。)",
+        "New features are being developed this week. (新功能正在本週開發中。)",
+        "The data is processed automatically. (數據會自動處理。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしの しごとは エンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしは かいしゃに いきます。",
+      "example_zh": "我會去公司。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "この きかいは でんきを つかいます。",
+      "example_zh": "這台機器使用電力。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "パソコンを つかいます。",
+      "example_zh": "使用電腦。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便",
+      "example": "スマホは とても べんりです。",
+      "example_zh": "智慧型手機很方便。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしい パソコンが ほしいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "きのう",
+      "kanji_romaji": "昨日 / kinou",
+      "meaning": "昨天",
+      "example": "きのう、えいがを みました。",
+      "example_zh": "昨天我看了電影。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょう、なにを しますか？",
+      "example_zh": "今天要做什麼？"
+    },
+    {
+      "kana": "あした",
+      "kanji_romaji": "明日 / ashita",
+      "meaning": "明天",
+      "example": "あした、かいぎが あります。",
+      "example_zh": "明天有會議。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごを べんきょうします。",
+      "example_zh": "我學習日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "～は～です (wa...desu)",
+      "structure": "名詞1 + は + 名詞2 + です。",
+      "rule": "用於說明「A是B」，是最基本的肯定句型，介紹或描述事物。",
+      "examples": [
+        "わたしは エンジニアです。(我是工程師。)",
+        "これは わたしの パソコンです。(這是我的電腦。)"
+      ]
+    },
+    {
+      "title": "～を～ます (o...masu)",
+      "structure": "名詞 + を + 動詞(ます形)。",
+      "rule": "表示動詞的直接受詞，指出動作的對象，常用於表達執行某動作。",
+      "examples": [
+        "みずを のみます。(喝水。)",
+        "ほんを よみます。(讀書。)"
+      ]
+    }
+  ]
+}
