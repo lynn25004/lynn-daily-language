@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施（計畫）",
+      "example": "We need to implement this new feature soon.",
+      "example_zh": "我們需要盡快實現這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化（系統）",
+      "example": "How can we optimize this code for speed?",
+      "example_zh": "我們怎麼優化這段程式碼來提升速度？"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "裝置、設備",
+      "example": "My new IoT device is super cool and smart.",
+      "example_zh": "我的新物聯網裝置超酷又智慧。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案",
+      "example": "This AI tool offers a great solution for us.",
+      "example_zh": "這個 AI 工具為我們提供了一個很棒的解決方案。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率",
+      "example": "We aim for better energy efficiency in our products.",
+      "example_zh": "我們目標是我們的產品有更好的能源效率。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "Can we integrate this new module easily?",
+      "example_zh": "我們能輕鬆整合這個新模組嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除",
+      "example": "I spent hours troubleshooting that annoying bug.",
+      "example_zh": "我花了數小時排除那個惱人的錯誤。"
+    },
+    {
+      "word": "interface",
+      "pos": "n.",
+      "meaning": "介面",
+      "example": "The user interface of this app is very friendly.",
+      "example_zh": "這個應用程式的使用者介面非常友善。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的",
+      "example": "Renewable energy sources are definitely the future.",
+      "example_zh": "再生能源來源絕對是未來。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控、監視",
+      "example": "We need to monitor system performance constantly.",
+      "example_zh": "我們需要持續監控系統效能。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Type 1)",
+      "rule": "用於表達未來可能發生且結果真實的狀況。結構為 If + 主詞 + 現在簡單式, 主詞 + will + 原形動詞。",
+      "examples": [
+        "If you finish the report, we will go for coffee. (如果你寫完報告，我們就去喝咖啡。)",
+        "If the system crashes, I will restart it immediately. (如果系統當機，我會立刻重啟它。)",
+        "If we optimize the code, it will run much faster. (如果我們優化程式碼，它會跑快很多。)"
+      ]
+    },
+    {
+      "title": "與「up」相關的動詞片語",
+      "rule": "許多動詞加上「up」形成片語，表達完成、增加或向上等意思，讓口語更生動。",
+      "examples": [
+        "I need to catch up on my emails. (我需要處理完我的電子郵件。)",
+        "Can you help me set up the new server? (你能幫我設定好新伺服器嗎？)",
+        "Let's back up all the important files. (我們把所有重要檔案都備份起來吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "電気を消してください。",
+      "example_zh": "請關燈。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このアプリをよく使います。",
+      "example_zh": "我常用這個應用程式。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便",
+      "example": "コンビニはとても便利ですね。",
+      "example_zh": "便利商店真的很方便呢。"
+    },
+    {
+      "kana": "でんげん",
+      "kanji_romaji": "電源 / dengen",
+      "meaning": "電源",
+      "example": "電源を入れてください。",
+      "example_zh": "請開啟電源。"
+    },
+    {
+      "kana": "ボタン",
+      "kanji_romaji": "ボタン / botan",
+      "meaning": "按鈕",
+      "example": "このボタンを押してください。",
+      "example_zh": "請按這個按鈕。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "今、時間がありますか？",
+      "example_zh": "你現在有時間嗎？"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "勉強を始めましょうか。",
+      "example_zh": "我們開始學習吧。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "仕事は何時に終わりますか？",
+      "example_zh": "你工作幾點結束？"
+    },
+    {
+      "kana": "インターネット",
+      "kanji_romaji": "インターネット / intaanetto",
+      "meaning": "網路",
+      "example": "インターネットは使えますか？",
+      "example_zh": "可以用網路嗎？"
+    },
+    {
+      "kana": "けいたい",
+      "kanji_romaji": "携帯 / keitai",
+      "meaning": "手機",
+      "example": "携帯電話を忘れました。",
+      "example_zh": "我忘了帶手機了。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「名詞 + が + あります / います」",
+      "structure": "名詞 + が + あります / います",
+      "rule": "這個句型表示「有某物」或「有某人」。あります用於沒有生命的物體，います用於有生命的物體。",
+      "examples": [
+        "ここにパソコンがあります。(這裡有電腦。)",
+        "会社にエンジニアがいます。(公司裡有工程師。)"
+      ]
+    },
+    {
+      "title": "「動詞て形 + ください」",
+      "structure": "動詞て形 + ください",
+      "rule": "這個句型表示「請做某事」，用來禮貌地請求或指示對方執行某個動作。",
+      "examples": [
+        "このファイルを保存してください。(請儲存這個檔案。)",
+        "もう少し待ってください。(請再等一下。)"
+      ]
+    }
+  ]
+}
