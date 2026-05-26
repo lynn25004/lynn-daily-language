@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體程式，控制硬體",
+      "example": "We need to update the device's firmware for better performance.",
+      "example_zh": "我們需要更新設備的韌體以獲得更好的效能。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、合併",
+      "example": "Can we integrate this new module into our current system?",
+      "example_zh": "我們能把這個新模組整合到目前的系統嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent all morning trying to troubleshoot the network issue.",
+      "example_zh": "我花了一整個早上嘗試解決網路問題。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、配置",
+      "example": "We're ready to deploy the new software update next week.",
+      "example_zh": "我們下週準備部署新的軟體更新。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Let's optimize the code to make it run faster.",
+      "example_zh": "我們來優化程式碼讓它跑得更快。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Our team loves to collaborate on challenging projects.",
+      "example_zh": "我們的團隊喜歡在有挑戰性的專案上合作。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "We have a tight deadline for this project, so let's focus.",
+      "example_zh": "這個專案的截止日期很趕，我們專心吧。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Your feedback on the prototype is really helpful.",
+      "example_zh": "你對原型機的回饋真的很有幫助。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "創新、革新",
+      "example": "Innovation is key for growth in the tech industry.",
+      "example_zh": "創新是科技產業成長的關鍵。"
+    },
+    {
+      "word": "sync",
+      "pos": "v./n.",
+      "meaning": "同步 (synchronize 的縮寫)",
+      "example": "Don't forget to sync your files before you leave!",
+      "example_zh": "離開前別忘了同步你的檔案！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "情態動詞 \"could\" 和 \"might\" 的用法",
+      "rule": "它們都表示可能性，\"could\" 可指能力或較小的可能性，\"might\" 則強調不確定性。",
+      "examples": [
+        "We could try a different approach to solve this bug.（我們可以試著用不同方法解決這個 bug。）",
+        "The system might crash if we don't fix it soon.（如果我們不快點修好，系統可能會當機。）",
+        "I might go to the tech conference next month.（我下個月可能會去參加科技研討會。）"
+      ]
+    },
+    {
+      "title": "副詞子句表示時間 (when, while, after, before)",
+      "rule": "用 \"when,\" \"while,\" \"after,\" \"before\" 等連接詞引導，描述主句動作發生的時間點。",
+      "examples": [
+        "Please save your work before you shut down the computer.（請在關閉電腦前儲存你的工作。）",
+        "While I was coding, my boss called me for an urgent meeting.（當我在寫程式時，老闆打給我說有緊急會議。）",
+        "After the meeting finished, we started working on the new feature.（會議結束後，我們開始開發新功能。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "へや",
+      "kanji_romaji": "部屋 / heya",
+      "meaning": "房間",
+      "example": "わたしのへやはきれいです。",
+      "example_zh": "我的房間很乾淨。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしはかいしゃへいきます。",
+      "example_zh": "我去公司。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごとはたのしいです。",
+      "example_zh": "工作很有趣。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "pasokon",
+      "meaning": "電腦",
+      "example": "パソコンでしごとをします。",
+      "example_zh": "我用電腦工作。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "でんきをつけてください。",
+      "example_zh": "請開燈。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "なんじですか。",
+      "example_zh": "現在幾點？"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにちがっこうへいきます。",
+      "example_zh": "我每天去學校。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "かいぎはなんじからですか。",
+      "example_zh": "會議幾點開始？"
+    },
+    {
+      "kana": "でんわ",
+      "kanji_romaji": "電話 / denwa",
+      "meaning": "電話",
+      "example": "でんわをかけます。",
+      "example_zh": "我打電話。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "このアプリはとてもべんりです。",
+      "example_zh": "這個 App 非常方便。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞ます形 (ます形)",
+      "structure": "動詞辭書形去る/う段音變い段 + ます",
+      "rule": "動詞ます形是禮貌體，用於一般日常對話和正式場合。",
+      "examples": [
+        "わたしはまいにちべんきょうします。（我每天學習。）",
+        "あしたかいしゃへいきます。（我明天去公司。）"
+      ]
+    },
+    {
+      "title": "名詞 + で (表示地點或工具)",
+      "structure": "名詞 + で",
+      "rule": "「で」用來表示動作發生的地點，或是完成動作所使用的工具或手段。",
+      "examples": [
+        "レストランでごはんをたべます。（在餐廳吃飯。）",
+        "バスでかいしゃへいきます。（搭巴士去公司。）"
+      ]
+    }
+  ]
+}
