@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫",
+      "example": "We need to implement this new feature by next week.",
+      "example_zh": "我們下週前需要實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化效能",
+      "example": "I need to optimize the code for better performance.",
+      "example_zh": "我需要優化程式碼以提升效能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除系統故障",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合不同系統",
+      "example": "We need to integrate the new module with the old system.",
+      "example_zh": "我們需要將新模組整合到舊系統中。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品原型、樣本",
+      "example": "The team is testing the first prototype of our device.",
+      "example_zh": "團隊正在測試我們設備的第一個原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效的、有效率的",
+      "example": "This new tool is very efficient for daily tasks.",
+      "example_zh": "這個新工具對日常任務很有效率。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的、值得信賴的",
+      "example": "Our embedded system needs to be very reliable.",
+      "example_zh": "我們的嵌入式系統需要非常可靠。"
+    },
+    {
+      "word": "interface",
+      "pos": "n.",
+      "meaning": "介面、連接點",
+      "example": "The user interface is quite intuitive and easy to use.",
+      "example_zh": "這個使用者介面很直觀且易於使用。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見反應",
+      "example": "We're collecting feedback on the new software update.",
+      "example_zh": "我們正在收集關於新軟體更新的回饋。"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "更新程式或資訊",
+      "example": "Did you remember to update your laptop's OS?",
+      "example_zh": "你記得更新你筆電的作業系統了嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences (Type 1) - If...then...",
+      "rule": "用來表達未來可能發生的真實情況，以及如果該情況發生時會有的結果。",
+      "examples": [
+        "If you finish the report, we can go home early. (如果你完成報告，我們就可以早點回家。)",
+        "If the system crashes, I will restart it immediately. (如果系統當機，我會立刻重啟它。)",
+        "If you need help, just ask me. I'm here. (如果你需要幫助，就問我。我在這裡。)"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs - Set up / Figure out",
+      "rule": "動詞和介系詞或副詞組成的片語，常有不同於單字本身的意義，常用於日常對話。",
+      "examples": [
+        "Can you help me set up this new IoT device? (你能幫我設定這個新的物聯網裝置嗎？)",
+        "I need to figure out why the program isn't running. (我需要弄清楚為什麼程式沒有在運行。)",
+        "Let's set up a meeting to discuss the project. (我們來安排一個會議討論這個專案。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私は毎日しごとをします。",
+      "example_zh": "我每天都工作。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "今日の午後、かいぎがあります。",
+      "example_zh": "今天下午有會議。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "これはあたらしいパソコンです。",
+      "example_zh": "這是新的電腦。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをつかいますか？",
+      "example_zh": "你使用這個工具嗎？"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便",
+      "example": "スマートフォンはとてもべんりです。",
+      "example_zh": "智慧型手機非常方便。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "このもんだいはむずかしいです。",
+      "example_zh": "這個問題很難。"
+    },
+    {
+      "kana": "あした",
+      "kanji_romaji": "明日 / ashita",
+      "meaning": "明天",
+      "example": "あした、しごとがあります。",
+      "example_zh": "我明天有工作。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありますか？",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語がわかりますか？",
+      "example_zh": "你懂日文嗎？"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "私は毎日パソコンをつかいます。",
+      "example_zh": "我每天都用電腦。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞ます形 (肯定/否定/過去)",
+      "structure": "動詞連用形 + ます / ません / ました / ませんでした",
+      "rule": "這是日語最基本的禮貌體動詞形式，用來表示動作的現在、未來、過去的肯定與否定。",
+      "examples": [
+        "私は毎日コーヒーを飲みます。(我每天喝咖啡。)",
+        "昨日、会議に行きませんでした。(昨天我沒有去會議。)"
+      ]
+    },
+    {
+      "title": "〜たいです (願望表達)",
+      "structure": "動詞ます形去ます + たいです",
+      "rule": "用來表達說話者想做某事或某個願望，是日常會話中很常用到的句型。",
+      "examples": [
+        "新しいIoTデバイスを作りたいです。(我想製作新的IoT設備。)",
+        "今日は早く家に帰りたいです。(我今天想早點回家。)"
+      ]
+    }
+  ]
+}
