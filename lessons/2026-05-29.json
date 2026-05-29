@@ -1,0 +1,188 @@
+{
+  "english_words": [
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、應用（軟硬體）",
+      "example": "We need to deploy the new IoT firmware soon.",
+      "example_zh": "我們需要盡快部署新的物聯網韌體。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以獲得更好效能。"
+    },
+    {
+      "word": "interface",
+      "pos": "n.",
+      "meaning": "介面、接口",
+      "example": "The user interface needs to be more intuitive.",
+      "example_zh": "使用者介面需要更直觀。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、模型",
+      "example": "We built a prototype to test the concept.",
+      "example_zh": "我們製作了一個原型來測試這個概念。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯",
+      "example": "I spent all morning debugging that tricky issue.",
+      "example_zh": "我花了一整個早上在除錯那個棘手的問題。"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創新",
+      "example": "Startups are always trying to innovate quickly.",
+      "example_zh": "新創公司總是在努力快速創新。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "Renewable energy is crucial for a sustainable future.",
+      "example_zh": "再生能源對永續未來至關重要。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作",
+      "example": "It's easier to collaborate with colleagues online.",
+      "example_zh": "與同事在線上合作比較容易。"
+    },
+    {
+      "word": "insight",
+      "pos": "n.",
+      "meaning": "見解、洞察",
+      "example": "AI tools can provide valuable insights quickly.",
+      "example_zh": "AI 工具可以快速提供有價值的見解。"
+    },
+    {
+      "word": "streamline",
+      "pos": "v.",
+      "meaning": "簡化流程",
+      "example": "We need to streamline our workflow.",
+      "example_zh": "我們需要簡化我們的作業流程。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect Tense)",
+      "rule": "用於表達過去發生的動作對現在的影響，或從過去持續到現在的動作。",
+      "examples": [
+        "I have already deployed the software. (我已經部署了軟體。) - 強調動作已完成",
+        "She has worked in embedded systems for five years. (她在嵌入式系統領域工作了五年。) - 強調從過去持續到現在",
+        "Have you ever debugged a complex system before? (你以前除過複雜的系統嗎？) - 詢問過去經驗"
+      ]
+    },
+    {
+      "title": "情態動詞 (Modal Verbs)",
+      "rule": "用來表達可能性、能力、許可、義務等，如 can, could, may, might, must, should, will, would。",
+      "examples": [
+        "We should optimize the energy consumption. (我們應該優化能源消耗。) - 表達建議",
+        "This device can connect to the internet easily. (這個裝置可以輕鬆連上網路。) - 表達能力",
+        "You might need to update the firmware. (你可能需要更新韌體。) - 表達可能性"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "でんち",
+      "kanji_romaji": "電池 / denchi",
+      "meaning": "電池",
+      "example": "このでんちは、もうふるいです。",
+      "example_zh": "這顆電池已經舊了。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "あたらしいソフトをかいはつしています。",
+      "example_zh": "我正在開發新軟體。"
+    },
+    {
+      "kana": "せってい",
+      "kanji_romaji": "設定 / settei",
+      "meaning": "設定",
+      "example": "パソコンのせっていをかえました。",
+      "example_zh": "我更改了電腦的設定。"
+    },
+    {
+      "kana": "つなぐ",
+      "kanji_romaji": "繋ぐ / tsunagu",
+      "meaning": "連接",
+      "example": "インターネットにつなぐことができますか。",
+      "example_zh": "你可以連上網際網路嗎？"
+    },
+    {
+      "kana": "あんぜん",
+      "kanji_romaji": "安全 / anzen",
+      "meaning": "安全",
+      "example": "このシステムはとてもあんぜんです。",
+      "example_zh": "這個系統非常安全。"
+    },
+    {
+      "kana": "おんしつ",
+      "kanji_romaji": "温室 / onshitsu",
+      "meaning": "溫室",
+      "example": "おんしつでやさいをそだてます。",
+      "example_zh": "在溫室裡種植蔬菜。"
+    },
+    {
+      "kana": "ちから",
+      "kanji_romaji": "力 / chikara",
+      "meaning": "力量、電力",
+      "example": "もっとちからが必要です。",
+      "example_zh": "需要更多的力量／電力。"
+    },
+    {
+      "kana": "かえる",
+      "kanji_romaji": "変える / kaeru",
+      "meaning": "改變",
+      "example": "計画をかえることになりました。",
+      "example_zh": "決定要改變計畫了。"
+    },
+    {
+      "kana": "かいし",
+      "kanji_romaji": "開始 / kaishi",
+      "meaning": "開始",
+      "example": "プロジェクトがかいししました。",
+      "example_zh": "專案已經開始了。"
+    },
+    {
+      "kana": "しんらい",
+      "kanji_romaji": "信頼 / shinrai",
+      "meaning": "信賴",
+      "example": "この機械はしんらいできます。",
+      "example_zh": "這台機器是值得信賴的。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ています (Te Imasu Form)",
+      "structure": "動詞て形 + います",
+      "rule": "表示正在進行的動作、狀態，或習慣性的行為。",
+      "examples": [
+        "今、プログラムを書いています。(Ima, puroguramu o kaite imasu.) - 我現在正在寫程式。",
+        "彼は毎日日本語を勉強しています。(Kare wa mainichi Nihongo o benkyou shite imasu.) - 他每天都在學習日文。",
+        "このセンサーは動いています。(Kono sensaa wa ugoite imasu.) - 這個感測器正在運作。"
+      ]
+    },
+    {
+      "title": "〜すぎます (Sugimasu Form)",
+      "structure": "動詞ます形（去掉ます）/ 形容詞（い形）+ すぎます / 形容詞（な形）+ すぎます",
+      "rule": "表示「過度」做某事或程度「太」怎樣。",
+      "examples": [
+        "食べすぎました。(Tabesugimashita.) - 我吃得太多了。",
+        "この仕事は難しすぎます。(Kono shigoto wa muzukashisugimasu.) - 這份工作太難了。",
+        "元気すぎます。(Genkisugimasu.) - 太有活力了／太過活潑了。"
+      ]
+    }
+  ]
+}
