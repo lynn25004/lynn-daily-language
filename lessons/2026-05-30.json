@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "commute",
+      "pos": "v./n.",
+      "meaning": "上下班通勤（動詞/名詞）",
+      "example": "My daily commute takes about 30 minutes by train.",
+      "example_zh": "我每天搭火車通勤大約30分鐘。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效的、有能力的",
+      "example": "We need an efficient way to manage project tasks.",
+      "example_zh": "我們需要一個有效率的方法來管理專案任務。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除、解決問題",
+      "example": "Can you help me troubleshoot this network connection issue?",
+      "example_zh": "你能幫我排除這個網路連線問題嗎？"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "We need to integrate this new module into the existing system.",
+      "example_zh": "我們需要將這個新模組整合到現有系統中。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "The team is building a prototype for the new IoT device.",
+      "example_zh": "團隊正在為新的物聯網設備製作原型。"
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "meaning": "無縫的、流暢的",
+      "example": "We want a seamless user experience for our application.",
+      "example_zh": "我們希望我們的應用程式有流暢的使用者體驗。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The project deadline is next Friday, so let's hurry!",
+      "example_zh": "專案截止日期是下週五，所以我們快點吧！"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "反饋、意見",
+      "example": "Your feedback is crucial for improving our product.",
+      "example_zh": "你的反饋對改進我們的產品至關重要。"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "裝置、設備",
+      "example": "This new smart device can monitor energy consumption.",
+      "example_zh": "這個新的智慧裝置可以監測能源消耗。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Using \"used to\"",
+      "rule": "強調過去的習慣、常態或狀態，但現在已經不同或不再發生。",
+      "examples": [
+        "I used to take the bus to work, but now I drive. (我以前搭公車上班，但現在開車。)",
+        "This office building used to be a factory, right? (這棟辦公大樓以前是工廠，對吧？)",
+        "He used to work on embedded systems a lot. (他以前常常在做嵌入式系統的工作。)"
+      ]
+    },
+    {
+      "title": "Conditional Sentence Type 1",
+      "rule": "用來描述未來可能發生，且結果真實或很有可能發生的假設情況。",
+      "examples": [
+        "If it rains tomorrow, I will work from home. (如果明天會下雨，我就在家工作。)",
+        "If you finish the report, we can start the next phase. (如果你完成報告，我們就能開始下個階段。)",
+        "If the IoT device connects, we will get data instantly. (如果物聯網設備連線，我們就會立刻收到數據。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おはようございます",
+      "kanji_romaji": "ohayou gozaimasu",
+      "meaning": "早上好",
+      "example": "おはようございます！今日も一日がんばりましょう。",
+      "example_zh": "早上好！今天也要努力一整天喔。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしの会社はたいぺいにあります。",
+      "example_zh": "我的公司在台北。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうの仕事は午後5時に終わります。",
+      "example_zh": "今天的工作會在下午5點結束。"
+    },
+    {
+      "kana": "えき",
+      "kanji_romaji": "駅 / eki",
+      "meaning": "車站",
+      "example": "いえから駅まで歩いて5分です。",
+      "example_zh": "從家裡走到車站需要5分鐘。"
+    },
+    {
+      "kana": "でんしゃ",
+      "kanji_romaji": "電車 / densha",
+      "meaning": "電車",
+      "example": "毎日電車で会社に行きます。",
+      "example_zh": "我每天搭電車去公司。"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "こんしゅうはとても忙しいです。",
+      "example_zh": "這週我非常忙碌。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "かいぎの時間は何時ですか？",
+      "example_zh": "會議時間是幾點？"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "9時に仕事を始めます。",
+      "example_zh": "我9點開始工作。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "仕事が終わったら、れんらくします。",
+      "example_zh": "工作結束後，我會聯絡你。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "N + は + N + です",
+      "structure": "名詞 + は + 名詞 + です",
+      "rule": "用來介紹或說明事物，表示「A是B」或「A為B」的判斷句。",
+      "examples": [
+        "これはわたしの会社です。 (這是我的公司。)",
+        "わたしはエンジニアです。 (我是工程師。)"
+      ]
+    },
+    {
+      "title": "Verb-ます form",
+      "structure": "動詞(ます形)",
+      "rule": "動詞的禮貌形，表示現在或將來的肯定動作。也可用於習慣。",
+      "examples": [
+        "毎日日本語を勉強します。 (我每天學習日文。)",
+        "午後5時に仕事を終わります。 (我下午5點結束工作。)"
+      ]
+    }
+  ]
+}
