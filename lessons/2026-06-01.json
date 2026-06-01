@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Let's optimize this code for better performance.",
+      "example_zh": "我們來優化這段程式碼，讓效能更好。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、集結",
+      "example": "We need to integrate this module into the main system.",
+      "example_zh": "我們需要將這個模組整合到主系統中。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "Can you help me troubleshoot why this device isn't working?",
+      "example_zh": "你能幫我排查一下為什麼這個裝置沒反應嗎？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The deadline for this project is next Friday.",
+      "example_zh": "這個專案的截止日期是下週五。"
+    },
+    {
+      "word": "commute",
+      "pos": "v.",
+      "meaning": "通勤、上下班",
+      "example": "I usually commute by scooter, it's faster.",
+      "example_zh": "我通常騎機車通勤，比較快。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效率的",
+      "example": "We need a more efficient way to manage our tasks.",
+      "example_zh": "我們需要一個更有效率的方式來管理任務。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本",
+      "example": "The team is testing the first prototype of our new IoT device.",
+      "example_zh": "團隊正在測試我們新物聯網裝置的第一個原型。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯",
+      "example": "I spent all morning trying to debug this tricky issue.",
+      "example_zh": "我整個早上都在試圖除錯這個棘手的問題。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "We'll gather user feedback to improve our product.",
+      "example_zh": "我們會收集使用者回饋來改進產品。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、休息",
+      "example": "After a busy week, I need some time to recharge.",
+      "example_zh": "忙碌一週後，我需要一些時間好好充電。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "常用動詞片語：以 \"up\" 結尾的片語",
+      "rule": "\"up\" 常與動詞結合，構成具有「完成」、「增加」、「向上」、「出現」等不同涵義的動詞片語，讓對話更自然。",
+      "examples": [
+        "Let's set up the new server this afternoon. (我們今天下午來安裝新的伺服器吧。)",
+        "I need to catch up on my emails after the meeting. (會議後我得趕緊處理積壓的電子郵件。)",
+        "Could you back up these files to the cloud? (你能把這些檔案備份到雲端嗎？)"
+      ]
+    },
+    {
+      "title": "條件句 (Conditional Type 1)",
+      "rule": "用於描述未來可能發生且結果也可能實現的狀況，通常結構為 \"If + 現在簡單式, will/can + 動詞原形\"。",
+      "examples": [
+        "If we finish this early, we can go home on time. (如果我們提早完成，就能準時回家。)",
+        "If the system crashes, I will restart it immediately. (如果系統當機，我會立刻重啟它。)",
+        "If you have any questions, feel free to ask me. (如果你有任何問題，儘管問我。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日、仕事が大変です。",
+      "example_zh": "每天工作都很辛苦。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私はエンジニアで、会社は台北にあります。",
+      "example_zh": "我是工程師，公司在台北。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日、日本語を勉強します。",
+      "example_zh": "我每天都學日文。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "週末は、ゆっくり休みます。",
+      "example_zh": "週末我會好好休息。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "でんしゃ",
+      "kanji_romaji": "電車 / densha",
+      "meaning": "電車",
+      "example": "私は電車で会社に行きます。",
+      "example_zh": "我搭電車去公司。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間がありません。",
+      "example_zh": "我沒有時間。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "午後から会議があります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "仕事を始めましょう。",
+      "example_zh": "我們開始工作吧。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "今日は仕事が早く終わります。",
+      "example_zh": "今天工作會提早結束。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜たいです (想做...)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者「想要做」某事的願望或希望，動詞去掉ます後加上たいです。",
+      "examples": [
+        "新しい IoT デバイスを作りたいです。(我想製作新的 IoT 裝置。)",
+        "週末はゆっくり休みたいです。(週末我想好好休息。)"
+      ]
+    },
+    {
+      "title": "動詞て形 + ください (請做...)",
+      "structure": "動詞て形 + ください",
+      "rule": "用於向對方提出請求或指示，表示「請做某事」，語氣禮貌。",
+      "examples": [
+        "このエラーを直してください。(請修正這個錯誤。)",
+        "日本のニュースを見てください。(請看日本新聞。)"
+      ]
+    }
+  ]
+}
