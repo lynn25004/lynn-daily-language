@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "控制硬體運作的小程式",
+      "example": "My smart device needs a firmware update.",
+      "example_zh": "我的智慧裝置需要韌體更新。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同部分結合在一起",
+      "example": "We need to integrate this new module into the system.",
+      "example_zh": "我們需要將這個新模組整合到系統中。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "將軟體或設備佈署上線",
+      "example": "The team plans to deploy the new features next week.",
+      "example_zh": "團隊計畫下週佈署新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化效能或效率",
+      "example": "Let's optimize the code to make it run faster.",
+      "example_zh": "我們來優化程式碼，讓它跑更快。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "診斷並解決問題",
+      "example": "I spent an hour troubleshooting the network connection.",
+      "example_zh": "我花了一小時排除網路連線問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品的初步模型",
+      "example": "The engineers built a prototype for the new IoT device.",
+      "example_zh": "工程師們為新的物聯網設備製作了一個原型。"
+    },
+    {
+      "word": "commute",
+      "pos": "v.",
+      "meaning": "每天上下班通勤",
+      "example": "I usually commute by scooter to save time.",
+      "example_zh": "我通常騎機車通勤以節省時間。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "完成工作的最終期限",
+      "example": "We're trying to meet the project deadline this Friday.",
+      "example_zh": "我們正努力趕在週五的專案截止日期前完成。"
+    },
+    {
+      "word": "flexible",
+      "pos": "adj.",
+      "meaning": "時間或安排上彈性的",
+      "example": "My manager is quite flexible about working hours.",
+      "example_zh": "我的主管對工作時間很彈性。"
+    },
+    {
+      "word": "update",
+      "pos": "v.",
+      "meaning": "更新資訊或軟體",
+      "example": "Did you update your phone to the latest version?",
+      "example_zh": "你把手機更新到最新版本了嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to (過去習慣)",
+      "rule": "表示過去經常做某事，但現在不再做了，或習慣已改變。",
+      "examples": [
+        "I used to work late every day, but now I leave on time.（我以前每天都加班，但現在準時下班了。）",
+        "Before smartphones, people used to read more physical books.（在智慧型手機出現前，人們以前常讀實體書。）",
+        "Our company used to use an older system, but we upgraded it.（我們公司以前用舊系統，但我們升級了。）"
+      ]
+    },
+    {
+      "title": "Phrasal Verb: Look into & Figure out",
+      "rule": "Look into表示「調查、研究」；figure out表示「弄清楚、想出辦法」。",
+      "examples": [
+        "Could you please look into why the sensor isn't working?（你能幫忙調查一下為什麼感測器沒作用嗎？）",
+        "I need some time to figure out this complex algorithm.（我需要一些時間來弄懂這個複雜的演算法。）",
+        "Let's look into renewable energy safety solutions.（我們來研究一下再生能源的安全解決方案吧。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "あたらしい パソコンが ほしいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "でんきを つけてください。",
+      "example_zh": "請把燈打開。"
+    },
+    {
+      "kana": "じゅうでん",
+      "kanji_romaji": "充電 / juuden",
+      "meaning": "充電",
+      "example": "スマホを じゅうでん します。",
+      "example_zh": "我給手機充電。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "この ソフトを つかいます。",
+      "example_zh": "我使用這個軟體。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "IoT デバイスを つくります。",
+      "example_zh": "我製作IoT裝置。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語が すこし わかります。",
+      "example_zh": "我懂一點日文。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごとが おわりました。",
+      "example_zh": "工作結束了。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きょうは やすみです。",
+      "example_zh": "今天是假日。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、不得了的",
+      "example": "この プロジェクトは たいへんです。",
+      "example_zh": "這個專案很辛苦。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "AI ツールは とても べんりです。",
+      "example_zh": "AI工具非常方便。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞は名詞です (N1 wa N2 desu)",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "用來表示「名詞1是名詞2」的基本肯定句，是日文最基礎的句型。",
+      "examples": [
+        "わたしは エンジニアです。 （我是工程師。）",
+        "これは パソコンです。 （這是電腦。）"
+      ]
+    },
+    {
+      "title": "名詞を動詞ます (N o V-masu)",
+      "structure": "名詞 + を + 動詞(ます形)",
+      "rule": "表示動詞的受詞。助詞「を」唸作「o」，用來指出動詞作用的對象。",
+      "examples": [
+        "ごはんを たべます。 （吃飯。）",
+        "IoT デバイスを つくります。 （製作IoT裝置。）"
+      ]
+    }
+  ]
+}
