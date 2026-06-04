@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、改善系統或流程",
+      "example": "I need to optimize this code for better performance and speed.",
+      "example_zh": "我需要優化這段程式碼以提升效能和速度。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行計畫或策略",
+      "example": "We plan to implement the new feature next week. It's exciting!",
+      "example_zh": "我們計畫下週實施這項新功能。真令人興奮！"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除、解決問題",
+      "example": "Can you help me troubleshoot this network issue? It's quite slow.",
+      "example_zh": "你能幫我排除這個網路問題嗎？它很慢。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的、永續的",
+      "example": "More companies are investing in renewable energy sources like solar.",
+      "example_zh": "越來越多公司投入太陽能等再生能源。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步模型",
+      "example": "We're building a prototype for the new IoT device. Wish us luck!",
+      "example_zh": "我們正在為新的 IoT 設備製作一個原型。祝我們好運！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協同工作",
+      "example": "Let's collaborate on this project to finish it faster together.",
+      "example_zh": "我們來合作這個專案，一起更快完成吧。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "I'm trying to meet a tight deadline for my report. Almost there!",
+      "example_zh": "我正努力趕上報告的緊迫期限。快完成了！"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、有創意的",
+      "example": "His ideas are always very innovative and inspiring to everyone.",
+      "example_zh": "他的想法總是很有創意且鼓舞人心。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率、效能",
+      "example": "We should improve the efficiency of our daily workflow. Any ideas?",
+      "example_zh": "我們應該提升日常工作流程的效率。有什麼想法嗎？"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好、興趣",
+      "example": "What's your favorite hobby outside of work? Mine is reading.",
+      "example_zh": "工作之餘你最喜歡的嗜好是什麼？我的是閱讀。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "過去習慣 (used to)",
+      "rule": "表達過去常做但現在不再發生的習慣或狀態，或過去真實但現在已非的事實。",
+      "examples": [
+        "I used to play video games all night when I was younger. (我年輕時常熬夜玩電動。)",
+        "This building used to be a small factory, but now it's a cafe. (這棟建築以前是間小工廠，但現在是咖啡廳。)",
+        "Engineers used to rely more on manual testing before automation. (工程師以前在自動化之前更依賴手動測試。)"
+      ]
+    },
+    {
+      "title": "兩者擇一 (either... or...)",
+      "rule": "用來連接兩個選項，表示「不是A就是B」，強調在兩個可能性中選擇一個。",
+      "examples": [
+        "You can either call me or send me an email to confirm. (你可以打電話給我或寄電子郵件給我確認。)",
+        "We can either fix the bug now or postpone it until tomorrow. (我們現在可以修復這個錯誤，不然就延後到明天。)",
+        "Either the system is down or my internet connection is slow. (不是系統當機，就是我的網路連線很慢。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日、仕事が楽しいです。",
+      "example_zh": "每天工作都很開心。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "明日は休みだから、ゆっくりします。",
+      "example_zh": "明天是假日，所以我要好好休息。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "日本語の勉強は面白いです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "どのくらい時間がかかりますか。",
+      "example_zh": "大概要花多少時間呢？"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、愉快的",
+      "example": "友達と話すのは楽しいです。",
+      "example_zh": "和朋友聊天很開心。"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "閱讀",
+      "example": "私は本を読むのが好きです。",
+      "example_zh": "我喜歡讀書。"
+    },
+    {
+      "kana": "かく",
+      "kanji_romaji": "書く / kaku",
+      "meaning": "寫",
+      "example": "毎日、日本語を少し書きます。",
+      "example_zh": "每天我會寫一點日文。"
+    },
+    {
+      "kana": "いま",
+      "kanji_romaji": "今 / ima",
+      "meaning": "現在",
+      "example": "今、何時ですか。",
+      "example_zh": "現在幾點了？"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "この電気は再生エネルギーです。",
+      "example_zh": "這種電是再生能源。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "先生の話がよく分かります。",
+      "example_zh": "我很懂老師說的話。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "存在句 (N + が + あります/います)",
+      "structure": "名詞 + が + あります (非生物) / います (生物)",
+      "rule": "表示某處有「什麼東西」或「誰」，用來表達事物的存在。",
+      "examples": [
+        "私の部屋に本がたくさんあります。 (我的房間裡有很多書。)",
+        "会社にエンジニアが三人います。 (公司裡有三位工程師。)"
+      ]
+    },
+    {
+      "title": "希望句 (Vます + たいです)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者「想做」某個動作或事情，表達願望或慾望。",
+      "examples": [
+        "週末に映画を見たいです。 (週末我想看電影。)",
+        "もっと日本語を勉強したいです。 (我想學更多日文。)"
+      ]
+    }
+  ]
+}
