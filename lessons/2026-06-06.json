@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "內嵌在硬體中的程式",
+      "example": "We need to update the firmware on these devices.",
+      "example_zh": "我們需要更新這些裝置的韌體。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同部分",
+      "example": "How can we integrate this new feature smoothly?",
+      "example_zh": "我們如何能順利整合這個新功能？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決問題、故障排除",
+      "example": "I spent all morning trying to troubleshoot this bug.",
+      "example_zh": "我整個早上都在試著解決這個錯誤。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、達到最佳狀態",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以提升效能吧。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步的模型",
+      "example": "The first prototype is almost ready for testing.",
+      "example_zh": "第一個原型機快要可以測試了。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案、答案",
+      "example": "Do you have a good solution for this issue?",
+      "example_zh": "對於這個問題你有什麼好辦法嗎？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、期限",
+      "example": "The deadline for this project is next Friday.",
+      "example_zh": "這個專案的截止日期是下週五。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "We should collaborate more on this module.",
+      "example_zh": "我們應該在這個模組上多合作。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率、效能",
+      "example": "We need to improve our team's overall efficiency.",
+      "example_zh": "我們需要提升團隊的整體效率。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見反應",
+      "example": "Your feedback on the design is much appreciated.",
+      "example_zh": "我們非常感謝您對設計的回饋。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to do (過去習慣)",
+      "rule": "表達過去經常發生的習慣、狀態或動作，但現在已不再如此。",
+      "examples": [
+        "I used to work late almost every day. (我以前幾乎每天都工作到很晚。)",
+        "There used to be a small cafe near our office. (我們辦公室附近以前有一間小咖啡廳。)",
+        "Did you use to play video games a lot? (你以前是不是很常玩電玩？)"
+      ]
+    },
+    {
+      "title": "Phrasal verbs with 'get'",
+      "rule": "'get' 加上不同介系詞或副詞，構成意思多變的片語動詞，常用於日常對話。",
+      "examples": [
+        "I need to get up early tomorrow for a meeting. (我明天需要早起開會。)",
+        "How do you get along with your new team? (你和你的新團隊相處得怎麼樣？)",
+        "Let's get back to work after this coffee break. (我們休息一下喝完咖啡就回去工作吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作、職務",
+      "example": "毎日の仕事は楽しいです。",
+      "example_zh": "每天的工作都很有趣。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天都學習日文。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "部屋の電気をつけてください。",
+      "example_zh": "請把房間的燈打開。"
+    },
+    {
+      "kana": "まなぶ",
+      "kanji_romaji": "学ぶ / manabu",
+      "meaning": "學習、學會",
+      "example": "新しい技術を学びたいです。",
+      "example_zh": "我想學習新技術。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "午後から会議があります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいスマホを買いました。",
+      "example_zh": "我買了一支新手機。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "IoTデバイスを作りたいです。",
+      "example_zh": "我想製作 IoT 裝置。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的、便利的",
+      "example": "AIツールはとても便利ですね。",
+      "example_zh": "AI 工具真的很方便呢。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "勉強する時間がありません。",
+      "example_zh": "我沒有學習的時間。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題、課題",
+      "example": "この問題は難しいです。",
+      "example_zh": "這個問題很難。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ましょう / 〜ませんか",
+      "structure": "動詞(ます形) + ましょう / 動詞(ます形) + ませんか",
+      "rule": "「ましょう」表示「一起做～吧」，常用於提議或邀請；「ませんか」則是用於委婉地邀請。",
+      "examples": [
+        "一緒にコーヒーを飲みましょう。 (我們一起喝咖啡吧。)",
+        "プロジェクトについて話しませんか。 (要不要討論一下專案的事？)"
+      ]
+    },
+    {
+      "title": "〜てください",
+      "structure": "動詞(て形) + ください",
+      "rule": "用於禮貌地請求或指示對方做某事，是很常用且實用的表達方式。",
+      "examples": [
+        "この資料を読んでください。 (請讀一下這份資料。)",
+        "少し待ってください。 (請稍等一下。)"
+      ]
+    }
+  ]
+}
