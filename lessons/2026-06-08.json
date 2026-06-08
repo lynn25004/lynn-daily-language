@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施（計畫或功能）",
+      "example": "We need to implement this new feature by next week.",
+      "example_zh": "我們需要在下週前實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化（效能或效率）",
+      "example": "Can we optimize this code to run faster?",
+      "example_zh": "我們能優化這段程式碼讓它跑得更快嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題（技術性）",
+      "example": "I spent all morning troubleshooting the server issues.",
+      "example_zh": "我整個早上都在排除伺服器問題。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想（可能發生的狀況）",
+      "example": "Let's discuss a few different test scenarios for this project.",
+      "example_zh": "我們來討論幾個不同的專案測試情境吧。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作（共同完成任務）",
+      "example": "We should collaborate more often on these kinds of tasks.",
+      "example_zh": "我們應該更常在這類任務上合作。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本（產品的初步模型）",
+      "example": "The team is building a new IoT device prototype.",
+      "example_zh": "團隊正在製作一個新的物聯網設備原型。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的（對環境友善）",
+      "example": "We are looking for more sustainable energy solutions.",
+      "example_zh": "我們正在尋找更永續的能源解決方案。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合（不同部分成一體）",
+      "example": "How can we integrate this module into the existing system?",
+      "example_zh": "我們如何將這個模組整合到現有系統中？"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見（對工作或表現的評論）",
+      "example": "Please give me some feedback on my presentation draft.",
+      "example_zh": "請給我一些關於我的簡報草稿的回饋意見。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期（必須完成的期限）",
+      "example": "The deadline for this task is really tight, isn't it?",
+      "example_zh": "這項任務的截止日期真的很趕，不是嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 Type 1 (If + present, will + verb)",
+      "rule": "這種句型用來表達未來可能發生的事情及其結果。條件句使用現在簡單式，結果句則使用未來簡單式。",
+      "examples": [
+        "If the code works, we'll celebrate tonight! (如果程式碼成功，我們今晚就慶祝！)",
+        "If you finish early, we can grab some coffee. (如果你早點結束，我們可以去喝杯咖啡。)",
+        "If it rains, the outdoor event will be cancelled. (如果下雨，戶外活動將會取消。)"
+      ]
+    },
+    {
+      "title": "Used to / Be used to / Get used to",
+      "rule": "「Used to」表示過去的習慣或狀態，但現在已不再如此；「be used to」表示習慣於某事；「get used to」則表示逐漸習慣某事。",
+      "examples": [
+        "I used to work late, but now I prefer to leave on time. (我以前常加班，但現在我喜歡準時下班。)",
+        "I'm used to the long meetings now, so it's okay. (我現在已經習慣了冗長的會議，所以沒關係。)",
+        "It took me a while to get used to the new system. (我花了一段時間才習慣新系統。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうのしごとはたいへんです。",
+      "example_zh": "今天的工作很辛苦。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしはにほんごをべんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしの会社はあたらしいです。",
+      "example_zh": "我的公司是新的。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにちコーヒーをのみます。",
+      "example_zh": "我每天喝咖啡。"
+    },
+    {
+      "kana": "いま",
+      "kanji_romaji": "今 / ima",
+      "meaning": "現在",
+      "example": "今なんじですか。",
+      "example_zh": "現在幾點了？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間がありますか。",
+      "example_zh": "有時間嗎？"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "でんきをつけましょう。",
+      "example_zh": "我們開燈吧。"
+    },
+    {
+      "kana": "にほんご",
+      "kanji_romaji": "日本語 / nihongo",
+      "meaning": "日文",
+      "example": "日本語はむずかしいです。",
+      "example_zh": "日文很難。"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "わたしはラーメンが好きです。",
+      "example_zh": "我喜歡拉麵。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦的、嚴重的",
+      "example": "しごとは大変ですが、たのしいです。",
+      "example_zh": "工作很辛苦，但很有趣。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "這個句型用來介紹或說明主語（名詞１）是什麼（名詞２），是非常基本且常用的肯定句型，表達「～是～」。",
+      "examples": [
+        "わたしはエンジニアです。(我是工程師。)",
+        "それはあたらしいシステムです。(那是新系統。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょう",
+      "structure": "動詞(ます形) + ましょう",
+      "rule": "此句型表示提議或邀請對方「一起做某事」，或是勸誘對方「去做某事」，具有共同行動的語氣。",
+      "examples": [
+        "しごとをしましょう。(我們工作吧。)",
+        "いっしょにべんきょうしましょう。(我們一起學習吧。)"
+      ]
+    }
+  ]
+}
