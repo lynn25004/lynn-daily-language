@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署；展開；應用",
+      "example": "We plan to deploy the new IoT system next month.",
+      "example_zh": "我們計畫下個月部署新的物聯網系統。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的；節省的",
+      "example": "This new solar panel is super efficient.",
+      "example_zh": "這個新太陽能板效率非常高。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的；有革新精神的",
+      "example": "Their AI tools are really innovative.",
+      "example_zh": "他們的 AI 工具真的很有創新性。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作；協作",
+      "example": "Let's collaborate on this embedded system project.",
+      "example_zh": "我們來合作這個嵌入式系統專案吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；使最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的；可持續的",
+      "example": "Renewable energy is key to a sustainable future.",
+      "example_zh": "再生能源是永續未來的關鍵。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；雛形",
+      "example": "The first prototype is ready for testing.",
+      "example_zh": "第一個原型已經準備好進行測試了。"
+    },
+    {
+      "word": "streamline",
+      "pos": "v.",
+      "meaning": "簡化；使效率更高",
+      "example": "We're trying to streamline the development process.",
+      "example_zh": "我們正試圖簡化開發流程。"
+    },
+    {
+      "word": "insightful",
+      "pos": "adj.",
+      "meaning": "有見識的；洞察力強的",
+      "example": "That's an insightful observation about AI.",
+      "example_zh": "那是對 AI 很有見地的觀察。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障；解決問題",
+      "example": "Can you help me troubleshoot this bug?",
+      "example_zh": "你能幫我排除這個 Bug 的問題嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect Tense)",
+      "rule": "用於表示過去的動作對現在造成影響，或表示不確定的過去時間發生的動作。",
+      "examples": [
+        "I have finished the simulation. (我已經完成模擬了。)",
+        "She has worked on IoT projects before. (她以前做過 IoT 專案。)",
+        "Have you ever seen a self-driving car? (你看過自駕車嗎？)"
+      ]
+    },
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "當動作的承受者比執行者更重要時使用，強調動作的對象。",
+      "examples": [
+        "The data is collected by the sensors. (數據由感測器收集。)",
+        "The new system will be launched soon. (新系統將很快推出。)",
+        "This feature has been developed by our team. (這個功能由我們的團隊開發。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "あたらしい プログラム を かい はつ します。",
+      "example_zh": "開發新的程式。"
+    },
+    {
+      "kana": "そくど",
+      "kanji_romaji": "速度 / sokudo",
+      "meaning": "速度",
+      "example": "そくど が はやい です。",
+      "example_zh": "速度很快。"
+    },
+    {
+      "kana": "あんぜん",
+      "kanji_romaji": "安全 / anzen",
+      "meaning": "安全",
+      "example": "あんぜん に ついて かんがえましょう。",
+      "example_zh": "來思考關於安全的事情吧。"
+    },
+    {
+      "kana": "ちしき",
+      "kanji_romaji": "知識 / chishiki",
+      "meaning": "知識",
+      "example": "たくさん ちしき が ほしいです。",
+      "example_zh": "想要很多知識。"
+    },
+    {
+      "kana": "かいし",
+      "kanji_romaji": "開始 / kaishi",
+      "meaning": "開始",
+      "example": "しごと を かいし します。",
+      "example_zh": "開始工作。"
+    },
+    {
+      "kana": "しゅうりょう",
+      "kanji_romaji": "終了 / shuuryou",
+      "meaning": "結束",
+      "example": "かいぎ は しゅうりょう しました。",
+      "example_zh": "會議結束了。"
+    },
+    {
+      "kana": "つぎ",
+      "kanji_romaji": "次 / tsugi",
+      "meaning": "下一個；下次",
+      "example": "つぎ の かいしゃ に いきます。",
+      "example_zh": "要去下一個公司。"
+    },
+    {
+      "kana": "けんさ",
+      "kanji_romaji": "検査 / kensa",
+      "meaning": "檢查；檢驗",
+      "example": "この きかい を けんさ します。",
+      "example_zh": "檢查這個機器。"
+    },
+    {
+      "kana": "りかい",
+      "kanji_romaji": "理解 / rikai",
+      "meaning": "理解",
+      "example": "よく りかい できます。",
+      "example_zh": "能好好理解。"
+    },
+    {
+      "kana": "しえん",
+      "kanji_romaji": "支援 / shien",
+      "meaning": "支援；支持",
+      "example": "AI の しえん が ほしいです。",
+      "example_zh": "想要 AI 的支援。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ています (Te imasu)",
+      "structure": "動詞て形 + います",
+      "rule": "表示正在進行的動作、或持續的狀態。",
+      "examples": [
+        "いま、べんきょうしています。(Imma, benkyou shite imasu.) (現在，我正在學習。)",
+        "この かいしゃ は AI を かい はつしています。(Kono kaisha wa AI o kaihatsu shite imasu.) (這間公司正在開發 AI。)"
+      ]
+    },
+    {
+      "title": "〜たほうがいい (Ta hou ga ii)",
+      "structure": "動詞た形 + ほうがいい",
+      "rule": "表示建議，意思是「最好做…」。",
+      "examples": [
+        "もっと べんきょうしたほうがいいですよ。(Motto benkyou shita hou ga ii desu yo.) (最好多唸點書喔。)",
+        "あんぜんのため、ドアを しめて おいたほうがいいです。(Anzen no tame, doa o shimete oita hou ga ii desu.) (為了安全，最好把門關好。)"
+      ]
+    }
+  ]
+}
