@@ -424,14 +424,14 @@ def build_spaced_repetition(today: str) -> str:
 
 
 def build_weekly_summary(today: str) -> str:
-    """週六晚課：彙整本週 Mon-Sat 所有單字。"""
+    """週六晚課：彙整本週（週日～週六，含週日課程）所有單字。"""
     today_date = datetime.strptime(today, "%Y-%m-%d").date()
-    # 週一到今天
-    monday_offset = today_date.weekday()  # Mon=0, Sat=5
-    days = [monday_offset - i for i in range(monday_offset, -1, -1)]
+    # 以「週日」為一週起點：週日→0、週一→1 … 週六→6。
+    # 在週六晚上回推到本週日，涵蓋週日到週六共 7 天。
+    start_offset = (today_date.weekday() + 1) % 7  # Mon=0→1 … Sat=5→6 … Sun=6→0
     lessons = []
-    for offset in range(monday_offset + 1):
-        d = today_date - timedelta(days=monday_offset - offset)
+    for back in range(start_offset, -1, -1):
+        d = today_date - timedelta(days=back)
         p = LESSONS_DIR / f"{d.strftime('%Y-%m-%d')}.json"
         if p.exists():
             try:

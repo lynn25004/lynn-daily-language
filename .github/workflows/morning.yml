@@ -1,4 +1,4 @@
-name: Morning Lesson (09:00 Taipei, Mon-Sat)
+name: Morning Lesson (09:00 Taipei, Daily)
 
 on:
   # 排程交給 cron-job.org（jobId 7516774）經由 API 觸發 workflow_dispatch。
