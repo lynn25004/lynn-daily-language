@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫",
+      "example": "We need to implement this new feature soon.",
+      "example_zh": "我們需要快點實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化效能",
+      "example": "Let's optimize this code for better performance.",
+      "example_zh": "我們來優化這段程式碼，提升效能吧。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent all morning troubleshooting that bug.",
+      "example_zh": "我花了一整個早上在排除那個錯誤。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "專案截止日期",
+      "example": "The deadline for this project is next Friday.",
+      "example_zh": "這個專案的截止日期是下週五。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見反應",
+      "example": "Could you give me some feedback on my presentation?",
+      "example_zh": "你能給我一些關於我報告的回饋嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步樣本",
+      "example": "We're building a prototype for the new IoT device.",
+      "example_zh": "我們正在為新的物聯網裝置打造一個原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效率的、效益好的",
+      "example": "This new workflow is super efficient!",
+      "example_zh": "這個新工作流程效率超高的！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協同工作",
+      "example": "Let's collaborate on this tricky module.",
+      "example_zh": "我們一起合作這個棘手的模組吧。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合系統",
+      "example": "We need to integrate this sensor with our system.",
+      "example_zh": "我們需要將這個感測器整合進我們的系統。"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "裝置、電子設備",
+      "example": "Is this IoT device compatible with our network?",
+      "example_zh": "這個物聯網裝置跟我們的網路相容嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "第一類條件句 (Conditional Type 1)",
+      "rule": "用於描述未來可能發生的真實情況，或給予建議。結構為 If + S + V(現在式), S + will + V(原形)。",
+      "examples": [
+        "If you finish early, we can grab coffee. (如果你早點忙完，我們可以去喝咖啡。)",
+        "If the system crashes, reboot it right away. (如果系統當機，立刻重啟它。)",
+        "If you have questions, feel free to ask me. (如果你有問題，隨時問我喔。)"
+      ]
+    },
+    {
+      "title": "常見動詞片語與 \"up\"",
+      "rule": "這些動詞片語常用「up」來表達完成、增加、準備或開始等語意，讓口語表達更自然。",
+      "examples": [
+        "Can you help me set up this new server? (你能幫我設定這台新伺服器嗎？)",
+        "I need to pick up some new sensors. (我需要去買些新感測器。)",
+        "We need to come up with a new idea. (我們需要想出一個新點子。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごとが たくさん ありますね。",
+      "example_zh": "工作有很多呢。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょう、かいぎは ありますか。",
+      "example_zh": "今天有會議嗎？"
+    },
+    {
+      "kana": "つかれる",
+      "kanji_romaji": "疲れる / tsukareru",
+      "meaning": "疲累",
+      "example": "きょうは とても つかれました。",
+      "example_zh": "今天非常累。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "あしたは 休みです。うれしい！",
+      "example_zh": "明天是假日。開心！"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "しごとは なんじに おわりますか。",
+      "example_zh": "工作幾點結束呢？"
+    },
+    {
+      "kana": "はじまる",
+      "kanji_romaji": "始まる / hajimaru",
+      "meaning": "開始",
+      "example": "かいぎは じゅうじに はじまります。",
+      "example_zh": "會議十點開始。"
+    },
+    {
+      "kana": "たいせつ",
+      "kanji_romaji": "大切 / taisetsu",
+      "meaning": "重要的",
+      "example": "このデータは とても たいせつです。",
+      "example_zh": "這個資料非常重要。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦 (PC)",
+      "example": "あたらしい パソコンが ほしいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "スマホ",
+      "kanji_romaji": "スマホ / sumaho",
+      "meaning": "智慧型手機",
+      "example": "スマホで ニュースを よみます。",
+      "example_zh": "我用手機看新聞。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語が 少し わかります。",
+      "example_zh": "我懂一點日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞禮貌形 (ます形)",
+      "structure": "動詞語幹 + ます / ません / ました / ませんでした",
+      "rule": "用於表達現在、未來或過去的肯定與否定行為，是日常對話中最常見的禮貌動詞形式。",
+      "examples": [
+        "毎日 日本語を 勉強します。（我每天學日文。）",
+        "きのう、仕事は 終わりませんでした。（昨天工作還沒結束。）"
+      ]
+    },
+    {
+      "title": "存在句：～が あります / います",
+      "structure": "名詞 + が + あります (非生物) / います (生物)",
+      "rule": "用來表示某物品或某人「存在」於某處。います用於人或動物，あります用於物品。",
+      "examples": [
+        "私の部屋に パソコンが あります。（我的房間有一台電腦。）",
+        "会社に 友達が います。（公司有朋友。）"
+      ]
+    }
+  ]
+}
