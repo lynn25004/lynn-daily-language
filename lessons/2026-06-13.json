@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "Integrate",
+      "pos": "v.",
+      "meaning": "將不同部分結合在一起",
+      "example": "We need to integrate this new module into the system.",
+      "example_zh": "我們需要把這個新模組整合到系統裡。"
+    },
+    {
+      "word": "Optimize",
+      "pos": "v.",
+      "meaning": "讓性能或效率達到最佳",
+      "example": "I'm trying to optimize my code for better speed.",
+      "example_zh": "我正在嘗試優化我的程式碼以提升速度。"
+    },
+    {
+      "word": "Deploy",
+      "pos": "v.",
+      "meaning": "將系統或應用程式佈署",
+      "example": "We'll deploy the new software update next week.",
+      "example_zh": "我們下週會佈署新的軟體更新。"
+    },
+    {
+      "word": "Prototype",
+      "pos": "n.",
+      "meaning": "某個產品或系統的初步模型",
+      "example": "The team is building a new IoT prototype this weekend.",
+      "example_zh": "團隊這個週末正在製作一個新的物聯網原型。"
+    },
+    {
+      "word": "Troubleshoot",
+      "pos": "v.",
+      "meaning": "找出並解決問題或故障",
+      "example": "Can you help me troubleshoot this network connection issue?",
+      "example_zh": "你能幫我解決這個網路連線問題嗎？"
+    },
+    {
+      "word": "Weekend",
+      "pos": "n.",
+      "meaning": "一週的最後兩天（週六、週日）",
+      "example": "What are your plans for the upcoming long weekend?",
+      "example_zh": "你這個即將到來的長週末有什麼計畫？"
+    },
+    {
+      "word": "Relax",
+      "pos": "v.",
+      "meaning": "讓自己身心放鬆",
+      "example": "I just want to relax and read a book this Saturday.",
+      "example_zh": "我這個週六只想放鬆並讀本書。"
+    },
+    {
+      "word": "Project",
+      "pos": "n.",
+      "meaning": "需要努力和時間完成的任務",
+      "example": "I have a small side project related to smart home automation.",
+      "example_zh": "我有一個關於智慧家庭自動化的小型副專案。"
+    },
+    {
+      "word": "Explore",
+      "pos": "v.",
+      "meaning": "探索、探究或研究",
+      "example": "Let's explore some new AI tools for our daily tasks.",
+      "example_zh": "我們來探索一些日常任務用的新 AI 工具吧。"
+    },
+    {
+      "word": "Device",
+      "pos": "n.",
+      "meaning": "用於特定目的的機器或工具",
+      "example": "My smart home device stopped working suddenly.",
+      "example_zh": "我的智慧家庭設備突然停止運作了。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式 (will/be going to)",
+      "rule": "表達未來會發生的事情或計畫，'will' 更口語、更臨時，'be going to' 則用於既定計畫。",
+      "examples": [
+        "I will probably work on my IoT project this afternoon. (我下午可能也會做我的物聯網專案。)",
+        "We are going to visit the tech exhibition next month. (我們下個月要去參觀科技展。)",
+        "He's going to troubleshoot the server issue later. (他待會要去排除伺服器問題。)"
+      ]
+    },
+    {
+      "title": "片語動詞 (Phrasal Verbs)",
+      "rule": "動詞搭配介系詞或副詞，意思常與單獨動詞不同，讓口語更自然。例如 'set up' (建立) 或 'figure out' (弄懂)。",
+      "examples": [
+        "Can you help me set up this new embedded system? (你能幫我設定這個新的嵌入式系統嗎？)",
+        "I need to figure out how to fix this bug. (我需要弄清楚如何修復這個錯誤。)",
+        "Let's back up our data before we update the software. (我們在更新軟體前先備份資料吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "週末、日本語をべんきょうします。",
+      "example_zh": "週末我會學習日文。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは、何をしますか。",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "かぞく",
+      "kanji_romaji": "家族 / kazoku",
+      "meaning": "家庭，家人",
+      "example": "週末、家族と公園に行きます。",
+      "example_zh": "週末我會和家人去公園。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的，有趣的",
+      "example": "それはとてもたのしいですね。",
+      "example_zh": "那真是有趣呢。"
+    },
+    {
+      "kana": "ほん",
+      "kanji_romaji": "本 / hon",
+      "meaning": "書",
+      "example": "新しいAIのほんを読みます。",
+      "example_zh": "我會讀一本關於新AI的書。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "日本語のべんきょうにじかんがかかります。",
+      "example_zh": "日文學習需要時間。"
+    },
+    {
+      "kana": "なに",
+      "kanji_romaji": "何 / nani",
+      "meaning": "什麼",
+      "example": "あなたは何をしますか。",
+      "example_zh": "你要做什麼？"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看",
+      "example": "映画を見ますか。",
+      "example_zh": "你要看電影嗎？"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作，做",
+      "example": "IoTデバイスを作ります。",
+      "example_zh": "我會製作IoT裝置。"
+    },
+    {
+      "kana": "いきます",
+      "kanji_romaji": "行きます / ikimasu",
+      "meaning": "去",
+      "example": "週末、秋葉原へ行きます。",
+      "example_zh": "週末我要去秋葉原。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞的ます形 (基本肯定/否定/過去)",
+      "structure": "動詞ます / 動詞ません / 動詞ました / 動詞ませんでした",
+      "rule": "用於表達禮貌的肯定、否定、過去肯定與過去否定動作，是日文中最基本的動詞變化之一。",
+      "examples": [
+        "コーヒーを飲みます。(我喝咖啡。)",
+        "本を読みませんでした。(我沒有讀書。)"
+      ]
+    },
+    {
+      "title": "助詞「を」與動詞",
+      "structure": "名詞 + を + 動詞(ます形)",
+      "rule": "助詞「を」用來標示動詞的直接受詞，表示動詞作用的對象，是日文句型中非常重要的一環。",
+      "examples": [
+        "私は日本語を勉強します。(我學習日文。)",
+        "週末、映画を見ます。(週末我會看電影。)"
+      ]
+    }
+  ]
+}
