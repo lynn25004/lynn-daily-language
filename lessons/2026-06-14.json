@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體",
+      "example": "The new firmware update fixed many annoying bugs.",
+      "example_zh": "新的韌體更新修復了許多惱人的錯誤。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除；偵錯",
+      "example": "I need to troubleshoot why my IoT device isn't connecting properly.",
+      "example_zh": "我需要排除我的物聯網設備為什麼沒有正確連接的問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；樣品",
+      "example": "We're busy building a prototype for our cool new AI gadget.",
+      "example_zh": "我們正在忙著為我們的新酷炫 AI 小工具製作一個原型。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境；設想",
+      "example": "Let's think about different user scenarios for this smart home feature.",
+      "example_zh": "我們來想想這個智慧家庭功能的不同使用者情境。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；最佳化",
+      "example": "We need to optimize the code for better performance and efficiency.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能和效率。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合；結合",
+      "example": "It's a bit hard to integrate these old sensors with the new system.",
+      "example_zh": "將這些舊感測器與新系統整合有點困難。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的；可持續的",
+      "example": "Renewable energy is super key to a truly sustainable future, don't you think?",
+      "example_zh": "再生能源對於一個真正永續的未來至關重要，你不覺得嗎？"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的；革新的",
+      "example": "That's a very innovative approach to solving the power consumption issue.",
+      "example_zh": "那是解決功耗問題的一個非常有創意的辦法。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電；休息充電",
+      "example": "I really need to recharge my phone before I head out.",
+      "example_zh": "出門前我真的需要幫手機充電。"
+    },
+    {
+      "word": "offline",
+      "pos": "adj.",
+      "meaning": "離線的；不連線的",
+      "example": "My embedded system usually works fine even when it's completely offline.",
+      "example_zh": "我的嵌入式系統即使完全離線通常也能運作良好。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "片語動詞 Phrasal Verbs with \"up\"",
+      "rule": "\"up\" 常表示「向上」、「完成」、「徹底」或「出現」，與動詞結合創造新意義。",
+      "examples": [
+        "Let's set up the new server this afternoon. (我們今天下午來架設新的伺服器吧。)",
+        "I need to catch up on my emails after the meeting. (會議後我需要補完我的電子郵件。)",
+        "This new update really speeds up the system. (這個新更新真的加速了系統。)"
+      ]
+    },
+    {
+      "title": "條件句 (Conditional Sentences) Type 1",
+      "rule": "表達未來可能發生且結果也可能發生的情況，「If + 現在式, 主詞 + will + 原形動詞」。",
+      "examples": [
+        "If the sensor works, it will send data to the cloud. (如果感測器運作，它會將資料傳送到雲端。)",
+        "If I finish work early, I will start my Japanese homework. (如果我早點下班，我就會開始寫日文功課。)",
+        "If you have any questions, I will help you troubleshoot. (如果你有任何問題，我會協助你排除故障。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "わたしのしゅみはプログラミングです。",
+      "example_zh": "我的興趣是程式設計。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつはなにをしますか？",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習；讀書",
+      "example": "まいにちにほんごをべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的；有趣的",
+      "example": "IoTのプロジェクトはとてもたのしいです。",
+      "example_zh": "物聯網專案非常有趣。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツールをつかいますか？",
+      "example_zh": "你用這個 AI 工具嗎？"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいパソコンがほしいです。",
+      "example_zh": "我想要一台新的電腦。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電；電燈",
+      "example": "でんきをけしてください。",
+      "example_zh": "請關燈。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作",
+      "example": "わたしはスマートホームをつくりたいです。",
+      "example_zh": "我想要製作智慧家庭。"
+    },
+    {
+      "kana": "てつだう",
+      "kanji_romaji": "手伝う / tetsudau",
+      "meaning": "幫忙",
+      "example": "てつだいましょうか？",
+      "example_zh": "需要我幫忙嗎？"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "すこしきゅうけいしましょう。",
+      "example_zh": "我們休息一下吧。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "「は」表示句子主題，「です」是肯定句的結尾，用於禮貌地說明事物的名稱或屬性。",
+      "examples": [
+        "これはわたしのしゅみです。(這是我的興趣。)",
+        "たなかさんはエンジニアです。(田中先生是工程師。)"
+      ]
+    },
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請求對方做某事，或給予指示。比單純說動詞更客氣。",
+      "examples": [
+        "このしりょうをよんでください。(請閱讀這份資料。)",
+        "ゆっくりはなしてください。(請慢慢說。)"
+      ]
+    }
+  ]
+}
