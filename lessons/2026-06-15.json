@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品原型、測試版",
+      "example": "We need to build a prototype first.",
+      "example_zh": "我們需要先做一個原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、合併",
+      "example": "Let's integrate these two systems.",
+      "example_zh": "我們來整合這兩個系統吧。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、找問題",
+      "example": "I need to troubleshoot this bug.",
+      "example_zh": "我需要排除這個錯誤。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最終期限",
+      "example": "The deadline is next Friday.",
+      "example_zh": "截止日期是下週五。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "反饋、建議",
+      "example": "Can I get your feedback on this?",
+      "example_zh": "我可以得到你對這個的意見嗎？"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的、省時的",
+      "example": "This new tool is very efficient.",
+      "example_zh": "這個新工具效率很高。"
+    },
+    {
+      "word": "schedule",
+      "pos": "n.",
+      "meaning": "日程表、工作計畫",
+      "example": "My schedule is pretty tight this week.",
+      "example_zh": "我這週的行程很滿。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、一起工作",
+      "example": "Let's collaborate on this project.",
+      "example_zh": "我們在這個專案上合作吧。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施",
+      "example": "We should implement this change soon.",
+      "example_zh": "我們應該盡快實施這個改變。"
+    },
+    {
+      "word": "update",
+      "pos": "v.",
+      "meaning": "更新進度、告知最新情況",
+      "example": "Can you update me on the project?",
+      "example_zh": "你能告訴我專案的最新進度嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "常用片語動詞（動詞 + up）",
+      "rule": "片語動詞由動詞加介副詞組成，意思常與字面不同，很常用於日常對話。",
+      "examples": [
+        "Let's set up the new IoT device.（我們來設置新的物聯網設備。）",
+        "Did you come up with a solution?（你有想出解決方案嗎？）",
+        "Time to wrap up today's work.（是時候結束今天的工作了。）"
+      ]
+    },
+    {
+      "title": "未來式：going to vs. will",
+      "rule": "\"going to\" 表有計畫或已決定將來會做的事；\"will\" 則常用於即時決定、承諾或預測。",
+      "examples": [
+        "I'm going to finish this report by noon.（我中午前會完成這份報告。）",
+        "I think it will rain later.（我想晚點會下雨。）",
+        "We are going to implement a new system next month.（我們下個月將實施新系統。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうはしごとがあります。",
+      "example_zh": "今天有工作。"
+    },
+    {
+      "kana": "はじまる",
+      "kanji_romaji": "始まる / hajimaru",
+      "meaning": "開始",
+      "example": "かいぎはくじにはじまります。",
+      "example_zh": "會議九點開始。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "しごとはなんじにおわりますか。",
+      "example_zh": "工作幾點結束？"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツールをつかいます。",
+      "example_zh": "我會使用這個AI工具。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的、難的",
+      "example": "このもんだいはすこしむずかしいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "かんたん",
+      "kanji_romaji": "簡単 / kantan",
+      "meaning": "簡單的",
+      "example": "それはかんたんだとおもいます。",
+      "example_zh": "我覺得那很簡單。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありますか。",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち にほんごをべんきょうします。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點",
+      "example": "すこしきゅうけいしましょう。",
+      "example_zh": "我們稍微休息一下吧。"
+    },
+    {
+      "kana": "だいじょうぶ",
+      "kanji_romaji": "大丈夫 / daijoubu",
+      "meaning": "沒關係、沒問題",
+      "example": "それはだいじょうぶです。",
+      "example_zh": "那個沒關係。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません / 〜ました / 〜ませんでした (動詞肯定/否定/過去式)",
+      "structure": "動詞(ます形)",
+      "rule": "動詞的「ます形」是基本禮貌體，用於表示現在、未來動作或習慣，其否定、過去式及過去否定式。",
+      "examples": [
+        "わたしはまいにちコーヒーをのみます。（我每天喝咖啡。）",
+        "きのう、しごとにいきませんでした。（昨天我沒去上班。）"
+      ]
+    },
+    {
+      "title": "〜ませんか (邀請/建議)",
+      "structure": "動詞(ます形) + ませんか",
+      "rule": "用於禮貌地邀請對方一起做某事，或提出建議，語氣比「〜ましょう」更委婉。",
+      "examples": [
+        "いっしょにランチをたべませんか。（要不要一起吃午餐？）",
+        "すこしきゅうけいしませんか。（要不要稍微休息一下？）"
+      ]
+    }
+  ]
+}
