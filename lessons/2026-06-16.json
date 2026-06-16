@@ -1,0 +1,187 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "We're building a prototype to test the new IoT device.",
+      "example_zh": "我們正在製作一個原型機來測試新的物聯網裝置。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、佈署",
+      "example": "The team will deploy the software update next week.",
+      "example_zh": "團隊下週將會佈署軟體更新。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率",
+      "example": "Improving energy efficiency is our top priority.",
+      "example_zh": "提升能源效率是我們的首要任務。"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創新",
+      "example": "We always try to innovate with new AI tools.",
+      "example_zh": "我們總是嘗試利用新的 AI 工具來創新。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "Renewable energy is key to a sustainable future.",
+      "example_zh": "再生能源是永續未來的關鍵。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作",
+      "example": "Let's collaborate on this embedded system project.",
+      "example_zh": "我們一起合作這個嵌入式系統專案吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "interface",
+      "pos": "n.",
+      "meaning": "介面",
+      "example": "The user interface is quite intuitive.",
+      "example_zh": "使用者介面相當直觀。"
+    },
+    {
+      "word": "initiative",
+      "pos": "n.",
+      "meaning": "倡議、主動性",
+      "example": "Taking initiative is important in the workplace.",
+      "example_zh": "在工作場所展現主動性很重要。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "用於強調動作的承受者，或當動作執行者不重要或未知時。",
+      "examples": [
+        "The system is designed for energy saving. (系統是被設計來節省能源的。)",
+        "New features will be released soon. (新功能將很快發佈。)",
+        "This bug was fixed yesterday. (這個錯誤昨天被修復了。)"
+      ]
+    },
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "連接過去的經驗或動作到現在的結果。",
+      "examples": [
+        "I have worked on IoT projects before. (我以前有做過 IoT 專案。)",
+        "We have deployed the new software. (我們已經佈署了新軟體。)",
+        "She has learned a lot about AI. (她已經學了很多關於 AI 的知識。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しょくぎょう",
+      "kanji_romaji": "職業 / shokugyou",
+      "meaning": "職業",
+      "example": "あなたの しょくぎょう は なん です か。",
+      "example_zh": "你的職業是什麼？"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたし は でんき かいしゃ に つとめて います。",
+      "example_zh": "我在一家電力公司工作。"
+    },
+    {
+      "kana": "ぎじゅつ",
+      "kanji_romaji": "技術 / gijutsu",
+      "meaning": "技術",
+      "example": "この ぎじゅつ は とても しんぽ しています。",
+      "example_zh": "這項技術進步了很多。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "あした じゅうじ から かいぎ が あります。",
+      "example_zh": "明天十點有會議。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きのう、たくさん しごと が あった。",
+      "example_zh": "昨天有很多工作。"
+    },
+    {
+      "kana": "でんち",
+      "kanji_romaji": "電池 / denchi",
+      "meaning": "電池",
+      "example": "この でんち は ながい あいだ つかえます。",
+      "example_zh": "這個電池可以用很久。"
+    },
+    {
+      "kana": "エネルギー",
+      "kanji_romaji": "エネルギー / enerugii",
+      "meaning": "能源",
+      "example": "さいせい かのう な エネルギー が きたい です。",
+      "example_zh": "期待可再生的能源。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "あたらしい プログラム を かいはつ しています。",
+      "example_zh": "正在開發新的程式。"
+    },
+    {
+      "kana": "つうしん",
+      "kanji_romaji": "通信 / tsuushin",
+      "meaning": "通信",
+      "example": "IoT は つうしん ぎじゅつ が かぎ です。",
+      "example_zh": "IoT 的關鍵在於通訊技術。"
+    },
+    {
+      "kana": "じょうほう",
+      "kanji_romaji": "情報 / jouhou",
+      "meaning": "資訊",
+      "example": "この じょうほう は とても ゆうよう です。",
+      "example_zh": "這些資訊很有用。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ています (te imasu)",
+      "structure": "動詞て形 + います",
+      "rule": "表示正在進行的動作、狀態持續或習慣性動作。",
+      "examples": [
+        "今、仕事 を しています。(Ima, shigoto o shite imasu.) (現在，我正在工作。)",
+        "この 機械 は 英語 を 話します。(Kono kikai wa eigo o hanashimasu.) (這台機器會說英語。 - 這裡也可以用「話せます hanasemasu」表示能力，但「話します shimasu」表示習慣動作或狀態)",
+        "彼 は 東京 に 住んで います。(Kare wa Toukyou ni sunde imasu.) (他住在東京。)"
+      ]
+    },
+    {
+      "title": "〜たい (tai)",
+      "structure": "動詞ます形（去掉ます） + たい",
+      "rule": "表示說話者想要做某件事情的願望。",
+      "examples": [
+        "新しい技術 を 学びたい です。(Atarashii gijutsu o manabitai desu.) (我想學習新技術。)",
+        "週末はゆっくり休みたいです。(Shuumatsu wa yukkuri yasumitai desu.) (週末我想好好休息。)"
+      ]
+    }
+  ]
+}
