@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行與實施",
+      "example": "We need to implement this new feature quickly.",
+      "example_zh": "我們需要快速實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化處理",
+      "example": "How can we optimize the system for better performance?",
+      "example_zh": "我們要怎麼優化系統才能有更好的表現？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除系統故障",
+      "example": "I spent all morning trying to troubleshoot the network issue.",
+      "example_zh": "我花了一整個早上試圖排除網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品原型、樣本",
+      "example": "The team is building a new prototype for the IoT device.",
+      "example_zh": "團隊正在為物聯網設備打造一個新原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合與結合運用",
+      "example": "We plan to integrate AI tools into our system soon.",
+      "example_zh": "我們計畫很快將AI工具整合進我們的系統。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高且有效的",
+      "example": "We need to find a more efficient way to save energy.",
+      "example_zh": "我們需要找到一個更有效率的節能方法。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "專案截止日期",
+      "example": "The project deadline is next Friday, so let's hurry up.",
+      "example_zh": "專案截止日是下週五，所以我們快點吧。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "共同合作、協作",
+      "example": "Let's collaborate on this renewable energy safety report.",
+      "example_zh": "我們來合作這份再生能源安全報告吧。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "提供回饋意見",
+      "example": "Could you give me some feedback on my presentation?",
+      "example_zh": "你能給我一些關於我簡報的回饋嗎？"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "富有創新的",
+      "example": "Our company is always looking for innovative solutions.",
+      "example_zh": "我們公司總是在尋找創新的解決方案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Sentences Type 1)",
+      "rule": "表達未來可能發生的假設情境及其結果，常用於規劃或條件。",
+      "examples": [
+        "If you finish early, we can grab coffee. (如果你早點結束，我們可以去喝咖啡。)",
+        "I'll send the report if I get the data in time. (如果我及時拿到資料，我就會寄出報告。)",
+        "If the system works, we'll save a lot of energy. (如果系統運作，我們會省下很多能源。)"
+      ]
+    },
+    {
+      "title": "片語動詞 with \"up\" (e.g., set up, come up with, catch up)",
+      "rule": "片語動詞由動詞和介系詞/副詞組成，意思通常與原動詞不同，讓口語更自然。",
+      "examples": [
+        "Let's set up the new IoT device tomorrow. (我們明天來安裝新的物聯網設備吧。)",
+        "Did you come up with any ideas for the project? (你有想到什麼專案點子嗎？)",
+        "I need to catch up on my emails after the meeting. (會後我得趕快處理我的電子郵件。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日、仕事があります。",
+      "example_zh": "每天都有工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしの会社は台湾にあります。",
+      "example_zh": "我的公司在台灣。"
+    },
+    {
+      "kana": "はたらく",
+      "kanji_romaji": "働く / hataraku",
+      "meaning": "工作 (動詞)",
+      "example": "わたしは会社で働きます。",
+      "example_zh": "我在公司工作。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "休憩しましょうか。",
+      "example_zh": "我們休息一下好嗎？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "明日、会議があります。",
+      "example_zh": "明天有會議。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間がありますか。",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日、日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "この問題は難しいです。",
+      "example_zh": "這個問題很難。"
+    },
+    {
+      "kana": "かんたん",
+      "kanji_romaji": "簡単 / kantan",
+      "meaning": "簡單的",
+      "example": "それは簡単です。",
+      "example_zh": "那很簡單。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしは日本語を勉強します。",
+      "example_zh": "我學習日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + ましょう",
+      "structure": "動詞(ます形) + ましょう",
+      "rule": "用於提議或建議大家一起做某事，語氣輕鬆友善。",
+      "examples": [
+        "休憩しましょう。(一起休息吧。)",
+        "日本語を勉強しましょう。(一起學習日文吧。)"
+      ]
+    },
+    {
+      "title": "名詞 + が + あります/います",
+      "structure": "名詞 + が + あります / います",
+      "rule": "「あります」用於無生命物品或抽象事物存在，「います」則用於人或動物存在。",
+      "examples": [
+        "会議があります。(有會議。)",
+        "わたしの会社にエンジニアがいます。(我的公司有工程師。)"
+      ]
+    }
+  ]
+}
