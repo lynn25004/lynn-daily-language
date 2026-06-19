@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合；融入",
+      "example": "We need to integrate this new module.",
+      "example_zh": "我們需要整合這個新模組。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；最佳化",
+      "example": "I want to optimize my code for speed.",
+      "example_zh": "我想優化我的程式碼速度。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障；解決問題",
+      "example": "Can you help troubleshoot this bug?",
+      "example_zh": "你能幫忙排除這個錯誤嗎？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期；最後期限",
+      "example": "The deadline is next Friday.",
+      "example_zh": "截止日期是下週五。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；樣本",
+      "example": "We built a prototype last week.",
+      "example_zh": "我們上週做了一個原型。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "特色；功能",
+      "example": "This new feature is super cool!",
+      "example_zh": "這個新功能超酷的！"
+    },
+    {
+      "word": "commute",
+      "pos": "v.",
+      "meaning": "通勤；上下班",
+      "example": "My daily commute is about an hour.",
+      "example_zh": "我每天通勤大約一小時。"
+    },
+    {
+      "word": "unwind",
+      "pos": "v.",
+      "meaning": "放鬆；鬆弛",
+      "example": "Time to unwind after work!",
+      "example_zh": "下班後是時候放鬆一下了！"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好；興趣",
+      "example": "What's your favorite hobby?",
+      "example_zh": "你最喜歡的嗜好是什麼？"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電；恢復精力",
+      "example": "I need to recharge this weekend.",
+      "example_zh": "我這個週末需要好好充電。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Phrasal Verbs with \"Look\"",
+      "rule": "動詞片語 \"Look\" 搭配不同的介系詞時，其意義會完全改變，常用於表達觀察、尋找、研究或期待等情境。",
+      "examples": [
+        "I'm really looking forward to the weekend! (我真的很期待這個週末！)",
+        "Can you look up this word for me? (你能幫我查這個字嗎？)",
+        "The team will look into the issue. (團隊會調查這個問題。)"
+      ]
+    },
+    {
+      "title": "Expressing Future Plans: \"Be going to\" vs. Present Continuous",
+      "rule": "\"Be going to\" 主要用於表達已決定的未來意圖或有跡象的預測；現在進行式則用於表達已安排好的未來行程。",
+      "examples": [
+        "I'm going to finish this report by 5 PM. (我打算在下午五點前完成這份報告。)",
+        "Are you meeting friends tonight? (你今晚要和朋友見面嗎？)",
+        "It's going to rain soon, look at those clouds! (快下雨了，看看那些雲！)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息；假期",
+      "example": "今日は休みです。",
+      "example_zh": "今天是休息日。"
+    },
+    {
+      "kana": "けいかく",
+      "kanji_romaji": "計画 / keikaku",
+      "meaning": "計畫",
+      "example": "週末の計画がありますか？",
+      "example_zh": "你有週末計畫嗎？"
+    },
+    {
+      "kana": "なに",
+      "kanji_romaji": "何 / nani",
+      "meaning": "什麼",
+      "example": "これは何ですか？",
+      "example_zh": "這是什麼？"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "どこ",
+      "meaning": "哪裡",
+      "example": "どこへ行きますか？",
+      "example_zh": "要去哪裡呢？"
+    },
+    {
+      "kana": "いつ",
+      "kanji_romaji": "いつ",
+      "meaning": "何時",
+      "example": "いつ会いますか？",
+      "example_zh": "什麼時候見面呢？"
+    },
+    {
+      "kana": "たべる",
+      "kanji_romaji": "食べる / taberu",
+      "meaning": "吃",
+      "example": "昼ご飯を食べます。",
+      "example_zh": "我吃午餐。"
+    },
+    {
+      "kana": "のむ",
+      "kanji_romaji": "飲む / nomu",
+      "meaning": "喝",
+      "example": "水を飲みます。",
+      "example_zh": "我喝水。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂；有趣",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習；唸書",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "助詞「で」（表示動作場所）",
+      "structure": "場所名詞 + で + 動詞(ます)",
+      "rule": "助詞「で」用來表示動詞發生的地點或場所，說明某動作是在哪裡進行的。",
+      "examples": [
+        "駅で友達に会います。(在車站和朋友見面。)",
+        "カフェでコーヒーを飲みます。(在咖啡廳喝咖啡。)"
+      ]
+    },
+    {
+      "title": "〜たいです（想做某事）",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "將動詞的ます形去掉「ます」，加上「たいです」，就能表達自己「想做」某件事情的願望或慾望。",
+      "examples": [
+        "週末、映画を見たいです。(週末我想看電影。)",
+        "新しい技術を勉強したいです。(我想學習新技術。)"
+      ]
+    }
+  ]
+}
