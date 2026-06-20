@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體，控制硬體的程式",
+      "example": "I'm updating the device's firmware now.",
+      "example_zh": "我現在正在更新裝置的韌體。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "偵錯，找出並修復程式錯誤",
+      "example": "It took hours to debug this issue.",
+      "example_zh": "花了好幾個小時才把這個問題偵錯完。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初步模型或樣品",
+      "example": "We built a prototype for the new IoT device.",
+      "example_zh": "我們為新的物聯網裝置做了一個原型。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使其效能更好",
+      "example": "I need to optimize this code for speed.",
+      "example_zh": "我需要優化這段程式碼以提高速度。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電，恢復精力或電力",
+      "example": "I need to recharge myself this weekend!",
+      "example_zh": "我這個週末需要為自己充電！"
+    },
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "專案，計畫或任務",
+      "example": "How's your current project going?",
+      "example_zh": "你現在的專案進展如何？"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好，閒暇時的活動",
+      "example": "What's your favorite weekend hobby?",
+      "example_zh": "你週末最喜歡的嗜好是什麼？"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索，發掘新事物",
+      "example": "I want to explore new AI tools.",
+      "example_zh": "我想要探索新的 AI 工具。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案，問題的答案",
+      "example": "We need a quick solution for this bug.",
+      "example_zh": "我們需要一個快速解決這個錯誤的方案。"
+    },
+    {
+      "word": "update",
+      "pos": "n.",
+      "meaning": "更新，最新消息或動作",
+      "example": "Do you have any updates on the project?",
+      "example_zh": "你有關於這個專案的任何更新嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "使用 \"Look forward to + V-ing\"",
+      "rule": "表達期待未來會發生的事情或活動，後面要接動名詞 (V-ing)，不能接原型動詞。",
+      "examples": [
+        "I'm looking forward to debugging this new feature. (我很期待為這個新功能偵錯。)",
+        "Are you looking forward to the weekend? (你期待週末嗎？)",
+        "She's looking forward to learning Japanese. (她很期待學習日文。)"
+      ]
+    },
+    {
+      "title": "情態助動詞 \"Might\" vs \"May\"",
+      "rule": "兩者都表示可能性，'might' 通常表示可能性較低或更不確定，'may' 則可能性較高。",
+      "examples": [
+        "I might work on my embedded project later. (我等一下可能會做我的嵌入式專案。)",
+        "It may rain, so bring an umbrella. (可能會下雨，所以帶把傘。)",
+        "We might explore a new AI tool next week. (我們下週可能會探索一個新的 AI 工具。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末你做什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "今日は仕事がありません。",
+      "example_zh": "今天沒有工作。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "自由な時間がありますか？",
+      "example_zh": "你有空閒時間嗎？"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "嗜好",
+      "example": "私の趣味はゲームです。",
+      "example_zh": "我的嗜好是玩遊戲。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作",
+      "example": "IoTデバイスを作りたいです。",
+      "example_zh": "我想製作 IoT 裝置。"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看",
+      "example": "映画を見ますか？",
+      "example_zh": "你看電影嗎？"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "友達と会います。",
+      "example_zh": "我會見朋友。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "週末は楽しいです。",
+      "example_zh": "週末很快樂。"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點",
+      "example": "日本語が少し話せます。",
+      "example_zh": "我會說一點點日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "表示「想要做某事」的願望或慾望，將動詞的ます形去掉ます，再接續 たいです。",
+      "examples": [
+        "私は日本語を勉強したいです。(Watashi wa Nihongo o benkyou shitai desu.) - 我想學習日文。",
+        "新しいAIツールを使いたいです。(Atarashii AI tsuuru o tsukaitai desu.) - 我想使用新的AI工具。"
+      ]
+    },
+    {
+      "title": "名詞 + は + (形容詞/名詞) + です",
+      "structure": "名詞 + は + (形容詞/名詞) + です",
+      "rule": "這是最基本的肯定句型，表示「A是B」或「A是(形容詞)」，は是提示助詞。",
+      "examples": [
+        "これは私のIoTプロジェクトです。(Kore wa watashi no IoT purojekuto desu.) - 這是我的IoT專案。",
+        "週末は楽しいです。(Shuumatsu wa tanoshii desu.) - 週末很快樂。"
+      ]
+    }
+  ]
+}
