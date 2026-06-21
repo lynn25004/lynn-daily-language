@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "裝置韌體程式",
+      "example": "The team is updating the device firmware this week.",
+      "example_zh": "團隊這週在更新裝置的韌體。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修正錯誤",
+      "example": "I spent all morning debugging this code.",
+      "example_zh": "我整個早上都在為這段程式碼除錯。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品或概念原型",
+      "example": "We need to build a prototype to test the idea.",
+      "example_zh": "我們需要打造一個原型來測試這個想法。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化或最佳化",
+      "example": "Can you optimize the code for better performance?",
+      "example_zh": "你能優化這段程式碼以提高效能嗎？"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇、空閒時間",
+      "example": "What do you usually do in your leisure time?",
+      "example_zh": "你閒暇時通常會做些什麼？"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好、興趣",
+      "example": "My main hobby is playing video games.",
+      "example_zh": "我的主要嗜好是玩電玩。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、恢復精力",
+      "example": "I need to recharge my energy this weekend.",
+      "example_zh": "我這個週末需要好好充電。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "That's a really innovative solution to the problem.",
+      "example_zh": "那是個非常創新的問題解決方案。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "We need to collaborate closely on this project.",
+      "example_zh": "我們在這個專案上需要密切合作。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Please give me some feedback on my presentation.",
+      "example_zh": "請給我一些關於我簡報的回饋。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "用於描述現實且可能發生的情況及其結果，結構為「If + S + V (present simple), S + will + V (base form)」。",
+      "examples": [
+        "If it rains, we will stay home. (如果下雨，我們就會待在家。)",
+        "If you finish early, we can grab coffee. (如果你早點完成，我們可以去喝咖啡。)",
+        "If the system crashes, I'll restart it. (如果系統當機，我會重啟它。)"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs with \"Look\"",
+      "rule": "動詞片語由動詞和介系詞/副詞組成，意思通常與原動詞不同，常在口語中使用，如 look forward to (期待)、look up (查詢)、look into (調查)。",
+      "examples": [
+        "I'm looking forward to the weekend. (我期待著這個週末。)",
+        "Could you look up this word in the dictionary? (你能在字典裡查這個字嗎？)",
+        "The team will look into the issue tomorrow. (團隊明天會調查這個問題。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おやすみ",
+      "kanji_romaji": "お休み / oyasumi",
+      "meaning": "休息、晚安",
+      "example": "ゆっくりおやすみください。",
+      "example_zh": "請好好休息。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか。",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "げつようび",
+      "kanji_romaji": "月曜日 / getsuyoubi",
+      "meaning": "星期一",
+      "example": "月曜日は仕事があります。",
+      "example_zh": "星期一有工作。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "この本はとても面白いです。",
+      "example_zh": "這本書很有趣。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "每天學習日文。"
+    },
+    {
+      "kana": "かぞく",
+      "kanji_romaji": "家族 / kazoku",
+      "meaning": "家庭、家人",
+      "example": "家族と週末を過ごします。",
+      "example_zh": "和家人一起度過週末。"
+    },
+    {
+      "kana": "りょうり",
+      "kanji_romaji": "料理 / ryouri",
+      "meaning": "料理",
+      "example": "私は料理が好きです。",
+      "example_zh": "我喜歡做菜。"
+    },
+    {
+      "kana": "つかれる",
+      "kanji_romaji": "疲れる / tsukareru",
+      "meaning": "疲憊",
+      "example": "今日はとても疲れた。",
+      "example_zh": "今天好累。"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "今週はとても忙しいです。",
+      "example_zh": "這週非常忙碌。"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "讀",
+      "example": "本を読みます。",
+      "example_zh": "讀書。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "用於表示「名詞1是名詞2」的肯定句型，は是主題標記助詞，です是禮貌的肯定結尾。",
+      "examples": [
+        "私はエンジニアです。（我是工程師。）",
+        "これは私の本です。（這是我的書。）"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょうか",
+      "structure": "動詞(ます形) + ましょうか",
+      "rule": "用於向對方提出建議、邀請或提供幫助，表示「要不要…呢？」或「我來…吧？」。",
+      "examples": [
+        "一緒に映画を見に行きましょうか。（要不要一起去看電影呢？）",
+        "手伝いましょうか。（我來幫忙吧？）"
+      ]
+    }
+  ]
+}
