@@ -1,0 +1,187 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "早期模型或原型",
+      "example": "We're building a working prototype for the new IoT device.",
+      "example_zh": "我們正在為新的物聯網設備打造一個可行原型。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、佈局（系統、軟體）",
+      "example": "Let's deploy the updated firmware to the test servers.",
+      "example_zh": "讓我們把更新的韌體佈署到測試伺服器上。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、合併",
+      "example": "We need to integrate the new sensor data into our system.",
+      "example_zh": "我們需要將新的感測器數據整合到我們的系統中。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化（流程、性能）",
+      "example": "Can we optimize the power consumption of this chip?",
+      "example_zh": "我們能優化這塊晶片的功耗嗎？"
+    },
+    {
+      "word": "sustain",
+      "pos": "v.",
+      "meaning": "維持、支撐（尤指永續發展）",
+      "example": "Renewable energy helps sustain our planet.",
+      "example_zh": "再生能源有助於維持我們的地球。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent the morning troubleshooting a network issue.",
+      "example_zh": "我花了整個上午排除網路問題。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的、效能高的",
+      "example": "This new design is much more energy efficient.",
+      "example_zh": "這個新設計的能源效率高多了。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作",
+      "example": "Let's collaborate on this project next week.",
+      "example_zh": "我們下週來一起合作這個專案吧。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、有革新性的",
+      "example": "Their approach to AI is truly innovative.",
+      "example_zh": "他們對 AI 的方法確實很創新。"
+    },
+    {
+      "word": "streamline",
+      "pos": "v.",
+      "meaning": "簡化（流程、作業）",
+      "example": "We need to streamline our development process.",
+      "example_zh": "我們需要簡化我們的開發流程。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "當動作的對象比執行者重要，或執行者不確定/不重要時使用。",
+      "examples": [
+        "The system was updated last night. (系統已於昨晚更新。)",
+        "The bug will be fixed soon. (那個錯誤很快就會被修復。)",
+        "This report needs to be submitted by Friday. (這份報告需要在週五前提交。)"
+      ]
+    },
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "表示從過去開始、持續到現在的動作或經驗，或剛完成的動作。",
+      "examples": [
+        "I have worked on embedded systems for five years. (我在嵌入式系統上工作了五年。)",
+        "She has just finished debugging the code. (她剛剛完成程式碼的除錯。)",
+        "Have you ever used this AI tool? (你曾經用過這個 AI 工具嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "でんち",
+      "kanji_romaji": "電池 / denchi",
+      "meaning": "電池",
+      "example": "このでんちは、いくついる？",
+      "example_zh": "這個需要幾個電池？"
+    },
+    {
+      "kana": "つうしん",
+      "kanji_romaji": "通信 / tsuushin",
+      "meaning": "通訊",
+      "example": "ネットワークのつうしんがへんです。",
+      "example_zh": "網路的通訊有點奇怪。"
+    },
+    {
+      "kana": "きかい",
+      "kanji_romaji": "機械 / kikai",
+      "meaning": "機械",
+      "example": "このきかいは、おもしろいですね。",
+      "example_zh": "這台機械很有趣呢。"
+    },
+    {
+      "kana": "じょうほう",
+      "kanji_romaji": "情報 / jouhou",
+      "meaning": "情報",
+      "example": "あたらしいじょうほうを教えてください。",
+      "example_zh": "請告訴我新的情報。"
+    },
+    {
+      "kana": "けいかく",
+      "kanji_romaji": "計画 / keikaku",
+      "meaning": "計畫",
+      "example": "あしたのけいかくは、なんですか。",
+      "example_zh": "明天的計畫是什麼？"
+    },
+    {
+      "kana": "しせつ",
+      "kanji_romaji": "施設 / shisetsu",
+      "meaning": "設施",
+      "example": "さいせいかのうなエネルギーのしせつ。",
+      "example_zh": "可再生的能源設施。"
+    },
+    {
+      "kana": "ほうほう",
+      "kanji_romaji": "方法 / houhou",
+      "meaning": "方法",
+      "example": "このほうほうで、うまくいきました。",
+      "example_zh": "用這個方法成功了。"
+    },
+    {
+      "kana": "かんたん",
+      "kanji_romaji": "簡単 / kantan",
+      "meaning": "簡單",
+      "example": "もっとかんたんに、やりたいです。",
+      "example_zh": "想用更簡單的方式做。"
+    },
+    {
+      "kana": "さくせい",
+      "kanji_romaji": "作成 / sakusei",
+      "meaning": "製作、創建",
+      "example": "このずをさくせいしました。",
+      "example_zh": "我製作了這張圖。"
+    },
+    {
+      "kana": "ぎじゅつ",
+      "kanji_romaji": "技術 / gijutsu",
+      "meaning": "技術",
+      "example": "あたらしいぎじゅつに、きょうみがあります。",
+      "example_zh": "對新的技術有興趣。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「～ています」 (～te imasu)",
+      "structure": "動詞て形 + います",
+      "rule": "表示正在進行的動作、狀態的持續，或是習慣性的動作。",
+      "examples": [
+        "いま、しごとをしています。（我現在正在工作。）",
+        "かれは にほんごを べんきょうしています。（他正在學習日文。）",
+        "まいにち、こうえんを さんぽしています。（我每天在公園散步。）"
+      ]
+    },
+    {
+      "title": "「～なければなりません」 (～nakereba narimasen)",
+      "structure": "動詞ない形（去掉い） + ければなりません",
+      "rule": "表示「必須做某事」的義務或必要性。",
+      "examples": [
+        "もう かえらなければなりません。（我必須回去了。）",
+        "しごとを おわらなければなりません。（我必須完成工作。）"
+      ]
+    }
+  ]
+}
