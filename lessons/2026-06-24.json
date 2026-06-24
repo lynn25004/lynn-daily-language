@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型產品，初版",
+      "example": "We're building a prototype for the new IoT device.",
+      "example_zh": "我們正在為新的物聯網設備建造一個原型機。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合",
+      "example": "We need to integrate this module into the system.",
+      "example_zh": "我們需要將這個模組整合到系統中。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，最佳化",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境，情況",
+      "example": "Consider a few different test scenarios, please.",
+      "example_zh": "請考慮幾種不同的測試情境。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見",
+      "example": "We got great feedback from the user test.",
+      "example_zh": "我們從用戶測試中得到了很棒的回饋。"
+    },
+    {
+      "word": "allocate",
+      "pos": "v.",
+      "meaning": "分配，劃撥",
+      "example": "We need to allocate resources for this project.",
+      "example_zh": "我們需要為這個專案分配資源。"
+    },
+    {
+      "word": "milestone",
+      "pos": "n.",
+      "meaning": "里程碑，重要階段",
+      "example": "Reaching this milestone is a big deal for us.",
+      "example_zh": "達到這個里程碑對我們來說意義重大。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯",
+      "example": "I spent all morning trying to debug this circuit.",
+      "example_zh": "我花了一整個早上試圖為這個電路除錯。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，配置",
+      "example": "We're ready to deploy the new software update.",
+      "example_zh": "我們準備好部署新的軟體更新了。"
+    },
+    {
+      "word": "collaboration",
+      "pos": "n.",
+      "meaning": "合作，協作",
+      "example": "Our team values strong collaboration always.",
+      "example_zh": "我們的團隊總是重視緊密的合作。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "用於描述未來可能發生的真實情境及其結果，句型為「If + 現在簡單式, will + 原形動詞」。",
+      "examples": [
+        "If the code works, we will deploy it tomorrow. (如果程式碼有效，我們明天就會部署。)",
+        "If you finish early, you can go home. (如果你提早完成，你可以回家。)",
+        "If it rains, we'll stay indoors and play games. (如果下雨，我們就待在室內玩遊戲。)"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs with \"up\"",
+      "rule": "動詞與副詞\"up\"結合，常表示完成、建立、增加或達到某種狀態，語氣通常比較口語。",
+      "examples": [
+        "Let's set up the new server this afternoon. (我們今天下午來架設新伺服器吧。)",
+        "Can you come up with a new idea for the project? (你能為這個專案想出一個新點子嗎？)",
+        "He wants to brush up his Japanese skills. (他想溫習一下他的日文能力。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょうはすいようびです。",
+      "example_zh": "今天是星期三。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしのしごとはエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち日本語をべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつになにをしますか。",
+      "example_zh": "你週末要做什麼？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "ごごからかいぎがあります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "日本語のじかんはたのしいです。",
+      "example_zh": "日文課很有趣。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいプロジェクトがはじまります。",
+      "example_zh": "新的專案要開始了。"
+    },
+    {
+      "kana": "らいしゅう",
+      "kanji_romaji": "来週 / raishuu",
+      "meaning": "下週",
+      "example": "らいしゅう、しんしいちがいきます。",
+      "example_zh": "下週，我會去新竹。"
+    },
+    {
+      "kana": "だいじょうぶ",
+      "kanji_romaji": "大丈夫 / daijoubu",
+      "meaning": "沒問題，沒事",
+      "example": "これでだいじょうぶですか。",
+      "example_zh": "這樣沒問題嗎？"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂，明白",
+      "example": "日本語がすこしわかります。",
+      "example_zh": "我懂一點日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞ます形（肯定、否定、過去式）",
+      "structure": "動詞(ます形) + ます/ません/ました/ませんでした",
+      "rule": "用於表示禮貌的動詞現在肯定、現在否定、過去肯定、過去否定。是日常對話基礎。",
+      "examples": [
+        "わたしはまいにちしごとをします。 (我每天工作。)",
+        "きのうはかいぎがありませんでした。 (昨天沒有會議。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です/ではありません",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "「は」是主題標示助詞，用來表明句子的主題；「です」是禮貌的判斷助動詞，用於肯定句，「ではありません」用於否定句。",
+      "examples": [
+        "わたしはエンジニアです。 (我是工程師。)",
+        "これはわたしのノートではありません。 (這不是我的筆記本。)"
+      ]
+    }
+  ]
+}
