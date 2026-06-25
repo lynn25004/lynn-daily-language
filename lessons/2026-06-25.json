@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施",
+      "example": "We need to implement this new feature by next week.",
+      "example_zh": "我們下週前要實作這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Can you help me optimize this code for better performance?",
+      "example_zh": "你能幫我優化這段程式碼以提升效能嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障",
+      "example": "I spent hours trying to troubleshoot the network issue.",
+      "example_zh": "我花了數小時試著排除網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、雛形",
+      "example": "We're building a prototype for our new IoT device.",
+      "example_zh": "我們正在為新的物聯網裝置打造原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、集成",
+      "example": "We plan to integrate AI into our renewable energy system.",
+      "example_zh": "我們計劃將AI整合到我們的再生能源系統中。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "特色、功能",
+      "example": "This new smartphone has some really cool AI features.",
+      "example_zh": "這款新智慧型手機有一些非常酷的AI功能。"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤",
+      "example": "My daily commute takes about an hour, mostly by train.",
+      "example_zh": "我每天通勤大約一小時，主要搭火車。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The project deadline is approaching fast, we must hurry!",
+      "example_zh": "專案截止日期快到了，我們必須加快速度！"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效率的",
+      "example": "We need an efficient way to manage data from sensors.",
+      "example_zh": "我們需要有效率的方式來管理感測器數據。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控、監視",
+      "example": "We use sensors to monitor the air quality in the office.",
+      "example_zh": "我們用感測器監控辦公室的空氣品質。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "過去完成式 (Past Perfect)",
+      "rule": "用於描述在過去某個時間點之前，已經完成或發生的動作。",
+      "examples": [
+        "By the time I arrived, they had already fixed the bug. (我到的時候，他們已經修好那個錯誤了。)",
+        "She had finished her report before the deadline. (她在截止日期前就完成了報告。)",
+        "We had never seen such a complex system until then. (在那之前，我們從未見過如此複雜的系統。)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerund) 作為主詞或受詞",
+      "rule": "動名詞是動詞的-ing形式，可當名詞使用，表示一個動作或活動。",
+      "examples": [
+        "Debugging can be really time-consuming sometimes. (除錯有時候真的會很耗時。)",
+        "I enjoy learning about new IoT devices. (我很喜歡學習新的物聯網裝置。)",
+        "Designing embedded systems is my passion. (設計嵌入式系統是我的熱情所在。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日、日本語をべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "エンジニアのしごとはとてもおもしろいです。",
+      "example_zh": "工程師的工作很有趣。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "わたしはまいにちコーヒーをのみます。",
+      "example_zh": "我每天喝咖啡。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありますか。",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便",
+      "example": "このスマホはとてもべんりです。",
+      "example_zh": "這支智慧型手機非常方便。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "でんきをつけてください。",
+      "example_zh": "請開燈。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "あたらしいロボットをつくりたいです。",
+      "example_zh": "我想製作新的機器人。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをつかいましょう。",
+      "example_zh": "我們來使用這個工具吧。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしのかいしゃはたいぺいにあります。",
+      "example_zh": "我的公司在台北。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、很... (程度副詞)",
+      "example": "日本語のぶんぽうはたいへんですね。",
+      "example_zh": "日文文法很難/很辛苦呢。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞 + は + 名詞 + です",
+      "rule": "這是日文最基本的肯定句型，用於表示「A是B」或介紹事物。",
+      "examples": [
+        "わたしはエンジニアです。(我是工程師。)",
+        "これはわたしのノートパソコンです。(這是我的筆記型電腦。)"
+      ]
+    },
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "將動詞變成て形後，加上「ください」表示禮貌的請求或指示，意思是「請做...」。",
+      "examples": [
+        "ここにすわってください。(請坐這裡。)",
+        "ゆっくりはなしてください。(請慢慢說。)"
+      ]
+    }
+  ]
+}
