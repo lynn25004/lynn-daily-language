@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "控制硬體的程式",
+      "example": "The new firmware update fixed a lot of bugs.",
+      "example_zh": "新的韌體更新修復了許多錯誤。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "We're building a prototype for our new IoT device.",
+      "example_zh": "我們正在為新的物聯網設備製作原型。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、配置",
+      "example": "We need to deploy the new software by next week.",
+      "example_zh": "我們需要在下週前部署新的軟體。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Can you help optimize this code for better performance?",
+      "example_zh": "你能幫忙優化這段程式碼以提升效能嗎？"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Please give me some feedback on my presentation.",
+      "example_zh": "請給我一些關於我簡報的回饋。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Let's collaborate on this project to finish faster.",
+      "example_zh": "我們來合作這個專案，以便更快完成。"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤、通勤路程",
+      "example": "My commute to work usually takes an hour.",
+      "example_zh": "我通勤上班通常需要一小時。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "Renewable energy is key for a sustainable future.",
+      "example_zh": "再生能源是永續未來的關鍵。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、狀況",
+      "example": "Let's consider a few different scenarios for this problem.",
+      "example_zh": "讓我們考慮這個問題的幾種不同情境。"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇、空閒時間",
+      "example": "What do you like to do in your leisure time?",
+      "example_zh": "你喜歡在閒暇時間做什麼？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "動詞片語 (Phrasal Verbs)",
+      "rule": "動詞與介系詞或副詞結合，形成新意思的動詞片語，常用於口語，使表達更自然。",
+      "examples": [
+        "I need to set up my new monitor. (我需要安裝我的新螢幕。)",
+        "Did you come up with any good ideas? (你有想到什麼好點子嗎？)",
+        "Let's catch up sometime next week. (我們下週找時間聊聊吧。)"
+      ]
+    },
+    {
+      "title": "條件句 (Conditional Sentences Type 1)",
+      "rule": "用於表達現在或未來可能發生且結果也可能實現的狀況，結構為 If + 現在式, will + 動詞原形。",
+      "examples": [
+        "If it rains tomorrow, we will stay home. (如果明天會下雨，我們就待在家。)",
+        "If you finish your tasks, you can go home early. (如果你完成任務，就可以早點回家。)",
+        "I'll buy a new gadget if it's on sale. (如果它特價，我就會買一個新裝置。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしはしごとがすきです。",
+      "example_zh": "我喜歡我的工作。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "まいにち にほんごをべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつはなにをしますか。",
+      "example_zh": "週末你會做什麼呢？"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "わたしのしゅみはコンピューターです。",
+      "example_zh": "我的興趣是電腦。"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "ともだちといっしょにあそびます。",
+      "example_zh": "我會和朋友一起玩。"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "どこ / doko",
+      "meaning": "哪裡",
+      "example": "トイレはどこですか。",
+      "example_zh": "廁所在哪裡？"
+    },
+    {
+      "kana": "いつ",
+      "kanji_romaji": "いつ / itsu",
+      "meaning": "何時",
+      "example": "パーティーはいつですか。",
+      "example_zh": "派對是什麼時候？"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "讀",
+      "example": "ほんをよみます。",
+      "example_zh": "我讀書。"
+    },
+    {
+      "kana": "かく",
+      "kanji_romaji": "書く / kaku",
+      "meaning": "寫",
+      "example": "てがみをかきます。",
+      "example_zh": "我寫信。"
+    },
+    {
+      "kana": "きく",
+      "kanji_romaji": "聞く / kiku",
+      "meaning": "聽、問",
+      "example": "おんがくをききます。",
+      "example_zh": "我聽音樂。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞「ます形」 (Present/Past, Affirmative/Negative)",
+      "structure": "動詞(ます形)",
+      "rule": "用來表示現在或未來的動作、習慣、意願，以及過去發生的動作或狀態，是禮貌體基本用法。",
+      "examples": [
+        "わたしはまいにちコーヒーをのみます。 (我每天喝咖啡。)",
+        "きのう、えいがをみませんでした。 (昨天我沒有看電影。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です / じゃありません (N1是N2 / N1不是N2)",
+      "structure": "N1 は N2 です / N1 は N2 じゃありません",
+      "rule": "用於說明或否定名詞之間的關係，是日文最基本的肯定與否定句型，用來介紹或描述事物。",
+      "examples": [
+        "わたしはエンジニアです。 (我是工程師。)",
+        "これはわたしのほんじゃありません。 (這不是我的書。)"
+      ]
+    }
+  ]
+}
