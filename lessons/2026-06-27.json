@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "嵌入式系統韌體",
+      "example": "Updating the firmware on this device usually fixes small glitches quickly.",
+      "example_zh": "更新這裝置的韌體通常能快速修復小問題。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決問題、故障排除",
+      "example": "I spent an hour trying to troubleshoot my Wi-Fi connection.",
+      "example_zh": "我花了一小時試圖排除我的 Wi-Fi 連線問題。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize this code for better performance.",
+      "example_zh": "我們需要優化這段程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、雛形",
+      "example": "They are building a new prototype for their IoT device.",
+      "example_zh": "他們正在為他們的物聯網設備建造一個新原型。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "Renewable energy is key for a sustainable future.",
+      "example_zh": "再生能源是永續未來的關鍵。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "It's challenging to integrate old systems with new ones efficiently.",
+      "example_zh": "將舊系統與新系統有效整合是項挑戰。"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "休閒、空閒時間",
+      "example": "What do you usually do in your leisure time?",
+      "example_zh": "你通常在閒暇時間做什麼？"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "That's an innovative approach to solving complex problems.",
+      "example_zh": "那是個解決複雜問題的創新方法。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、場景",
+      "example": "Let's consider a few different scenarios for the project.",
+      "example_zh": "我們來考慮一下這個專案的幾種不同情境。"
+    },
+    {
+      "word": "update",
+      "pos": "n.",
+      "meaning": "更新、最新資訊",
+      "example": "Did you get the latest software update for your phone?",
+      "example_zh": "你的手機有收到最新的軟體更新嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Phrasal Verbs with \"look\"",
+      "rule": "動詞與介詞或副詞結合，產生新意義。如 look up (查閱), look into (調查), look forward to (期待)。",
+      "examples": [
+        "I'm looking forward to the weekend! (我好期待週末！)",
+        "Can you look up that word for me? (你可以幫我查那個字嗎？)",
+        "The team will look into the bug report. (團隊會調查那個錯誤報告。)"
+      ]
+    },
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "用於表達未來可能發生且結果真實的情境。結構是 If + 現在式動詞, S + will + 原形動詞。",
+      "examples": [
+        "If it rains tomorrow, we will stay home. (如果明天會下雨，我們就待在家。)",
+        "If you study hard, you will pass the exam. (如果你努力學習，你就會通過考試。)",
+        "If the system crashes, we will restart it. (如果系統當機，我們就會重啟它。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは なにを しますか。",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣、嗜好",
+      "example": "わたしの しゅみは どくしょです。",
+      "example_zh": "我的興趣是閱讀。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "けいかく",
+      "kanji_romaji": "計画 / keikaku",
+      "meaning": "計畫",
+      "example": "しゅうまつの けいかくが ありますか。",
+      "example_zh": "你有週末計畫嗎？"
+    },
+    {
+      "kana": "としょかん",
+      "kanji_romaji": "図書館 / toshokan",
+      "meaning": "圖書館",
+      "example": "しゅうまつに としょかんへ いきます。",
+      "example_zh": "週末我要去圖書館。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的、難的",
+      "example": "この もんだいは むずかしいです。",
+      "example_zh": "這個問題很難。"
+    },
+    {
+      "kana": "かんたん",
+      "kanji_romaji": "簡単 / kantan",
+      "meaning": "簡單的",
+      "example": "この AI ツールは かんたんです。",
+      "example_zh": "這個 AI 工具很簡單。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "べんきょうする じかんが ありません。",
+      "example_zh": "我沒有時間學習。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "にほんごの べんきょうは たのしいです。",
+      "example_zh": "學習日語很有趣。"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "讀、閱讀",
+      "example": "ほんを よみます。",
+      "example_zh": "我讀書。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞-たいです (V-tai desu)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表達說話者「想要做某事」的願望或願望。是日常對話中很常用到的句型。",
+      "examples": [
+        "えいがを みたいです。(我想看電影。)",
+        "にほんごを はなしたいです。(我想說日語。)"
+      ]
+    },
+    {
+      "title": "動詞-ましょう (V-mashou)",
+      "structure": "動詞ます形 + ましょう",
+      "rule": "用於提出建議或邀請對方一起做某事，表達「一起做吧」的意願。",
+      "examples": [
+        "あした、いっしょに べんきょうしましょう。(明天我們一起學習吧。)",
+        "きっさてんに いきましょう。(我們去咖啡廳吧。)"
+      ]
+    }
+  ]
+}
