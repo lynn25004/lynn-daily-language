@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "We need to integrate the new sensor.",
+      "example_zh": "我們需要整合新的感測器。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本",
+      "example": "Let's test the new prototype.",
+      "example_zh": "我們來測試新原型吧。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、修正",
+      "example": "I spent hours debugging this code.",
+      "example_zh": "我花了數小時除錯這段程式碼。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的、穩定的",
+      "example": "Is this network connection reliable?",
+      "example_zh": "這個網路連線可靠嗎？"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率、效能",
+      "example": "We need to boost system efficiency.",
+      "example_zh": "我們需要提升系統效能。"
+    },
+    {
+      "word": "schedule",
+      "pos": "n.",
+      "meaning": "行程表、時程",
+      "example": "What's on your schedule today?",
+      "example_zh": "你今天的行程是什麼？"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Our team loves to collaborate.",
+      "example_zh": "我們團隊喜歡合作。"
+    },
+    {
+      "word": "flexible",
+      "pos": "adj.",
+      "meaning": "彈性的、可變通的",
+      "example": "My work hours are pretty flexible.",
+      "example_zh": "我的工作時間還挺彈性的。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、新穎的",
+      "example": "That's a super innovative idea!",
+      "example_zh": "那真是個超級創新的點子！"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、期限",
+      "example": "The project deadline is Friday.",
+      "example_zh": "專案的截止日是星期五。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Phrasal Verbs with \"up\" (片語動詞「up」)",
+      "rule": "搭配不同動詞，為動作增添完成、增加或向上等涵義，讓表達更生動。",
+      "examples": [
+        "Can you help me set up this device? (你能幫我設定這個裝置嗎？)",
+        "Remember to back up your data! (記得備份你的資料！)",
+        "I need to pick up some new skills. (我需要學習一些新技能。)"
+      ]
+    },
+    {
+      "title": "Future Continuous Tense (未來進行式)",
+      "rule": "用於表達未來某個特定時間點將會正在發生的動作或事件，強調過程。",
+      "examples": [
+        "This time next week, I'll be working on a new project. (下週這時候，我會正在做一個新專案。)",
+        "Tomorrow morning, I'll be reviewing the code. (明天早上，我會正在審閱程式碼。)",
+        "They will be presenting their IoT solution. (他們將會正在展示他們的物聯網解決方案。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每一天",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學日文。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私は会社へ行きます。",
+      "example_zh": "我去公司。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息，假日",
+      "example": "今日は会社が休みです。",
+      "example_zh": "今天公司休息。"
+    },
+    {
+      "kana": "たべる",
+      "kanji_romaji": "食べる / taberu",
+      "meaning": "吃",
+      "example": "昼ごはんを食べます。",
+      "example_zh": "吃午飯。"
+    },
+    {
+      "kana": "のむ",
+      "kanji_romaji": "飲む / nomu",
+      "meaning": "喝",
+      "example": "コーヒーを飲みますか。",
+      "example_zh": "你要喝咖啡嗎？"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "明白，懂",
+      "example": "英語がわかりますか。",
+      "example_zh": "你懂英文嗎？"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツールを使います。",
+      "example_zh": "我使用這個AI工具。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦，不得了",
+      "example": "仕事は大変ですが、楽しいです。",
+      "example_zh": "工作很辛苦，但是很開心。"
+    },
+    {
+      "kana": "しすてむ",
+      "kanji_romaji": "システム / shisutemu",
+      "meaning": "系統",
+      "example": "IoTシステムを開発します。",
+      "example_zh": "我開發IoT系統。"
+    },
+    {
+      "kana": "ぷろじぇくと",
+      "kanji_romaji": "プロジェクト / purojekuto",
+      "meaning": "專案",
+      "example": "新しいプロジェクトが始まります。",
+      "example_zh": "新專案要開始了。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です (N1はN2です)",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "用於描述「N1是N2」，是日文最基本的肯定句型。主語後面接「は」，然後是述語和肯定結尾「です」。",
+      "examples": [
+        "これは私のシステムです。(這是我的系統。)",
+        "私はエンジニアです。(我是工程師。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + たいです (想做某事)",
+      "structure": "動詞(ます形去ます) + たいです",
+      "rule": "將動詞的ます形去除ます，加上「たいです」，表示「想要做...」的心情或意願。",
+      "examples": [
+        "日本語を勉強したいです。(我想學日文。)",
+        "新しいIoTデバイスを作りたいです。(我想製作新的IoT設備。)"
+      ]
+    }
+  ]
+}
