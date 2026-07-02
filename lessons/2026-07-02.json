@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同部分",
+      "example": "We need to integrate the new module.",
+      "example_zh": "我們需要整合這個新模組。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步模型",
+      "example": "Let's build a quick prototype first.",
+      "example_zh": "我們先快速建一個原型吧。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、上線",
+      "example": "When can we deploy this new feature?",
+      "example_zh": "我們什麼時候可以部署這個新功能？"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、找出錯誤",
+      "example": "I'm trying to debug this tricky bug.",
+      "example_zh": "我正在努力解決這個棘手的錯誤。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、改進",
+      "example": "We need to optimize the system performance.",
+      "example_zh": "我們需要優化系統效能。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "反饋、意見回饋",
+      "example": "Your feedback is really helpful.",
+      "example_zh": "你的反饋真的很有幫助。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案、答案",
+      "example": "Do you have any good solutions?",
+      "example_zh": "你有什麼好解決方案嗎？"
+    },
+    {
+      "word": "resource",
+      "pos": "n.",
+      "meaning": "資源、資料",
+      "example": "We need more learning resources.",
+      "example_zh": "我們需要更多學習資源。"
+    },
+    {
+      "word": "challenge",
+      "pos": "n.",
+      "meaning": "挑戰、難題",
+      "example": "This project is a big challenge.",
+      "example_zh": "這個專案是一個大挑戰。"
+    },
+    {
+      "word": "achieve",
+      "pos": "v.",
+      "meaning": "達成、實現目標",
+      "example": "I hope to achieve my TOEIC goal!",
+      "example_zh": "我希望能達成我的多益目標！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "情態助動詞 'Should' / 'Shouldn't'",
+      "rule": "'Should' 用於表達建議或義務，表示「應該」做某事；'Shouldn't' 則表示「不應該」。",
+      "examples": [
+        "You should review your resume tonight. (你今晚應該複習一下你的履歷。)",
+        "We should integrate AI tools into our workflow. (我們應該將AI工具整合到工作流程中。)",
+        "You shouldn't worry too much about the interview. (你不應該太擔心面試。)"
+      ]
+    },
+    {
+      "title": "未來簡單式 'Will' / 'Be going to'",
+      "rule": "兩者都表示未來會發生的事情。'Will'常用於即時決定、預測；'Be going to'常用於已計畫、有根據的預測。",
+      "examples": [
+        "I will start learning new embedded systems skills next week. (我下週將開始學習新的嵌入式系統技能。)",
+        "Are you going to attend the IoT seminar tomorrow? (你明天會去參加物聯網研討會嗎？)",
+        "I think the company will hire more engineers soon. (我想公司很快會僱用更多工程師。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち にほんご を べんきょう します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂、明白",
+      "example": "この もんだい が わかりません。",
+      "example_zh": "我不懂這個問題。"
+    },
+    {
+      "kana": "する",
+      "kanji_romaji": "する / suru",
+      "meaning": "做",
+      "example": "なに を しますか。",
+      "example_zh": "你要做什麼？"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "にほんご は むずかしい ですか。",
+      "example_zh": "日文很難嗎？"
+    },
+    {
+      "kana": "かんたん",
+      "kanji_romaji": "簡単 / kantan",
+      "meaning": "簡單的",
+      "example": "この しごと は かんたん です。",
+      "example_zh": "這份工作很簡單。"
+    },
+    {
+      "kana": "いま",
+      "kanji_romaji": "今 / ima",
+      "meaning": "現在",
+      "example": "いま、なんじ ですか。",
+      "example_zh": "現在幾點了？"
+    },
+    {
+      "kana": "しつもん",
+      "kanji_romaji": "質問 / shitsumon",
+      "meaning": "問題、提問",
+      "example": "しつもん が ありますか。",
+      "example_zh": "你有問題嗎？"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "おもしろい / omoshiroi",
+      "meaning": "有趣的",
+      "example": "AI ツール は おもしろい ですね。",
+      "example_zh": "AI 工具很有趣呢。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "あたらしい しごと を さがしています。",
+      "example_zh": "我正在找新工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "どこ の かいしゃ ですか。",
+      "example_zh": "是哪間公司？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "助詞「で」表示動作場所",
+      "structure": "場所名詞 + で + 動詞(ます)",
+      "rule": "助詞「で」用來表示動作或事件發生的地點，例如在某個地方吃飯、學習或工作。",
+      "examples": [
+        "かいしゃ で しごと を します。(在公司工作。)",
+        "カフェ で コーヒー を のみます。(在咖啡廳喝咖啡。)"
+      ]
+    },
+    {
+      "title": "助詞「が」表示存在",
+      "structure": "場所名詞 + に + もの/ひと + が + あります/います",
+      "rule": "助詞「が」搭配「あります」(無生命物體) 或「います」(有生命物體)，表示某物或某人存在於某地點。",
+      "examples": [
+        "つくえ の うえ に 本 が あります。(桌子上有書。)",
+        "へや に ねこ が います。(房間裡有貓。)"
+      ]
+    }
+  ]
+}
