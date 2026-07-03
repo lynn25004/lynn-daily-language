@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "專案、計畫（5-12 字）",
+      "example": "My team handles a new IoT project.",
+      "example_zh": "我的團隊負責一個新的物聯網專案。"
+    },
+    {
+      "word": "schedule",
+      "pos": "n.",
+      "meaning": "時程表、計畫表",
+      "example": "Do we have a clear schedule for this?",
+      "example_zh": "我們有這個的明確時程表嗎？"
+    },
+    {
+      "word": "develop",
+      "pos": "v.",
+      "meaning": "開發、發展、研發",
+      "example": "We need to develop new software features.",
+      "example_zh": "我們需要開發新的軟體功能。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案、解答",
+      "example": "We found a good solution to this problem.",
+      "example_zh": "我們找到了這個問題的好解決方案。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋意見、反應",
+      "example": "I always welcome your honest feedback.",
+      "example_zh": "我隨時歡迎你誠實的回饋。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合、併入",
+      "example": "Let's integrate this module smoothly.",
+      "example_zh": "讓我們順利整合這個模組吧。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The deadline is tight, but we can do it.",
+      "example_zh": "截止日期很趕，但我們可以做到。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "偵錯、除錯（程式）",
+      "example": "I spent hours trying to debug this code.",
+      "example_zh": "我花了好幾個小時嘗試偵錯這段程式碼。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作、共同工作",
+      "example": "We should collaborate more on this task.",
+      "example_zh": "我們在這個任務上應該多合作。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品、雛形",
+      "example": "The team built the first prototype.",
+      "example_zh": "團隊完成了第一個原型。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "動詞片語 (Phrasal Verbs)",
+      "rule": "動詞片語由動詞與介系詞或副詞組成，意思常與原動詞不同，讓表達更生動。",
+      "examples": [
+        "Let's set up the new server. (我們來設定新伺服器吧。)",
+        "Can you figure out this bug? (你能找出這個錯誤嗎？)",
+        "I need to catch up on my emails. (我需要趕一下我的信件。)"
+      ]
+    },
+    {
+      "title": "表達義務或必要 (Expressing Obligation/Necessity)",
+      "rule": "使用 must, have to, need to 表達義務、必要或重要性，指出某事必須完成。",
+      "examples": [
+        "We must finish this report today. (我們今天必須完成這份報告。)",
+        "I have to attend a meeting now. (我現在必須去參加一個會議。)",
+        "You need to update the software soon. (你很快就需要更新軟體。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私は毎日会社に行きます。",
+      "example_zh": "我每天去公司。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作、事情",
+      "example": "今日の仕事は大変でした。",
+      "example_zh": "今天的工作很辛苦。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "午後から会議があります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "仕事の時間が足りません。",
+      "example_zh": "工作時間不夠。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始（他動詞）",
+      "example": "新しいプロジェクトを始めます。",
+      "example_zh": "開始新專案。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束（自動詞）",
+      "example": "会議は５時に終わります。",
+      "example_zh": "會議五點結束。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "少し休憩しませんか。",
+      "example_zh": "要不要休息一下？"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "この問題は少し難しいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "てつだう",
+      "kanji_romaji": "手伝う / tetsudau",
+      "meaning": "幫忙、協助",
+      "example": "何か手伝いましょうか。",
+      "example_zh": "需要我幫忙嗎？"
+    },
+    {
+      "kana": "ほうこく",
+      "kanji_romaji": "報告 / houkoku",
+      "meaning": "報告",
+      "example": "明日の朝、報告します。",
+      "example_zh": "明天早上會報告。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 (動詞 Te 形)",
+      "structure": "動詞て形",
+      "rule": "動詞て形有多種用途，例如連接動作、表示原因、提出請求或表示狀態。",
+      "examples": [
+        "資料を読んで、会議に行きます。(讀完資料再去開會。)",
+        "コーヒーを飲んでください。(請喝咖啡。)"
+      ]
+    },
+    {
+      "title": "動詞ます形 (動詞 Masu 形)",
+      "structure": "動詞ます形",
+      "rule": "動詞ます形是日文中最基本的禮貌形，用於日常對話中表達動作或狀態。",
+      "examples": [
+        "毎日、会社で働きます。(我每天在公司工作。)",
+        "新しい技術を勉強します。(我學習新的技術。)"
+      ]
+    }
+  ]
+}
