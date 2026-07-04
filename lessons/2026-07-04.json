@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "weekend",
+      "pos": "n.",
+      "meaning": "週末假期，一週的尾聲",
+      "example": "What are your plans for the upcoming weekend?",
+      "example_zh": "你這個即將到來的週末有什麼計畫嗎？"
+    },
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "專案；計畫；研究項目",
+      "example": "I'm working on a cool IoT project in my free time.",
+      "example_zh": "我閒暇時正在做一個很酷的物聯網專案。"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索；探究；考察",
+      "example": "Let's explore some new AI tools this Saturday!",
+      "example_zh": "這個星期六我們一起來探索一些新的AI工具吧！"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；雛形；樣品",
+      "example": "We need to build a prototype to test the design.",
+      "example_zh": "我們需要建立一個原型來測試設計。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；最佳化；使完善",
+      "example": "I need to optimize my code for better performance.",
+      "example_zh": "我需要優化我的程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好；業餘愛好",
+      "example": "What kind of hobbies do you enjoy on weekends?",
+      "example_zh": "你週末喜歡什麼樣的嗜好呢？"
+    },
+    {
+      "word": "algorithm",
+      "pos": "n.",
+      "meaning": "演算法；計算程式",
+      "example": "This new algorithm makes our AI much faster.",
+      "example_zh": "這個新演算法讓我們的AI快了很多。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯；找出並修正錯誤",
+      "example": "It took me hours to debug that tricky software bug.",
+      "example_zh": "我花了數小時來除錯那個棘手的軟體錯誤。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的；可更新的",
+      "example": "Renewable energy is crucial for our planet's future.",
+      "example_zh": "再生能源對我們地球的未來至關重要。"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "設備；裝置；儀器",
+      "example": "My new smart home device is super cool and convenient.",
+      "example_zh": "我的新智慧家庭裝置超級酷又方便。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式：going to",
+      "rule": "「be going to」用於表達已經決定或計畫好的未來行動，語氣上比單純的「will」更確定。",
+      "examples": [
+        "I'm going to work on my IoT project this weekend. (我這個週末打算做我的物聯網專案。)",
+        "She's going to attend a workshop on AI tools next month. (她下個月要去參加一個關於AI工具的研討會。)",
+        "Are you going to debug your code tonight? (你今晚要去程式除錯嗎？)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerund) 作為動詞的受詞",
+      "rule": "某些動詞後面可以直接接動名詞 (V-ing) 作為受詞，表示該動詞的動作是受詞。",
+      "examples": [
+        "I enjoy learning new programming languages. (我喜歡學習新的程式語言。)",
+        "He finished designing the embedded system yesterday. (他昨天完成了嵌入式系統的設計。)",
+        "Have you considered exploring renewable energy solutions? (你有考慮過探索再生能源的解決方案嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは なにを しますか？",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごを べんきょうします。",
+      "example_zh": "我學習日語。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣、嗜好",
+      "example": "あなたの しゅみは なんですか？",
+      "example_zh": "你的興趣是什麼？"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしい ほんを よみます。",
+      "example_zh": "我會讀一本新書。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんが ありません。",
+      "example_zh": "我沒有時間。"
+    },
+    {
+      "kana": "つくり",
+      "kanji_romaji": "作り / tsukuri",
+      "meaning": "製作、做 (名詞形)",
+      "example": "IoTデバイスの つくりを がんばります。",
+      "example_zh": "我會努力製作IoT裝置。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的、難的",
+      "example": "この プロジェクトは むずかしいです。",
+      "example_zh": "這個專案很困難。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "AIの べんきょうは たのしいです。",
+      "example_zh": "學習AI很有趣。"
+    },
+    {
+      "kana": "ほん",
+      "kanji_romaji": "本 / hon",
+      "meaning": "書",
+      "example": "ほんを よみます。",
+      "example_zh": "我讀書。"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點、稍微",
+      "example": "きょうは すこし やすみます。",
+      "example_zh": "今天我會稍微休息一下。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません (動詞肯定/否定)",
+      "structure": "動詞ます形 / 動詞ません形",
+      "rule": "用於表達現在或未來肯定會做某事（ます），或否定會做某事（ません），是禮貌體。",
+      "examples": [
+        "週末はAIツールを勉強します。(週末我會學習AI工具。)",
+        "今週はプロジェクトを作りません。(這週我不會製作專案。)"
+      ]
+    },
+    {
+      "title": "〜を (受格助詞)",
+      "structure": "名詞 + を + 動詞",
+      "rule": "「を (o)」放在動詞前面，表示動詞的直接受詞，也就是動作的對象。",
+      "examples": [
+        "私は新しい本を読みます。(我會讀一本新書。)",
+        "彼はIoTデバイスを作ります。(他會製作IoT裝置。)"
+      ]
+    }
+  ]
+}
