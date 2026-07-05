@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修正程式錯誤",
+      "example": "I spent all morning trying to debug this tricky code.",
+      "example_zh": "我花了整個上午試圖調試這個棘手的程式碼。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；樣品",
+      "example": "Our team built a prototype for the new IoT device.",
+      "example_zh": "我們的團隊為新的物聯網設備製作了一個原型。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；使達到最佳狀態",
+      "example": "We need to optimize the system for better performance.",
+      "example_zh": "我們需要優化系統以獲得更好的性能。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境；設想",
+      "example": "Let's consider a few different user scenarios for safety.",
+      "example_zh": "讓我們考慮一些不同的用戶安全情境。"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇；空閒時間",
+      "example": "What do you do in your leisure time on weekends?",
+      "example_zh": "你週末的閒暇時間都做些什麼？"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好；興趣",
+      "example": "My main hobby is building small embedded projects.",
+      "example_zh": "我的主要興趣是製作小型嵌入式專案。"
+    },
+    {
+      "word": "refreshing",
+      "pos": "adj.",
+      "meaning": "提神醒腦的；令人耳目一新的",
+      "example": "A short walk in the park can be very refreshing.",
+      "example_zh": "在公園裡短暫散步會讓人心曠神怡。"
+    },
+    {
+      "word": "getaway",
+      "pos": "n.",
+      "meaning": "短期旅行",
+      "example": "We're planning a weekend getaway to the mountains soon.",
+      "example_zh": "我們很快就要計劃一個週末去山裡的短途旅行。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "創新",
+      "example": "Innovation is key for a successful tech company's future.",
+      "example_zh": "創新對於科技公司的成功未來至關重要。"
+    },
+    {
+      "word": "tinker",
+      "pos": "v.",
+      "meaning": "亂修亂弄；修補",
+      "example": "He likes to tinker with old electronics in his garage.",
+      "example_zh": "他喜歡在他的車庫裡修修弄弄舊電子產品。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to do sth. (過去習慣)",
+      "rule": "表示過去常做但現在不再做的事或狀態，強調習慣性，現已終止。",
+      "examples": [
+        "I used to work late every night. (我以前每天都工作到很晚。)",
+        "There used to be a small cafe here. (這裡以前有間小咖啡館。)",
+        "Did you use to play video games a lot? (你以前很常玩電動嗎？)"
+      ]
+    },
+    {
+      "title": "Present Perfect (現在完成式)",
+      "rule": "強調過去發生的動作對現在的影響，或已持續到現在的經驗。",
+      "examples": [
+        "I have finished debugging the module. (我已經調試完模組了。)",
+        "She has never tried building a robot. (她從未嘗試過製作機器人。)",
+        "We have worked on this project for months. (我們已在這個專案上工作數月。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "あなたの趣味は何ですか？",
+      "example_zh": "你的興趣是什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天都學習日語。"
+    },
+    {
+      "kana": "ときどき",
+      "kanji_romaji": "時々 / tokidoki",
+      "meaning": "有時；偶爾",
+      "example": "時々公園を散歩します。",
+      "example_zh": "我偶爾會在公園散步。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的；有趣的",
+      "example": "週末はとても楽しかったです。",
+      "example_zh": "週末過得很愉快。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいパソコンが欲しいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "つくります",
+      "kanji_romaji": "作ります / tsukurimasu",
+      "meaning": "製作",
+      "example": "私は IoT デバイスを作ります。",
+      "example_zh": "我製作 IoT 裝置。"
+    },
+    {
+      "kana": "よみます",
+      "kanji_romaji": "読みます / yomimasu",
+      "meaning": "閱讀",
+      "example": "私はよく技術書を読みます。",
+      "example_zh": "我經常閱讀技術書籍。"
+    },
+    {
+      "kana": "でかけます",
+      "kanji_romaji": "出かけます / dekakemasu",
+      "meaning": "外出",
+      "example": "週末は家族と出かけます。",
+      "example_zh": "週末我和家人外出。"
+    },
+    {
+      "kana": "いつも",
+      "kanji_romaji": "いつも / itsumo",
+      "meaning": "總是；一直",
+      "example": "彼はいつも親切です。",
+      "example_zh": "他總是那麼親切。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです (想做...)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者「想做」某事的願望或意圖。",
+      "examples": [
+        "日本へ行きたいです。 (我想去日本。)",
+        "新しい AI ツールを使いたいです。 (我想用新的 AI 工具。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です (A是B)",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "用來判斷或定義事物，說明「名詞1」是什麼「名詞2」。",
+      "examples": [
+        "私の趣味はプログラミングです。 (我的興趣是編程。)",
+        "これは私の新しいプロジェクトです。 (這是我的新專案。)"
+      ]
+    }
+  ]
+}
