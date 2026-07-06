@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行或實施某計畫",
+      "example": "Let's implement this new feature by Friday.",
+      "example_zh": "我們週五前實施這個新功能吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化效能或最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以提升效能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "找出並解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同部分整合",
+      "example": "We need to integrate the new sensor with the existing system.",
+      "example_zh": "我們需要將新感測器與現有系統整合。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品初步原型或雛形",
+      "example": "The team is building a new IoT prototype.",
+      "example_zh": "團隊正在建立一個新的物聯網原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "做事快速且有效率",
+      "example": "This new algorithm is very efficient.",
+      "example_zh": "這個新演算法非常有效率。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的，值得信任的",
+      "example": "We need a reliable power supply for the device.",
+      "example_zh": "我們的設備需要可靠的電源供應。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "共同合作完成任務",
+      "example": "Let's collaborate on this challenging project.",
+      "example_zh": "我們一起合作這個有挑戰的專案吧。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "針對某事給予意見",
+      "example": "Your feedback on the design is very helpful.",
+      "example_zh": "你對設計的回饋非常有用。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "必須完成的最終日期",
+      "example": "The project deadline is approaching fast.",
+      "example_zh": "專案截止日期快到了。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Sentences Type 1)",
+      "rule": "用於表達未來可能發生的情況及其結果，通常表示高機率會實現。",
+      "examples": [
+        "If it rains, we will stay indoors.（如果下雨，我們就待在室內。）",
+        "If you finish early, you can go home.（如果你早點完成，就可以回家了。）",
+        "If the system crashes, we will fix it immediately.（如果系統當機，我們會立刻修復。）"
+      ]
+    },
+    {
+      "title": "動詞片語：Phrasal Verbs with \"up\"",
+      "rule": "動詞與介係詞\"up\"結合，產生不同於原動詞的新意義，常用於口語對話。",
+      "examples": [
+        "I need to look up some info about renewable energy.（我需要查找一些關於再生能源的資訊。）",
+        "Let's set up the new IoT device tomorrow.（我們明天來設定這個新的物聯網裝置吧。）",
+        "Please back up your files regularly.（請定期備份你的檔案。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうのしごとはおわりましたか。",
+      "example_zh": "今天的工作完成了嗎？"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしのかいしゃはとおいです。",
+      "example_zh": "我的公司很遠。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "でんきをつけましょう。",
+      "example_zh": "我們開燈吧。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "あたらしいシステムをつくります。",
+      "example_zh": "我會製作一個新系統。"
+    },
+    {
+      "kana": "まなぶ",
+      "kanji_romaji": "学ぶ / manabu",
+      "meaning": "學習",
+      "example": "わたしはにほんごをまなんでいます。",
+      "example_zh": "我正在學習日文。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "これはわかりますか。",
+      "example_zh": "這個你明白嗎？"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをつかいます。",
+      "example_zh": "我會使用這個工具。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的、難的",
+      "example": "このもんだいはむずかしいです。",
+      "example_zh": "這個問題很難。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょうかいぎがあります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "しごとをはじめる。",
+      "example_zh": "開始工作。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請求或指示對方做某事，是日常生活中非常實用的指令句型。",
+      "examples": [
+        "まってください。（請稍等。）",
+        "このほんをよんでください。（請讀這本書。）"
+      ]
+    },
+    {
+      "title": "名詞 + が あります/います",
+      "structure": "名詞 + が あります / います",
+      "rule": "「あります」用於非生物，而「います」用於生物，表示某物或某人的存在。",
+      "examples": [
+        "へやにつくえがあります。（房間裡有桌子。）",
+        "オフィスにエンジニアがいます。（辦公室裡有工程師。）"
+      ]
+    }
+  ]
+}
