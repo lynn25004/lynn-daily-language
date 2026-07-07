@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行計畫或功能",
+      "example": "We need to implement this new feature quickly.",
+      "example_zh": "我們需要快速實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化系統或程式",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以提高效能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決技術問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "monitor",
+      "pos": "v./n.",
+      "meaning": "監控、監視狀態或數據",
+      "example": "We need to monitor the system's status closely.",
+      "example_zh": "我們需要密切監控系統狀態。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同部分",
+      "example": "This new module integrates well with the system.",
+      "example_zh": "這個新模組與現有系統整合得很好。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初版模型",
+      "example": "The team is building a new prototype now.",
+      "example_zh": "團隊正在製作一個新原型。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、找出並修正錯誤",
+      "example": "I spent hours debugging this small error.",
+      "example_zh": "我花了幾個小時才把這個小錯誤除掉。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協同工作",
+      "example": "We need to collaborate more on this project.",
+      "example_zh": "我們需要在這個專案上多合作。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The deadline for this task is tomorrow.",
+      "example_zh": "這項任務的截止日期是明天。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Please give us your feedback on the new design.",
+      "example_zh": "請給我們對新設計的回饋意見。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "強調動作的承受者，而非執行者，常用於描述事實、程序或當執行者不重要時。",
+      "examples": [
+        "The new system was developed last month. (新系統上個月開發完成。)",
+        "This bug has been fixed by the team. (這個錯誤已經被團隊修復了。)",
+        "All data must be backed up daily. (所有資料必須每天備份。)"
+      ]
+    },
+    {
+      "title": "條件句 - If-clause Type 1 (未來真實)",
+      "rule": "描述未來可能發生的情況及其結果，表示如果某事發生，另一事將會發生。",
+      "examples": [
+        "If the sensor works, we will proceed with the test. (如果感測器能運作，我們就繼續測試。)",
+        "If you finish coding early, we can grab coffee. (如果你提早寫完程式，我們可以去喝咖啡。)",
+        "I will call you if I need any help with the setup. (如果我在設定上有任何需要，我會打電話給你。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "まいあさ、しごとにいきます。",
+      "example_zh": "我每天早上上班。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしのかいしゃはしんじゅくにあります。",
+      "example_zh": "我的公司在新宿。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦 (個人電腦)",
+      "example": "まいにちパソコンをつかいます。",
+      "example_zh": "我每天都用電腦。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このへやはでんきがあかるいです。",
+      "example_zh": "這個房間的電燈很亮。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをよくつかいます。",
+      "example_zh": "我常用這個工具。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、創造",
+      "example": "あたらしいシステムをつくっています。",
+      "example_zh": "我正在製作新系統。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "このせつめい、わかりますか。",
+      "example_zh": "你明白這個說明嗎？"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "このもんだいはすこしむずかしいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "かんたん",
+      "kanji_romaji": "簡単 / kantan",
+      "meaning": "簡單的",
+      "example": "このそうさはかんたんです。",
+      "example_zh": "這個操作很簡單。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "まいにち日本語をべんきょうします。",
+      "example_zh": "我每天學習日語。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "用於介紹或說明一個名詞是另一個名詞，是日語最基本的肯定句型，通常用來定義或陳述事實。",
+      "examples": [
+        "これはわたしのパソコンです。(這是我的電腦。)",
+        "かれはエンジニアです。(他是工程師。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょう",
+      "structure": "動詞(ます形) + ましょう",
+      "rule": "表示「一起做...吧」或「我們來做...吧」，用於提出建議或邀請對方共同行動。",
+      "examples": [
+        "いっしょにプロトタイプをつくりましょう。(我們一起來製作原型吧。)",
+        "きゅうけいしましょう。(我們休息一下吧。)"
+      ]
+    }
+  ]
+}
