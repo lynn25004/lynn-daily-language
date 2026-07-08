@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施、導入計畫",
+      "example": "We need to implement this new security feature soon.",
+      "example_zh": "我們需要盡快導入這個新的安全功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "最佳化、讓效率更好",
+      "example": "How can we optimize the system for faster performance?",
+      "example_zh": "我們要怎麼最佳化系統才能跑更快？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、找出問題點",
+      "example": "I'm trying to troubleshoot why the IoT device isn't connecting.",
+      "example_zh": "我正在試著找出為什麼這個IoT裝置連不上。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步模型、樣品",
+      "example": "Let's build a quick prototype to test this idea.",
+      "example_zh": "我們快點做一個原型來測試這個想法吧。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯程式碼",
+      "example": "I spent all morning trying to debug this tricky code.",
+      "example_zh": "我整個早上都在努力除錯這段難搞的程式碼。"
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "meaning": "無縫接軌的、流暢的",
+      "example": "We want the user experience to be seamless and intuitive.",
+      "example_zh": "我們希望使用者體驗是無縫且直觀的。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、共同完成任務",
+      "example": "Let's collaborate on this project to get it done faster.",
+      "example_zh": "我們一起合作這個專案，讓它更快完成吧。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The deadline for this report is next Friday, don't forget!",
+      "example_zh": "這份報告的截止日期是下週五，別忘了！"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見、反應",
+      "example": "Could you give me some feedback on my presentation?",
+      "example_zh": "你能給我一些關於我簡報的回饋嗎？"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案、答案",
+      "example": "We need to find a sustainable solution for renewable energy.",
+      "example_zh": "我們需要為再生能源找到一個永續的解決方案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句：如果…就會…",
+      "rule": "用於表達未來可能發生的真實情況或結果，通常結構為「If + 現在簡單式, will + 原形動詞」。",
+      "examples": [
+        "If the system works, we will launch it next month. (如果系統能運作，我們下個月就會推出。)",
+        "If you finish your tasks early, you can leave. (如果你提早完成任務，你就可以離開。)",
+        "If we use AI tools, our efficiency will improve. (如果我們使用AI工具，效率會提升。)"
+      ]
+    },
+    {
+      "title": "動詞片語：用於工作情境",
+      "rule": "學習幾個常用動詞與介系詞組成的片語，能讓日常對話和職場溝通更自然流暢。",
+      "examples": [
+        "set up: I need to set up the new IoT device. (我需要設定好那個新的IoT裝置。)",
+        "figure out: Let's figure out why the embedded system crashed. (我們來弄清楚為什麼嵌入式系統當機了。)",
+        "look into: The team will look into the security issue. (團隊會調查那個安全問題。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "毎日日本語を勉強しますか？",
+      "example_zh": "你每天都學日文嗎？"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作、職業",
+      "example": "私の仕事はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力、電器",
+      "example": "電気の安全が大切です。",
+      "example_zh": "電力安全很重要。"
+    },
+    {
+      "kana": "ぶひん",
+      "kanji_romaji": "部品 / buhin",
+      "meaning": "零件、部件",
+      "example": "このIoTデバイスの部品は小さいです。",
+      "example_zh": "這個IoT裝置的零件很小。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發、研發",
+      "example": "新しいAIツールを開発します。",
+      "example_zh": "我要開發新的AI工具。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題、難題",
+      "example": "何か問題がありますか？",
+      "example_zh": "有什麼問題嗎？"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用、利用",
+      "example": "このツールを使います。",
+      "example_zh": "我會使用這個工具。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、理解",
+      "example": "日本語が少し分かります。",
+      "example_zh": "我懂一點日文。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的、難的",
+      "example": "このプログラミングは難しいです。",
+      "example_zh": "這個程式很難。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "午後から会議を始めます。",
+      "example_zh": "下午開始會議。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです (想做…)",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "用來表達說話者希望或渴望做某事的願望，非常實用且常用。",
+      "examples": [
+        "私は日本の文化を学びたいです。(我想學習日本文化。)",
+        "新しいIoTプロジェクトを始めたいです。(我想開始新的IoT專案。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です (是…)",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "這是日語最基本的判斷句型，用來陳述主語是什麼，或介紹事物。",
+      "examples": [
+        "これは私のパソコンです。(這是我的電腦。)",
+        "私の専門は組み込みシステムです。(我的專業是嵌入式系統。)"
+      ]
+    }
+  ]
+}
