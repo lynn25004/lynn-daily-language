@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施",
+      "example": "Let's implement this new feature next week.",
+      "example_zh": "我們下週來實施這個新功能吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以提升效能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除、解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、情況",
+      "example": "Consider a worst-case scenario for safety.",
+      "example_zh": "考慮一下最壞情況的情境以確保安全。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "I'd love to hear your feedback on this design.",
+      "example_zh": "我很樂意聽到你對這個設計的回饋。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The deadline for this project is really tight.",
+      "example_zh": "這個專案的截止日期真的非常緊迫。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "We're building a new prototype for the IoT device.",
+      "example_zh": "我們正在為這款IoT設備建造一個新原型。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Let's collaborate to solve this complex problem.",
+      "example_zh": "讓我們一起合作解決這個複雜問題吧。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率",
+      "example": "We always aim to improve energy efficiency.",
+      "example_zh": "我們一直致力於提高能源效率。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控、監視",
+      "example": "We need to monitor the system's status constantly.",
+      "example_zh": "我們需要持續監控系統的狀態。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "片語動詞 with \"up\"",
+      "rule": "動詞與介詞「up」結合，常表示「完成、建立、增加」等意義，常用於日常或工作情境。",
+      "examples": [
+        "We need to set up the new server by Friday. (我們需要在週五前設定好新伺服器。)",
+        "Can you come up with a better solution for this bug? (你能為這個錯誤想出一個更好的解決方案嗎？)",
+        "Let's speed up the development process a bit. (我們來加快一點開發進程吧。)"
+      ]
+    },
+    {
+      "title": "表達目的: in order to / so that",
+      "rule": "用來解釋某行為的目的或原因，`in order to` 後接原型動詞，`so that` 後接子句，帶出目的。",
+      "examples": [
+        "I studied hard in order to pass the TOEIC exam. (我努力學習是為了通過多益考試。)",
+        "We added a new sensor so that it can detect movement. (我們加了一個新感測器，這樣它就能偵測到動作了。)",
+        "He writes clear reports so that everyone understands the project progress. (他寫清晰的報告，是為了讓大家了解專案進度。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日仕事が忙しいです。",
+      "example_zh": "每天工作都很忙。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天都學習日文。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "私は日本語の勉強が好きです。",
+      "example_zh": "我喜歡學習日文。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間がありますか？",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "この問題は難しいです。",
+      "example_zh": "這個問題很困難。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールを使ってもいいですか？",
+      "example_zh": "我可以用這個工具嗎？"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "彼は会社員です。",
+      "example_zh": "他是公司職員。"
+    },
+    {
+      "kana": "はなす",
+      "kanji_romaji": "話す / hanasu",
+      "meaning": "說話",
+      "example": "英語で話すことができます。",
+      "example_zh": "我會說英文。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂、理解",
+      "example": "意味が分かりますか？",
+      "example_zh": "你懂這個意思嗎？"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "私はIoTデバイスを作りたいです。",
+      "example_zh": "我想製作IoT裝置。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "表達禮貌的請求或指示，相當於中文的「請做...」，在日常對話中非常實用。",
+      "examples": [
+        "少し待ってください。(すこし まってください。) - 請稍等一下。",
+        "ここに名前を書いてください。(ここに なまえを かいてください。) - 請在這裡寫下名字。"
+      ]
+    },
+    {
+      "title": "場所 + に/へ + 行きます/来ます/帰ります",
+      "structure": "場所 + に/へ + 行きます/来ます/帰ります",
+      "rule": "表示前往、來到或返回某個地點，に和へ都可以使用，へ更強調方向，表達移動。",
+      "examples": [
+        "毎日会社へ行きます。(まいにち かいしゃへ いきます。) - 我每天去公司。",
+        "台湾から来ました。(たいわんから きました。) - 我從台灣來的。"
+      ]
+    }
+  ]
+}
