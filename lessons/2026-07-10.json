@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施",
+      "example": "Let's implement this new feature.",
+      "example_zh": "我們來實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the code.",
+      "example_zh": "我們需要優化程式碼。"
+    },
+    {
+      "word": "component",
+      "pos": "n.",
+      "meaning": "零件、組成部分",
+      "example": "This is a key component.",
+      "example_zh": "這是個關鍵零件。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想",
+      "example": "What's the best-case scenario?",
+      "example_zh": "最佳情境是什麼？"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "I got good feedback.",
+      "example_zh": "我收到了不錯的回饋。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、融入",
+      "example": "We need to integrate new modules.",
+      "example_zh": "我們需要整合新模組。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案",
+      "example": "This is a smart solution.",
+      "example_zh": "這是個聰明的解決方案。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯",
+      "example": "Let's debug this issue.",
+      "example_zh": "我們來除錯這個問題。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The deadline is next week.",
+      "example_zh": "截止日期是下週。"
+    },
+    {
+      "word": "collaboration",
+      "pos": "n.",
+      "meaning": "合作、協作",
+      "example": "Good collaboration is key.",
+      "example_zh": "良好的協作是關鍵。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "用來表達過去發生的動作對現在造成的影響，或從過去持續到現在的經驗。",
+      "examples": [
+        "I have worked on this project for months. (我已經在這個專案上工作好幾個月了。)",
+        "She has just finished debugging the code. (她剛除錯完程式碼。)",
+        "Have you ever used an AI tool for coding? (你曾經用過AI工具來寫程式嗎？)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerund) 作為主詞/受詞",
+      "rule": "將動詞加上-ing變成動名詞，可用來當作句子的主詞或受詞，表示「做某事」。",
+      "examples": [
+        "Debugging takes a lot of time. (除錯需要很多時間。)",
+        "I enjoy learning new programming languages. (我喜歡學習新的程式語言。)",
+        "Developing embedded systems is my passion. (開發嵌入式系統是我的熱情。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうは しごとが おわりました。",
+      "example_zh": "今天工作結束了。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしの かいしゃは ここです。",
+      "example_zh": "我的公司在這裡。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごを べんきょうします。",
+      "example_zh": "學習日文。"
+    },
+    {
+      "kana": "きゅうじつ",
+      "kanji_romaji": "休日 / kyuujitsu",
+      "meaning": "假日",
+      "example": "しゅうまつは きゅうじつです。",
+      "example_zh": "週末是假日。"
+    },
+    {
+      "kana": "ぎじゅつ",
+      "kanji_romaji": "技術 / gijutsu",
+      "meaning": "技術",
+      "example": "あたらしい ぎじゅつが すきです。",
+      "example_zh": "我喜歡新技術。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "この もんだいは むずかしいです。",
+      "example_zh": "這個問題很難。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "パソコンを つかいます。",
+      "example_zh": "使用電腦。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんが ありません。",
+      "example_zh": "沒有時間。"
+    },
+    {
+      "kana": "あした",
+      "kanji_romaji": "明日 / ashita",
+      "meaning": "明天",
+      "example": "あしたは やすみです。",
+      "example_zh": "明天休息。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、很累、嚴重",
+      "example": "きょうの しごとは たいへんでした。",
+      "example_zh": "今天的工作很辛苦。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません / 〜ました / 〜ませんでした (Masu forms)",
+      "structure": "動詞(ます形)",
+      "rule": "動詞「ます形」是用來表達現在或未來要做的事情，以及過去已做過的事情。",
+      "examples": [
+        "わたしは まいにち にほんごを べんきょうします。 (我每天學習日文。)",
+        "きのう、かいしゃへ いきました。 (昨天，我去了公司。)"
+      ]
+    },
+    {
+      "title": "名詞 + を + 動詞(ます)",
+      "structure": "名詞 + を + 動詞(ます)",
+      "rule": "助詞「を」表示動詞的直接受詞，說明動詞動作的對象是什麼。",
+      "examples": [
+        "ごはんを たべます。 (吃飯。)",
+        "ホットコーヒーを のみますか。 (你喝熱咖啡嗎？)"
+      ]
+    }
+  ]
+}
