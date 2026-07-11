@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品（開發中）",
+      "example": "We need to build a prototype first.",
+      "example_zh": "我們需要先做一個原型。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、排解故障",
+      "example": "I'm trying to debug this code.",
+      "example_zh": "我正在嘗試修復這段程式碼的錯誤。"
+    },
+    {
+      "word": "interface",
+      "pos": "n.",
+      "meaning": "介面、接口",
+      "example": "The user interface is really friendly.",
+      "example_zh": "這個使用者介面很友善。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "How can we optimize the system performance?",
+      "example_zh": "我們該如何優化系統效能？"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的（能源）",
+      "example": "Renewable energy is important for the future.",
+      "example_zh": "再生能源對未來很重要。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、合併",
+      "example": "We need to integrate these two modules.",
+      "example_zh": "我們需要將這兩個模組整合起來。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Let's collaborate on this project.",
+      "example_zh": "我們一起合作這個專案吧。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The deadline for this task is Friday.",
+      "example_zh": "這個任務的截止日期是星期五。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Please give me some feedback on my work.",
+      "example_zh": "請給我一些關於我工作的意見。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "That's a very innovative idea!",
+      "example_zh": "那是一個非常有創意的想法！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to (過去習慣)",
+      "rule": "表示過去習慣或狀態，但現在已不再發生，強調對比，讓回憶更有畫面。",
+      "examples": [
+        "I used to play video games all night. (我以前常玩電動玩通宵。)",
+        "This office used to be much bigger. (這間辦公室以前大多了。)",
+        "We used to have weekly team lunches. (我們以前每週都有團隊午餐。)"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs with \"up\" (片語動詞：up)",
+      "rule": "動詞搭配 up 常常表示完成、增加或向上，讓句子更生動，也能表達不同的語氣。",
+      "examples": [
+        "I need to look up some info for the project. (我需要查詢一些專案資訊。)",
+        "Let's wrap up this meeting soon. (我們快點結束這個會議吧。)",
+        "He likes to pick up new skills quickly. (他喜歡很快學會新技能。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "あなたのしごとはなんですか？",
+      "example_zh": "你的工作是什麼？"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "かいしゃへいきます。",
+      "example_zh": "我去公司。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "ちょっときゅうけいしましょう。",
+      "example_zh": "我們稍微休息一下吧。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "かいぎはなんじですか？",
+      "example_zh": "會議是幾點？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありますか？",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力、電燈",
+      "example": "でんきをつけてください。",
+      "example_zh": "請開燈。"
+    },
+    {
+      "kana": "ほん",
+      "kanji_romaji": "本 / hon",
+      "meaning": "書",
+      "example": "このほんはおもしろいです。",
+      "example_zh": "這本書很有趣。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごをべんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂、明白",
+      "example": "わかりますか？",
+      "example_zh": "你懂了嗎？"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "ロボットをつくります。",
+      "example_zh": "我製作機器人。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ますか / 〜ませんか (疑問/邀約)",
+      "structure": "動詞(ます形) + か / 動詞(ます形) + ませんか",
+      "rule": "用來詢問或確認，也可以用「ませんか」委婉地邀請對方做某事喔！在日常對話中很實用。",
+      "examples": [
+        "いっしょにべんきょうしませんか？ (要不要一起學習呢？)",
+        "これはあなたのほんですか？ (這是你的書嗎？)"
+      ]
+    },
+    {
+      "title": "動詞て形 + ください (請求/指示)",
+      "structure": "動詞て形 + ください",
+      "rule": "用來禮貌地請求對方做某事，或是給予指示，在職場或日常生活中都常用！",
+      "examples": [
+        "ちょっとまってください。 (請等一下。)",
+        "このしりょうをよんでください。 (請閱讀這份資料。)"
+      ]
+    }
+  ]
+}
