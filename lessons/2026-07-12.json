@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "讓某物達到最佳化",
+      "example": "I need to optimize this code for speed.",
+      "example_zh": "我需要優化這段程式碼以提高速度。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決故障或問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行計畫",
+      "example": "We plan to implement the new system next week.",
+      "example_zh": "我們計畫下週實施新系統。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、可能發生的情況",
+      "example": "Let's consider a few different scenarios.",
+      "example_zh": "我們來考慮幾種不同的情境。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Your feedback helps us improve our product.",
+      "example_zh": "你的回饋幫助我們改進產品。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "We're building a prototype for our IoT device.",
+      "example_zh": "我們正在為新的物聯網裝置打造原型。"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤、上下班路程",
+      "example": "My commute to work is usually 30 minutes.",
+      "example_zh": "我通勤上班通常要 30 分鐘。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "We need sustainable solutions for energy.",
+      "example_zh": "我們需要永續的能源解決方案。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "How can we integrate AI into our system?",
+      "example_zh": "我們如何將 AI 整合到現有系統中？"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、恢復精力",
+      "example": "I need a good rest to recharge for Monday.",
+      "example_zh": "我需要好好休息一下，為週一充電。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Sentences) Type 1",
+      "rule": "表達未來可能發生的真實情況，或在某條件下會發生的結果，通常用於計畫或預測。",
+      "examples": [
+        "If it rains tomorrow, I will stay home. (如果明天會下雨，我就待在家。)",
+        "If you finish your work early, we can go for a walk. (如果你早點完成工作，我們可以去散步。)",
+        "If the system crashes, we'll troubleshoot it immediately. (如果系統當機，我們會立刻排除故障。)"
+      ]
+    },
+    {
+      "title": "片語動詞：put off / put together",
+      "rule": "'put off' 指延後某事；'put together' 指組合或組織某物，兩者皆為常用片語。",
+      "examples": [
+        "Don't put off your important tasks until the last minute. (不要把重要任務拖到最後一刻。)",
+        "I need to put together a presentation for next week. (我需要為下週準備一份簡報。)",
+        "He can put together an IoT device very quickly. (他可以很快地組裝一個物聯網裝置。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日仕事に行きます。",
+      "example_zh": "我每天去工作。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "明日は休みです。",
+      "example_zh": "明天是假日。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしましたか。",
+      "example_zh": "你週末做了什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "私は日本語を勉強しています。",
+      "example_zh": "我正在學習日語。"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "友達と映画を見に行きます。",
+      "example_zh": "我和朋友去看電影。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間がありますか。",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "閱讀",
+      "example": "私は本を読みます。",
+      "example_zh": "我讀書。"
+    },
+    {
+      "kana": "かく",
+      "kanji_romaji": "書く / kaku",
+      "meaning": "寫",
+      "example": "手紙を書きます。",
+      "example_zh": "我寫信。"
+    },
+    {
+      "kana": "はなす",
+      "kanji_romaji": "話す / hanasu",
+      "meaning": "說話",
+      "example": "英語を話しますか。",
+      "example_zh": "你會說英文嗎？"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、愉快的",
+      "example": "週末は楽しかったです。",
+      "example_zh": "週末過得很愉快。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "て形 + ください (請做...)",
+      "structure": "動詞て形 + ください",
+      "rule": "用來禮貌地請求或指示對方做某事，是很實用的日常表達，例如請別人幫忙。",
+      "examples": [
+        "ちょっと待ってください。 (請等一下。)",
+        "この本を読んでください。 (請讀這本書。)"
+      ]
+    },
+    {
+      "title": "が あります / が います (有...)",
+      "structure": "名詞 + が + あります (無生命物) / 名詞 + が + います (有生命物)",
+      "rule": "「あります」用於表示無生命物存在（如物品、事件），「います」用於表示有生命物存在（如人、動物）。",
+      "examples": [
+        "部屋にパソコンがあります。 (房間裡有電腦。)",
+        "会社に猫がいます。 (公司裡有貓。)"
+      ]
+    }
+  ]
+}
