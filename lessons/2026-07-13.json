@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "最佳化，讓效率更好",
+      "example": "We need to optimize this code for better performance.",
+      "example_zh": "我們需要最佳化這段程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行，實際應用",
+      "example": "Let's implement the new feature by next week.",
+      "example_zh": "我們下週前要實作這個新功能。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，找出並修正問題",
+      "example": "I spent hours trying to debug this circuit!",
+      "example_zh": "我花了幾個小時試圖除錯這個電路！"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，期限",
+      "example": "The deadline for this project is really tight.",
+      "example_zh": "這個專案的截止日期真的非常緊迫。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，共同完成",
+      "example": "We should collaborate on this task to finish faster.",
+      "example_zh": "我們應該在這個任務上合作以更快完成。"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "排序，決定優先順序",
+      "example": "It's hard to prioritize tasks when everything is urgent.",
+      "example_zh": "當所有事情都很緊急時，很難決定任務的優先順序。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初步模型",
+      "example": "The team is building a new IoT prototype.",
+      "example_zh": "團隊正在製作一個新的物聯網原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的，省時省力",
+      "example": "Using AI tools makes our workflow more efficient.",
+      "example_zh": "使用AI工具讓我們的工作流程更有效率。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見反應",
+      "example": "Could you give me some feedback on my design?",
+      "example_zh": "你可以給我一些關於我設計的回饋嗎？"
+    },
+    {
+      "word": "sync",
+      "pos": "v.",
+      "meaning": "同步，保持一致",
+      "example": "Let's sync up after lunch to discuss the progress.",
+      "example_zh": "我們午餐後再同步一下，討論進度。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式：be going to vs. will",
+      "rule": "\"be going to\" 表示事先計畫好的未來，而 \"will\" 則多用於臨時決定、預測或承諾，語氣較彈性。",
+      "examples": [
+        "I am going to fix the bug this afternoon. (我今天下午會去修那個錯誤。)",
+        "Oh, I'll help you with that right now! (喔，我現在馬上幫你！)",
+        "I think it will rain tomorrow, so bring an umbrella. (我想明天會下雨，所以帶把傘吧。)"
+      ]
+    },
+    {
+      "title": "使用 \"should\" 提出建議或義務",
+      "rule": "\"should\" 用來給予建議、表達義務或提出看法，語氣比 \"must\" 輕鬆，暗示這是個好主意。",
+      "examples": [
+        "You should take a break, you look tired. (你該休息一下了，你看起來很累。)",
+        "Engineers should always back up their data. (工程師應該隨時備份他們的資料。)",
+        "I think we should try a different approach for this problem. (我覺得我們應該用不同的方法來解決這個問題。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしのしごとはおもしろいです。",
+      "example_zh": "我的工作很有趣。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きょうはやすみです。",
+      "example_zh": "今天是假日。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょう、なにをしますか。",
+      "example_zh": "今天要做什麼呢？"
+    },
+    {
+      "kana": "あした",
+      "kanji_romaji": "明日 / ashita",
+      "meaning": "明天",
+      "example": "あした、かいしゃへいきます。",
+      "example_zh": "我明天要去公司。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "我每天都學習日文。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "あなたのかいしゃはどこですか。",
+      "example_zh": "你的公司在哪裡？"
+    },
+    {
+      "kana": "つくえ",
+      "kanji_romaji": "机 / tsukue",
+      "meaning": "書桌",
+      "example": "つくえのうえにほんです。",
+      "example_zh": "書桌上有一本書。"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "こんしゅうはいそがしいです。",
+      "example_zh": "這週很忙碌。"
+    },
+    {
+      "kana": "はやく",
+      "kanji_romaji": "早く / hayaku",
+      "meaning": "快點、早點",
+      "example": "はやくきてください。",
+      "example_zh": "請早點來。"
+    },
+    {
+      "kana": "おわります",
+      "kanji_romaji": "終わります / owarimasu",
+      "meaning": "結束（動詞ます形）",
+      "example": "かいぎはすぐおわります。",
+      "example_zh": "會議馬上就要結束了。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "這是日文最基本的肯定句型，用於介紹或說明事物，表達「A是B」的意思，助詞「は」讀作「wa」。",
+      "examples": [
+        "これはペンです。(這是一支筆。)",
+        "わたしはエンジニアです。(我是工程師。)"
+      ]
+    },
+    {
+      "title": "動詞ます形",
+      "structure": "動詞 + ます",
+      "rule": "動詞ます形是日文動詞最基本的禮貌體，用於一般日常對話及肯定句，表達現在或未來動作。",
+      "examples": [
+        "コーヒーをのみます。(我喝咖啡。)",
+        "毎日、日本語をべんきょうします。(我每天學習日文。)"
+      ]
+    }
+  ]
+}
