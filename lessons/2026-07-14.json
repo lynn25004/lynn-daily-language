@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "裝置內部的微程式",
+      "example": "We need to update the device's firmware.",
+      "example_zh": "我們需要更新這個裝置的韌體。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同部分整合",
+      "example": "Let's integrate this module into the system.",
+      "example_zh": "我們來將這個模組整合進系統。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "找出並解決問題",
+      "example": "Can you help me troubleshoot this issue?",
+      "example_zh": "你能幫我解決這個問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品初期模型",
+      "example": "Let's test the new prototype next week.",
+      "example_zh": "我們下週來測試新的原型。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "達成目標的效率",
+      "example": "We should improve our team's efficiency.",
+      "example_zh": "我們應該提高團隊的效率。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "共同合作完成",
+      "example": "We need to collaborate on this project.",
+      "example_zh": "我們需要合作這個專案。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "專案或任務的截止日",
+      "example": "The deadline for this report is Friday.",
+      "example_zh": "這份報告的截止日期是星期五。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "意見回饋",
+      "example": "I'll give you feedback on your presentation.",
+      "example_zh": "我會給你關於你簡報的回饋。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "具有創新思維的",
+      "example": "That's an innovative solution to the problem!",
+      "example_zh": "那真是個創新的解決方案！"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控或觀察",
+      "example": "We need to monitor the server's performance.",
+      "example_zh": "我們需要監控伺服器的效能。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "常用片語動詞 (Phrasal Verbs)",
+      "rule": "片語動詞由動詞和介系詞或副詞組成，意思常與原動詞不同，常用於口語。",
+      "examples": [
+        "I'm looking forward to our meeting tomorrow. (我很期待我們明天的會議。)",
+        "Let me look into that issue for you. (我來幫你調查那個問題。)",
+        "He always looks up to his senior engineers. (他總是尊敬他的資深工程師。)"
+      ]
+    },
+    {
+      "title": "使用 “Would” 表達禮貌與假設",
+      "rule": "“Would” 用來表達禮貌的請求、提供建議，或描述假設性情況，讓語氣更委婉。",
+      "examples": [
+        "Would you mind opening the file? (你介意打開這個檔案嗎？)",
+        "I would love to learn more about AI tools. (我很樂意多了解一些 AI 工具。)",
+        "If I had time, I would join that IoT workshop. (如果我有時間，我就會參加那個物聯網工作坊。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしはエンジニアのしごとをしています。",
+      "example_zh": "我正在做工程師的工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしの会社はとてもおおきいです。",
+      "example_zh": "我的公司非常大。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールはとてもつかいやすいです。",
+      "example_zh": "這個工具非常好用。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "このもんだいはすこしむずかしいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいテクノロジーはたのしいです。",
+      "example_zh": "新科技很有趣。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このきかいはでんきをつかいます。",
+      "example_zh": "這台機器使用電力。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "まいにちパソコンでしごとをします。",
+      "example_zh": "我每天用電腦工作。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "かいぎは１０じにはじめます。",
+      "example_zh": "會議在十點開始。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "愉快的",
+      "example": "にほんごのべんきょうはたのしいです。",
+      "example_zh": "學習日文很快樂。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です (Noun wa Noun desu)",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "用來介紹或說明事物，表示「名詞1是名詞2」，是日文最基礎的肯定句型。",
+      "examples": [
+        "これはパソコンです。(這是電腦。)",
+        "わたしはエンジニアです。(我是工程師。)"
+      ]
+    },
+    {
+      "title": "動詞-ます形 + たいです (Verb-masu form + tai desu)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者「想要做某事」的願望，將動詞ます形去除ます後，加上たいです。",
+      "examples": [
+        "新しい技術を学びたいです。(我想學習新技術。)",
+        "日本でしごとをしたいです。(我想在日本工作。)"
+      ]
+    }
+  ]
+}
