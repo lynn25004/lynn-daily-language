@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合",
+      "example": "We need to integrate this module into the main system.",
+      "example_zh": "我們需要將這個模組整合到主系統中。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，最佳化",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以獲得更好的性能吧。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，雛形",
+      "example": "The team built a prototype for the new IoT device.",
+      "example_zh": "團隊為新的物聯網設備製作了一個原型。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，偵錯",
+      "example": "I spent hours trying to debug this tricky issue.",
+      "example_zh": "我花了好幾個小時試著解決這個棘手的問題。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的，有效率的",
+      "example": "We need a more efficient way to manage data.",
+      "example_zh": "我們需要一個更有效率的數據管理方式。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The deadline for this project is next Friday.",
+      "example_zh": "這個專案的截止日期是下週五。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，協作",
+      "example": "We should collaborate more on this renewable energy project.",
+      "example_zh": "我們應該在這個再生能源專案上多合作。"
+    },
+    {
+      "word": "presentation",
+      "pos": "n.",
+      "meaning": "簡報，報告",
+      "example": "Your presentation on AI tools was really insightful.",
+      "example_zh": "你關於AI工具的簡報真的很有見地。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見",
+      "example": "I got some great feedback on my project proposal.",
+      "example_zh": "我收到了關於我的專案提案的一些很棒的回饋。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的，革新的",
+      "example": "We're looking for innovative solutions in embedded systems.",
+      "example_zh": "我們正在尋找嵌入式系統中的創新解決方案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences Type 1 (If + Present Simple, Will + Verb)",
+      "rule": "用於描述未來可能發生的真實情況，若某條件達成，則某結果會發生。",
+      "examples": [
+        "If you finish early, we can grab coffee. (如果你早點完成，我們可以去喝咖啡。)",
+        "If the system crashes, I will restart it immediately. (如果系統當機，我會立刻重啟它。)",
+        "If we collaborate more, the project will be smoother. (如果我們多合作，專案會更順利。)"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs with \"up\" (e.g., set up, come up with, speed up)",
+      "rule": "由動詞和介詞或副詞組成，意思常與原動詞不同，讓表達更自然。",
+      "examples": [
+        "Let's set up the new server this afternoon. (我們今天下午來設定新伺服器吧。)",
+        "Can you come up with a solution for this bug? (你能想出這個錯誤的解決方案嗎？)",
+        "We need to speed up the development process. (我們需要加快開發進度。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私の仕事はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "學習日語很有趣。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツールを使います。",
+      "example_zh": "我使用這個AI工具。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "会議の時間は何時ですか。",
+      "example_zh": "會議時間是幾點？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "午後に会議があります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "しりょう",
+      "kanji_romaji": "資料 / shiryou",
+      "meaning": "資料",
+      "example": "この資料を読んでください。",
+      "example_zh": "請閱讀這份資料。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂，明白",
+      "example": "日本語が少し分かります。",
+      "example_zh": "我懂一點日語。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作，創造",
+      "example": "IoTデバイスを作りたいです。",
+      "example_zh": "我想製作IoT設備。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私の会社は台北にあります。",
+      "example_zh": "我的公司在台北。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "當你想要表達自己想做某事的願望時使用，輕鬆表達你的意願。",
+      "examples": [
+        "日本語を勉強したいです。 (我想學習日語。)",
+        "新しいAIツールを使いたいです。 (我想使用新的AI工具。)"
+      ]
+    },
+    {
+      "title": "名詞 + が あります/います",
+      "structure": "名詞 + が あります / います",
+      "rule": "「あります」用於非生物，「います」用於生物，表示存在或擁有某物/某人。",
+      "examples": [
+        "私の部屋にパソコンがあります。 (我的房間有電腦。)",
+        "会社に新しいエンジニアがいます。 (公司有一位新工程師。)"
+      ]
+    }
+  ]
+}
