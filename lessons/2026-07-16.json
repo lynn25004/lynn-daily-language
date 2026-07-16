@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "configure",
+      "pos": "v.",
+      "meaning": "配置、設定",
+      "example": "Hey, can you help me configure this new router?",
+      "example_zh": "嘿，你能幫我設定這台新路由器嗎？"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯",
+      "example": "I spent all morning trying to debug that tiny bug.",
+      "example_zh": "我花了整個早上試圖偵錯那個小錯誤。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "interface",
+      "pos": "n.",
+      "meaning": "介面、接口",
+      "example": "The new user interface looks really clean and modern.",
+      "example_zh": "新的使用者介面看起來非常簡潔現代。"
+    },
+    {
+      "word": "sensor",
+      "pos": "n.",
+      "meaning": "感測器",
+      "example": "This IoT device has a temperature sensor built-in.",
+      "example_zh": "這個物聯網設備內建了一個溫度感測器。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效率的、有效率的",
+      "example": "Working from home can be very efficient for some tasks.",
+      "example_zh": "居家辦公對某些任務來說可以非常有效率。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "We're building a prototype for the new smart device.",
+      "example_zh": "我們正在為新的智慧設備製作一個原型。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The project deadline is next Friday, so let's hurry.",
+      "example_zh": "專案截止日期是下週五，所以我們快點吧。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的、穩定的",
+      "example": "We need a reliable power source for our embedded system.",
+      "example_zh": "我們的嵌入式系統需要一個可靠的電源。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Let's collaborate on this project to finish it faster.",
+      "example_zh": "讓我們在這個專案上合作，更快完成它。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "描述過去某個時間點開始，並持續到現在或與現在相關的動作或經驗。",
+      "examples": [
+        "I have worked on several IoT projects.（我參與過幾個物聯網專案。）",
+        "She has never used this AI tool before.（她以前從未使用過這個AI工具。）",
+        "We've already optimized the system's performance.（我們已經優化了系統的效能。）"
+      ]
+    },
+    {
+      "title": "情態助動詞 (Modal Verbs: should, could, might)",
+      "rule": "表示建議、可能性或能力的助動詞，讓語氣更委婉，常用於日常交流。",
+      "examples": [
+        "You should check the sensor data more often.（你應該更常檢查感測器數據。）",
+        "We could try a different approach for debugging.（我們或許可以嘗試不同的除錯方法。）",
+        "It might be a good idea to back up your files now.（現在備份你的檔案可能是個好主意。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おきる",
+      "kanji_romaji": "起きる / okiru",
+      "meaning": "起床",
+      "example": "わたしは まいにち、ろくじに おきます。",
+      "example_zh": "我每天六點起床。"
+    },
+    {
+      "kana": "ねる",
+      "kanji_romaji": "寝る / neru",
+      "meaning": "睡覺",
+      "example": "よるは じゅういちじに ねます。",
+      "example_zh": "晚上十一點睡覺。"
+    },
+    {
+      "kana": "はたらく",
+      "kanji_romaji": "働く / hataraku",
+      "meaning": "工作",
+      "example": "きのう、たくさん はたらきました。",
+      "example_zh": "昨天我工作了很多。"
+    },
+    {
+      "kana": "やすむ",
+      "kanji_romaji": "休む / yasumu",
+      "meaning": "休息",
+      "example": "きょうは ゆっくり やすみます。",
+      "example_zh": "今天會好好休息。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製造、製作",
+      "example": "わたしは プロトタイプを つくります。",
+      "example_zh": "我會製作一個原型。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "この ツールを つかってください。",
+      "example_zh": "請使用這個工具。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "doko",
+      "meaning": "哪裡",
+      "example": "あなたの へやは どこですか。",
+      "example_zh": "你的房間在哪裡？"
+    },
+    {
+      "kana": "いま",
+      "kanji_romaji": "今 / ima",
+      "meaning": "現在",
+      "example": "いま、なにを していますか。",
+      "example_zh": "你現在在做什麼？"
+    },
+    {
+      "kana": "ときどき",
+      "kanji_romaji": "時々 / tokidoki",
+      "meaning": "有時、偶爾",
+      "example": "ときどき、カフェで しごとをします。",
+      "example_zh": "我偶爾會在咖啡廳工作。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞「〜ます」基本形",
+      "structure": "動詞ます形 / 動詞ません形 / 動詞ました形 / 動詞ませんでした形",
+      "rule": "用於表示現在、未來或過去的動作，是禮貌體基本句型，讓對話更客氣。",
+      "examples": [
+        "わたしは まいにち コーヒーを のみます。（我每天喝咖啡。）",
+        "きのう、テレビを みませんでした。（昨天我沒看電視。）"
+      ]
+    },
+    {
+      "title": "「名詞 + を + 動詞」",
+      "structure": "名詞 + を + 動詞",
+      "rule": "「を」是受格助詞，表示動詞的直接受詞，說明動作的對象或內容。",
+      "examples": [
+        "わたしは パンを たべます。（我吃麵包。）",
+        "彼は しんぶんを よみます。（他讀報紙。）"
+      ]
+    }
+  ]
+}
