@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "configure",
+      "pos": "v.",
+      "meaning": "設定或調整設備",
+      "example": "I need to configure the new router for our office network.",
+      "example_zh": "我需要為我們辦公室的網路設定新的路由器。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "找出並解決問題",
+      "example": "Can you help me troubleshoot this software bug?",
+      "example_zh": "你可以幫我解決這個軟體錯誤嗎？"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使其達到最佳狀態",
+      "example": "We should optimize our code for better system performance.",
+      "example_zh": "我們應該優化我們的程式碼以獲得更好的系統性能。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "初步的模型或樣品",
+      "example": "The team built a prototype for the new IoT device.",
+      "example_zh": "團隊為新的物聯網設備建造了一個原型。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的，永續的",
+      "example": "Solar power is a great example of renewable energy.",
+      "example_zh": "太陽能是再生能源的一個很好的例子。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的，省時省力",
+      "example": "We need to find a more efficient way to manage data.",
+      "example_zh": "我們需要找到一個更有效率的數據管理方式。"
+    },
+    {
+      "word": "commute",
+      "pos": "v.",
+      "meaning": "通勤，上下班",
+      "example": "I usually commute by scooter; it saves time in traffic.",
+      "example_zh": "我通常騎機車通勤；這在交通上省了不少時間。"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "閒暇時的嗜好或興趣",
+      "example": "What's your favorite hobby outside of work?",
+      "example_zh": "你工作之餘最喜歡的嗜好是什麼？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，最終期限",
+      "example": "The project deadline is next Friday, so let's hurry up!",
+      "example_zh": "專案的截止日期是下週五，所以我們快點吧！"
+    },
+    {
+      "word": "sync",
+      "pos": "v.",
+      "meaning": "同步，使一致",
+      "example": "Did you sync your phone with the cloud backup service?",
+      "example_zh": "你把手機和雲端備份服務同步了嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "常用動詞片語：動詞 + up",
+      "rule": "許多動詞加上 'up' 會形成新的片語，常表示完成、建立、增加或結束。",
+      "examples": [
+        "Let's set up the new development environment. (我們來設定新的開發環境吧。)",
+        "Could you back up all your project files? (你可以備份你所有的專案檔案嗎？)",
+        "I need to catch up on my emails after vacation. (我休假後需要趕上未讀的電子郵件。)"
+      ]
+    },
+    {
+      "title": "使用 'would' 表達假設或禮貌性請求",
+      "rule": "'Would' 可以用於禮貌地提出請求、邀請，或表達在假設情況下的行動。",
+      "examples": [
+        "If I had more time, I would learn a new programming language. (如果我有更多時間，我會學習一種新的程式語言。)",
+        "Would you mind helping me with this embedded system? (你介意幫我處理這個嵌入式系統嗎？)",
+        "I would recommend checking the log files first. (我會建議你先檢查日誌檔。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私の仕事はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末、何をしますか？",
+      "example_zh": "週末你做什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日、日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "IoT開発は楽しいです。",
+      "example_zh": "IoT開發很有趣。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツールを使いますか？",
+      "example_zh": "你用這個AI工具嗎？"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點",
+      "example": "日本語が少し話せます。",
+      "example_zh": "我會說一點點日文。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "新しいシステムに問題があります。",
+      "example_zh": "新系統有問題。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "勉強する時間がありません。",
+      "example_zh": "沒有時間學習。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "再生可能エネルギーの電気は大切です。",
+      "example_zh": "再生能源的電力很重要。"
+    },
+    {
+      "kana": "はじまる",
+      "kanji_romaji": "始まる / hajimaru",
+      "meaning": "開始",
+      "example": "会議は9時に始まります。",
+      "example_zh": "會議在九點開始。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「名詞１は名詞２です」",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "這是最基本的肯定句型，用來陳述「名詞１」是什麼或其身份。",
+      "examples": [
+        "私はエンジニアです。(我是工程師。)",
+        "これは私のパソコンです。(這是我的電腦。)"
+      ]
+    },
+    {
+      "title": "「動詞(ます形) + ましょうか」",
+      "structure": "動詞(ます形) + ましょうか",
+      "rule": "表示「我/我們來做某事好嗎？」用於主動提出幫忙或建議。",
+      "examples": [
+        "手伝いましょうか？ (我來幫忙好嗎？)",
+        "コーヒーを入れましょうか？ (我來泡咖啡好嗎？)"
+      ]
+    }
+  ]
+}
