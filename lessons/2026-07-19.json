@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "控制硬體的軟體",
+      "example": "Updating the firmware can fix bugs.",
+      "example_zh": "更新韌體可以修復錯誤。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品的最初模型",
+      "example": "Let's build a prototype for testing.",
+      "example_zh": "我們來建造一個原型進行測試。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決技術問題",
+      "example": "I need to troubleshoot this connection issue.",
+      "example_zh": "我需要解決這個連線問題。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "專案完成期限",
+      "example": "The deadline for this task is Friday.",
+      "example_zh": "這項任務的截止日期是星期五。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "使達到最佳狀態",
+      "example": "We need to optimize the code for speed.",
+      "example_zh": "我們需要優化程式碼以提高速度。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可持續再生的",
+      "example": "Solar energy is a renewable resource.",
+      "example_zh": "太陽能是可再生資源。"
+    },
+    {
+      "word": "algorithm",
+      "pos": "n.",
+      "meaning": "解決問題的步驟",
+      "example": "This algorithm processes data efficiently.",
+      "example_zh": "這個演算法能有效處理數據。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "與他人合作",
+      "example": "Let's collaborate on this new project.",
+      "example_zh": "我們來合作這個新專案吧。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "創造新事物",
+      "example": "Innovation drives technological progress.",
+      "example_zh": "創新推動科技進步。"
+    },
+    {
+      "word": "weekend",
+      "pos": "n.",
+      "meaning": "週六和週日",
+      "example": "What are your plans for the weekend?",
+      "example_zh": "你週末有什麼計畫嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "「Be going to」和「Will」的未來時態",
+      "rule": "「Be going to」用於表達預先計畫好的行動，而「Will」則用於即時決定或預測。",
+      "examples": [
+        "I am going to study embedded systems next week. (我下週打算學習嵌入式系統。)",
+        "Oh, the server crashed! I will restart it now. (喔，伺服器當機了！我現在就去重啟。)",
+        "I think AI will change our lives a lot. (我覺得AI會大大改變我們的生活。)"
+      ]
+    },
+    {
+      "title": "表達建議或可能性 (should, could)",
+      "rule": "「Should」用於提出建議或應盡義務，而「Could」則表達可能性或禮貌性建議。",
+      "examples": [
+        "You should back up your files regularly. (你應該定期備份你的文件。)",
+        "We could try a different approach for this bug. (我們可以嘗試用不同的方法來解決這個錯誤。)",
+        "To improve safety, we should review the design again. (為了提高安全性，我們應該再次審查設計。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "にちようび",
+      "kanji_romaji": "日曜日 / nichiyoubi",
+      "meaning": "星期日",
+      "example": "きょうは にちようび です。",
+      "example_zh": "今天是星期日。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしは しごとが すきです。",
+      "example_zh": "我喜歡工作。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息，假日",
+      "example": "きょうは やすみ です。",
+      "example_zh": "今天是假日。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごを べんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "みらい",
+      "kanji_romaji": "未来 / mirai",
+      "meaning": "未來",
+      "example": "みらいの ぎじゅつは おもしろい です。",
+      "example_zh": "未來的技術很有趣。"
+    },
+    {
+      "kana": "ぎじゅつ",
+      "kanji_romaji": "技術 / gijutsu",
+      "meaning": "技術",
+      "example": "あたらしい ぎじゅつを まなびたいです。",
+      "example_zh": "我想學習新技術。"
+    },
+    {
+      "kana": "あんぜん",
+      "kanji_romaji": "安全 / anzen",
+      "meaning": "安全",
+      "example": "あんぜんな システムを つくります。",
+      "example_zh": "我會製作安全的系統。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "あなたの しゅみは なんですか。",
+      "example_zh": "你的興趣是什麼？"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作",
+      "example": "IoT デバイスを つくります。",
+      "example_zh": "我製作 IoT 設備。"
+    },
+    {
+      "kana": "いつも",
+      "kanji_romaji": "いつも / itsumo",
+      "meaning": "總是，一直",
+      "example": "わたしは いつも げんきです。",
+      "example_zh": "我總是很健康。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞的禮貌形 (~ます/~ません/~ました/~ませんでした)",
+      "structure": "動詞語幹 + ます/ません/ました/ませんでした",
+      "rule": "「ます」表肯定，「ません」表否定，「ました」表過去肯定，「ませんでした」表過去否定。",
+      "examples": [
+        "わたしは まいにち しごとを します。 (我每天工作。)",
+        "きのう、しごとを しませんでした。 (我昨天沒有工作。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です (A是B)",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "這個句型用來表示「名詞1 是 名詞2」，是日語中最基本的肯定判斷句。",
+      "examples": [
+        "わたしは エンジニア です。 (我是工程師。)",
+        "これは わたしの ほん です。 (這是我的書。)"
+      ]
+    }
+  ]
+}
