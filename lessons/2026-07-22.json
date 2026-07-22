@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施（計畫或想法）",
+      "example": "We need to implement this new feature by Friday.",
+      "example_zh": "我們需要在週五前實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化（使效率更高）",
+      "example": "Can we optimize the code for better performance?",
+      "example_zh": "我們能優化程式碼來提升效能嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題（技術層面）",
+      "example": "I spent all morning troubleshooting the network issue.",
+      "example_zh": "我整個早上都在排除網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本（初次設計或產品）",
+      "example": "The team is building a new IoT device prototype.",
+      "example_zh": "團隊正在製作一個新的物聯網裝置原型。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作（共同完成工作）",
+      "example": "We often collaborate with other teams on big projects.",
+      "example_zh": "我們常和其他團隊合作大型專案。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "反饋、意見（對某事的回應）",
+      "example": "Your feedback on the design is really helpful.",
+      "example_zh": "你對設計的反饋真的很有幫助。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期（必須完成工作的時間）",
+      "example": "I'm a bit stressed because the project deadline is tomorrow.",
+      "example_zh": "我有點壓力，因為專案截止日期是明天。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的（提出新方法或想法）",
+      "example": "We need more innovative solutions for renewable energy safety.",
+      "example_zh": "我們需要更創新的再生能源安全解決方案。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的、有效率的（不浪費時間和精力）",
+      "example": "This new AI tool makes our workflow much more efficient.",
+      "example_zh": "這個新的 AI 工具讓我們的工作流程效率更高。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控、監視（持續觀察和檢查）",
+      "example": "We use sensors to monitor the temperature of the system.",
+      "example_zh": "我們使用感測器來監控系統的溫度。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "當動作的執行者不重要或未知時，被動語態強調動作的承受者。",
+      "examples": [
+        "The new system was developed by our R&D team. (新系統是由我們的研發團隊開發的。)",
+        "User feedback is always valued by the product manager. (用戶反饋總是受到產品經理的重視。)",
+        "Many IoT devices are powered by embedded systems. (許多物聯網裝置都是由嵌入式系統驅動的。)"
+      ]
+    },
+    {
+      "title": "情態動詞 (Modal Verbs) - must, should, can",
+      "rule": "情態動詞用於表達義務、建議、能力或可能性，讓語氣更自然。",
+      "examples": [
+        "You must finish the report before leaving today. (你今天下班前必須完成報告。)",
+        "We should check the code for potential bugs regularly. (我們應該定期檢查程式碼是否有潛在錯誤。)",
+        "Can you help me set up this new development environment? (你能幫我設定這個新的開發環境嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私の仕事はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私は新しい会社で働いています。",
+      "example_zh": "我在新公司工作。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "この部屋は電気がありません。",
+      "example_zh": "這個房間沒有電。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "個人電腦",
+      "example": "毎日パソコンを使います。",
+      "example_zh": "我每天都使用電腦。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "新しいシステムを開発します。",
+      "example_zh": "我開發新的系統。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "今日の会議は午後からです。",
+      "example_zh": "今天的會議是下午。"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "毎日仕事が忙しいです。",
+      "example_zh": "每天工作都很忙。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AIツールを使いますか。",
+      "example_zh": "你會使用 AI 工具嗎？"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "これは新しいプロジェクトです。",
+      "example_zh": "這是新的專案。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語が少し分かります。",
+      "example_zh": "我懂一點日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です / ではありません",
+      "structure": "名詞１ + は + 名詞２ + です / ではありません",
+      "rule": "這個句型用來介紹或判斷事物，表示「名詞1是/不是名詞2」。",
+      "examples": [
+        "私はエンジニアです。 (我是工程師。)",
+        "これは私のパソコンではありません。 (這不是我的電腦。)"
+      ]
+    },
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "這個句型表示請求或指示對方做某事，語氣禮貌且常用。",
+      "examples": [
+        "ちょっと待ってください。 (請稍等一下。)",
+        "この資料を読んでください。 (請閱讀這份資料。)"
+      ]
+    }
+  ]
+}
