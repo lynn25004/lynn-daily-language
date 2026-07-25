@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "weekend",
+      "pos": "n.",
+      "meaning": "週末休息時間",
+      "example": "What are your plans for the upcoming weekend?",
+      "example_zh": "你週末有什麼計畫嗎？"
+    },
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "開發專案或計畫",
+      "example": "I'm working on a small IoT project this weekend.",
+      "example_zh": "這個週末我正在做一個小型物聯網專案。"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索未知領域",
+      "example": "Let's explore some new AI tools together!",
+      "example_zh": "我們一起探索一些新的 AI 工具吧！"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "閒暇時的嗜好",
+      "example": "Coding is my favorite hobby outside of work.",
+      "example_zh": "寫程式是我工作之餘最喜歡的嗜好。"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "電子裝置或設備",
+      "example": "My new smart home device is super cool.",
+      "example_zh": "我的新智慧家庭裝置超酷的。"
+    },
+    {
+      "word": "coding",
+      "pos": "n.",
+      "meaning": "撰寫程式碼",
+      "example": "I spend some time coding on Saturdays.",
+      "example_zh": "我週六會花一些時間寫程式。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決問題的方法",
+      "example": "We need to find a good solution for this bug.",
+      "example_zh": "我們需要為這個錯誤找到一個好的解決方案。"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "帶來新思維或發明",
+      "example": "Companies always need to innovate to stay competitive.",
+      "example_zh": "公司需要不斷創新才能保持競爭力。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "做事的效能、效率",
+      "example": "Improving system efficiency is my main goal.",
+      "example_zh": "提高系統效率是我的主要目標。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "休息充電、恢復活力",
+      "example": "I need to recharge myself after a busy week.",
+      "example_zh": "忙碌一週後我需要為自己充電。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式 (will / be going to)",
+      "rule": "will 用於即興決定或預測；be going to 用於已有計畫或有跡象的預測。",
+      "examples": [
+        "I will probably go hiking this weekend. (我週末可能會去健行。)",
+        "We are going to debug the system tomorrow. (我們明天要去除錯這個系統。)",
+        "Look at the clouds, it's going to rain soon. (看那些雲，很快就要下雨了。)"
+      ]
+    },
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "用於描述過去發生的動作或經驗，其影響持續到現在，或表示已完成的事件。",
+      "examples": [
+        "I have already finished my coding project. (我已經完成我的程式專案了。)",
+        "Have you ever explored renewable energy safety? (你曾探索過再生能源安全嗎？)",
+        "She has learned a lot about AI tools recently. (她最近學了很多關於 AI 工具的知識。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは なにを しますか。",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "あなたの しゅみは なんですか。",
+      "example_zh": "你的興趣是什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作",
+      "example": "あたらしい デバイスを つくりたいです。",
+      "example_zh": "我想要製作新的裝置。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしい テクノロジーは おもしろいです。",
+      "example_zh": "新的科技很有趣。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "この プロジェクトは とても たのしいです。",
+      "example_zh": "這個專案非常有趣。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "しゅうまつは じかんが ありますか。",
+      "example_zh": "週末有時間嗎？"
+    },
+    {
+      "kana": "ほん",
+      "kanji_romaji": "本 / hon",
+      "meaning": "書",
+      "example": "私は よく テクノロジーの ほんを よみます。",
+      "example_zh": "我經常讀科技方面的書。"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "讀",
+      "example": "ひらがなを よむことができます。",
+      "example_zh": "我會讀平假名。"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點",
+      "example": "いま、すこし にほんごを はなします。",
+      "example_zh": "我現在會說一點點日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請求或指示對方做某事。在學習中，可用於請教或尋求幫助。",
+      "examples": [
+        "おしえて ください。 (請教我。)",
+        "これを よんで ください。 (請讀這個。)"
+      ]
+    },
+    {
+      "title": "動詞ます形 + たいです",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表達說話者想做某事的願望或意圖。動詞ます形去掉ます加上たいです。",
+      "examples": [
+        "あたらしい テクノロジーを べんきょうしたいです。 (我想學習新的科技。)",
+        "しゅうまつは ゲームを したいです。 (週末我想玩遊戲。)"
+      ]
+    }
+  ]
+}
