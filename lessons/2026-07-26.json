@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "裝置韌體",
+      "example": "Updating the firmware can often fix weird bugs.",
+      "example_zh": "更新韌體通常可以修復一些奇怪的錯誤。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、併入系統",
+      "example": "We need to integrate this new sensor with our system.",
+      "example_zh": "我們需要將這個新感測器整合到我們的系統中。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署軟體、配置",
+      "example": "When will we deploy the new feature to production?",
+      "example_zh": "我們什麼時候會將新功能部署到正式環境？"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "I'm trying to optimize the code for better performance.",
+      "example_zh": "我正在嘗試優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品原型、樣品",
+      "example": "The first prototype always looks a bit rough, right?",
+      "example_zh": "第一個原型總是看起來有點粗糙，對吧？"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "程式除錯、偵錯",
+      "example": "I spent all morning trying to debug that tricky issue.",
+      "example_zh": "我整個早上都在試圖解決那個棘手的問題。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "Renewable energy is key for a sustainable future.",
+      "example_zh": "再生能源是實現永續未來的關鍵。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "That's a truly innovative idea for an IoT device!",
+      "example_zh": "那是個真正創新的物聯網設備想法！"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇時間、空閒",
+      "example": "What do you usually do in your leisure time on weekends?",
+      "example_zh": "你週末閒暇時通常會做什麼？"
+    },
+    {
+      "word": "unwind",
+      "pos": "v.",
+      "meaning": "身心放鬆、紓壓",
+      "example": "After a long week, I just want to unwind with a good book.",
+      "example_zh": "漫長的一週後，我只想讀本好書放鬆一下。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Phrasal Verbs with \"up\" and \"out\"",
+      "rule": "片語動詞由動詞和介詞/副詞組成，常用於口語中，改變原動詞意思。",
+      "examples": [
+        "I need to set up my new workstation. (我需要架設我的新工作站。)",
+        "Can you help me figure out this problem? (你能幫我搞清楚這個問題嗎？)",
+        "Let's look up the answer online. (我們上網查一下答案吧。)"
+      ]
+    },
+    {
+      "title": "Expressing Future Plans/Intentions",
+      "rule": "用 \"be going to\" 表示事先計畫好的意圖，或 \"present continuous\" 表示已安排好的未來行程。",
+      "examples": [
+        "I'm going to read a tech article this afternoon. (我今天下午打算讀一篇科技文章。)",
+        "We are meeting for coffee tomorrow morning. (我們明天早上要碰面喝咖啡。)",
+        "I'm going to learn more about AI tools next month. (我下個月打算學更多 AI 工具。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしは にほんごを べんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "せんせい",
+      "kanji_romaji": "先生 / sensei",
+      "meaning": "老師",
+      "example": "あの せんせいは やさしいです。",
+      "example_zh": "那位老師很親切。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうは しごとが ありません。",
+      "example_zh": "今天沒有工作。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "週末は わたしの やすみです。",
+      "example_zh": "週末是我的休息日。"
+    },
+    {
+      "kana": "にほんご",
+      "kanji_romaji": "日本語 / nihongo",
+      "meaning": "日文",
+      "example": "にほんごは おもしろいです。",
+      "example_zh": "日文很有趣。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "でんきを つけて ください。",
+      "example_zh": "請開燈。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、創造",
+      "example": "わたしは IoT デバイスを つくります。",
+      "example_zh": "我製作 IoT 設備。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、愉快的",
+      "example": "きょうは とても たのしいです。",
+      "example_zh": "今天非常開心。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは なにを しますか。",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點",
+      "example": "にほんごが すこし わかります。",
+      "example_zh": "我懂一點點日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + を + 動詞ます形 (Object particle \"を\")",
+      "structure": "名詞 + を + 動詞ます形 (或動詞原形)",
+      "rule": "「を」是用來標示動詞的直接受詞，表示動詞作用的對象或內容。",
+      "examples": [
+        "ごはんを たべます。（吃飯。）",
+        "コーヒーを のみます。（喝咖啡。）"
+      ]
+    },
+    {
+      "title": "動詞ます形 + たいです (Expressing desire)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "用來表示說話者想做某事或期望某事的願望，非常實用。",
+      "examples": [
+        "にほんへ いきたいです。（想去日本。）",
+        "あたらしい IoT デバイスを つくりたいです。（想製作新的 IoT 設備。）"
+      ]
+    }
+  ]
+}
