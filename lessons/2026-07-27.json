@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "小型設備、裝置",
+      "example": "My new IoT device makes life easier.",
+      "example_zh": "我的新物聯網設備讓生活更輕鬆。"
+    },
+    {
+      "word": "update",
+      "pos": "v.",
+      "meaning": "更新軟體、升級",
+      "example": "Remember to update your phone's OS.",
+      "example_zh": "記得更新你手機的作業系統喔。"
+    },
+    {
+      "word": "system",
+      "pos": "n.",
+      "meaning": "系統、機制",
+      "example": "We need to check the network system.",
+      "example_zh": "我們需要檢查一下網路系統。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效的、有能力的",
+      "example": "This AI tool is super efficient.",
+      "example_zh": "這個AI工具效率超級高。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯",
+      "example": "I spent hours trying to debug this code.",
+      "example_zh": "我花了好幾個小時在為這段程式碼除錯。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案、對策",
+      "example": "Let's find a practical solution together.",
+      "example_zh": "我們一起找出一個實用的解決方案吧。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控、檢測",
+      "example": "We need to monitor server performance.",
+      "example_zh": "我們需要監控伺服器效能。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "It's tricky to integrate old and new systems.",
+      "example_zh": "整合新舊系統有點棘手。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的、穩定的",
+      "example": "Our new product is very reliable.",
+      "example_zh": "我們的新產品非常可靠。"
+    },
+    {
+      "word": "configure",
+      "pos": "v.",
+      "meaning": "配置、設定",
+      "example": "Can you help me configure this router?",
+      "example_zh": "你能幫我設定這個路由器嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句型 Type 1 (If + 現在簡單式, will + 原形動詞)",
+      "rule": "用於描述未來可能發生且結果明確的事情，表達計畫、預測或因果關係。",
+      "examples": [
+        "If I finish coding early, I will go for a run. (如果我提早寫完程式，我就會去跑步。)",
+        "If the sensor works, we'll collect data. (如果感測器能運作，我們就會收集數據。)",
+        "If you have questions, just ask me. (如果你有問題，直接問我就好。)"
+      ]
+    },
+    {
+      "title": "片語動詞 with 'up' (例如：set up, back up)",
+      "rule": "「動詞 + up」組合常表示向上、完成、建立或增加，理解其語境很重要。",
+      "examples": [
+        "I need to set up my new development environment. (我需要設定我的新開發環境。)",
+        "Did you back up all your important files? (你備份了所有重要的檔案了嗎？)",
+        "Let's pick up some coffee on the way. (我們路上買點咖啡吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おはよう",
+      "kanji_romaji": "おはよう / ohayou",
+      "meaning": "早安",
+      "example": "おはようございます！今日も一日頑張りましょう。",
+      "example_zh": "早安！今天一天也一起努力吧。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "仕事は面白いですが、時々大変です。",
+      "example_zh": "工作很有趣，但有時候很辛苦。"
+    },
+    {
+      "kana": "くるま",
+      "kanji_romaji": "車 / kuruma",
+      "meaning": "汽車、車子",
+      "example": "私の車は新しいIoTデバイスでいっぱいです。",
+      "example_zh": "我的車子裝滿了新的物聯網設備。"
+    },
+    {
+      "kana": "でんしゃ",
+      "kanji_romaji": "電車 / densha",
+      "meaning": "電車",
+      "example": "毎日、電車で会社に行きます。",
+      "example_zh": "我每天搭電車去公司。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日、日本語を勉強しています。",
+      "example_zh": "我每天都在學習日文。"
+    },
+    {
+      "kana": "たかい",
+      "kanji_romaji": "高い / takai",
+      "meaning": "高的、貴的",
+      "example": "あのスマートデバイスは少し高いですね。",
+      "example_zh": "那個智慧設備有點貴呢。"
+    },
+    {
+      "kana": "やすい",
+      "kanji_romaji": "安い / yasui",
+      "meaning": "便宜的、簡單的",
+      "example": "このAIツールは安くて使いやすいです。",
+      "example_zh": "這個AI工具又便宜又好用。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このソフトは初めて使うので、教えてください。",
+      "example_zh": "這是第一次使用這個軟體，請教我一下。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語の文法が少しずつ分かります。",
+      "example_zh": "我漸漸懂日文文法了。"
+    },
+    {
+      "kana": "おそい",
+      "kanji_romaji": "遅い / osoi",
+      "meaning": "慢的、遲的",
+      "example": "今日の電車はいつもより少し遅いです。",
+      "example_zh": "今天的電車比平常稍微慢一點。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です / ではありません",
+      "structure": "名詞１ + は + 名詞２ + です / ではありません",
+      "rule": "用於說明主語是什麼或不是什麼，是日語中最基礎的判斷句型。",
+      "examples": [
+        "私はエンジニアです。(我是工程師。)",
+        "これは私のプロジェクトではありません。(這不是我的專案。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょうか",
+      "structure": "動詞(ます形) + ましょうか",
+      "rule": "用於主動提出提供幫助，或禮貌地建議一起做某件事。",
+      "examples": [
+        "手伝いましょうか。(需要我幫忙嗎？)",
+        "一緒に新しいAIツールを試しましょうか。(我們一起試試新的AI工具吧？)"
+      ]
+    }
+  ]
+}
