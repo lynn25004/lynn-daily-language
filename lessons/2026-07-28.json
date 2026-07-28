@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施（計畫或工具）",
+      "example": "We need to implement this new feature by next month.",
+      "example_zh": "我們下個月前需要實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使最佳化",
+      "example": "I'm trying to optimize the code for better performance.",
+      "example_zh": "我正在努力優化程式碼以提高性能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本",
+      "example": "We're building a new prototype for the IoT device.",
+      "example_zh": "我們正在為這個物聯網設備製作一個新原型。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Let's collaborate on this project to finish it faster.",
+      "example_zh": "我們在這個專案上合作，更快完成吧。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效的、有效率的",
+      "example": "Our new algorithm is designed to be much more efficient.",
+      "example_zh": "我們的新演算法設計得更有效率。"
+    },
+    {
+      "word": "commute",
+      "pos": "n.",
+      "meaning": "通勤（的路程或時間）",
+      "example": "My daily commute is about 30 minutes by scooter.",
+      "example_zh": "我每天的通勤大概是騎機車三十分鐘。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "We have a tight deadline for this new product launch.",
+      "example_zh": "我們這個新產品發布的截止日期很趕。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "I like exploring innovative ideas in renewable energy.",
+      "example_zh": "我喜歡探索再生能源領域的創新想法。"
+    },
+    {
+      "word": "update",
+      "pos": "v.",
+      "meaning": "更新、告知最新情況",
+      "example": "Could you update me on the project status?",
+      "example_zh": "你能告訴我專案的最新進度嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "當動作執行者不重要或未知，或想強調承受者時，使用「be 動詞 + 過去分詞」來表達。",
+      "examples": [
+        "The software was developed by a small team. (這套軟體是由一個小團隊開發的。)",
+        "New IoT sensors are being installed next week. (新的物聯網感測器將於下週安裝。)",
+        "The problem has been solved already. (問題已經解決了。)"
+      ]
+    },
+    {
+      "title": "情態助動詞：表達可能性 (could, might, may)",
+      "rule": "這些助動詞表達可能性。could表較低推測；might/may表現在或未來不確定性。",
+      "examples": [
+        "The bug might be in the database connection. (這個錯誤可能是在資料庫連線。)",
+        "We could try a different approach next time. (我們下次或許可以嘗試不同的方法。)",
+        "It may be raining later, so bring an umbrella. (稍後可能會下雨，所以帶把傘吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "まいにちしごとをします。",
+      "example_zh": "我每天都工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしのかいしゃはとてもおおきいです。",
+      "example_zh": "我的公司非常大。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしはにほんごをべんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにちコーヒーをのみます。",
+      "example_zh": "我每天喝咖啡。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありますか。",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "ぎじゅつ",
+      "kanji_romaji": "技術 / gijutsu",
+      "meaning": "技術",
+      "example": "あたらしいぎじゅつがすきです。",
+      "example_zh": "我喜歡新技術。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力、電燈",
+      "example": "でんきをつけましょう。",
+      "example_zh": "我們開燈吧。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "ロボットをつくります。",
+      "example_zh": "我製作機器人。"
+    },
+    {
+      "kana": "はじまる",
+      "kanji_romaji": "始まる / hajimaru",
+      "meaning": "開始（自動詞）",
+      "example": "かいぎはくじにはじまります。",
+      "example_zh": "會議在九點開始。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束（自動詞）",
+      "example": "しごとはごじにおわります。",
+      "example_zh": "工作在五點結束。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "助詞「を」",
+      "structure": "名詞 + を + 動詞(ます形)",
+      "rule": "助詞「を」用來標示動詞的直接受詞，表示動作作用的對象。",
+      "examples": [
+        "ごはんを食べます。 (吃飯。)",
+        "ジュースを飲みます。 (喝果汁。)"
+      ]
+    },
+    {
+      "title": "助詞「で」（場所）",
+      "structure": "場所 + で + 動詞(ます形)",
+      "rule": "助詞「で」用來表示動作發生的場所，強調「在某處進行某動作」。",
+      "examples": [
+        "かいしゃではたらきます。 (在公司工作。)",
+        "カフェでコーヒーを飲みます。 (在咖啡廳喝咖啡。)"
+      ]
+    }
+  ]
+}
