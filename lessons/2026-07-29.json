@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤，上下班路程",
+      "example": "My daily commute takes about an hour.",
+      "example_zh": "我每天通勤大約需要一小時。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使效率提升",
+      "example": "We need to optimize this code.",
+      "example_zh": "我們需要優化這段程式碼。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率，生產力",
+      "example": "How can we improve our team's efficiency?",
+      "example_zh": "我們怎麼提高團隊效率呢？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初版模型",
+      "example": "The team built a prototype for the new device.",
+      "example_zh": "團隊為新設備做了個原型。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，找出並修復錯誤",
+      "example": "I spent hours debugging the system.",
+      "example_zh": "我花了數小時對系統除錯。"
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "meaning": "無縫接軌的，流暢的",
+      "example": "The new update provides a seamless experience.",
+      "example_zh": "新的更新提供了無縫的體驗。"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "優先處理，排序",
+      "example": "I need to prioritize my tasks for today.",
+      "example_zh": "我今天需要為我的任務排定優先順序。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的，新穎的",
+      "example": "AI tools offer many innovative solutions.",
+      "example_zh": "AI 工具提供了許多創新解決方案。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合",
+      "example": "We should integrate this module into the system.",
+      "example_zh": "我們應該將這個模組整合到系統中。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見",
+      "example": "Please give me some feedback on my presentation.",
+      "example_zh": "請給我一些關於我報告的回饋。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "第一型條件句 (Conditional Type 1)",
+      "rule": "表達未來可能發生的事情及其結果，結構是「If + 主詞 + 現在簡單式, 主詞 + will + 原形動詞」。",
+      "examples": [
+        "If it rains tomorrow, I will work from home. (如果明天下雨，我就在家工作。)",
+        "If you finish the report, we will discuss it. (如果你完成報告，我們就會討論它。)",
+        "If the system works, we will launch it next week. (如果系統運作正常，我們下週就會推出。)"
+      ]
+    },
+    {
+      "title": "動詞片語 (Phrasal Verbs) - \"set up\" & \"figure out\"",
+      "rule": "動詞加上介系詞或副詞，形成新意思。這次專注於「設置/安排」(set up) 和「弄清楚/理解」(figure out)。",
+      "examples": [
+        "Can you help me set up the new IoT device? (你能幫我設定這個新的物聯網設備嗎？)",
+        "I need to figure out why the code isn't working. (我需要弄清楚為什麼程式碼無法運作。)",
+        "Let's set up a meeting to figure out the issue. (我們安排一個會議來弄清楚這個問題吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おはようございます",
+      "kanji_romaji": "/ ohayou gozaimasu",
+      "meaning": "早安",
+      "example": "朝、会社で「おはようございます！」と言います。",
+      "example_zh": "早上在公司會說「早安！」。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私は毎日仕事をします。",
+      "example_zh": "我每天工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "彼は新しい会社に入りました。",
+      "example_zh": "他進了一家新公司。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "何時に会社に行きますか？",
+      "example_zh": "你幾點去公司？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "私は日本語の勉強が好きです。",
+      "example_zh": "我喜歡學習日語。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "/ pasokon",
+      "meaning": "電腦",
+      "example": "毎日パソコンを使います。",
+      "example_zh": "我每天使用電腦。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "9時に仕事を始めます。",
+      "example_zh": "我九點開始工作。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "仕事は何時に終わりますか？",
+      "example_zh": "工作幾點結束？"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦的，很棒的",
+      "example": "今日は仕事が大変でした。",
+      "example_zh": "今天工作很辛苦。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞「ます」形 (Verb Masu Form)",
+      "structure": "動詞ます形 (ます/ません)",
+      "rule": "「ます」表示肯定，使句子禮貌且用於現在或未來。「ません」表示否定，用來表達不做某事。",
+      "examples": [
+        "毎日日本語を勉強します。(我每天學習日語。)",
+        "明日、会社に行きません。(我明天不去公司。)"
+      ]
+    },
+    {
+      "title": "名詞 + の + 名詞 (Noun + no + Noun)",
+      "structure": "名詞１ + の + 名詞２",
+      "rule": "「の」用來連接兩個名詞，表示名詞１是名詞２的修飾語、所有者或所屬關係。",
+      "examples": [
+        "私のパソコンは新しいです。(我的電腦是新的。)",
+        "これはエンジニアの本です。(這是工程師的書。)"
+      ]
+    }
+  ]
+}
