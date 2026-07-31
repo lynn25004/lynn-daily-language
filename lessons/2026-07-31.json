@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫或系統",
+      "example": "We need to implement this new feature by next month.",
+      "example_zh": "我們需要下個月前實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使系統更有效率",
+      "example": "Can you help optimize the code for better performance?",
+      "example_zh": "你能幫忙優化程式碼以提升效能嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent hours trying to troubleshoot this network issue.",
+      "example_zh": "我花了數小時試著排除這個網路問題。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The deadline for this project is next Friday.",
+      "example_zh": "這個專案的截止日是下週五。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步模型",
+      "example": "We just finished building the first prototype of our new device.",
+      "example_zh": "我們剛完成新設備的第一個原型。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "功能、特色",
+      "example": "This new software has many useful features.",
+      "example_zh": "這款新軟體有很多實用的功能。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效的、有能力的",
+      "example": "AI tools make our workflow much more efficient.",
+      "example_zh": "AI 工具讓我們的工作流程更有效率。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、共同完成",
+      "example": "Let's collaborate on this presentation next week.",
+      "example_zh": "我們下週一起合作這份簡報吧。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見反應",
+      "example": "Your feedback is important for us to improve.",
+      "example_zh": "你的回饋對我們改進很重要。"
+    },
+    {
+      "word": "update",
+      "pos": "v.",
+      "meaning": "更新、提供最新資訊",
+      "example": "I need to update my resume for job applications.",
+      "example_zh": "我需要更新我的履歷以應徵工作。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "表示過去發生的動作對現在有影響，或從過去持續到現在的經驗或狀態。",
+      "examples": [
+        "I have worked on several IoT projects. (我參與過幾個物聯網專案。)",
+        "She has already finished the debugging. (她已經完成除錯了。)",
+        "We haven't met the new manager yet. (我們還沒見過新經理。)"
+      ]
+    },
+    {
+      "title": "條件句 (Conditional Sentences Type 1)",
+      "rule": "用於描述未來可能發生的真實情況，或在特定條件下會發生的結果。",
+      "examples": [
+        "If you optimize the code, it will run faster. (如果你優化程式碼，它會跑得更快。)",
+        "If it rains tomorrow, we will work from home. (如果明天會下雨，我們就在家工作。)",
+        "I will call you if I need help with the embedded system. (如果我的嵌入式系統需要幫助，我會打給你。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "はたらく",
+      "kanji_romaji": "働く / hataraku",
+      "meaning": "工作",
+      "example": "まいにち、かいしゃではたらきます。",
+      "example_zh": "每天在公司工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "あなたの会社はどこですか。",
+      "example_zh": "你的公司在哪裡？"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち、日本語をべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きょうは、わたしのやすみです。",
+      "example_zh": "今天是我休息日。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "いま、なんじかんかかりますか。",
+      "example_zh": "現在需要多少時間？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "ごごから会議があります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、很累",
+      "example": "しごとがたいへんです。",
+      "example_zh": "工作很辛苦。"
+    },
+    {
+      "kana": "にほんご",
+      "kanji_romaji": "日本語 / nihongo",
+      "meaning": "日文",
+      "example": "日本語をべんきょうするのはたのしいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "わたしはまいにち、勉強します。",
+      "example_zh": "我每天讀書學習。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールを使いますか。",
+      "example_zh": "會使用這個工具嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "～てください",
+      "structure": "動詞て形 + ください",
+      "rule": "用於向對方提出禮貌的請求或給予指示，請對方做某事。",
+      "examples": [
+        "ここにお名前を書いてください。(請在這裡寫您的名字。)",
+        "この資料を読んでください。(請閱讀這份資料。)"
+      ]
+    },
+    {
+      "title": "～ますか",
+      "structure": "動詞ます形 + か / い形容詞 + ですか / な形容詞 + ですか / 名詞 + ですか",
+      "rule": "用於構成疑問句，向對方提問或確認資訊，語氣禮貌。",
+      "examples": [
+        "毎日会社へ行きますか。(你每天去公司嗎？)",
+        "日本語の勉強は楽しいですか。(學習日文有趣嗎？)"
+      ]
+    }
+  ]
+}
