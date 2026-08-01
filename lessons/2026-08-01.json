@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "If you integrate this, it will be easier.",
+      "example_zh": "如果你整合這個，會更容易。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the system.",
+      "example_zh": "我們需要優化這個系統。"
+    },
+    {
+      "word": "sensor",
+      "pos": "n.",
+      "meaning": "感測器",
+      "example": "The sensor detects temperature changes.",
+      "example_zh": "這個感測器偵測溫度變化。"
+    },
+    {
+      "word": "routine",
+      "pos": "n.",
+      "meaning": "例行公事、日常",
+      "example": "My morning routine starts with coffee.",
+      "example_zh": "我的早晨例行公事從咖啡開始。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除、解決問題",
+      "example": "Can you help troubleshoot this network?",
+      "example_zh": "你能幫忙排除這個網路故障嗎？"
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "meaning": "無縫的、流暢的",
+      "example": "The user experience is quite seamless.",
+      "example_zh": "這個使用者體驗相當流暢。"
+    },
+    {
+      "word": "automation",
+      "pos": "n.",
+      "meaning": "自動化",
+      "example": "Home automation makes life easier.",
+      "example_zh": "家庭自動化讓生活更輕鬆。"
+    },
+    {
+      "word": "appliance",
+      "pos": "n.",
+      "meaning": "家用電器",
+      "example": "My smart appliance can order groceries.",
+      "example_zh": "我的智慧電器能訂購雜貨。"
+    },
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體",
+      "example": "Remember to update the device firmware.",
+      "example_zh": "記得更新裝置的韌體喔。"
+    },
+    {
+      "word": "intuitive",
+      "pos": "adj.",
+      "meaning": "直覺的、易懂的",
+      "example": "The new interface is very intuitive.",
+      "example_zh": "新的介面非常直覺。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 Type 1 (If + present simple, will + base verb)",
+      "rule": "表達未來可能發生的狀況，如果條件達成，某結果會發生。",
+      "examples": [
+        "If the smart light turns on, I will know someone is home. (如果智慧燈亮了，我就知道有人在家。)",
+        "If you update the firmware, the device will work better. (如果你更新韌體，裝置會運作更好。)",
+        "If I have time this weekend, I'll build an IoT pet feeder. (如果我這週末有空，我會做一個 IoT 寵物餵食器。)"
+      ]
+    },
+    {
+      "title": "Used to (過去習慣)",
+      "rule": "用來描述過去經常發生但現在已不再發生的動作或習慣。",
+      "examples": [
+        "I used to manually switch off lights before smart home. (在智慧家庭之前，我以前習慣手動關燈。)",
+        "Engineers used to write code on paper, imagine that! (工程師以前習慣在紙上寫程式，你能想像嗎！)",
+        "My old laptop used to overheat a lot during coding. (我舊筆電以前寫程式時很常過熱。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "かぞく",
+      "kanji_romaji": "家族 / kazoku",
+      "meaning": "家庭、家人",
+      "example": "わたしの かぞくは ほんを よみます。",
+      "example_zh": "我的家人會讀書。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは なにを しますか。",
+      "example_zh": "週末你會做什麼？"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電燈、電力",
+      "example": "へやの でんきを つけます。",
+      "example_zh": "我打開房間的燈。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "この アプリを つかいます。",
+      "example_zh": "我使用這個應用程式。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便、便利",
+      "example": "スマホは とても べんりです。",
+      "example_zh": "智慧型手機非常方便。"
+    },
+    {
+      "kana": "へや",
+      "kanji_romaji": "部屋 / heya",
+      "meaning": "房間",
+      "example": "わたしの へやは ひろいです。",
+      "example_zh": "我的房間很寬敞。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしい パソコンが ほしいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうは しごとが ありません。",
+      "example_zh": "我今天沒有工作。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きょうは やすみです。",
+      "example_zh": "今天是假日。"
+    },
+    {
+      "kana": "つくえ",
+      "kanji_romaji": "机 / tsukue",
+      "meaning": "書桌",
+      "example": "つくえの うえに ほんが あります。",
+      "example_zh": "桌子上有書。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません (肯定/否定)",
+      "structure": "動詞ます形 / 動詞ません形",
+      "rule": "動詞ます形表示禮貌的肯定動作；動詞ません形表示禮貌的否定動作。",
+      "examples": [
+        "毎日、日本語を勉強します。 (我每天學習日文。)",
+        "週末は仕事をしません。 (週末我不工作。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です / じゃありません",
+      "structure": "名詞1 + は + 名詞2 + です / じゃありません",
+      "rule": "用來介紹或說明某物是什麼或不是什麼，は是主題標示助詞。",
+      "examples": [
+        "これは私の新しい部屋です。 (這是我的新房間。)",
+        "IoTは面白い技術です。 (IoT 是有趣的技術。)"
+      ]
+    }
+  ]
+}
