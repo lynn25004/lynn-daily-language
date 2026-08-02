@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "控制硬體的程式",
+      "example": "I need to update the router's firmware soon.",
+      "example_zh": "我需要盡快更新路由器的韌體。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "Let's integrate this new feature into our system.",
+      "example_zh": "我們把這個新功能整合到系統裡吧。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你可以幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想",
+      "example": "Consider a worst-case scenario for the project.",
+      "example_zh": "考慮一下這個專案的最壞情況。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "Our team is building a new IoT prototype.",
+      "example_zh": "我們的團隊正在建立一個新的物聯網原型。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的、穩定的",
+      "example": "This system needs to be reliable for safety.",
+      "example_zh": "這個系統需要可靠以確保安全。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "Renewable energy is crucial for a sustainable future.",
+      "example_zh": "再生能源對於永續未來至關重要。"
+    },
+    {
+      "word": "gadget",
+      "pos": "n.",
+      "meaning": "小工具、新奇玩意",
+      "example": "I bought a cool new smart home gadget!",
+      "example_zh": "我買了一個很酷的新智慧家庭小工具！"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "更新、最新消息",
+      "example": "Did you get the latest software update yet?",
+      "example_zh": "你收到最新的軟體更新了嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (第一型)",
+      "rule": "用來描述未來可能發生的事情，如果某條件成立，就會有某結果。表達真實的可能性。",
+      "examples": [
+        "If the system crashes, we will lose all data. (如果系統當機，我們將丟失所有資料。)",
+        "If you finish your tasks early, you can leave. (如果你早點完成任務，你就可以離開。)",
+        "If we optimize this, it will run much faster. (如果我們優化這個，它會跑得快很多。)"
+      ]
+    },
+    {
+      "title": "動詞片語：set 系列",
+      "rule": "set 這個動詞可以和不同介系詞搭配，產生多種意思，例如建立、儲存、啟動等。",
+      "examples": [
+        "I need to set up my new smart thermostat. (我需要設定我的新智慧恆溫器。)",
+        "Let's set aside some time for debugging. (我們撥出一些時間來除錯吧。)",
+        "The alarm will set off if there's smoke. (如果偵測到煙霧，警報就會響起。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このシステムは電気がひつようです。",
+      "example_zh": "這個系統需要電力。"
+    },
+    {
+      "kana": "あんぜん",
+      "kanji_romaji": "安全 / anzen",
+      "meaning": "安全",
+      "example": "安全がいちばんたいせつです。",
+      "example_zh": "安全是最重要的。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このアプリをよく使います。",
+      "example_zh": "我經常使用這個應用程式。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "AIツールはとても便利ですね。",
+      "example_zh": "AI工具真的很方便呢。"
+    },
+    {
+      "kana": "システム",
+      "kanji_romaji": "システム / shisutemu",
+      "meaning": "系統",
+      "example": "新しいシステムを開発しています。",
+      "example_zh": "我們正在開發一個新系統。"
+    },
+    {
+      "kana": "うごく",
+      "kanji_romaji": "動く / ugoku",
+      "meaning": "動、運轉",
+      "example": "IoTデバイスがちゃんと動いていますか。",
+      "example_zh": "物聯網設備有正常運作嗎？"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいガジェットを買いました。",
+      "example_zh": "我買了一個新的小工具。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "何か問題がありますか。",
+      "example_zh": "有什麼問題嗎？"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "プロジェクトを明日から始めます。",
+      "example_zh": "我們從明天開始專案。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "今日は何を勉強しますか。",
+      "example_zh": "今天學習什麼呢？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞的「ます」形變化",
+      "structure": "動詞連用形 + ます / ません / ました / ませんでした",
+      "rule": "這是日語動詞最基礎的禮貌體變化，用來表達現在、過去的肯定與否定行為。",
+      "examples": [
+        "毎日、日本語を勉強します。 (我每天學習日語。)",
+        "昨日、会議に参加しませんでした。 (我昨天沒有參加會議。)"
+      ]
+    },
+    {
+      "title": "～たいです (想做...)",
+      "structure": "動詞ます形去ます + たいです",
+      "rule": "用來表達自己想要做某件事情的願望或意圖，是日常對話中很常用到的句型。",
+      "examples": [
+        "新しいIoTデバイスを作りたいです。 (我想製作新的物聯網設備。)",
+        "もっと再生エネルギーについて学びたいです。 (我想學習更多關於再生能源的知識。)"
+      ]
+    }
+  ]
+}
