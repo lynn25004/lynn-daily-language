@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行計畫",
+      "example": "Let's implement this new feature next week.",
+      "example_zh": "我們下週實施這新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the code for speed.",
+      "example_zh": "我們需優化程式碼求速度。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "Can we integrate this module easily?",
+      "example_zh": "這模組可輕鬆整合嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "The team built a working prototype.",
+      "example_zh": "團隊做了個可動原型。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋意見",
+      "example": "Your feedback is really helpful for us.",
+      "example_zh": "你的回饋對我們很有用。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Engineers often collaborate on projects.",
+      "example_zh": "工程師常在專案上合作。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決問題",
+      "example": "I spent hours troubleshooting the bug.",
+      "example_zh": "我花數小時解決錯誤。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持續的",
+      "example": "Renewable energy is more sustainable.",
+      "example_zh": "再生能源更具永續性。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的",
+      "example": "This new algorithm is very efficient.",
+      "example_zh": "這個新演算法很有效率。"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創新、革新",
+      "example": "We need to innovate to stay competitive.",
+      "example_zh": "我們需創新保持競爭力。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Present Perfect Tense (現在完成式)",
+      "rule": "表達從過去某時開始並持續到現在的動作或經驗，或已完成但影響仍存在的動作。",
+      "examples": [
+        "I have worked on several IoT projects. (我曾參與過幾個物聯網專案。)",
+        "She has learned a lot about AI tools. (她學了很多關於AI工具的知識。)",
+        "We haven't met the new manager yet. (我們還沒見過新經理。)"
+      ]
+    },
+    {
+      "title": "Using \"Would like to\" (想/願意)",
+      "rule": "用來禮貌地表達願望、請求或意圖，比 \"want to\" 更客氣。",
+      "examples": [
+        "I would like to explore renewable energy safety. (我想探索再生能源安全。)",
+        "Would you like to join our study group? (你願意加入我們的讀書會嗎？)",
+        "He would like to improve his English skills. (他想提升他的英文能力。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私は毎日仕事をします。",
+      "example_zh": "我每天都工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "彼は大きな会社で働いています。",
+      "example_zh": "他在大公司上班。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールを使いましょう。",
+      "example_zh": "我們來使用這個工具吧。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "電気は私たちの生活に必要です。",
+      "example_zh": "電力對我們生活很重要。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "スマートフォンはとても便利です。",
+      "example_zh": "智慧型手機很方便。"
+    },
+    {
+      "kana": "システム",
+      "kanji_romaji": "システム / shisutemu",
+      "meaning": "系統",
+      "example": "新しいシステムを開発しています。",
+      "example_zh": "正在開發新系統。"
+    },
+    {
+      "kana": "まなぶ",
+      "kanji_romaji": "学ぶ / manabu",
+      "meaning": "學習、學會",
+      "example": "私はAIについて学びたいです。",
+      "example_zh": "我想學習關於AI。"
+    },
+    {
+      "kana": "ぎじゅつ",
+      "kanji_romaji": "技術 / gijutsu",
+      "meaning": "技術",
+      "example": "彼は高い技術を持っています。",
+      "example_zh": "他擁有高超的技術。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日コーヒーを飲みます。",
+      "example_zh": "我每天都喝咖啡。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + を + 動詞(ます)",
+      "structure": "名詞 + を + 動詞(ます)",
+      "rule": "表示動詞的受詞。動詞直接作用於名詞，為日文最基本的句子結構。",
+      "examples": [
+        "日本語を勉強します。（學習日文。）",
+        "コーヒーを飲みます。（喝咖啡。）"
+      ]
+    },
+    {
+      "title": "〜たいです (want to do something)",
+      "structure": "動詞(ます形去ます) + たいです",
+      "rule": "表達說話者想要做某事的願望或意圖，是非常直接且常用的表達方式。",
+      "examples": [
+        "新しい技術を学びたいです。（我想學習新技術。）",
+        "日本へ行きたいです。（我想去日本。）"
+      ]
+    }
+  ]
+}
