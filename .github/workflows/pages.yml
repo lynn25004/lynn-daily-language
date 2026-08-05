@@ -1,12 +1,19 @@
 name: Deploy GitHub Pages
 
 on:
+  # 注意：每日課程是由 morning/evening workflow 用內建的 GITHUB_TOKEN push 的，
+  # GitHub 刻意不讓這種 push 觸發其他 workflow（避免無限迴圈），
+  # 所以底下的 push 觸發只對「人手動 push」有效，機器人推的課程不會觸發。
+  # → 因此另外排兩個固定時間重建，確保網站跟得上每天的課程。
   push:
     branches: [main]
     paths:
       - "lessons/**"
       - "scripts/build_pages.py"
       - ".github/workflows/pages.yml"
+  schedule:
+    - cron: "30 1 * * *"    # 09:30 台北，早課推完後重建
+    - cron: "30 15 * * *"   # 23:30 台北，晚課推完後重建
   workflow_dispatch:
 
 permissions:
