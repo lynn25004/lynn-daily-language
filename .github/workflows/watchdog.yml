@@ -44,3 +44,12 @@ jobs:
           else
             echo "No changes to commit."
           fi
+
+  # 課程 commit 完直接重建 GitHub Pages（機器人 push 不會觸發 pages.yml 的 push 事件）
+  pages:
+    needs: watchdog
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml
