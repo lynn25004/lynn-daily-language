@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初型（產品或系統）",
+      "example": "We need to build a prototype to test this new feature.",
+      "example_zh": "我們需要建一個原型來測試這個新功能。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、找出並修正程式錯誤",
+      "example": "Ugh, I spent hours trying to debug this tricky code.",
+      "example_zh": "天啊，我花了好幾個小時在除這個難搞的程式錯誤。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使性能達到最佳",
+      "example": "We should optimize this algorithm for better performance, right?",
+      "example_zh": "我們應該優化這個演算法以獲得更好的性能，對吧？"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行（計畫或系統）",
+      "example": "Let's implement this solution by next week's meeting, okay?",
+      "example_zh": "我們下週會議前把這個解決方案實施吧，好嗎？"
+    },
+    {
+      "word": "interface",
+      "pos": "n.",
+      "meaning": "界面、介面（用戶或程式）",
+      "example": "The user interface of this new app is super intuitive!",
+      "example_zh": "這個新App的使用者界面超級直觀！"
+    },
+    {
+      "word": "schedule",
+      "pos": "n./v.",
+      "meaning": "行程表、安排時間",
+      "example": "My schedule is packed, but I can squeeze you in for a quick chat.",
+      "example_zh": "我的行程很滿，但我可以撥點時間和你快速聊聊。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Could you give me some quick feedback on my presentation slides?",
+      "example_zh": "你可以給我一些關於我簡報投影片的快速回饋嗎？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The deadline for this project is really tight, but we can do it!",
+      "example_zh": "這個專案的截止日期真的很趕，但我們可以做到！"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "Their new smart home gadget has such an innovative design, very cool!",
+      "example_zh": "他們的新智慧家庭小工具設計得真有創新性，太酷了！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "I love to collaborate with smart people on exciting projects.",
+      "example_zh": "我喜歡和聰明的人一起在令人興奮的專案上合作。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to (過去習慣)",
+      "rule": "用來描述過去經常發生但現在不再發生的動作或狀態，強調與現在的不同。",
+      "examples": [
+        "I used to stay up late debugging code every night. (我以前常每晚熬夜除錯。)",
+        "There used to be a small coffee shop here, but it's a bubble tea store now. (這裡以前有間小咖啡店，但現在是手搖飲店了。)",
+        "Did you use to play video games a lot when you were younger? (你小時候是不是很常玩電玩？)"
+      ]
+    },
+    {
+      "title": "Modal verbs for advice/suggestions (情態動詞表建議)",
+      "rule": "使用 'should', 'could', 'might' 等情態動詞來給予建議、提出可能性或表達非強制性的義務。",
+      "examples": [
+        "You should back up your important files regularly to avoid data loss. (你應該定期備份重要檔案，以避免資料遺失。)",
+        "We could try a different approach if this one doesn't work out. (如果這個方法行不通，我們可以嘗試不同的途徑。)",
+        "It might be a good idea to take a short break after working for hours. (工作好幾個小時後，短暫休息一下可能是個好主意。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうの しごとは もう おわりましたか。",
+      "example_zh": "今天的工作已經結束了嗎？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "あした、じゅういちじに かいぎが あります。",
+      "example_zh": "明天十一點有會議。"
+    },
+    {
+      "kana": "でんげん",
+      "kanji_romaji": "電源 / dengen",
+      "meaning": "電源",
+      "example": "パソコンの でんげんを きってください。",
+      "example_zh": "請關閉電腦電源。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "この ツールは とても べんりなので、よく つかいます。",
+      "example_zh": "這個工具很方便，所以我很常用。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "スマホアプリは ほんとうに べんりですね。",
+      "example_zh": "智慧型手機App真的非常方便呢。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょうは いい てんきですね！",
+      "example_zh": "今天天氣很好呢！"
+    },
+    {
+      "kana": "あした",
+      "kanji_romaji": "明日 / ashita",
+      "meaning": "明天",
+      "example": "あしたは やすみです。なにを しますか。",
+      "example_zh": "明天放假。要做什麼呢？"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "このプログラミングの ほんは とても おもしろいです。",
+      "example_zh": "這本程式設計的書非常有趣。"
+    },
+    {
+      "kana": "がんばる",
+      "kanji_romaji": "頑張る / ganbaru",
+      "meaning": "加油、努力",
+      "example": "JLPT N5、いっしょに がんばりましょうね！",
+      "example_zh": "日檢N5，我們一起加油吧！"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "この システムには なにか もんだいがありますか。",
+      "example_zh": "這個系統有什麼問題嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞ます形（肯定/否定）",
+      "structure": "動詞詞幹 + ます / 動詞詞幹 + ません",
+      "rule": "表示動詞的禮貌肯定或否定形式，常用於日常對話和陳述事實。",
+      "examples": [
+        "わたしは ほとんど まいにち コーヒーを のみます。(我幾乎每天都喝咖啡。)",
+        "きょうは テレビを みません。ほかのことを します。(我今天不看電視。我要做別的事。)"
+      ]
+    },
+    {
+      "title": "~ましょう / ~ませんか (建議/邀請)",
+      "structure": "動詞ます形詞幹 + ましょう / 動詞ます形詞幹 + ませんか",
+      "rule": "「〜ましょう」表示提議或邀請對方一起做某事；「〜ませんか」則更為委婉，用於建議或徵詢對方意願。",
+      "examples": [
+        "お昼ごはん、いっしょに 食べましょうか。(午餐我們一起吃吧？)",
+        "新しいAIツールについて、少し 話しませんか。(關於新的AI工具，要不要稍微聊一下？)"
+      ]
+    }
+  ]
+}
