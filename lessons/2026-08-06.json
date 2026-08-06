@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫",
+      "example": "Let's implement this new feature soon.",
+      "example_zh": "我們很快就實施這個新功能吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化系統",
+      "example": "We need to optimize this code for speed.",
+      "example_zh": "我們需要優化這段程式碼以提升速度。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步模型",
+      "example": "The team finished the first IoT prototype.",
+      "example_zh": "團隊完成了第一個物聯網原型。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、排除故障",
+      "example": "I spent all morning trying to debug this circuit.",
+      "example_zh": "我花了一整個早上試著為這個電路除錯。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、合併系統",
+      "example": "Can we integrate AI into our product?",
+      "example_zh": "我們能把 AI 整合到我們的產品中嗎？"
+    },
+    {
+      "word": "briefly",
+      "pos": "adv.",
+      "meaning": "簡短地、扼要地",
+      "example": "Can you briefly explain the project?",
+      "example_zh": "你可以簡短說明一下這個專案嗎？"
+    },
+    {
+      "word": "commute",
+      "pos": "n.",
+      "meaning": "通勤、上下班路程",
+      "example": "My morning commute is usually quite relaxing.",
+      "example_zh": "我早上的通勤通常蠻輕鬆的。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、截稿",
+      "example": "We're approaching the project deadline.",
+      "example_zh": "我們快要接近專案截止日期了。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方法、答案",
+      "example": "I found a clever solution to the problem.",
+      "example_zh": "我找到了個解決問題的巧妙方法。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見反應",
+      "example": "We welcome your feedback on this design.",
+      "example_zh": "我們歡迎您對這個設計提出回饋。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to (過去習慣)",
+      "rule": "用來描述過去經常發生但現在已不再發生的習慣或狀態，例如「我以前常…」。",
+      "examples": [
+        "I used to work late every day before. (我以前每天都工作到很晚。)",
+        "She used to develop embedded systems. (她以前是開發嵌入式系統的。)",
+        "Did you use to drink coffee every morning? (你以前每天早上都喝咖啡嗎？)"
+      ]
+    },
+    {
+      "title": "Should have + Vp.p. (過去應做但未做)",
+      "rule": "表示對過去某事感到後悔、遺憾，或批評某人過去應該做但卻沒有做的事情。",
+      "examples": [
+        "I should have checked the code more carefully. (我應該更仔細地檢查程式碼。)",
+        "You should have backed up your files! (你當時應該備份你的檔案！)",
+        "He shouldn't have ignored the warning. (他當時不應該忽略那個警告。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おそい",
+      "kanji_romaji": "遅い / osoi",
+      "meaning": "慢的、晚的",
+      "example": "今日は仕事が遅いです。",
+      "example_zh": "今天工作結束得比較晚。"
+    },
+    {
+      "kana": "はやい",
+      "kanji_romaji": "早い / hayai",
+      "meaning": "早的",
+      "example": "毎日、早く起きます。",
+      "example_zh": "我每天都起得很早。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このIoTデバイスは電気を使います。",
+      "example_zh": "這個物聯網設備需要用電。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "この説明が分かりますか。",
+      "example_zh": "你明白這個說明嗎？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "私は日本語を毎日勉強します。",
+      "example_zh": "我每天都學習日語。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "休憩時間は１５分です。",
+      "example_zh": "休息時間是15分鐘。"
+    },
+    {
+      "kana": "こーひー",
+      "kanji_romaji": "コーヒー / cohii",
+      "meaning": "咖啡",
+      "example": "毎朝、コーヒーを飲みます。",
+      "example_zh": "我每天早上都喝咖啡。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいAIツールを使ってみます。",
+      "example_zh": "我試用看看新的AI工具。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用、利用",
+      "example": "このシステムはAIを使っています。",
+      "example_zh": "這個系統正在使用AI。"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看",
+      "example": "私は再生可能エネルギーのニュースを見ます。",
+      "example_zh": "我會看再生能源的新聞。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "～ませんか？ (邀請/建議)",
+      "structure": "動詞ます形 + ませんか",
+      "rule": "用於禮貌地邀請或建議對方一起做某事，通常期待對方給予肯定或否定的回應。",
+      "examples": [
+        "一緒にコーヒーを飲みませんか？ (要不要一起喝咖啡？)",
+        "今日、早く帰りませんか？ (今天早點回家好嗎？)"
+      ]
+    },
+    {
+      "title": "～たいです (表達願望)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表達說話者想要做某事的願望或意圖，是非常直接且常用的表達方式。",
+      "examples": [
+        "新しいAIツールを勉強したいです。 (我想要學習新的AI工具。)",
+        "週末にゆっくり休みたいです。 (週末我想要好好休息。)"
+      ]
+    }
+  ]
+}
