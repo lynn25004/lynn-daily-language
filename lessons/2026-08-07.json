@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、展開軟體或設備",
+      "example": "We need to deploy this new feature by Friday. No pressure!",
+      "example_zh": "我們需要在週五前部署這個新功能，沒壓力啦！"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修正程式錯誤",
+      "example": "It took me all night to debug that tricky bug. Ugh!",
+      "example_zh": "我花了一整晚才把那個麻煩的錯誤除掉，唉！"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同系統或元件整合",
+      "example": "How hard will it be to integrate this new sensor with our old system?",
+      "example_zh": "把這個新感測器整合到我們舊系統會很難嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品的初步模型或樣品",
+      "example": "We're building a prototype for the smart home device next week.",
+      "example_zh": "我們下週要為那個智慧居家裝置製作一個原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "做事情既快又好，不浪費",
+      "example": "Is there an efficient way to manage all these IoT devices?",
+      "example_zh": "有沒有什麼有效率的方法來管理所有這些物聯網裝置？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "完成工作的最終期限",
+      "example": "The deadline for this project is really tight, but we can do it!",
+      "example_zh": "這個專案的截止日期真的很趕，但我們可以做到！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "與他人合作完成任務",
+      "example": "Let's collaborate on this idea; two heads are better than one!",
+      "example_zh": "我們一起合作這個點子吧，三個臭皮匠勝過一個諸葛亮！"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "有創意、有革新精神的",
+      "example": "I hope our new AI tool will be truly innovative for users.",
+      "example_zh": "我希望我們的新 AI 工具對使用者來說是真正創新的。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "對成果或表現的回應",
+      "example": "We need to get some user feedback on the new app design soon.",
+      "example_zh": "我們需要很快地獲得一些使用者對新應用程式設計的回饋。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "分析並解決機器或系統問題",
+      "example": "Can you help me troubleshoot why my embedded system crashed?",
+      "example_zh": "你可以幫我找出我的嵌入式系統為什麼當機嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 Type 1 (If... will...)",
+      "rule": "用來表達未來可能發生且結果確定的情況，通常用於計畫或預測，例如「如果發生A，就會有B結果」。",
+      "examples": [
+        "If it rains tomorrow, we will work from home. (如果明天會下雨，我們就在家工作。)",
+        "If you finish the code today, we can test it tomorrow. (如果你今天寫完程式碼，我們明天就可以測試。)",
+        "If the system works, we will launch it next month. (如果系統運作正常，我們下個月就會推出。)"
+      ]
+    },
+    {
+      "title": "動詞片語：Phrasal Verbs with 'up'",
+      "rule": "動詞加上介系詞 'up'，常表達『完成、增加、向上』或『建立、發明』等意思，讓口語更自然。",
+      "examples": [
+        "Let's set up a meeting for next week. (我們下週開個會吧。)",
+        "I need to catch up on my emails. (我需要趕上處理我的電子郵件。)",
+        "Did you come up with any solutions to the problem? (你有想出任何解決問題的方法嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "エンジニアのしごとはおもしろいです。",
+      "example_zh": "工程師的工作很有趣。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち日本語をべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "日本語のべんきょうにじかんがありますか？",
+      "example_zh": "你有時間學習日文嗎？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしは日本語のべんきょうがすきです。",
+      "example_zh": "我喜歡學習日文。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツールをまいにちつかいますか？",
+      "example_zh": "你每天使用這個 AI 工具嗎？"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいスマホがほしいです。",
+      "example_zh": "我想要一支新手機。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "N5の文法はむずかしくないですよ！",
+      "example_zh": "N5的文法不難喔！"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "明白、懂",
+      "example": "このきかいのつかいかたがわかりますか？",
+      "example_zh": "你知道這台機器怎麼用嗎？"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "IoTのぎじゅつはおもしろいですね！",
+      "example_zh": "IoT 技術很有趣呢！"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "ちょっときゅうけいしましょうか？",
+      "example_zh": "我們稍微休息一下好嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜たいです (想做某事)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "用來表達自己想要做某事的願望或意圖，非常實用且直接，在日常生活中很常用。",
+      "examples": [
+        "日本へ行きたいです。 (我想去日本。)",
+        "新しいプログラムを作りたいです。 (我想製作新的程式。)"
+      ]
+    },
+    {
+      "title": "〜ませんか (要不要/一起...嗎？)",
+      "structure": "動詞ます形 + ませんか",
+      "rule": "用於禮貌地邀請他人一起做某事，或是提出建議，語氣輕鬆友善，常用於邀約情境。",
+      "examples": [
+        "一緒にお昼ごはんを食べませんか？ (要不要一起吃午餐？)",
+        "週末、AIツールについて話しませんか？ (週末要不要聊聊 AI 工具？)"
+      ]
+    }
+  ]
+}
