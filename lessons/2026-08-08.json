@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n./v.",
+      "meaning": "原型；製作原型",
+      "example": "We need to build a prototype to test this idea.",
+      "example_zh": "我們需要製作一個原型來測試這個想法。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "We should integrate AI into our system.",
+      "example_zh": "我們應該將AI整合到我們的系統中。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持續的、永續的",
+      "example": "Renewable energy is crucial for a sustainable future.",
+      "example_zh": "再生能源對可持續的未來至關重要。"
+    },
+    {
+      "word": "algorithm",
+      "pos": "n.",
+      "meaning": "演算法",
+      "example": "This new algorithm improves efficiency a lot.",
+      "example_zh": "這個新演算法大幅提升了效率。"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好、興趣",
+      "example": "What's your favorite hobby on weekends?",
+      "example_zh": "你週末最喜歡的嗜好是什麼？"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索、研究",
+      "example": "I like to explore new tech gadgets in my free time.",
+      "example_zh": "我喜歡在空閒時間探索新的科技產品。"
+    },
+    {
+      "word": "upgrade",
+      "pos": "v.",
+      "meaning": "升級、提升",
+      "example": "I'm going to upgrade my computer's RAM tomorrow.",
+      "example_zh": "我明天要去升級我電腦的記憶體。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "Your team's innovative solution impressed everyone.",
+      "example_zh": "你們團隊的創新解決方案讓大家印象深刻。"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇、休閒",
+      "example": "How do you usually spend your leisure time?",
+      "example_zh": "你通常怎麼度過你的閒暇時光？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式與意圖 (Future Tense and Intentions)",
+      "rule": "使用 \"be going to\" 表示事先計畫好的意圖或即將發生的事，\"will\" 則多用於臨時決定或預測。",
+      "examples": [
+        "I'm going to work on my IoT project this weekend. (我這個週末會做我的IoT專案。)",
+        "Maybe I will check out that new AI tool tonight. (也許我今晚會看看那個新的AI工具。)",
+        "Our team is going to present the prototype next week. (我們團隊下週將展示原型。)"
+      ]
+    },
+    {
+      "title": "條件句 Type 1 (First Conditional)",
+      "rule": "用於表示在未來很可能發生的情況及其結果，結構為 \"If + S + V (現在簡單式), S + will + V (原形)\"。",
+      "examples": [
+        "If the code compiles, we will deploy it right away. (如果程式碼編譯成功，我們就會立刻部署它。)",
+        "If you finish your tasks early, we can grab a coffee. (如果你早點完成任務，我們可以去喝杯咖啡。)",
+        "If we use renewable energy, we will help the planet. (如果我們使用再生能源，我們就會幫助地球。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣、嗜好",
+      "example": "わたしのしゅみはコンピューターをさわることです。",
+      "example_zh": "我的興趣是操作電腦。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "週末に新しいIoTデバイスをつくります。",
+      "example_zh": "週末我會製作新的IoT裝置。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "このAIツールはとてもたのしいです。",
+      "example_zh": "這個AI工具非常有趣。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは何をしますか。",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、用功",
+      "example": "毎日、日本語をべんきょうします。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的、好玩的",
+      "example": "あの組み込みシステムの本はとてもおもしろいです。",
+      "example_zh": "那本嵌入式系統的書很有趣。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "午後から、新しいプロジェクトをはじめるつもりです。",
+      "example_zh": "我打算從下午開始一個新專案。"
+    },
+    {
+      "kana": "そして",
+      "kanji_romaji": "soshite",
+      "meaning": "然後、而且",
+      "example": "コードを書いて、そしてテストします。",
+      "example_zh": "我寫程式碼，然後測試。"
+    },
+    {
+      "kana": "たいせつ",
+      "kanji_romaji": "大切 / taisetsu",
+      "meaning": "重要的、珍貴的",
+      "example": "再生エネルギーは地球にとって大切です。",
+      "example_zh": "再生能源對地球很重要。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "明白、懂",
+      "example": "この説明がわかりますか。",
+      "example_zh": "你明白這個說明嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "~ましょう / ~ませんか (邀請/提議)",
+      "structure": "動詞ます形 + ましょう / 動詞ます形 + ませんか",
+      "rule": "「~ましょう」表示提議一起做某事，語氣肯定；「~ませんか」則是用於邀請，語氣較為委婉。",
+      "examples": [
+        "一緒にAIについて話しましょう！ (我們一起聊聊AI吧！)",
+        "今度、再生エネルギーの展示会に行きませんか。 (下次，要不要一起去再生能源展？)"
+      ]
+    },
+    {
+      "title": "~たいです (表達願望)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "將動詞的「ます」形替換成「たいです」，用於表達說話者想做某事的願望或希望。",
+      "examples": [
+        "新しいIoTデバイスを開発したいです。 (我想開發新的IoT裝置。)",
+        "もっと日本語を勉強したいです。 (我想學更多日語。)"
+      ]
+    }
+  ]
+}
