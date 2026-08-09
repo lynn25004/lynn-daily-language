@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "興趣，嗜好",
+      "example": "My favorite hobby is coding on weekends.",
+      "example_zh": "我最喜歡的嗜好是週末寫程式。"
+    },
+    {
+      "word": "relax",
+      "pos": "v.",
+      "meaning": "放鬆，休息",
+      "example": "I like to relax after work with a game.",
+      "example_zh": "我喜歡下班後玩遊戲放鬆一下。"
+    },
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "專案，計畫",
+      "example": "This weekend, I'm working on a small IoT project.",
+      "example_zh": "這個週末，我在做一個小型IoT專案。"
+    },
+    {
+      "word": "update",
+      "pos": "v.",
+      "meaning": "更新，升級",
+      "example": "Did you update your system software lately?",
+      "example_zh": "你最近更新系統軟體了嗎？"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案，答案",
+      "example": "We need a good solution for this technical issue.",
+      "example_zh": "我們需要一個好的技術問題解決方案。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效的，有能力的",
+      "example": "AI tools can make our workflow more efficient.",
+      "example_zh": "AI工具能讓我們的工作流程更高效。"
+    },
+    {
+      "word": "battery",
+      "pos": "n.",
+      "meaning": "電池",
+      "example": "My phone battery always drains so fast.",
+      "example_zh": "我的手機電池總是耗電很快。"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "裝置，設備",
+      "example": "I have too many smart devices at home.",
+      "example_zh": "我家裡有太多智慧裝置了。"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索，探究",
+      "example": "Let's explore new renewable energy sources.",
+      "example_zh": "讓我們探索新的再生能源。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控，監測",
+      "example": "We need to monitor the system's performance.",
+      "example_zh": "我們需要監控系統的效能。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "動名詞作主詞/受詞",
+      "rule": "動名詞 (-ing 形式) 可以像名詞一樣當作句子的主詞或受詞，表示一個動作或活動。",
+      "examples": [
+        "Coding is my favorite hobby. (寫程式是我最喜歡的嗜好。)",
+        "I enjoy learning new programming languages. (我喜歡學習新的程式語言。)",
+        "Monitoring system logs is crucial for stability. (監控系統日誌對穩定性至關重要。)"
+      ]
+    },
+    {
+      "title": "不定詞表目的",
+      "rule": "使用 \"to + 動詞原形\" 來表達目的，說明為什麼要做某事。",
+      "examples": [
+        "I study English to improve my career prospects. (我學英文是為了提升我的職涯前景。)",
+        "Engineers use AI tools to solve complex problems. (工程師使用AI工具來解決複雜問題。)",
+        "He went to the lab to test the new device. (他去實驗室測試新裝置。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おやすみ",
+      "kanji_romaji": "お休み / oyasumi",
+      "meaning": "休假，休息",
+      "example": "週末はお休みです。",
+      "example_zh": "週末是我的休假日。"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "わたしはにほんごのべんきょうがすきです。",
+      "example_zh": "我喜歡學日文。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "かれはエンジニアのしごとがすきです。",
+      "example_zh": "他喜歡工程師的工作。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいスマートフォンがほしいです。",
+      "example_zh": "我想要一支新智慧型手機。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "しゅうまつはじゆうなじかんがおおいです。",
+      "example_zh": "週末有很多自由時間。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的，有趣的",
+      "example": "プログラミングはとてもたのしいです。",
+      "example_zh": "寫程式非常有趣。"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看",
+      "example": "わたしはYouTubeでぎじゅつのどうがをみます。",
+      "example_zh": "我在YouTube上看技術影片。"
+    },
+    {
+      "kana": "なに",
+      "kanji_romaji": "何 / nani",
+      "meaning": "什麼",
+      "example": "しゅうまつになにをしますか。",
+      "example_zh": "週末你會做什麼？"
+    },
+    {
+      "kana": "いつも",
+      "kanji_romaji": "いつも / itsumo",
+      "meaning": "總是，一直",
+      "example": "かれはいつもあたらしいぎじゅつをまなびます。",
+      "example_zh": "他總是學習新技術。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "這是日文最基本的肯定句型，用來表示「N1是N2」，「は」是主題助詞。",
+      "examples": [
+        "わたしはエンジニアです。(我是工程師。)",
+        "これはわたしのしゅみです。(這是我的興趣。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "這個句型用來表達說話者想做某事的願望或希望。",
+      "examples": [
+        "あたらしいIoTデバイスをつくりたいです。(我想製作新的IoT裝置。)",
+        "もっとにほんごをべんきょうしたいです。(我想更努力學習日文。)"
+      ]
+    }
+  ]
+}
