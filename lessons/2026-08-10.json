@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，配置，展開",
+      "example": "We need to deploy the new system by next week.",
+      "example_zh": "我們下週要部署新系統。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，改善，使最佳化",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以提升效能。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初型，樣本",
+      "example": "The team is building a new prototype.",
+      "example_zh": "團隊正在打造一個新原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合，併入",
+      "example": "Can we integrate this feature into our app?",
+      "example_zh": "我們能把這功能整合到應用程式嗎？"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，偵錯，排障",
+      "example": "I spent hours debugging this tricky bug.",
+      "example_zh": "我花了數小時才把這個棘手的錯誤除掉。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，最後期限",
+      "example": "The project deadline is Friday, remember?",
+      "example_zh": "專案截止日是週五，記得嗎？"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見，反應",
+      "example": "Your feedback helps us improve a lot!",
+      "example_zh": "你的回饋對我們改進很有幫助！"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "優先處理，排列優先次序",
+      "example": "We should prioritize urgent tasks first.",
+      "example_zh": "我們應該先優先處理緊急任務。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，協作，共同工作",
+      "example": "Let's collaborate on this new IoT project.",
+      "example_zh": "我們一起合作這個新的物聯網專案吧。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的，革新的，有新意的",
+      "example": "That's an innovative solution for renewable energy.",
+      "example_zh": "那是再生能源的一個創新解決方案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "當動作的執行者不重要或未知，或想強調動作的承受者時使用，使語氣更客觀。",
+      "examples": [
+        "The new IoT device was developed by our team. (這個新的物聯網裝置是由我們團隊開發的。)",
+        "Many bugs were found in the recent software update. (最近的軟體更新中發現了許多錯誤。)",
+        "Renewable energy solutions are being explored globally. (全球正在探索再生能源解決方案。)"
+      ]
+    },
+    {
+      "title": "條件句 (Conditional Sentences)",
+      "rule": "Type 1 討論真實或可能發生的情況，Type 2 討論假設或不太可能發生的情況，用於預測或建議。",
+      "examples": [
+        "If the system works, we will launch it next month. (如果系統運作正常，我們下個月就會推出。)",
+        "If I had more time, I would learn a new programming language. (如果我有更多時間，我會學習一種新的程式語言。)",
+        "What if we try this approach? It might optimize performance. (如果我們嘗試這個方法呢？它或許能優化效能。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "今日（きょう）は仕事（しごと）が忙（いそが）しいです。",
+      "example_zh": "今天工作很忙。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私（わたし）の会社（かいしゃ）は東京（とうきょう）にあります。",
+      "example_zh": "我的公司在東京。"
+    },
+    {
+      "kana": "コンピューター",
+      "kanji_romaji": "コンピューター / konpyuutaa",
+      "meaning": "電腦",
+      "example": "新（あたら）しいコンピューターが欲（ほ）しいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電，電器",
+      "example": "電気（でんき）を消（け）してください。",
+      "example_zh": "請關燈。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作，製造",
+      "example": "私（わたし）はロボットを作（つく）りたいです。",
+      "example_zh": "我想做一個機器人。"
+    },
+    {
+      "kana": "まなぶ",
+      "kanji_romaji": "学ぶ / manabu",
+      "meaning": "學習",
+      "example": "日本語（にほんご）を学（まな）ぶのは楽（たの）しいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールは使（つか）いやすいです。",
+      "example_zh": "這個工具很好用。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "この問題（もんだい）は少（すこ）し難（むずか）しいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "そのゲームはとても面白（おもしろ）いです。",
+      "example_zh": "那個遊戲非常有趣。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "ちょっと休憩（きゅうけい）しませんか。",
+      "example_zh": "要不要稍微休息一下？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "用來表達說話者想做某事的願望或慾望，非常直接，常用於日常生活對話中。",
+      "examples": [
+        "私（わたし）は日本（にほん）で働（はたら）きたいです。 (我想到日本工作。)",
+        "新（あたら）しい技術（ぎじゅつ）を勉強（べんきょう）したいです。 (我想學習新技術。)"
+      ]
+    },
+    {
+      "title": "場所 + で + 動詞",
+      "structure": "場所名詞 + で + 動詞",
+      "rule": "表示某個動作或行為發生的地點，助詞「で」強調行為進行的場所，是日語中常用的地點助詞。",
+      "examples": [
+        "会社（かいしゃ）で日本語（にほんご）を勉強（べんきょう）します。 (我在公司學習日文。)",
+        "カフェでコーヒーを飲（の）みます。 (我在咖啡廳喝咖啡。)"
+      ]
+    }
+  ]
+}
