@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫",
+      "example": "We need to implement this new feature soon.",
+      "example_zh": "我們需要盡快實施這項新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使效率最高",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以提高效能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除、解決問題",
+      "example": "I spent hours troubleshooting this network issue.",
+      "example_zh": "我花了數小時排除這個網路問題。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "專案截止日期",
+      "example": "The deadline for the project is next Friday.",
+      "example_zh": "這個專案的截止日期是下週五。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見反應",
+      "example": "Your feedback on the prototype is helpful.",
+      "example_zh": "你對原型機的回饋很有幫助。"
+    },
+    {
+      "word": "allocate",
+      "pos": "v.",
+      "meaning": "分配、撥配資源",
+      "example": "We need to allocate more resources to this task.",
+      "example_zh": "我們需要為這項任務分配更多資源。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步模型",
+      "example": "This is just a prototype, not the final product.",
+      "example_zh": "這只是一個原型，不是最終產品。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、共同完成",
+      "example": "Let's collaborate on this new IoT project.",
+      "example_zh": "我們一起合作這個新的物聯網專案吧。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效能的、有效率的",
+      "example": "We need a more efficient way to save energy.",
+      "example_zh": "我們需要更有效率的節能方法。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控、追蹤進度",
+      "example": "We should monitor the system's performance daily.",
+      "example_zh": "我們應該每天監控系統的效能。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "If 條件句 (第一類型)",
+      "rule": "當你談論未來可能發生且結果真實的狀況時使用。",
+      "examples": [
+        "If you finish early, we can grab coffee. (如果你早點完成，我們可以去喝咖啡。)",
+        "If it rains tomorrow, I will stay home. (如果明天下雨，我就會待在家。)",
+        "If we fix this bug, the system will be stable. (如果我們修復這個錯誤，系統就會穩定。)"
+      ]
+    },
+    {
+      "title": "常見動詞片語：figure out & set up",
+      "rule": "動詞片語結合動詞和介系詞，形成新意思，常在口語中使用。",
+      "examples": [
+        "I need to figure out how to solve this problem. (我需要弄清楚如何解決這個問題。)",
+        "Can you help me set up the new server? (你能幫我設置那台新伺服器嗎？)",
+        "She figured out the solution after hours of work. (她工作數小時後想出了解決方案。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作、事情",
+      "example": "まいにち、しごとがあります。",
+      "example_zh": "我每天都有工作。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天、日常",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "我每天都學習日語。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間、時刻",
+      "example": "いま、なんじですか。",
+      "example_zh": "現在幾點了？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議、開會",
+      "example": "きょう、かいぎがあります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、用功",
+      "example": "エンジニアのべんきょうは、たのしいです。",
+      "example_zh": "學習工程師的知識很有趣。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息、小憩",
+      "example": "すこしきゅうけいしませんか。",
+      "example_zh": "要不要休息一下？"
+    },
+    {
+      "kana": "はじまる",
+      "kanji_romaji": "始まる / hajimaru",
+      "meaning": "開始、起動",
+      "example": "かいぎはくじにはじまります。",
+      "example_zh": "會議九點開始。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束、完成",
+      "example": "しごとはごじにおわります。",
+      "example_zh": "工作五點結束。"
+    },
+    {
+      "kana": "つかれる",
+      "kanji_romaji": "疲れる / tsukareru",
+      "meaning": "疲倦、累了",
+      "example": "きょうはとてもつかれました。",
+      "example_zh": "今天非常累。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、不得了",
+      "example": "しごとはたいへんですが、たのしいです。",
+      "example_zh": "工作雖然辛苦，但很有趣。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞「～たいです」(想做某事)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示自己想做某事，用來表達願望或希望。",
+      "examples": [
+        "わたしはにほんごをべんきょうしたいです。 (我想學習日語。)",
+        "あたらしいシステムをつくりたいです。 (我想製作一個新系統。)"
+      ]
+    },
+    {
+      "title": "「～ませんか」(邀請、提議)",
+      "structure": "動詞ます形 + ませんか",
+      "rule": "用於禮貌地邀請他人一起做某事，或提出建議。",
+      "examples": [
+        "いっしょにコーヒーをのみませんか。 (要不要一起喝咖啡？)",
+        "きょう、しごとのおわりにしょくじしませんか。 (今天工作結束後要不要一起吃飯？)"
+      ]
+    }
+  ]
+}
