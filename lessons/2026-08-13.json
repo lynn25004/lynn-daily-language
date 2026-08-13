@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "最佳化，優化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，融入",
+      "example": "This new module integrates well with the existing system.",
+      "example_zh": "這個新模組與現有系統整合得很好。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障，解決問題",
+      "example": "I spent all morning trying to troubleshoot this network issue.",
+      "example_zh": "我花了一整個早上試圖排除這個網路問題。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境，局面",
+      "example": "Let's consider a few different scenarios for this project.",
+      "example_zh": "讓我們為這個專案考慮幾種不同的情境。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率",
+      "example": "We should always look for ways to improve efficiency.",
+      "example_zh": "我們應該總是尋找提高效率的方法。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，樣品",
+      "example": "We're building a prototype to test our new design.",
+      "example_zh": "我們正在製作一個原型來測試我們的新設計。"
+    },
+    {
+      "word": "algorithm",
+      "pos": "n.",
+      "meaning": "演算法",
+      "example": "The new AI algorithm is super powerful.",
+      "example_zh": "這個新的 AI 演算法超級強大。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持續的，永續的",
+      "example": "Renewable energy is key to a sustainable future.",
+      "example_zh": "再生能源是永續未來的關鍵。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見",
+      "example": "We always welcome feedback from our users.",
+      "example_zh": "我們總是歡迎使用者的回饋。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，配置",
+      "example": "We're planning to deploy the new software next week.",
+      "example_zh": "我們計畫下週部署新軟體。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "情態助動詞 \"should\" 的用法",
+      "rule": "\"should\" 用來表示建議、義務或預期會發生的事，語氣比 \"must\" 柔和。",
+      "examples": [
+        "You should try to get some rest after work. (你下班後應該好好休息一下。)",
+        "We should check the data before presenting it. (我們在展示前應該先檢查數據。)",
+        "The system should be up and running by noon. (系統應該會在中午前啟動並運行。)"
+      ]
+    },
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "用於描述從過去開始，持續到現在的動作或經驗，或對現在有影響的過去事件。",
+      "examples": [
+        "I have worked on several IoT projects. (我曾參與過幾個物聯網專案。)",
+        "She has learned a lot about AI tools recently. (她最近學了很多關於 AI 工具的知識。)",
+        "Have you ever optimized embedded systems? (你曾優化過嵌入式系統嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習，讀書",
+      "example": "毎日、日本語を勉強します。",
+      "example_zh": "每天學習日文。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私の仕事はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電，電力，電器",
+      "example": "電気は再生エネルギーが大切です。",
+      "example_zh": "電力方面，再生能源很重要。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AIツールをよく使いますか？",
+      "example_zh": "你常用 AI 工具嗎？"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日コーヒーを飲みます。",
+      "example_zh": "每天喝咖啡。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息，假日",
+      "example": "今日の休みは何をしますか？",
+      "example_zh": "今天的休息要做什麼？"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂，明白",
+      "example": "英語が少し分かります。",
+      "example_zh": "我懂一點英文。"
+    },
+    {
+      "kana": "システム",
+      "kanji_romaji": "システム",
+      "meaning": "系統",
+      "example": "組み込みシステムに興味があります。",
+      "example_zh": "我對嵌入式系統有興趣。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的，有趣的",
+      "example": "日本語の勉強はとても楽しいです。",
+      "example_zh": "學習日文非常有趣。"
+    },
+    {
+      "kana": "ねん",
+      "kanji_romaji": "年 / nen",
+      "meaning": "年，歲",
+      "example": "私は今年、28歳です。",
+      "example_zh": "我今年 28 歲。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞ます形 + たいです (想做某事)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者「想要做」某個動作，用於表達願望或希望。",
+      "examples": [
+        "日本で働きたいです。 (我想在日本工作。)",
+        "新しいAIツールを使いたいです。 (我想使用新的 AI 工具。)"
+      ]
+    },
+    {
+      "title": "名詞 + を + 動詞 (受格助詞「を」)",
+      "structure": "名詞 + を + 動詞(ます)",
+      "rule": "助詞「を」放在動詞的直接受詞之後，表示動作的對象。",
+      "examples": [
+        "水を飲みます。 (喝水。)",
+        "本を読みます。 (讀書。)"
+      ]
+    }
+  ]
+}
