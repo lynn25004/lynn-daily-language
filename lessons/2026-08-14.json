@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，使結合",
+      "example": "We need to integrate this new module into our system smoothly.",
+      "example_zh": "我們需要把這個新模組順利整合到系統中。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "主要特色，功能",
+      "example": "This new smartphone has many cool features, like AI camera.",
+      "example_zh": "這款新手機有很多很酷的功能，像是 AI 相機。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，最佳化",
+      "example": "Let's optimize the code to make it run faster.",
+      "example_zh": "我們來優化程式碼，讓它跑更快。"
+    },
+    {
+      "word": "robust",
+      "pos": "adj.",
+      "meaning": "堅固的，穩定的",
+      "example": "This embedded system needs to be robust for outdoor use.",
+      "example_zh": "這個嵌入式系統必須很堅固，才能用於戶外。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，找出問題",
+      "example": "I spent all morning trying to debug this tricky issue.",
+      "example_zh": "我整個早上都在努力為這個棘手的問題除錯。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "完成的截止日期",
+      "example": "The deadline for this project is next Friday.",
+      "example_zh": "這個專案的截止日期是下週五。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品原型，樣本",
+      "example": "We finished the first prototype of our IoT device yesterday.",
+      "example_zh": "我們昨天完成了我們 IoT 裝置的第一個原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的，有效的",
+      "example": "Using AI tools can make our workflow more efficient.",
+      "example_zh": "使用 AI 工具可以讓我們的工作流程更有效率。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "寶貴的回饋意見",
+      "example": "Please give us your feedback on the new design.",
+      "example_zh": "請對新設計提供您的回饋意見。"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創造新事物，革新",
+      "example": "Our team always tries to innovate and find new solutions.",
+      "example_zh": "我們團隊總是努力創新並找到新解決方案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "表達未來可能發生的狀況及其結果，句型為「If + 現在式, will + 原形動詞」。",
+      "examples": [
+        "If the system works, we will launch it next month. (如果系統運作正常，我們下個月就會推出。)",
+        "If you have any questions, please ask me anytime. (如果你有任何問題，隨時都可以問我。)",
+        "If we optimize the code, the app will run much faster. (如果我們優化程式碼，應用程式會跑快很多。)"
+      ]
+    },
+    {
+      "title": "Passive Voice (被動語態)",
+      "rule": "主詞是動作的承受者時使用，強調動作而非執行者，句型為「S + be動詞 + 過去分詞」。",
+      "examples": [
+        "The new feature was released last week. (新功能上週發布了。)",
+        "This project is led by a senior engineer. (這個專案由一位資深工程師領導。)",
+        "Renewable energy solutions are being developed globally. (再生能源解決方案正在全球各地開發中。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしはエンジニアのしごとをしています。",
+      "example_zh": "我是做工程師工作的。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "しごとがおわるじかんはいつですか。",
+      "example_zh": "工作結束的時間是幾點？"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツール、とてもつかいやすいです。",
+      "example_zh": "這個 AI 工具非常好用。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便",
+      "example": "このスマホはとてもべんりですね。",
+      "example_zh": "這支手機很方便呢。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいIoTデバイスをかいはつしています。",
+      "example_zh": "我正在開發新的 IoT 裝置。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作，創造",
+      "example": "わたしはシステムをつくるのがすきです。",
+      "example_zh": "我喜歡製作系統。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょうのしごとはおわりました。",
+      "example_zh": "今天的工作結束了。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち、にほんごをべんきょうしています。",
+      "example_zh": "我每天都在學習日文。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このデバイスはでんきでうごきます。",
+      "example_zh": "這個裝置是用電運作的。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂，明白",
+      "example": "このプログラミング、ちょっとわからないです。",
+      "example_zh": "這個程式碼有點不懂。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "向對方提出請求、指示或建議，語氣禮貌實用，日常或職場都常用。",
+      "examples": [
+        "このファイルを読んでください。 (請讀這個檔案。)",
+        "電源を入れてください。 (請打開電源。)"
+      ]
+    },
+    {
+      "title": "〜が あります / います",
+      "structure": "名詞 + が あります (非生物) / います (生物)",
+      "rule": "表示某處有某物或某人存在。非生物用「あります」，生物用「います」。",
+      "examples": [
+        "会議室にパソコンがあります。 (會議室裡有電腦。)",
+        "わたしのチームに日本人エンジニアがいます。 (我的團隊裡有日本工程師。)"
+      ]
+    }
+  ]
+}
