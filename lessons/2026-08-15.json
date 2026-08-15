@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實作",
+      "example": "We need to implement this new feature quickly.",
+      "example_zh": "我們需要快速實作這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、改善",
+      "example": "How can we optimize system performance?",
+      "example_zh": "我們如何優化系統效能？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、雛形",
+      "example": "The team built a quick prototype for testing.",
+      "example_zh": "團隊製作了一個快速原型來測試。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "協作、合作",
+      "example": "It's great to collaborate on this project with you.",
+      "example_zh": "很高興能與你合作這個專案。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的",
+      "example": "An efficient workflow saves a lot of time.",
+      "example_zh": "有效率的工作流程能省下很多時間。"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇、空閒",
+      "example": "What do you do in your leisure time?",
+      "example_zh": "你閒暇時間做什麼？"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好、興趣",
+      "example": "My main hobby is building small IoT devices.",
+      "example_zh": "我的主要興趣是製作小型 IoT 裝置。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、恢復精力",
+      "example": "I usually recharge myself during weekends.",
+      "example_zh": "我通常在週末為自己充電。"
+    },
+    {
+      "word": "insight",
+      "pos": "n.",
+      "meaning": "洞察力、見解",
+      "example": "That's a really good insight into the problem.",
+      "example_zh": "那對於問題是個很好的見解。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Sentences Type 1)",
+      "rule": "用於表達未來可能發生且結果可預期的情況，結構為 If + 主詞 + 現在式動詞, 主詞 + will/can + 原形動詞。",
+      "examples": [
+        "If you finish early, we can go grab coffee. (如果你早點完成，我們可以去喝咖啡。)",
+        "If the code compiles, the feature will work. (如果程式碼能編譯，這個功能就會運作。)",
+        "I will learn more if I practice English daily. (如果我每天練習英文，我會學到更多。)"
+      ]
+    },
+    {
+      "title": "片語動詞 (Phrasal Verbs)",
+      "rule": "動詞與介係詞或副詞結合，形成新的意義，常見的有 look forward to (期待)、set up (設定)、figure out (弄清楚) 等。",
+      "examples": [
+        "I'm really looking forward to the new AI seminar. (我真的很期待那個新的 AI 研討會。)",
+        "Let's set up the new IoT device this afternoon. (我們今天下午來設定那個新的 IoT 裝置吧。)",
+        "She needs to figure out the best solution. (她需要找出最佳解決方案。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末你做什麼？"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "わたしの趣味は読書です。",
+      "example_zh": "我的興趣是閱讀。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "週末はとても楽しいです。",
+      "example_zh": "週末非常快樂。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作",
+      "example": "IoTデバイスを作ります。",
+      "example_zh": "我製作 IoT 裝置。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しい本を買いました。",
+      "example_zh": "我買了一本新書。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間は大切ですね。",
+      "example_zh": "時間很重要呢。"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "讀",
+      "example": "日本語の本を読みます。",
+      "example_zh": "我讀日文書。"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "どこ / doko",
+      "meaning": "哪裡",
+      "example": "週末はどこへ行きますか？",
+      "example_zh": "週末你要去哪裡？"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點",
+      "example": "少しだけ休みます。",
+      "example_zh": "我休息一下下。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません / 〜ました / 〜ませんでした (肯定/否定/過去肯定/過去否定)",
+      "structure": "動詞ます形 / 動詞ません形 / 動詞ました形 / 動詞ませんでした形",
+      "rule": "用於禮貌地表達動作的肯定、否定、過去肯定和過去否定，是初學者最常用的動詞變化形式。",
+      "examples": [
+        "毎日日本語を勉強します。(我每天學習日文。)",
+        "コーヒーを飲みませんでした。(我沒喝咖啡。)"
+      ]
+    },
+    {
+      "title": "〜たいです / 〜たくないです (想做 / 不想做)",
+      "structure": "動詞ます形去掉ます + たいです / 動詞ます形去掉ます + たくないです",
+      "rule": "用於表達說話者希望或不希望做某事的願望，是日常生活中常用來表達意願的句型。",
+      "examples": [
+        "新しいIoTデバイスを作りたいです。(我想製作新的 IoT 裝置。)",
+        "今日はどこへも行きたくないです。(今天我哪裡都不想去。)"
+      ]
+    }
+  ]
+}
