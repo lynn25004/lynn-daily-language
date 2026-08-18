@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行，實施計畫或政策",
+      "example": "We need to implement this new feature by next month.",
+      "example_zh": "我們需要在下個月前實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使效率或功能最佳化",
+      "example": "Can we optimize this code to run faster?",
+      "example_zh": "我們能優化這段程式碼讓它跑更快嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除，解決問題",
+      "example": "I spent all morning trying to troubleshoot the network issue.",
+      "example_zh": "我花了整個早上在排除網路問題。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境，可能發生的情況",
+      "example": "Let's consider a worst-case scenario for the project.",
+      "example_zh": "我們來考慮一下這個專案最壞的情況。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見或反應",
+      "example": "Your feedback on the report is really helpful.",
+      "example_zh": "你對這份報告的回饋真的很有幫助。"
+    },
+    {
+      "word": "allocate",
+      "pos": "v.",
+      "meaning": "分配，撥給資源或時間",
+      "example": "We need to allocate resources for the new project.",
+      "example_zh": "我們需要為這個新專案分配資源。"
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "meaning": "無縫的，流暢且不中斷的",
+      "example": "The new system provides a seamless user experience.",
+      "example_zh": "這個新系統提供了無縫的使用者體驗。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，將不同部分結合",
+      "example": "We plan to integrate this module into our main product.",
+      "example_zh": "我們計畫將這個模組整合到我們的主要產品中。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，完成任務的期限",
+      "example": "The deadline for this task is end of day Friday.",
+      "example_zh": "這項任務的截止日期是週五下班前。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控，持續觀察或檢查",
+      "example": "We need to monitor system performance closely.",
+      "example_zh": "我們需要密切監控系統的效能。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 Type 1 (If + 現在式, will + 原形動詞)",
+      "rule": "用於表達未來可能發生的真實情況及其結果，表示如果某條件達成，則某結果會發生。",
+      "examples": [
+        "If the system crashes, we will restart it immediately. (如果系統當機，我們會立刻重啟。)",
+        "If you finish early, you can leave. (如果你早點完成，就可以離開。)",
+        "If it rains tomorrow, we will work from home. (如果明天會下雨，我們就在家工作。)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerund) 作為主詞或受詞",
+      "rule": "動詞加-ing變成名詞形式，可用於句首作主詞，或作及物動詞、介系詞的受詞。",
+      "examples": [
+        "Debugging code can be very time-consuming. (除錯程式碼可能非常耗時。)",
+        "I enjoy learning new programming languages. (我喜歡學習新的程式語言。)",
+        "He is good at solving complex technical problems. (他很擅長解決複雜的技術問題。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしはしごとをします。",
+      "example_zh": "我工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "かいしゃへいきます。",
+      "example_zh": "去公司。"
+    },
+    {
+      "kana": "ぱそこん",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "パソコンをつかいます。",
+      "example_zh": "使用電腦。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょうかいぎがあります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電，電力",
+      "example": "でんきをつけます。",
+      "example_zh": "開燈。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "もんだいがありますか。",
+      "example_zh": "有問題嗎？"
+    },
+    {
+      "kana": "わかります",
+      "kanji_romaji": "分かります / wakarimasu",
+      "meaning": "懂，明白",
+      "example": "にほんごがわかります。",
+      "example_zh": "我懂日文。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "このえいがはおもしろいです。",
+      "example_zh": "這部電影很有趣。"
+    },
+    {
+      "kana": "もっと",
+      "kanji_romaji": "もっと / motto",
+      "meaning": "更，再",
+      "example": "もっとべんきょうしたいです。",
+      "example_zh": "我想學更多。"
+    },
+    {
+      "kana": "つくります",
+      "kanji_romaji": "作ります / tsukurimasu",
+      "meaning": "製造，製作",
+      "example": "ロボットをつくります。",
+      "example_zh": "製作機器人。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "這是日文最基本的肯定句型，用於描述或定義事物，表示「名詞1是名詞2」。は是主題助詞。",
+      "examples": [
+        "これはペンです。(這是筆。)",
+        "わたしはエンジニアです。(我是工程師。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "用於表達說話者「想做某事」的願望或意願，是N5常見的願望表達方式。",
+      "examples": [
+        "日本へ行きたいです。(想去日本。)",
+        "新しい技術を学びたいです。(想學習新技術。)"
+      ]
+    }
+  ]
+}
