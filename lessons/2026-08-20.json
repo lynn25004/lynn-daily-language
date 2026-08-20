@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施",
+      "example": "We need to implement this feature soon.",
+      "example_zh": "我們需要快點實施這個功能。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯",
+      "example": "I spent hours to debug this code.",
+      "example_zh": "我花了好多小時除錯這段程式碼。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案",
+      "example": "This new solution is quite efficient.",
+      "example_zh": "這個新方案效率很高。"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "裝置、設備",
+      "example": "My IoT device is working well.",
+      "example_zh": "我的物聯網裝置運作得很好。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We should optimize the system for speed.",
+      "example_zh": "我們應該優化系統速度。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的",
+      "example": "Renewable energy is important for future.",
+      "example_zh": "再生能源對未來很重要。"
+    },
+    {
+      "word": "commute",
+      "pos": "v./n.",
+      "meaning": "通勤",
+      "example": "How long is your daily commute?",
+      "example_zh": "你每天通勤多久？"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇、空閒",
+      "example": "What do you do in your leisure time?",
+      "example_zh": "你閒暇時都做什麼？"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的",
+      "example": "This new process is very efficient.",
+      "example_zh": "這個新流程非常有效率。"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "更新",
+      "example": "Did you update your phone's software?",
+      "example_zh": "你更新手機軟體了嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect Simple)",
+      "rule": "表示過去發生的動作對現在有影響，或從過去持續到現在的經驗。",
+      "examples": [
+        "I have worked on several IoT projects. (我參與過幾個物聯網專案。)",
+        "She has learned a lot about AI tools. (她學到了很多關於 AI 工具的知識。)",
+        "Have you ever debugged a complex system? (你曾經除錯過複雜的系統嗎？)"
+      ]
+    },
+    {
+      "title": "條件句 Type 1 (First Conditional)",
+      "rule": "用來描述未來可能發生且結果也可能實現的情況，常用於計畫或預測。",
+      "examples": [
+        "If I finish work early, I will study Japanese. (如果我早點下班，我就會去學日文。)",
+        "If the device works, we will launch it next month. (如果這個裝置運作良好，我們下個月就會推出。)",
+        "If you optimize the code, it will run faster. (如果你優化程式碼，它會跑得更快。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしは にほんごを べんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうは しごとが あります。",
+      "example_zh": "今天有工作。"
+    },
+    {
+      "kana": "やすい",
+      "kanji_romaji": "安い / yasui",
+      "meaning": "便宜的",
+      "example": "この カメラは やすいです。",
+      "example_zh": "這個相機很便宜。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "にほんごは むずかしいですか。",
+      "example_zh": "日文很難嗎？"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "この えいがは おもしろいです。",
+      "example_zh": "這部電影很有趣。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "わたしは まいにち べんきょうします。",
+      "example_zh": "我每天學習。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "わたしは にほんごが わかります。",
+      "example_zh": "我懂日文。"
+    },
+    {
+      "kana": "たべる",
+      "kanji_romaji": "食べる / taberu",
+      "meaning": "吃",
+      "example": "なにを たべますか。",
+      "example_zh": "要吃什麼？"
+    },
+    {
+      "kana": "のむ",
+      "kanji_romaji": "飲む / nomu",
+      "meaning": "喝",
+      "example": "コーヒーを のみますか。",
+      "example_zh": "要喝咖啡嗎？"
+    },
+    {
+      "kana": "いく",
+      "kanji_romaji": "行く / iku",
+      "meaning": "去",
+      "example": "どこへ いきますか。",
+      "example_zh": "你要去哪裡？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「名詞 + を + 動詞(ます)」 (Object Particle 「を」)",
+      "structure": "名詞 + を + 動詞(ます)",
+      "rule": "「を」是一個助詞，用來表示動詞的直接受詞，說明動作的對象。",
+      "examples": [
+        "パンを たべます。(吃麵包。)",
+        "水を のみます。(喝水。)"
+      ]
+    },
+    {
+      "title": "「名詞 + と + 名詞」 (And/With Particle 「と」)",
+      "structure": "名詞 + と + 名詞",
+      "rule": "「と」是一個助詞，用於連接兩個或多個名詞，表示「和」或「與」的意思。",
+      "examples": [
+        "コーヒーと おちゃ。(咖啡和茶。)",
+        "ペンと ノート。(筆和筆記本。)"
+      ]
+    }
+  ]
+}
