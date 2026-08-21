@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "debug",
+      "pos": "v./n.",
+      "meaning": "除錯、偵錯",
+      "example": "I need to debug this code.",
+      "example_zh": "我需要偵錯這段程式碼。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Let's optimize the system.",
+      "example_zh": "我們來優化這個系統吧。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n./v.",
+      "meaning": "原型、樣本",
+      "example": "We built a prototype last week.",
+      "example_zh": "我們上週做了一個原型。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行",
+      "example": "Time to implement the new plan.",
+      "example_zh": "是時候執行新計畫了。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "特性、功能",
+      "example": "What's the new feature?",
+      "example_zh": "新功能是什麼？"
+    },
+    {
+      "word": "overwhelmed",
+      "pos": "adj.",
+      "meaning": "不知所措、應接不暇",
+      "example": "I feel a bit overwhelmed today.",
+      "example_zh": "我今天感覺有點不知所措。"
+    },
+    {
+      "word": "catch up",
+      "pos": "v.",
+      "meaning": "追上進度、敘舊",
+      "example": "Let's catch up over coffee.",
+      "example_zh": "我們邊喝咖啡邊聊聊吧。"
+    },
+    {
+      "word": "flexible",
+      "pos": "adj.",
+      "meaning": "彈性的、靈活的",
+      "example": "Our working hours are flexible.",
+      "example_zh": "我們的工作時間很彈性。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、恢復精力",
+      "example": "I need to recharge this weekend.",
+      "example_zh": "我這個週末需要好好充電。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The project deadline is Friday.",
+      "example_zh": "專案的截止日期是週五。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to (過去習慣)",
+      "rule": "用來表達過去經常發生或存在的習慣，但現在已不再如此。",
+      "examples": [
+        "I used to code all night. (我以前常熬夜寫程式。)",
+        "She used to work on embedded systems. (她以前從事嵌入式系統。",
+        "We didn't use to have AI tools. (我們以前沒有 AI 工具。)"
+      ]
+    },
+    {
+      "title": "Would rather (寧願、比較喜歡)",
+      "rule": "表達「寧願、比較喜歡」做某事，後接原形動詞，表示偏好。",
+      "examples": [
+        "I'd rather work on IoT. (我寧願做 IoT 專案。)",
+        "Would you rather debug or optimize? (你寧願除錯還是優化？)",
+        "He'd rather stay home tonight. (他今晚寧願待在家。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "きんようび",
+      "kanji_romaji": "金曜日 / kinyoubi",
+      "meaning": "星期五",
+      "example": "きょうはきんようびです。",
+      "example_zh": "今天是星期五。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごとがおわりました。",
+      "example_zh": "工作結束了。"
+    },
+    {
+      "kana": "つかれる",
+      "kanji_romaji": "疲れる / tsukareru",
+      "meaning": "疲倦",
+      "example": "きょうはとてもつかれました。",
+      "example_zh": "今天非常累。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "あしたはやすみです。",
+      "example_zh": "明天是假日。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつになにをしますか。",
+      "example_zh": "週末要做什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごをべんきょうします。",
+      "example_zh": "學習日文。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "わたしのしゅみは、ほんをよむことです。",
+      "example_zh": "我的興趣是讀書。"
+    },
+    {
+      "kana": "だいじょうぶ",
+      "kanji_romaji": "大丈夫 / daijoubu",
+      "meaning": "沒關係、沒問題",
+      "example": "だいじょうぶですか。",
+      "example_zh": "你還好嗎？"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "そろそろはじめましょう。",
+      "example_zh": "差不多該開始了。"
+    },
+    {
+      "kana": "がんばる",
+      "kanji_romaji": "頑張る / ganbaru",
+      "meaning": "加油、努力",
+      "example": "しごと、がんばってください。",
+      "example_zh": "工作請加油。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください (請做...)",
+      "structure": "動詞て形 + ください",
+      "rule": "用來禮貌地請求或命令對方做某事，表示「請做...」。",
+      "examples": [
+        "これ、読んでください。(請讀這個。)",
+        "日本語を教えてください。(請教我日文。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形)たいです (想做...)",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "表示說話者「想要做某事」的願望，將動詞ます形詞尾ます去掉後加上たいです。",
+      "examples": [
+        "日本へ行きたいです。(我想去日本。)",
+        "もっと日本語を勉強したいです。(我想更努力學習日文。)"
+      ]
+    }
+  ]
+}
