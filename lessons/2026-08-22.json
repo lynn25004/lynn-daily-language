@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體程式，控制硬體",
+      "example": "Updating device firmware can fix many bugs.",
+      "example_zh": "更新裝置韌體能解決許多問題。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決問題，排除故障",
+      "example": "I spent hours trying to troubleshoot my Wi-Fi today.",
+      "example_zh": "我今天花好幾個小時在解決我的 Wi-Fi 問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初步模型",
+      "example": "We're testing the first prototype of our new gadget.",
+      "example_zh": "我們正在測試新裝置的第一個原型。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，改善效能",
+      "example": "Can we optimize this code for faster performance?",
+      "example_zh": "我們能優化這段程式碼以提高效能嗎？"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的，永續的",
+      "example": "Many companies are investing in renewable energy sources.",
+      "example_zh": "許多公司正投資於再生能源。"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "興趣，嗜好",
+      "example": "What's your favorite hobby to relax on weekends?",
+      "example_zh": "你週末最喜歡做什麼興趣活動來放鬆？"
+    },
+    {
+      "word": "commute",
+      "pos": "v./n.",
+      "meaning": "通勤，上下班路程",
+      "example": "My morning commute is usually quite relaxing.",
+      "example_zh": "我早上的通勤時間通常很放鬆。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的，可持續的",
+      "example": "We need more sustainable solutions for urban development.",
+      "example_zh": "我們需要更多永續的城市發展方案。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，合併",
+      "example": "It's hard to integrate all these systems smoothly.",
+      "example_zh": "要順暢地整合這些系統很困難。"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "更新，最新資訊",
+      "example": "I'll give you an update on the project later.",
+      "example_zh": "我稍後會提供你專案的最新進度。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Phrasal Verbs with \"on\"",
+      "rule": "動詞搭配介系詞 \"on\" 形成新意義，常用於表達持續、依賴或開始某事。",
+      "examples": [
+        "Let's work on this project after lunch. (午餐後我們來處理這個專案吧。)",
+        "I rely on my smart home system quite a lot. (我蠻依賴我的智慧家庭系統的。)",
+        "We're always on the lookout for new tech trends. (我們總是在尋找新的科技趨勢。)"
+      ]
+    },
+    {
+      "title": "Using \"would like to\" vs. \"want to\"",
+      "rule": "\"would like to\" 比 \"want to\" 更客氣，常用於表達願望、邀請或提出要求。",
+      "examples": [
+        "I would like to learn more about embedded systems. (我想要多學一些關於嵌入式系統的知識。)",
+        "Would you like to join us for coffee this afternoon? (你下午想和我們一起喝咖啡嗎？)",
+        "I would like to try that new AI tool everyone is talking about. (我想要試試大家都在說的那個新的 AI 工具。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "あなたの趣味は何ですか？",
+      "example_zh": "你的興趣是什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "彼の仕事はエンジニアです。",
+      "example_zh": "他的工作是工程師。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息，假日",
+      "example": "明日は会社が休みです。",
+      "example_zh": "明天公司放假。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいパソコンが欲しいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作，創造",
+      "example": "ロボットを作りたいです。",
+      "example_zh": "我想要製作機器人。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "そのAIツールを使ってみましょう。",
+      "example_zh": "來試用看看那個 AI 工具吧。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電，電力",
+      "example": "再生可能エネルギーは電気を作ります。",
+      "example_zh": "再生能源會產生電力。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "趣味の時間は大切です。",
+      "example_zh": "興趣時間很重要。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "表示說話者「想要做某事」的願望或願望，是一種常用且直接的表達方式。",
+      "examples": [
+        "日本語をもっと勉強したいです。(我想要多學一點日文。)",
+        "週末は映画を見たいです。(週末我想看電影。)"
+      ]
+    },
+    {
+      "title": "場所 + で",
+      "structure": "場所 + で + 動詞",
+      "rule": "助詞「で」用來表示動作發生的地點，說明在哪裡進行了某項活動。",
+      "examples": [
+        "喫茶店でコーヒーを飲みます。(在咖啡廳喝咖啡。)",
+        "家でIoTデバイスを作ります。(在家裡製作 IoT 設備。)"
+      ]
+    }
+  ]
+}
