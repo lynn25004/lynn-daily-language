@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "weekend",
+      "pos": "n.",
+      "meaning": "週末（休息時間）",
+      "example": "What are your plans for the weekend?",
+      "example_zh": "你週末有什麼計畫？"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好、興趣",
+      "example": "My main hobby is learning Japanese.",
+      "example_zh": "我主要的嗜好是學日文。"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索、研究",
+      "example": "I want to explore new AI tools.",
+      "example_zh": "我想探索新的 AI 工具。"
+    },
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "專案、計畫",
+      "example": "I'm working on a small IoT project.",
+      "example_zh": "我正在做一個小型 IoT 專案。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize this code.",
+      "example_zh": "我們需要優化這段程式碼。"
+    },
+    {
+      "word": "relax",
+      "pos": "v.",
+      "meaning": "放鬆、休息",
+      "example": "Let's relax after a long week.",
+      "example_zh": "忙碌一週後，我們來放鬆吧。"
+    },
+    {
+      "word": "passion",
+      "pos": "n.",
+      "meaning": "熱情、愛好",
+      "example": "He has a passion for renewable energy.",
+      "example_zh": "他對再生能源很有熱情。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決問題",
+      "example": "I had to troubleshoot the circuit.",
+      "example_zh": "我必須解決電路問題。"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "更新",
+      "example": "Did you get the latest software update?",
+      "example_zh": "你有拿到最新軟體更新嗎？"
+    },
+    {
+      "word": "challenge",
+      "pos": "n./v.",
+      "meaning": "挑戰",
+      "example": "This new project is a big challenge.",
+      "example_zh": "這個新專案是個大挑戰。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences Type 1 (if + present, will + base form)",
+      "rule": "表達未來可能發生的狀況及其結果，條件句用現在式，結果句用未來式，表示可能性高。",
+      "examples": [
+        "If it rains tomorrow, we will stay home. (如果明天下雨，我們會待在家裡。)",
+        "If you study hard, you will definitely pass the exam. (如果你努力學習，你一定會通過考試。)",
+        "If I have time this weekend, I'll check that IoT device. (如果這個週末我有時間，我會檢查那個物聯網設備。)"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs with \"look\" (look up, look forward to, look into)",
+      "rule": "動詞 \"look\" 搭配不同介系詞時，其意思會完全改變，這些片語動詞常用於日常對話。",
+      "examples": [
+        "I'll look up that new vocabulary word later. (我稍後會查那個新單字。)",
+        "I'm really looking forward to the long weekend. (我真的很期待這個長週末。)",
+        "Let's look into this bug report more carefully tomorrow. (我們明天再仔細調查這個錯誤報告吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "にちようび",
+      "kanji_romaji": "日曜日 / nichiyoubi",
+      "meaning": "星期日",
+      "example": "今日は日曜日です。",
+      "example_zh": "今天是星期日。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣、嗜好",
+      "example": "あなたの趣味は何ですか。",
+      "example_zh": "你的興趣是什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "私はAIツールが好きです。",
+      "example_zh": "我喜歡AI工具。"
+    },
+    {
+      "kana": "ときどき",
+      "kanji_romaji": "時々 / tokidoki",
+      "meaning": "有時、偶爾",
+      "example": "時々ゲームをします。",
+      "example_zh": "我偶爾玩遊戲。"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "讀、閱讀",
+      "example": "週末に本を読みます。",
+      "example_zh": "週末我會讀書。"
+    },
+    {
+      "kana": "きく",
+      "kanji_romaji": "聞く / kiku",
+      "meaning": "聽、問",
+      "example": "音楽を聞くのが好きです。",
+      "example_zh": "我喜歡聽音樂。"
+    },
+    {
+      "kana": "いっしょ",
+      "kanji_romaji": "一緒 / issho",
+      "meaning": "一起",
+      "example": "一緒にコーヒーを飲みませんか。",
+      "example_zh": "要不要一起喝咖啡？"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか。",
+      "example_zh": "週末要做什麼？"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "とても楽しい一日でした。",
+      "example_zh": "這是非常愉快的一天。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + が + 好きです (suki desu)",
+      "structure": "名詞 + が + 好きです",
+      "rule": "表示喜歡某個事物，通常用於表達個人的喜好、興趣，主語通常是「私」。",
+      "examples": [
+        "私は日本語の勉強が好きです。(我喜歡學習日語。)",
+        "彼は再生エネルギーが好きです。(他喜歡再生能源。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ませんか (masen ka)",
+      "structure": "動詞(ます形) + ませんか",
+      "rule": "用於禮貌地邀請對方做某事，或提出建議，語氣比「〜ましょう」更客氣、委婉。",
+      "examples": [
+        "一緒に映画を見に行きませんか。(要不要一起去看電影？)",
+        "週末にIoTプロジェクトについて話しませんか。(週末要不要談談IoT專案？)"
+      ]
+    }
+  ]
+}
