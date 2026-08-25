@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "嵌入式系統中的軟體",
+      "example": "The new firmware update fixed some bugs.",
+      "example_zh": "新的韌體更新修復了一些錯誤。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、配置（系統或軟體）",
+      "example": "We plan to deploy the new system next month.",
+      "example_zh": "我們計畫下個月部署新系統。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化效能",
+      "example": "Can we optimize this code for better performance?",
+      "example_zh": "我們能優化這段程式碼以提高效能嗎？"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "功能、特色（產品或軟體）",
+      "example": "This new phone has many cool features.",
+      "example_zh": "這款新手機有很多很酷的功能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent an hour trying to troubleshoot the network issue.",
+      "example_zh": "我花了一小時試圖排除網路問題。"
+    },
+    {
+      "word": "workflow",
+      "pos": "n.",
+      "meaning": "工作流程、作業程序",
+      "example": "We need to streamline our workflow to be more efficient.",
+      "example_zh": "我們需要簡化工作流程以提高效率。"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤時間或路程",
+      "example": "My daily commute takes about 30 minutes.",
+      "example_zh": "我每天通勤大約需要30分鐘。"
+    },
+    {
+      "word": "insight",
+      "pos": "n.",
+      "meaning": "洞察力、深刻見解",
+      "example": "Your feedback gave me valuable insight.",
+      "example_zh": "你的回饋給了我寶貴的見解。"
+    },
+    {
+      "word": "initiative",
+      "pos": "n.",
+      "meaning": "主動性、積極性",
+      "example": "She always takes the initiative in team projects.",
+      "example_zh": "她在團隊專案中總是積極主動。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋意見、反應",
+      "example": "Please give me some feedback on my presentation.",
+      "example_zh": "請給我一些關於我簡報的回饋意見。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句第一型 (If... will...)",
+      "rule": "描述未來可能發生且結果可預期的情況，用於計畫、建議或警告。",
+      "examples": [
+        "If we finish this early, we'll have time for a coffee break.（如果我們早點完成，我們就有時間喝咖啡了。）",
+        "If you need help with the code, just ask me.（如果你需要程式碼的幫助，儘管問我。）",
+        "If the system works, we will deploy it next week.（如果系統運作正常，我們下週就會部署它。）"
+      ]
+    },
+    {
+      "title": "動詞片語 with 'up' (常用於工作情境)",
+      "rule": "許多動詞加上 'up' 會形成新的意義，常用於日常與職場溝通，表達完成或提升。",
+      "examples": [
+        "Let's set up a meeting for next Tuesday.（我們下週二來安排一個會議吧。）",
+        "Can you look up the data for this project?（你能查一下這個專案的數據嗎？）",
+        "I need to back up my files before the update.（我需要在更新前備份我的檔案。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作、職業",
+      "example": "わたしは まいにち、しごとを します。",
+      "example_zh": "我每天都工作。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "わたしは にほんごを べんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち、コーヒーを のみます。",
+      "example_zh": "我每天都喝咖啡。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、困難的",
+      "example": "にほんごの べんきょうは たいへんですが、たのしいです。",
+      "example_zh": "學習日文很辛苦，但很有趣。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "いま、なんじ ですか。",
+      "example_zh": "現在幾點了？"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "この アプリは とても べんりです。",
+      "example_zh": "這個應用程式很方便。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "わたしは パソコンを つかいます。",
+      "example_zh": "我使用電腦。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "これは あたらしい ほん です。",
+      "example_zh": "這是一本新書。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "了解、明白",
+      "example": "わたしは えいごが すこし わかります。",
+      "example_zh": "我懂一點英文。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは なにを しますか。",
+      "example_zh": "週末要做什麼？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞 + は + 名詞 + です",
+      "rule": "用來介紹或說明某事物是什麼，是日文最基本的肯定句型。",
+      "examples": [
+        "わたしは エンジニアです。（我是工程師。）",
+        "これは わたしの パソコンです。（這是我的電腦。）"
+      ]
+    },
+    {
+      "title": "動詞ます形（肯定・否定）",
+      "structure": "動詞ます / 動詞ません",
+      "rule": "用於禮貌且肯定的語氣，表示現在或未來的動作；否定則用「ません」。",
+      "examples": [
+        "まいにち、コーヒーを のみます。（我每天都喝咖啡。）",
+        "きょうは しごとを しません。（我今天不工作。）"
+      ]
+    }
+  ]
+}
