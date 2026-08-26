@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "裝置韌體或軟體",
+      "example": "Updating the device's firmware can fix many bugs.",
+      "example_zh": "更新裝置韌體可以修復許多錯誤。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "We need to integrate this new feature smoothly.",
+      "example_zh": "我們需要順利整合這項新功能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent hours trying to troubleshoot this network issue.",
+      "example_zh": "我花了好幾個小時排除這個網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、雛形",
+      "example": "Let's build a quick prototype to test the concept.",
+      "example_zh": "我們來快速做個原型測試概念吧。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率、效能",
+      "example": "How can we improve the team's work efficiency?",
+      "example_zh": "我們該如何提升團隊的工作效率呢？"
+    },
+    {
+      "word": "allocate",
+      "pos": "v.",
+      "meaning": "分配、撥給",
+      "example": "We need to allocate more resources to this project.",
+      "example_zh": "我們需要為這個專案分配更多資源。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "Our project deadline is approaching very fast, so let's hurry!",
+      "example_zh": "我們的專案截止日期快到了，趕快動手吧！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Let's collaborate on this task for a better outcome.",
+      "example_zh": "我們合作這項任務，會有更好的結果。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Please give me some feedback on my presentation.",
+      "example_zh": "請給我一些關於我簡報的回饋意見。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使最優",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "用 If + 現在簡單式, will + 原形動詞，描述現實或很可能發生的假設情況。",
+      "examples": [
+        "If it rains tomorrow, we will stay home. (如果明天下雨，我們就待在家。)",
+        "If you finish your work early, you can join us. (如果你早點完成工作，就可以加入我們。)",
+        "If the system crashes, we will lose all data. (如果系統當機，我們會失去所有資料。)"
+      ]
+    },
+    {
+      "title": "Passive Voice",
+      "rule": "當想強調動作的承受者而非執行者時使用，結構是 be 動詞 + 動詞過去分詞。",
+      "examples": [
+        "The report was written by Sarah. (這份報告是莎拉寫的。)",
+        "New features will be added next month. (新功能將在下個月加入。)",
+        "The device is powered by a renewable energy source. (這設備由再生能源供電。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごとは まいにち あります。",
+      "example_zh": "每天都有工作。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "pasokon",
+      "meaning": "電腦",
+      "example": "あたらしい パソコンを かいました。",
+      "example_zh": "我買了一台新電腦。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "この ツールを つかいますか。",
+      "example_zh": "你會用這個工具嗎？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "しごと の じかんは ８じです。",
+      "example_zh": "工作時間是八點。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょう かいぎが あります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "まなぶ",
+      "kanji_romaji": "学ぶ / manabu",
+      "meaning": "學習",
+      "example": "にほんごを まなびたいです。",
+      "example_zh": "我想學習日文。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "この でんきは あかるいです。",
+      "example_zh": "這盞電燈很亮。"
+    },
+    {
+      "kana": "うごく",
+      "kanji_romaji": "動く / ugoku",
+      "meaning": "移動、運作",
+      "example": "この きかいは よく うごきます。",
+      "example_zh": "這台機器運作得很好。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作",
+      "example": "プログラムを つくります。",
+      "example_zh": "我會寫程式。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしの かいしゃは ここです。",
+      "example_zh": "我的公司在這裡。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「〜たいです」",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者想做某事，用在動詞的「ます」形後面，去掉「ます」再接「たいです」。",
+      "examples": [
+        "にほんへ いきたいです。(我想去日本。)",
+        "あたらしい ぎじゅつを まなびたいです。(我想學習新技術。)"
+      ]
+    },
+    {
+      "title": "「〜があります/います」",
+      "structure": "名詞 + が + あります (非生物) / います (生物)",
+      "rule": "表示某處存在某物（非生物用あります）或某人（生物用います）。名詞後接「が」。",
+      "examples": [
+        "つくえの うえに ほんが あります。(桌子上有書。)",
+        "この システムには もんだいが あります。(這個系統有問題。)"
+      ]
+    }
+  ]
+}
