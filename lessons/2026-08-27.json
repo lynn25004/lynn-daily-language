@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體",
+      "example": "That device needs a firmware update.",
+      "example_zh": "那個裝置需要韌體更新。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，最佳化",
+      "example": "Let's optimize this code for speed.",
+      "example_zh": "我們來優化這段程式碼以提高速度。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，配置",
+      "example": "We'll deploy the new system next week.",
+      "example_zh": "我們下週會部署新系統。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，樣品",
+      "example": "This is just a prototype, not the final product.",
+      "example_zh": "這只是一個原型，不是最終產品。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合",
+      "example": "Can we integrate this module into our project?",
+      "example_zh": "我們能把這模組整合到現有專案嗎？"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "特點，功能",
+      "example": "This new feature is super cool!",
+      "example_zh": "這個新功能超級酷！"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，偵錯",
+      "example": "I spent hours trying to debug this issue.",
+      "example_zh": "我花了好幾個小時試圖解決這個問題。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的，可持續的",
+      "example": "Renewable energy offers sustainable solutions.",
+      "example_zh": "再生能源提供永續的解決方案。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "創新，革新",
+      "example": "Innovation drives tech forward, right?",
+      "example_zh": "創新推動科技進步，對吧？"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，反應",
+      "example": "Please give me some feedback on my presentation.",
+      "example_zh": "請給我一些關於我報告的回饋。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Phrasal Verbs with \"up\"",
+      "rule": "這些動詞片語常與 \"up\" 結合，表達完成、增加、準備或出現等意思，讓對話更自然喔！",
+      "examples": [
+        "Let's set up a meeting for next week. (我們下週來安排一個會議吧。)",
+        "I need to speed up my learning process. (我需要加快我的學習進度。)",
+        "A new problem just came up during testing. (測試時剛好出現一個新問題。)"
+      ]
+    },
+    {
+      "title": "Using \"would\" for polite requests and hypothetical situations",
+      "rule": "\"Would\" 可以用於禮貌地提出請求，或描述非現實的假設情況，讓語氣更委婉。",
+      "examples": [
+        "Would you mind helping me with this report? (你介意幫我處理這份報告嗎？)",
+        "If I had more time, I would learn another language. (如果我有更多時間，我會學習另一種語言。)",
+        "I would like to know more about IoT security. (我想要多了解物聯網安全。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしの しごとは エンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "かいしゃは うちの ちかくに あります。",
+      "example_zh": "公司在我家附近。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "この でんき、つかえますか？",
+      "example_zh": "這個電力可以用嗎？"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AI ツールを つかいますか？",
+      "example_zh": "你使用 AI 工具嗎？"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしい パソコンが ほしいです。",
+      "example_zh": "我想要一台新的電腦。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、創造",
+      "example": "IoT デバイスを つくるのが 好きです。",
+      "example_zh": "我喜歡製作 IoT 裝置。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "この ぎじゅつは とても おもしろいですね。",
+      "example_zh": "這項技術非常有趣呢。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょうは もくようび です。",
+      "example_zh": "今天是星期四。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "この せつめい、わかりますか？",
+      "example_zh": "你明白這個說明嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "～は～です / ではありません",
+      "structure": "名詞 + は + 名詞 + です / ではありません",
+      "rule": "用於陳述事實或表明身分，\"は\" 標示主題，\"です\" 表示肯定，\"ではありません\" 表示否定。",
+      "examples": [
+        "わたしは エンジニアです。(我是工程師。)",
+        "これは わたしの パソコンではありません。(這不是我的電腦。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "表示說話者想要做某事，用於表達願望或意圖，是非常實用的句型喔。",
+      "examples": [
+        "あたらしい ぎじゅつを べんきょうしたいです。(我想學習新技術。)",
+        "にほんごで はなしたいです。(我想用日語說話。)"
+      ]
+    }
+  ]
+}
