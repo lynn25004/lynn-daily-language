@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行，實施計畫或系統",
+      "example": "We need to implement the new security features next week.",
+      "example_zh": "我們下週需要實施新的安全功能。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，將不同部分結合",
+      "example": "It's tricky to integrate all these devices into one system.",
+      "example_zh": "將所有這些設備整合到一個系統中很棘手。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障，解決問題",
+      "example": "I spent hours trying to troubleshoot this network issue.",
+      "example_zh": "我花了數小時試圖排除這個網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初步模型或樣本",
+      "example": "The team is building a prototype for the new IoT device.",
+      "example_zh": "團隊正在為新的物聯網設備建造一個原型。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使效率達到最佳",
+      "example": "We should optimize the code for better performance.",
+      "example_zh": "我們應該優化程式碼以獲得更好的性能。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效率的，節省時間的",
+      "example": "This new AI tool makes our workflow much more efficient.",
+      "example_zh": "這個新的AI工具讓我們的工作流程效率更高。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的，值得信賴的",
+      "example": "We need a reliable power supply for this critical system.",
+      "example_zh": "這個關鍵系統需要一個可靠的電源供應。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，共同完成任務",
+      "example": "Let's collaborate on this project to finish it faster.",
+      "example_zh": "我們合作完成這個專案，會更快。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "反饋，對表現的意見",
+      "example": "Could you give me some feedback on my presentation?",
+      "example_zh": "你能給我一些關於我簡報的反饋嗎？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，完成任務的期限",
+      "example": "The deadline for the report is end of day tomorrow.",
+      "example_zh": "報告的截止日期是明天工作結束前。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式：will 與 be going to",
+      "rule": "will 表當下決定、預測或承諾；be going to 表已計畫好的事或有跡可循的預測。",
+      "examples": [
+        "I will help you troubleshoot that bug later. (我稍後會幫你解決那個程式錯誤。)",
+        "We are going to implement the new system next month. (我們下個月將會實施新系統。)",
+        "Look at those dark clouds! It's going to rain soon. (看那些烏雲！很快就要下雨了。)"
+      ]
+    },
+    {
+      "title": "現在完成式：For 與 Since",
+      "rule": "用於描述從過去開始持續到現在的動作或經驗，for 接時間長度，since 接起始時間點。",
+      "examples": [
+        "I have worked on embedded systems for five years. (我從事嵌入式系統工作已經五年了。)",
+        "She has been interested in IoT since college. (她從大學時期就對物聯網很感興趣。)",
+        "Have you ever collaborated with an international team? (你曾經和國際團隊合作過嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしはエンジニアのしごとがしたいです。",
+      "example_zh": "我想要做工程師的工作。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "我每天都學習日文。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごのべんきょうはたのしいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的，有趣的",
+      "example": "このゲームはとてもたのしいです。",
+      "example_zh": "這個遊戲非常有趣。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "このもんだいはすこしむずかしいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "できます",
+      "kanji_romaji": "できます / dekimasu",
+      "meaning": "會，能夠",
+      "example": "わたしはロボットをつくることができます。",
+      "example_zh": "我會製作機器人。"
+    },
+    {
+      "kana": "わかります",
+      "kanji_romaji": "分かります / wakarimasu",
+      "meaning": "懂，明白",
+      "example": "AIのぎじゅつがすこしわかります。",
+      "example_zh": "我懂一點AI技術。"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "わたしはIoTがきらいじゃなくて、すきです。",
+      "example_zh": "我不討厭物聯網，我很喜歡它。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "べんきょうのじかんがたりません。",
+      "example_zh": "學習的時間不夠。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "あたらしいAIツールをつかいたいです。",
+      "example_zh": "我想要使用新的AI工具。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜たいです (想做...)",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "表達說話者想做某事或某個願望，ます形動詞去掉ます加上たいです即可。",
+      "examples": [
+        "日本でしごとをしたいです。(我想到日本工作。)",
+        "あたらしいぎじゅつをべんきょうしたいです。(我想學習新技術。)"
+      ]
+    },
+    {
+      "title": "〜が 好きです / 分かります (喜歡... / 懂...)",
+      "structure": "名詞 + が + 好きです / 分かります",
+      "rule": "用於表達喜歡某事物（好きです）或理解/知道某事物（分かります），助詞使用が。",
+      "examples": [
+        "わたしはプログラミングがすきです。(我喜歡程式設計。)",
+        "えいごがすこしわかります。(我懂一點英文。)"
+      ]
+    }
+  ]
+}
