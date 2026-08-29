@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修正程式錯誤",
+      "example": "I spent hours trying to debug this code.",
+      "example_zh": "我花了好幾個小時試著除錯這段程式碼。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "初步模型或樣品",
+      "example": "We built a small prototype for our IoT device.",
+      "example_zh": "我們為我們的物聯網裝置做了一個小型原型。"
+    },
+    {
+      "word": "algorithm",
+      "pos": "n.",
+      "meaning": "解決問題的步驟",
+      "example": "This algorithm helps sort data really fast.",
+      "example_zh": "這個演算法能幫助資料快速排序。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "改進效能或效率",
+      "example": "I need to optimize this circuit for better power usage.",
+      "example_zh": "我需要優化這個電路以改善電力使用。"
+    },
+    {
+      "word": "component",
+      "pos": "n.",
+      "meaning": "組成部分或零件",
+      "example": "Which component caused the system to fail?",
+      "example_zh": "是哪個零件導致系統故障的？"
+    },
+    {
+      "word": "fascinated",
+      "pos": "adj.",
+      "meaning": "對某事極為著迷",
+      "example": "I'm totally fascinated by renewable energy tech.",
+      "example_zh": "我完全被再生能源技術給迷住了。"
+    },
+    {
+      "word": "tinker",
+      "pos": "v.",
+      "meaning": "隨意修補或摸索",
+      "example": "I love to tinker with old gadgets on weekends.",
+      "example_zh": "我喜歡在週末修修補補舊小玩意兒。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "具有創新精神的",
+      "example": "That's a very innovative approach to the problem.",
+      "example_zh": "那是解決這個問題的一個非常創新的方法。"
+    },
+    {
+      "word": "setup",
+      "pos": "n.",
+      "meaning": "裝置或系統的設置",
+      "example": "My new home lab setup is finally complete!",
+      "example_zh": "我的新家庭實驗室設置終於完成了！"
+    },
+    {
+      "word": "challenge",
+      "pos": "n.",
+      "meaning": "困難的任務或考驗",
+      "example": "Learning a new language can be a fun challenge.",
+      "example_zh": "學習一門新語言會是個有趣的挑戰。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to do / Be used to doing",
+      "rule": "「used to do」指過去的習慣或狀態，現在已不同；「be used to doing」指習慣於某事，強調現在的適應。",
+      "examples": [
+        "I used to write code in C++, but now I prefer Python. (我以前習慣用 C++ 寫程式，但現在我比較喜歡 Python。)",
+        "It was hard at first, but I'm used to debugging complex systems now. (一開始很難，但我現在已經習慣除錯複雜的系統了。)",
+        "Are you used to working from home yet? (你已經習慣在家工作了嗎？)"
+      ]
+    },
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "表達未來可能發生的真實情況，句型為「If + S + V (現在簡單式), S + will + V (原形動詞)」。",
+      "examples": [
+        "If I finish my project early, I will go hiking this weekend. (如果我提早完成專案，我這個週末會去爬山。)",
+        "If you optimize the code, the system will run much faster. (如果你優化程式碼，系統會跑得快很多。)",
+        "If we use AI tools, we will save a lot of development time. (如果我們使用 AI 工具，我們會省下很多開發時間。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "もっと日本語の勉強時間が欲しいです。",
+      "example_zh": "我想要更多學習日文的時間。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "このAIツールはとても楽しいです。",
+      "example_zh": "這個AI工具很有趣。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいIoTデバイスを作りたいです。",
+      "example_zh": "我想要製作新的物聯網裝置。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、創造",
+      "example": "ロボットを作るのが好きです。",
+      "example_zh": "我喜歡製作機器人。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "明白、懂",
+      "example": "英語が少し分かります。",
+      "example_zh": "我懂一點點英文。"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點",
+      "example": "このシステムは少し複雑です。",
+      "example_zh": "這個系統有點複雜。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "来週、新しいプロジェクトを始めます。",
+      "example_zh": "我下週會開始新專案。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "私の趣味は読書とプログラミングです。",
+      "example_zh": "我的興趣是閱讀和程式設計。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "~ます / ~ません",
+      "structure": "動詞ます形 / 動詞ません形",
+      "rule": "「ます」表示肯定現在或未來的動作；「ません」表示否定現在或未來的動作，是禮貌的說法。",
+      "examples": [
+        "毎日、コーヒーを飲みます。(我每天喝咖啡。)",
+        "今日は仕事をしません。(我今天不工作。)"
+      ]
+    },
+    {
+      "title": "~たいです",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者「想要做某事」的願望或意圖，動詞「ます形」去「ます」加上「たいです」。",
+      "examples": [
+        "新しいAI技術を勉強したいです。(我想要學習新的AI技術。)",
+        "週末はゆっくり休みたいです。(週末我想要好好休息。)"
+      ]
+    }
+  ]
+}
