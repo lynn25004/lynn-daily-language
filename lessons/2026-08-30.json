@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使其達到最佳",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合不同部分",
+      "example": "It's challenging to integrate new features into old systems.",
+      "example_zh": "將新功能整合到舊系統中很有挑戰性。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障，解決問題",
+      "example": "I spent all morning troubleshooting the network issue.",
+      "example_zh": "我整個早上都在排除網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n./v.",
+      "meaning": "原型/製作原型",
+      "example": "Let's build a quick prototype to test the idea.",
+      "example_zh": "我們快速做個原型來測試這個想法吧。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，找出錯誤並修復",
+      "example": "I'm trying to debug this tricky error in my code.",
+      "example_zh": "我正在努力修復程式碼中這個棘手的錯誤。"
+    },
+    {
+      "word": "schedule",
+      "pos": "n./v.",
+      "meaning": "行程表/安排時間",
+      "example": "What's your schedule like for next week?",
+      "example_zh": "你下週的行程是怎樣的？"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "優先處理，排列順序",
+      "example": "We need to prioritize urgent tasks first.",
+      "example_zh": "我們需要先優先處理緊急任務。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋意見，反應",
+      "example": "Could you give me some feedback on my resume?",
+      "example_zh": "你能給我一些關於我履歷的回饋意見嗎？"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案，解答",
+      "example": "We're looking for a good solution to this problem.",
+      "example_zh": "我們正在尋找這個問題的好解決方案。"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "更新/最新消息",
+      "example": "Did you update the software to the latest version?",
+      "example_zh": "你把軟體更新到最新版本了嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "假設語氣 (Conditional Sentences Type 1)",
+      "rule": "用於表達未來可能發生且結果真實的狀況，結構為 If + 主詞 + 現在簡單式, 主詞 + will + 原形動詞。",
+      "examples": [
+        "If the system works, we will launch it next month. (如果系統能運作，我們下個月就會推出。)",
+        "If you debug it well, the project will be smooth. (如果你除錯做得好，這個專案就會很順利。)",
+        "If I finish my tasks, I'll go for a run later. (如果我做完我的工作，我等下會去跑步。)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds) 作為主詞或受詞",
+      "rule": "動名詞以 -ing 結尾，可以像名詞一樣在句子中作主詞、受詞或介系詞的受詞，表達動作的行為。",
+      "examples": [
+        "Learning new skills is crucial for engineers. (學習新技能對工程師來說至關重要。)",
+        "I enjoy reading about embedded systems. (我喜歡閱讀有關嵌入式系統的內容。)",
+        "Debugging code can be quite frustrating sometimes. (除錯程式碼有時可能會非常令人沮喪。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごとは どこですか。",
+      "example_zh": "你的工作在哪裡？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きょうは 休みです。",
+      "example_zh": "今天是假日。"
+    },
+    {
+      "kana": "ぎじゅつ",
+      "kanji_romaji": "技術 / gijutsu",
+      "meaning": "技術",
+      "example": "この ぎじゅつは すごいですね。",
+      "example_zh": "這項技術真厲害呢。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "IoT デバイスを つくります。",
+      "example_zh": "我製作 IoT 裝置。"
+    },
+    {
+      "kana": "しる",
+      "kanji_romaji": "知る / shiru",
+      "meaning": "知道、了解",
+      "example": "あの ことを 知っていますか。",
+      "example_zh": "你知道那件事嗎？"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日 コーヒーを 飲みます。",
+      "example_zh": "我每天喝咖啡。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "この プロジェクトは 難しいです。",
+      "example_zh": "這個專案很困難。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "AI は とても 面白いですね。",
+      "example_zh": "AI 真的很有趣呢。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語が わかりますか。",
+      "example_zh": "你懂日文嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です (基本句型)",
+      "structure": "名詞 A + は + 名詞 B + です",
+      "rule": "用於表示「A 是 B」的肯定句，其中「は」讀作「wa」，是提示主語的助詞。",
+      "examples": [
+        "わたしは エンジニアです。(我是工程師。)",
+        "これは IoT デバイスです。(這是 IoT 裝置。)"
+      ]
+    },
+    {
+      "title": "動詞ます形 + たいです (想做...)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者「想做某事」的願望或意願，將動詞的ます形後面的ます去掉，加上たいです。",
+      "examples": [
+        "日本語を 勉強したいです。(我想學習日文。)",
+        "新しい 技術を 習いたいです。(我想學習新技術。)"
+      ]
+    }
+  ]
+}
