@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，將不同部分結合",
+      "example": "We need to integrate this new feature into the system quickly.",
+      "example_zh": "我們需要快速將這個新功能整合到系統中。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使其達到最佳狀態",
+      "example": "Let's optimize the code for better performance and speed.",
+      "example_zh": "我們來優化程式碼以獲得更好的效能和速度。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施，執行某個計畫",
+      "example": "We plan to implement the new security protocol next month.",
+      "example_zh": "我們計畫下個月實施新的安全協定。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，修復程式錯誤",
+      "example": "I spent all morning trying to debug this tricky issue.",
+      "example_zh": "我花了整個上午試圖除錯這個棘手的問題。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的，值得信賴的",
+      "example": "We need a reliable network connection for this important project.",
+      "example_zh": "我們這個重要專案需要可靠的網路連線。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，共同完成任務",
+      "example": "It's great to collaborate with such a talented team on this project.",
+      "example_zh": "能與這麼有才華的團隊合作這個專案真是太棒了。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，任務最終期限",
+      "example": "The deadline for this task is end of day Friday.",
+      "example_zh": "這項任務的截止日期是週五下班前。"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "優先處理，決定輕重緩急",
+      "example": "I always try to prioritize my tasks each morning effectively.",
+      "example_zh": "我每天早上都努力有效地安排我的任務優先順序。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，對某事物的意見",
+      "example": "We welcome any feedback on the new software update.",
+      "example_zh": "我們歡迎對新軟體更新的任何回饋意見。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案，問題的答案",
+      "example": "I think I found a great solution to this challenging problem!",
+      "example_zh": "我想我找到解決這個挑戰性問題的好方法了！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "表示未來可能發生且結果可預期的狀況，通常用於假設條件成立。",
+      "examples": [
+        "If you finish the report, we will go for coffee.（如果你完成報告，我們就去喝咖啡。）",
+        "If the code compiles, we'll deploy it by noon.（如果程式碼編譯成功，我們中午前就會部署。）",
+        "If it rains tomorrow, I'll work from home.（如果明天會下雨，我就在家工作。）"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs with 'Look'",
+      "rule": "動詞搭配介系詞或副詞，形成不同意思的片語動詞，表達更具體動作。",
+      "examples": [
+        "I'll look up that new AI tool you mentioned.（我會去查你提到那個新的AI工具。）",
+        "I'm looking forward to our team meeting next week.（我很期待我們下週的團隊會議。）",
+        "We need to look into why the system crashed.（我們需要調查系統當機的原因。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日、仕事をします。",
+      "example_zh": "我每天工作。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "午後から会議があります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このへやはでんきがあかるいです。",
+      "example_zh": "這房間的電燈很亮。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "毎日パソコンをつかいます。",
+      "example_zh": "我每天使用電腦。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありません。",
+      "example_zh": "沒有時間。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "これ、ちょっと問題があります。",
+      "example_zh": "這個，有點問題。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語がわかりますか。",
+      "example_zh": "你懂日文嗎？"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "きょうはとてもいそがしいです。",
+      "example_zh": "我今天非常忙碌。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "ちょっときゅうけいしましょう。",
+      "example_zh": "我們稍微休息一下吧。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "10じにかいぎを始めます。",
+      "example_zh": "10點開始會議。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + ましょう",
+      "structure": "動詞(ます形) + ましょう",
+      "rule": "用來邀請或提議大家一起做某事，語氣輕鬆友好，是很實用的表達。",
+      "examples": [
+        "コーヒーを飲みましょう。（我們喝咖啡吧。）",
+        "いっしょにべんきょうしましょう。（我們一起學習吧。）"
+      ]
+    },
+    {
+      "title": "名詞 + を + 動詞(ます)",
+      "structure": "名詞 + を + 動詞(ます)",
+      "rule": "助詞「を」表示動詞的直接受詞，指出動作的對象，是基礎且重要的用法。",
+      "examples": [
+        "水を飲みます。（我喝水。）",
+        "本を読みます。（我讀書。）"
+      ]
+    }
+  ]
+}
