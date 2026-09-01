@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "commute",
+      "pos": "v./n.",
+      "meaning": "上下班通勤",
+      "example": "My commute to work usually takes about 30 minutes.",
+      "example_zh": "我上班通勤通常需要大約 30 分鐘。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "工作截止日期",
+      "example": "We have a strict deadline for this project next week.",
+      "example_zh": "我們這個專案下週有很緊的截止日期。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決系統問題",
+      "example": "I spent all morning trying to troubleshoot this software bug.",
+      "example_zh": "我花了一整個早上試著解決這個軟體錯誤。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品初始原型",
+      "example": "We are testing the new prototype for our smart home device.",
+      "example_zh": "我們正在測試我們智慧家庭裝置的新原型。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "使系統最佳化",
+      "example": "Our goal is to optimize the code for better performance.",
+      "example_zh": "我們的目標是優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的能源",
+      "example": "More companies are investing in renewable energy sources now.",
+      "example_zh": "現在有更多公司投資於再生能源。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的",
+      "example": "Working from home can be very efficient for some tasks.",
+      "example_zh": "在家工作對於某些任務來說可以非常有效率。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "共同合作",
+      "example": "Let's collaborate on this presentation to make it awesome.",
+      "example_zh": "我們來合作製作這個簡報，讓它更棒。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "意見回饋",
+      "example": "Your feedback on the new design is super helpful.",
+      "example_zh": "你對於新設計的意見回饋非常有幫助。"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "更新資訊或軟體",
+      "example": "Did you get the latest software update for your phone?",
+      "example_zh": "你的手機有收到最新的軟體更新嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (If 句型 - 第一類)",
+      "rule": "用來表達未來可能發生且結果可能實現的情況，常用於計畫或預測。",
+      "examples": [
+        "If I finish this report early, I will go for a run。（如果我早點完成這份報告，我就會去跑步。）",
+        "If the server is down, we'll need to troubleshoot it immediately。（如果伺服器當機，我們需要立即排除故障。）",
+        "If you optimize the code, the app will run much faster。（如果你優化程式碼，應用程式會跑快很多。）"
+      ]
+    },
+    {
+      "title": "動詞片語：動詞 + up",
+      "rule": "許多動詞搭配 'up' 會形成特定意義的片語，常用於描述行動或狀態的變化。",
+      "examples": [
+        "Can you set up the new IoT device for me?（你可以幫我設定那個新的 IoT 裝置嗎？）",
+        "I need to look up some documentation for this embedded system.（我需要查閱一些關於這個嵌入式系統的文件。）",
+        "Let's speed up the development process to meet the deadline.（我們來加速開發流程以趕上截止日期。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おはようございます",
+      "kanji_romaji": "ohayou gozaimasu",
+      "meaning": "早上好（禮貌）",
+      "example": "朝（あさ）、会社（かいしゃ）で「おはようございます」と言（い）います。",
+      "example_zh": "早上在公司會說「早上好」。"
+    },
+    {
+      "kana": "おつかれさまです",
+      "kanji_romaji": "otsukaresama desu",
+      "meaning": "您辛苦了（職場常用）",
+      "example": "長（なが）い会議（かいぎ）の後（あと）、「おつかれさまです」と言（い）います。",
+      "example_zh": "開完冗長的會議後，會說「您辛苦了」。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作、職務",
+      "example": "私（わたし）の仕事（しごと）はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息、小憩",
+      "example": "１時間（いちじかん）仕事（しごと）をして、少（すこ）し休憩（きゅうけい）します。",
+      "example_zh": "工作一小時後，稍微休息一下。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "今日（きょう）は午前（ごぜん）に会議（かいぎ）があります。",
+      "example_zh": "今天上午有會議。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "pasokon",
+      "meaning": "個人電腦",
+      "example": "私（わたし）は毎日（まいにち）パソコンを使（つか）います。",
+      "example_zh": "我每天都使用電腦。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "部屋（へや）の電気（でんき）を消（け）します。",
+      "example_zh": "關掉房間的電燈。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題、疑問",
+      "example": "このシステムに問題（もんだい）があります。",
+      "example_zh": "這個系統有問題。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂、明白",
+      "example": "この日本語（にほんご）がわかりますか？",
+      "example_zh": "你懂這個日文嗎？"
+    },
+    {
+      "kana": "がんばります",
+      "kanji_romaji": "がんばります / ganbarimasu",
+      "meaning": "我會努力的",
+      "example": "JLPT N5（エヌご）のため、毎日（まいにち）がんばります！",
+      "example_zh": "為了日檢 N5，我每天都會努力！"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "用來禮貌地請求或指示對方做某事，是很實用的日常表達。",
+      "examples": [
+        "ちょっと待（ま）ってください。（請等一下。）",
+        "資料（しりょう）を読（よ）んでください。（請閱讀資料。）"
+      ]
+    },
+    {
+      "title": "名詞 + が あります / います",
+      "structure": "名詞 + が あります / います",
+      "rule": "表示某物（あります）或某人/動物（います）的存在，用於描述環境或狀況。",
+      "examples": [
+        "会議室（かいぎしつ）にホワイトボードがあります。（會議室裡有白板。）",
+        "会社（かいしゃ）に新（あたら）しいエンジニアがいます。（公司裡有新工程師。）"
+      ]
+    }
+  ]
+}
