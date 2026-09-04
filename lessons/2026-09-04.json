@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫或功能",
+      "example": "We need to implement this new feature quickly.",
+      "example_zh": "我們需要快速實施這項新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使某物達到最佳狀態",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以獲得更好的性能吧。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步模型",
+      "example": "The team is building a new prototype for testing.",
+      "example_zh": "團隊正在建立一個新的原型進行測試。"
+    },
+    {
+      "word": "integration",
+      "pos": "n.",
+      "meaning": "整合、結合不同部分",
+      "example": "System integration can be tricky sometimes.",
+      "example_zh": "系統整合有時可能很棘手。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的、能自然補充的",
+      "example": "Solar power is a great renewable energy source.",
+      "example_zh": "太陽能是很棒的再生能源來源。"
+    },
+    {
+      "word": "algorithm",
+      "pos": "n.",
+      "meaning": "演算法、解決問題的步驟",
+      "example": "This algorithm helps process data really fast.",
+      "example_zh": "這個演算法能幫助資料處理得很快。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、修正程式錯誤",
+      "example": "It took hours to debug that tiny error!",
+      "example_zh": "花了好多小時才把那個小錯誤除掉！"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋意見、對成果的反應",
+      "example": "We appreciate your feedback on the new design.",
+      "example_zh": "我們很感謝您對新設計的回饋意見。"
+    },
+    {
+      "word": "collaboration",
+      "pos": "n.",
+      "meaning": "合作、共同努力完成任務",
+      "example": "Team collaboration is key to our success.",
+      "example_zh": "團隊合作是我們成功的關鍵。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "描述過去發生但影響持續到現在，或在不特定時間點發生的動作或經驗。",
+      "examples": [
+        "I've worked on this project for three months.（我已經在這個專案上工作三個月了。）",
+        "Have you ever tried to debug a tricky IoT system?（你曾經試過排除棘手的物聯網系統故障嗎？）",
+        "We haven't finished the prototype yet, but it's close!（我們還沒完成原型，但快了！）"
+      ]
+    },
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "當動作的執行者不重要、不清楚，或想強調動作的承受者時使用，構成為「be動詞 + 過去分詞」。",
+      "examples": [
+        "The new feature was implemented last week.（新功能已於上週實施。）",
+        "Our system is optimized for low power consumption.（我們的系統已優化以降低功耗。）",
+        "Many AI tools are being developed to assist engineers.（許多AI工具正在被開發來協助工程師。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "今日のしごとは大変ですか？",
+      "example_zh": "今天的工作很辛苦嗎？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日、日本語をべんきょうしています。",
+      "example_zh": "我每天都在學習日文。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このきかいはでんきで動きます。",
+      "example_zh": "這台機器是用電力運作的。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、創造",
+      "example": "あたらしいシステムをいま、つくっています。",
+      "example_zh": "我正在製作一個新系統。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツールをつかってみませんか？",
+      "example_zh": "要不要試用這個AI工具？"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私の会社はIoTせいひんを作っています。",
+      "example_zh": "我的公司在製作IoT產品。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的、難的",
+      "example": "このもんだいは少しむずかしいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語が少しわかります。",
+      "example_zh": "我懂一點日文。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "このアプリはとてもべんりですね。",
+      "example_zh": "這個應用程式很方便呢。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち、コーヒーを飲みます。",
+      "example_zh": "我每天都喝咖啡。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「〜ます」否定形「〜ません」",
+      "structure": "動詞(ます形) + ません",
+      "rule": "用於表示現在或將來的否定，或者請求對方不要進行某項動作。是日文動詞基本否定形式。",
+      "examples": [
+        "私はまだ日本語がはなせません。（我還不能說日文。）",
+        "今日のしごとはおわりません。（今天的工作還沒結束。）"
+      ]
+    },
+    {
+      "title": "「〜があります/います」 (存在句)",
+      "structure": "場所 + に + 名詞 + が + あります/います",
+      "rule": "「あります」用於非生物，「います」用於生物，表示某物或某人存在於某地點。",
+      "examples": [
+        "つくえの上に本があります。（桌子上有書。）",
+        "会議室にエンジニアがいます。（會議室裡有工程師。）"
+      ]
+    }
+  ]
+}
