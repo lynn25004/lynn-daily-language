@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "嵌入式軟體或韌體",
+      "example": "I need to update the firmware on my IoT device.",
+      "example_zh": "我需要更新我的物聯網裝置的韌體。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修正程式錯誤",
+      "example": "It took me all morning to debug this code.",
+      "example_zh": "我花了整個早上來除錯這段程式碼。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型機或模型",
+      "example": "We are testing the new prototype for our smart home system.",
+      "example_zh": "我們正在測試我們的智慧家庭系統的新原型機。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情況、場景、設想",
+      "example": "Let's think about the worst-case scenario for the project.",
+      "example_zh": "我們來想想這個專案最壞的情況。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "I'm trying to optimize the battery life of this gadget.",
+      "example_zh": "我正在努力優化這個小工具的電池壽命。"
+    },
+    {
+      "word": "charger",
+      "pos": "n.",
+      "meaning": "充電器",
+      "example": "Oh no, I forgot my phone charger at home!",
+      "example_zh": "喔不，我把手機充電器忘在家裡了！"
+    },
+    {
+      "word": "commute",
+      "pos": "v./n.",
+      "meaning": "通勤、上下班路程",
+      "example": "My commute to work usually takes about 30 minutes.",
+      "example_zh": "我上班通勤通常需要大約 30 分鐘。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持續的、永續的",
+      "example": "Many companies are now focusing on sustainable energy solutions.",
+      "example_zh": "許多公司現在都專注於永續能源解決方案。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "We need to integrate this new module into the existing system.",
+      "example_zh": "我們需要把這個新模組整合到現有系統中。"
+    },
+    {
+      "word": "weekend",
+      "pos": "n.",
+      "meaning": "週末",
+      "example": "What are your plans for the upcoming weekend?",
+      "example_zh": "你這個週末有什麼計畫嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式：Will vs. Be Going To",
+      "rule": "Will 用於即時決定、預測或承諾；Be going to 用於事先計畫好或有跡象的未來。",
+      "examples": [
+        "I will call you later to discuss the project. (我稍後會打電話給你討論專案。)",
+        "We are going to visit the IoT exhibition next month. (我們下個月要去參觀物聯網展。)",
+        "Look at those dark clouds; it's going to rain soon. (看那些烏雲，快要下雨了。)"
+      ]
+    },
+    {
+      "title": "條件句 Type 1 (If... will...)",
+      "rule": "表達未來可能發生的真實情況，如果條件成立，結果就會發生。",
+      "examples": [
+        "If you finish debugging, we will go for lunch. (如果你完成除錯，我們就去吃午餐。)",
+        "If the weather is good this weekend, I will go hiking. (如果這個週末天氣好，我就去健行。)",
+        "If they launch the new AI tool, it will definitely save us time. (如果他們推出新的 AI 工具，它肯定會替我們省下時間。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつ、なにをしますか。",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "わたしは にほんごを べんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きょうは やすみです。",
+      "example_zh": "今天放假。"
+    },
+    {
+      "kana": "こうえん",
+      "kanji_romaji": "公園 / kouen",
+      "meaning": "公園",
+      "example": "しゅうまつに こうえんに いきます。",
+      "example_zh": "週末我去公園。"
+    },
+    {
+      "kana": "ほん",
+      "kanji_romaji": "本 / hon",
+      "meaning": "書",
+      "example": "あたらしい ほんを よみます。",
+      "example_zh": "我讀新書。"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "ともだちと ごはんを たべます。",
+      "example_zh": "我和朋友吃飯。"
+    },
+    {
+      "kana": "いく",
+      "kanji_romaji": "行く / iku",
+      "meaning": "去、前往",
+      "example": "デパートに いきます。",
+      "example_zh": "我去百貨公司。"
+    },
+    {
+      "kana": "たべる",
+      "kanji_romaji": "食べる / taberu",
+      "meaning": "吃",
+      "example": "パンを たべます。",
+      "example_zh": "我吃麵包。"
+    },
+    {
+      "kana": "のむ",
+      "kanji_romaji": "飲む / nomu",
+      "meaning": "喝",
+      "example": "コーヒーを のみます。",
+      "example_zh": "我喝咖啡。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "この えいがは とても たのしいです。",
+      "example_zh": "這部電影非常有趣。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞ます形（肯定/否定/過去）",
+      "structure": "動詞ます形 / 動詞ません / 動詞ました / 動詞ませんでした",
+      "rule": "表達禮貌的動詞時態，用於現在/未來肯定與否定，以及過去肯定與否定。",
+      "examples": [
+        "わたしは 毎日 コーヒーを 飲みます。(我每天喝咖啡。)",
+        "きのう、えいがを 見ませんでした。(我昨天沒看電影。)"
+      ]
+    },
+    {
+      "title": "助詞「を」（受詞標記）",
+      "structure": "名詞 + を + 動詞",
+      "rule": "標記動詞的直接受詞，表示動詞作用的對象或內容。",
+      "examples": [
+        "りんごを 食べます。(我吃蘋果。)",
+        "日本語を 勉強します。(我學習日文。)"
+      ]
+    }
+  ]
+}
