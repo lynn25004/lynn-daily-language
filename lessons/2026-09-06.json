@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施；執行",
+      "example": "We need to implement this new feature by next week.",
+      "example_zh": "我們下週前要實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；最佳化",
+      "example": "Can we optimize the code to make it run faster?",
+      "example_zh": "我們能優化程式碼讓它跑更快嗎？"
+    },
+    {
+      "word": "component",
+      "pos": "n.",
+      "meaning": "零件；組成部分",
+      "example": "This tiny component is essential for the whole system.",
+      "example_zh": "這個小零件對整個系統來說至關重要。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v./n.",
+      "meaning": "監控；監視器",
+      "example": "We use sensors to monitor the temperature in the server room.",
+      "example_zh": "我們用感測器監控伺服器機房的溫度。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障；解決問題",
+      "example": "I spent all morning trying to troubleshoot the network issue.",
+      "example_zh": "我整個早上都在試著排除網路問題。"
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "meaning": "無縫的；流暢的",
+      "example": "The new update provides a seamless user experience.",
+      "example_zh": "這個新更新提供了流暢的使用者體驗。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的",
+      "example": "They're always looking for innovative ways to solve problems.",
+      "example_zh": "他們總是在尋找創新的方式來解決問題。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的",
+      "example": "Renewable energy is crucial for a sustainable future.",
+      "example_zh": "再生能源對永續的未來至關重要。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合；結合",
+      "example": "We need to integrate this module with the existing software.",
+      "example_zh": "我們需要將這個模組與現有軟體整合。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋；意見",
+      "example": "Please give us your feedback on the new prototype.",
+      "example_zh": "請提供我們關於新原型的回饋。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Sentences) - Type 1",
+      "rule": "當你談論未來可能發生或真實情況的結果時，可以使用這個文法結構。",
+      "examples": [
+        "If it rains tomorrow, we will stay home. (如果明天下雨，我們就會待在家。)",
+        "If you finish your work early, we can grab coffee. (如果你早點完成工作，我們就可以去喝咖啡。)",
+        "If the system works, the project will be a success. (如果系統運作，這個專案就會成功。)"
+      ]
+    },
+    {
+      "title": "表達目的的不定詞 (Infinitive of Purpose)",
+      "rule": "使用「to + 動詞原形」來表示某個動作的目的或原因。",
+      "examples": [
+        "I went to the store to buy some groceries. (我去了商店買些雜貨。)",
+        "He studies hard to pass the exam. (他努力學習以通過考試。)",
+        "We debug the code to fix errors efficiently. (我們除錯程式碼以有效率地修復錯誤。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おきる",
+      "kanji_romaji": "起きる / okiru",
+      "meaning": "起床",
+      "example": "わたしは あさ 6じに おきます。",
+      "example_zh": "我早上六點起床。"
+    },
+    {
+      "kana": "はたらく",
+      "kanji_romaji": "働く / hataraku",
+      "meaning": "工作",
+      "example": "かいしゃで はたらきます。",
+      "example_zh": "在公司工作。"
+    },
+    {
+      "kana": "やすむ",
+      "kanji_romaji": "休む / yasumu",
+      "meaning": "休息",
+      "example": "きょうは かいしゃを やすみます。",
+      "example_zh": "我今天公司請假。"
+    },
+    {
+      "kana": "つかれる",
+      "kanji_romaji": "疲れる / tsukareru",
+      "meaning": "疲倦",
+      "example": "まいにち はたらいて つかれました。",
+      "example_zh": "每天工作都讓我好累。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作；製造",
+      "example": "この ソフトを つくりました。",
+      "example_zh": "我做了這個軟體。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "スマホを よく つかいます。",
+      "example_zh": "我經常使用智慧型手機。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電；電力",
+      "example": "でんきを つけてください。",
+      "example_zh": "請開燈。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "個人電腦",
+      "example": "パソコンで しごとを します。",
+      "example_zh": "我用電腦工作。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習；唸書",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんが ありません。",
+      "example_zh": "我沒有時間。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形ください (Verb -te ください)",
+      "structure": "動詞て形 + ください",
+      "rule": "用來禮貌地請求或命令對方做某事，是日常生活中很常用的表達方式。",
+      "examples": [
+        "まどを あけてください。 (請開窗。)",
+        "ちょっと まってください。 (請稍等一下。)"
+      ]
+    },
+    {
+      "title": "名詞は + どこですか (N wa doko desu ka)",
+      "structure": "名詞 + は + どこですか",
+      "rule": "用來詢問某個地點或物品的位置，是基礎的問路或尋物句型。",
+      "examples": [
+        "トイレは どこですか。 (廁所在哪裡？)",
+        "あなたの かいしゃは どこですか。 (你的公司在哪裡？)"
+      ]
+    }
+  ]
+}
