@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體，嵌入式程式",
+      "example": "We need to update the firmware.",
+      "example_zh": "我們需要更新韌體。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，應用新系統",
+      "example": "Let's deploy this new feature.",
+      "example_zh": "我們來部署這個新功能吧。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，找出程式錯誤",
+      "example": "I need to debug this code.",
+      "example_zh": "我需要對這段程式碼除錯。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "最佳化，提高效能",
+      "example": "We should optimize the system.",
+      "example_zh": "我們應該最佳化這個系統。"
+    },
+    {
+      "word": "collaboration",
+      "pos": "n.",
+      "meaning": "合作，共同工作",
+      "example": "Team collaboration is important.",
+      "example_zh": "團隊合作很重要。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The deadline is next Friday.",
+      "example_zh": "截止日期是下週五。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初版樣品",
+      "example": "Let's build a prototype.",
+      "example_zh": "我們來做個原型吧。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案，答案",
+      "example": "We need a good solution.",
+      "example_zh": "我們需要一個好的解決方案。"
+    },
+    {
+      "word": "interface",
+      "pos": "n.",
+      "meaning": "介面，連接器",
+      "example": "The user interface is friendly.",
+      "example_zh": "這個使用者介面很友善。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合不同部分",
+      "example": "We need to integrate these parts.",
+      "example_zh": "我們需要整合這些部分。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "情態助動詞：can/could",
+      "rule": "用於表達能力、可能性或請求，could比can更委婉或表示過去的能力。",
+      "examples": [
+        "I can speak English well. (我能說好英文。)",
+        "Could you please help me? (你可以幫我一下嗎？)",
+        "We could finish this by tomorrow. (我們明天可能可以完成。)"
+      ]
+    },
+    {
+      "title": "動名詞作主詞或受詞",
+      "rule": "動名詞（V-ing）可以作為句子的主詞或動詞、介系詞的受詞。",
+      "examples": [
+        "Working on IoT projects is fun. (研究物聯網專案很有趣。)",
+        "He enjoys debugging code. (他喜歡除錯程式碼。)",
+        "I'm good at solving problems. (我擅長解決問題。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごとが たくさん あります。",
+      "example_zh": "有很多工作。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょう、かいぎが あります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんが ありません。",
+      "example_zh": "沒有時間。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "この パソコンを つかいます。",
+      "example_zh": "我使用這台電腦。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "この もんだいは むずかしいです。",
+      "example_zh": "這個問題很困難。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的，有趣的",
+      "example": "しごとは たのしいです。",
+      "example_zh": "工作很有趣。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習，讀書",
+      "example": "にほんごの べんきょうを します。",
+      "example_zh": "我會學習日文。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしい アイデアが あります。",
+      "example_zh": "我有一個新的想法。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "もんだいを かいけつします。",
+      "example_zh": "我會解決問題。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞-ます形 + たいです (想做某事)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表達自己的願望或希望做某事，是一種日常且常用於表達意圖的句型。",
+      "examples": [
+        "コーヒーを のみたいです。 (我想喝咖啡。)",
+        "にほんごを べんきょうしたいです。 (我想學習日文。)"
+      ]
+    },
+    {
+      "title": "名詞 + を + 動詞 (直接受詞)",
+      "structure": "名詞 + を + 動詞",
+      "rule": "助詞「を」放在動詞的直接受詞之後，表示該名詞是動詞作用的對象。",
+      "examples": [
+        "パンを たべます。 (我吃麵包。)",
+        "メールを かきます。 (我寫郵件。)"
+      ]
+    }
+  ]
+}
