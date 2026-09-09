@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施",
+      "example": "Let's implement this new feature next week.",
+      "example_zh": "我們下週來實施這個新功能吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以提升效能。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "Sustainable energy is key for our future.",
+      "example_zh": "永續能源是我們未來的關鍵。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、情況",
+      "example": "Consider a worst-case scenario for this project.",
+      "example_zh": "考慮一下這個專案最糟的情境。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "The team built a cool prototype last month.",
+      "example_zh": "團隊上個月做了一個很酷的原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效率的",
+      "example": "We need a more efficient way to do this.",
+      "example_zh": "我們需要一個更有效率的方法來做這件事。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "Let's collaborate on this IoT project.",
+      "example_zh": "我們來合作這個 IoT 專案吧。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "I appreciate your feedback on my presentation.",
+      "example_zh": "我很感謝你對我簡報的回饋。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、恢復精力",
+      "example": "I need to recharge with some coffee.",
+      "example_zh": "我需要喝點咖啡來充電。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "常用動詞片語：'set up', 'pick up', 'catch up'",
+      "rule": "動詞片語由動詞和介詞/副詞組成，常用於日常對話和職場情境中，讓表達更自然。",
+      "examples": [
+        "Let's set up a meeting for next week. (我們下週來安排一個會議吧。)",
+        "Can you pick up the new sensors today? (你今天能去拿新的感測器嗎？)",
+        "I need to catch up on my emails. (我需要補上我未讀的電子郵件。)"
+      ]
+    },
+    {
+      "title": "第一類條件句 (If + 現在簡單式, will + 原形動詞)",
+      "rule": "用來描述未來可能發生且結果可預期的情況，表達條件與結果之間的關係，非常實用。",
+      "examples": [
+        "If we finish this task early, we will have more free time. (如果我們提早完成這項任務，我們會有更多空閒時間。)",
+        "If the system crashes, I will troubleshoot it immediately. (如果系統當機，我會立即排除故障。)",
+        "If you study Japanese every day, you will improve fast. (如果你每天學日文，你會進步很快。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "仕事が楽しいです。",
+      "example_zh": "工作很有趣。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間がありません。",
+      "example_zh": "我沒有時間。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日コーヒーを飲みます。",
+      "example_zh": "我每天喝咖啡。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "休憩しましょう。",
+      "example_zh": "我們休息一下吧。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "この映画は楽しいです。",
+      "example_zh": "這部電影很有趣。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "新しいプロジェクトを始めます。",
+      "example_zh": "我要開始新的專案。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "仕事は五時に終わります。",
+      "example_zh": "工作在五點結束。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しい技術が好きです。",
+      "example_zh": "我喜歡新技術。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください (請做某事)",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請求對方做某事，或提出指示。這是日常對話中非常實用的表達方式。",
+      "examples": [
+        "ここに座ってください。 (請坐這裡。)",
+        "この資料を読んでください。 (請閱讀這份資料。)"
+      ]
+    },
+    {
+      "title": "動詞ます形たいです (想做某事)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者希望或想要做某事。常用於表達自己的願望和計畫，讓對話更個人化。",
+      "examples": [
+        "日本語をもっと勉強したいです。 (我想學更多日文。)",
+        "週末に映画を見たいです。 (週末想看電影。)"
+      ]
+    }
+  ]
+}
