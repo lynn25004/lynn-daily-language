@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化，使效率提升",
+      "example": "We need to optimize this code for better performance.",
+      "example_zh": "我們需要優化這段程式碼以提升效能。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫或系統",
+      "example": "It's time to implement the new system next week.",
+      "example_zh": "下週是時候實施新系統了。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想狀況，尤其指未來可能發生的",
+      "example": "Let's consider a few different test scenarios.",
+      "example_zh": "我們來考慮幾個不同的測試情境。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見，對表現或產品的評論",
+      "example": "I got some good feedback on my presentation today.",
+      "example_zh": "我今天的簡報收到了一些不錯的回饋。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本，初步的模型",
+      "example": "The team is building a new IoT prototype.",
+      "example_zh": "團隊正在建造一個新的物聯網原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的、有效的，不浪費時間精力",
+      "example": "We're looking for a more efficient way to manage data.",
+      "example_zh": "我們正在尋找更有效率的數據管理方式。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作，共同完成任務",
+      "example": "We often collaborate with other teams on projects.",
+      "example_zh": "我們經常與其他團隊合作專案。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合，使各部分協調一致",
+      "example": "We need to integrate this module with the main system.",
+      "example_zh": "我們需要將這個模組整合到主系統中。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、發布，尤其是軟體或設備",
+      "example": "When can we deploy the new software update?",
+      "example_zh": "我們什麼時候可以部署新的軟體更新？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences Type 1 (第一型條件句)",
+      "rule": "用於描述如果某事發生，另一事「很可能」或「確定會」發生的情況，結構為「If + 現在簡單式, will + 原形動詞」。",
+      "examples": [
+        "If I finish early, I'll go for a run. (如果我提早結束，我就去跑步。)",
+        "If the code works, we'll deploy it tomorrow. (如果程式碼有效，我們明天就部署它。)",
+        "She will join us if she has time later. (如果她稍後有時間，她會加入我們。)"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs for Daily Tasks (常用動詞片語)",
+      "rule": "動詞加上介系詞或副詞，形成新的意思。它們讓對話更自然、口語化，在日常和職場中非常常見。",
+      "examples": [
+        "I need to set up my new monitor. (我需要安裝我的新螢幕。)",
+        "Did you figure out the bug? (你找出那個錯誤了嗎？)",
+        "We should come up with some new ideas. (我們應該想出一些新點子。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日仕事に行きます。",
+      "example_zh": "我每天去工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私は会社員です。",
+      "example_zh": "我是公司職員。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "勉強は楽しいです。",
+      "example_zh": "學習很有趣。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "ちょっと休憩しましょうか。",
+      "example_zh": "我們休息一下好嗎？"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "pasokon",
+      "meaning": "電腦",
+      "example": "パソコンを使っています。",
+      "example_zh": "我正在使用電腦。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "会議を始めましょう。",
+      "example_zh": "我們開始會議吧。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "仕事は五時に終わります。",
+      "example_zh": "工作五點結束。"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "今日はとても忙しいです。",
+      "example_zh": "今天非常忙碌。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "今、何時ですか。",
+      "example_zh": "現在幾點了？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + ましょうか (Shall I?/Let's?)",
+      "structure": "動詞ます形 + ましょうか",
+      "rule": "用於提出建議、邀請對方一起做某事，或主動提議為對方做某事。語氣較為禮貌和委婉。",
+      "examples": [
+        "一緒に昼ご飯を食べましょうか。 (我們一起吃午飯好嗎？)",
+        "手伝いましょうか。 (我來幫忙好嗎？)"
+      ]
+    },
+    {
+      "title": "名詞 + は + どこですか (Where is N?)",
+      "structure": "名詞 + は + どこですか",
+      "rule": "用於詢問物品、地點或人的位置。這個句型非常實用，方便你在日本問路或尋找東西。",
+      "examples": [
+        "トイレはどこですか。 (洗手間在哪裡？)",
+        "あなたの会社はどこですか。 (你的公司在哪裡？)"
+      ]
+    }
+  ]
+}
