@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "commute",
+      "pos": "v./n.",
+      "meaning": "通勤，上下班路程",
+      "example": "My morning commute to work usually takes about 30 minutes.",
+      "example_zh": "我早上通勤上班通常需要大約 30 分鐘。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的，高效率的",
+      "example": "We need to find a more efficient way to test this software.",
+      "example_zh": "我們需要找到更有效率的方法來測試這個軟體。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障，解決問題",
+      "example": "I spent an hour trying to troubleshoot the network issue this morning.",
+      "example_zh": "我今天早上花了一個小時試圖排除網路問題。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合",
+      "example": "It's challenging to integrate the new system with the old one.",
+      "example_zh": "將新系統與舊系統整合起來很有挑戰性。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的，可信賴的",
+      "example": "We need a reliable power source for our IoT devices.",
+      "example_zh": "我們的物聯網設備需要一個可靠的電源。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "最佳化，使達到最佳效果",
+      "example": "I'm trying to optimize the code for better performance.",
+      "example_zh": "我正在努力優化程式碼以提高性能。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，最後期限",
+      "example": "The deadline for this project is next Friday, so let's hurry!",
+      "example_zh": "這個專案的截止日期是下週五，我們快點吧！"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見",
+      "example": "Can you give me some feedback on my presentation slides?",
+      "example_zh": "你可以給我一些關於我的簡報投影片的回饋嗎？"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "特色，功能，特徵",
+      "example": "This new phone has some really cool AI features.",
+      "example_zh": "這款新手機有一些非常酷的 AI 功能。"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "設備，裝置",
+      "example": "I always carry a portable charging device for my phone.",
+      "example_zh": "我總是隨身攜帶一個便攜式充電設備給我的手機。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Present Perfect (現在完成式)",
+      "rule": "描述從過去某個時間點開始的動作或狀態，並持續到現在，或是過去發生但影響到現在的動作。",
+      "examples": [
+        "I have worked on several embedded system projects.",
+        "She has just finished debugging the new module.",
+        "Have you ever used an AI tool for coding assistance?"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs (動詞片語)",
+      "rule": "動詞與介系詞或副詞結合，形成新的意思，常用於口語中，讓表達更自然生動。",
+      "examples": [
+        "I need to figure out how to fix this bug.",
+        "Let's speed up the development process.",
+        "Could you check out the new renewable energy report?"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "まいにち、しごとがあります。",
+      "example_zh": "我每天都有工作。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち、でんしゃでかいしゃへいきます。",
+      "example_zh": "我每天搭電車去公司。"
+    },
+    {
+      "kana": "えき",
+      "kanji_romaji": "駅 / eki",
+      "meaning": "車站",
+      "example": "かいしゃのちかくに、おおきいえきがあります。",
+      "example_zh": "公司附近有一個大車站。"
+    },
+    {
+      "kana": "でんしゃ",
+      "kanji_romaji": "電車 / densha",
+      "meaning": "電車",
+      "example": "でんしゃはとてもべんりです。",
+      "example_zh": "電車非常方便。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしはかいしゃでエンジニアです。",
+      "example_zh": "我在公司是一名工程師。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "しごとがおわるじかんはいつもおそいです。",
+      "example_zh": "工作結束的時間總是很晚。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいプロジェクトはたのしいです。",
+      "example_zh": "新的專案很有趣。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AIツールをつかいたいです。",
+      "example_zh": "我想要使用AI工具。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "スマートホームのでバイスはべんりです。",
+      "example_zh": "智能家居設備很方便。"
+    },
+    {
+      "kana": "プロジェクト",
+      "kanji_romaji": "プロジェクト / purojekuto",
+      "meaning": "專案",
+      "example": "このプロジェクトはおもしろいです。",
+      "example_zh": "這個專案很有趣。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "～は～です (wa...desu)",
+      "structure": "名詞 + は + 名詞/形容詞 + です",
+      "rule": "用來表示主語是什麼、是誰、或狀態如何，是日語最基本的判斷句型。",
+      "examples": [
+        "これはわたしのパソコンです。(這是我的電腦。)",
+        "しごとはたのしいです。(工作是快樂的。)"
+      ]
+    },
+    {
+      "title": "～ます形 (Masu form)",
+      "structure": "動詞ます形",
+      "rule": "動詞ます形用於禮貌的肯定句，常用於日常對話中，表達現在或未來的動作或習慣。",
+      "examples": [
+        "わたしはまいにち、AIツールをつかいます。(我每天都使用AI工具。)",
+        "あたらしいシステムをかいはつします。(我會開發新的系統。)"
+      ]
+    }
+  ]
+}
