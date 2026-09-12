@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "設備內建的軟體",
+      "example": "I need to update the firmware on my router.",
+      "example_zh": "我需要更新我路由器的韌體。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合",
+      "example": "We need to integrate this new module.",
+      "example_zh": "我們需要整合這個新模組。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，最佳化",
+      "example": "How can we optimize battery life here?",
+      "example_zh": "我們如何優化這裡的電池壽命？"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境，狀況",
+      "example": "Let's test this in different scenarios.",
+      "example_zh": "我們在不同情境下測試這個吧。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率",
+      "example": "Improving efficiency saves a lot of time.",
+      "example_zh": "提高效率省了很多時間。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，樣本",
+      "example": "The team is building a new prototype.",
+      "example_zh": "團隊正在製作一個新原型。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，偵錯",
+      "example": "I spent hours trying to debug this code.",
+      "example_zh": "我花了好幾個小時試圖除錯這段程式碼。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的，可持續的",
+      "example": "We need more sustainable energy solutions.",
+      "example_zh": "我們需要更多永續的能源解決方案。"
+    },
+    {
+      "word": "algorithm",
+      "pos": "n.",
+      "meaning": "演算法",
+      "example": "This AI uses a clever algorithm.",
+      "example_zh": "這個AI使用了一個巧妙的演算法。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，配置",
+      "example": "We're ready to deploy the new system!",
+      "example_zh": "我們準備好部署新系統了！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "第一類條件句 (If... will...)",
+      "rule": "描述未來可能發生的真實情況，或在某條件滿足下會發生的結果。",
+      "examples": [
+        "If you finish early, we will grab coffee. (如果你早點結束，我們就去喝咖啡。)",
+        "If it rains tomorrow, I will stay home and read. (如果明天下雨，我就待在家裡看書。)",
+        "If the sensor works, we will collect a lot of data. (如果感測器能運作，我們將會收集到很多資料。)"
+      ]
+    },
+    {
+      "title": "片語動詞 with 'up'",
+      "rule": "學習不同 'up' 結尾的動詞片語，例如 'set up' (建立) 和 'come up with' (想出)。",
+      "examples": [
+        "Can you help me set up this new device? (你能幫我設定這個新設備嗎？)",
+        "I need to come up with a solution by Friday. (我需要在週五前想出一個解決方案。)",
+        "Let's speed up the process to meet the deadline. (我們加快進度以趕上截止日期吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは なにをしますか？",
+      "example_zh": "週末要做什麼？"
+    },
+    {
+      "kana": "けいかく",
+      "kanji_romaji": "計画 / keikaku",
+      "meaning": "計畫",
+      "example": "こんしゅうまつの けいかくは ありますか？",
+      "example_zh": "這週末有計畫嗎？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしは まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "開心的，有趣的",
+      "example": "このゲームは とても たのしいです。",
+      "example_zh": "這個遊戲非常有趣。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電，電燈",
+      "example": "でんきを けしてください。",
+      "example_zh": "請關燈。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作，製造",
+      "example": "あたらしい ロボットを つくります。",
+      "example_zh": "我會製作一個新的機器人。"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看，觀看",
+      "example": "えいがを みますか？",
+      "example_zh": "要看電影嗎？"
+    },
+    {
+      "kana": "いえ",
+      "kanji_romaji": "家 / ie",
+      "meaning": "家",
+      "example": "いえに かえります。",
+      "example_zh": "我回家。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "あした、あたらしい プロジェクトを はじめます。",
+      "example_zh": "明天，我會開始一個新專案。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "このアプリは とても べんりです。",
+      "example_zh": "這個App非常方便。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "想做某事 (たいです)",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "表達自己想要做某件事情的願望或願望，非常常用於日常對話。",
+      "examples": [
+        "週末、ゲームをしたいです。 (週末我想玩遊戲。)",
+        "新しいIoTデバイスを作りたいです。 (我想製作一個新的IoT設備。)"
+      ]
+    },
+    {
+      "title": "在某地做某事 (場所 + で + 動詞)",
+      "structure": "場所 + で + 動詞",
+      "rule": "表示動作發生的地點，助詞「で」標示了進行該動作的場所。",
+      "examples": [
+        "図書館で本を読みます。 (我在圖書館讀書。)",
+        "家で日本語を勉強します。 (我在家裡學習日文。)"
+      ]
+    }
+  ]
+}
