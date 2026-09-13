@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施",
+      "example": "We need to implement this new feature by next month.",
+      "example_zh": "我們需要在下個月前實施這項新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Can you help me optimize this code for better performance?",
+      "example_zh": "你能幫我優化這段程式碼以提高效能嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent all morning troubleshooting the network issue.",
+      "example_zh": "我花了一整個早上排除網路問題。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、場景",
+      "example": "Let's consider a few different scenarios for this project.",
+      "example_zh": "讓我們為這個專案考慮幾種不同的情境。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "We need to integrate this module with the existing system.",
+      "example_zh": "我們需要將這個模組與現有系統整合。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本",
+      "example": "The team is building a prototype of the new IoT device.",
+      "example_zh": "團隊正在建造這個新物聯網裝置的原型。"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇、空閒時間",
+      "example": "What do you usually do in your leisure time on weekends?",
+      "example_zh": "你週末閒暇時通常做些什麼？"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、恢復精力",
+      "example": "I like to recharge myself by hiking on Sundays.",
+      "example_zh": "我喜歡在星期天透過健行來恢復精力。"
+    },
+    {
+      "word": "insight",
+      "pos": "n.",
+      "meaning": "洞察力、見解",
+      "example": "Your insight on the market trends was very helpful.",
+      "example_zh": "你對市場趨勢的見解非常有幫助。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控、監視",
+      "example": "We need to monitor the system's performance closely.",
+      "example_zh": "我們需要密切監控系統的效能。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Sentences Type 1)",
+      "rule": "用於描述未來可能發生且結果可預期的情況，表示「如果...，就會...」。",
+      "examples": [
+        "If you finish early, we'll grab some coffee. (如果你早點完成，我們就去喝咖啡。)",
+        "If it rains tomorrow, I will stay home and read. (如果明天會下雨，我就會待在家讀書。)",
+        "If the system crashes, we will lose all our data. (如果系統當機，我們會失去所有資料。)"
+      ]
+    },
+    {
+      "title": "動詞片語 with \"Look\"",
+      "rule": "動詞片語在日常會話中很常用，例如 look up (查詢), look into (調查), look forward to (期待)。",
+      "examples": [
+        "I need to look up that new vocabulary word. (我需要查那個新單字。)",
+        "The manager will look into the complaint next week. (經理下週會調查這項投訴。)",
+        "I'm really looking forward to our trip next month! (我真的很期待我們下個月的旅行！)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごと は たのしい です か。",
+      "example_zh": "工作開心嗎？"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きょう は にちようび で やすみ です。",
+      "example_zh": "今天是星期日，放假。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたし は にほんご を べんきょう します。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "ほん",
+      "kanji_romaji": "本 / hon",
+      "meaning": "書",
+      "example": "この ほん は おもしろい です。",
+      "example_zh": "這本書很有趣。"
+    },
+    {
+      "kana": "ごはん",
+      "kanji_romaji": "ご飯 / gohan",
+      "meaning": "飯、餐點",
+      "example": "あさごはん を たべました。",
+      "example_zh": "我吃早餐了。"
+    },
+    {
+      "kana": "おきる",
+      "kanji_romaji": "起きる / okiru",
+      "meaning": "起床",
+      "example": "まいあさ ろくじ に おきます。",
+      "example_zh": "我每天早上六點起床。"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看",
+      "example": "えいが を みます か。",
+      "example_zh": "要看電影嗎？"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "ともだち と あそびます。",
+      "example_zh": "和朋友一起玩。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "でんき を けしてください。",
+      "example_zh": "請關燈。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "わたし は ケーキ を つくります。",
+      "example_zh": "我製作蛋糕。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞「～ます / ～ません / ～ました / ～ませんでした」",
+      "structure": "動詞(ます形)",
+      "rule": "用於表達現在或未來的肯定、否定，以及過去的肯定、否定。這是日文動詞的基本禮貌形式。",
+      "examples": [
+        "わたしは まいにち コーヒーを のみます。 (我每天喝咖啡。)",
+        "きのうは テレビを みませんでした。 (昨天我沒有看電視。)"
+      ]
+    },
+    {
+      "title": "「～が あります / います」 表達存在",
+      "structure": "名詞 + が + あります / います",
+      "rule": "「あります」用於表示非生物（物品、地點）的存在；「います」用於表示生物（人、動物）的存在。",
+      "examples": [
+        "つくえの うえに ほんが あります。 (桌子上有書。)",
+        "へやに ねこが います。 (房間裡有貓。)"
+      ]
+    }
+  ]
+}
