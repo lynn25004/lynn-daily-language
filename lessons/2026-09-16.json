@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫或系統",
+      "example": "Let's implement this new feature next week.",
+      "example_zh": "我們下週來實施這個新功能吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "使...最佳化、效率最大化",
+      "example": "How can we optimize this code for speed?",
+      "example_zh": "我們如何能優化這段程式碼來提升速度？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決系統或設備問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "可能發生的情境或情況",
+      "example": "What if we face this scenario? Any plan B?",
+      "example_zh": "如果我們遇到這個情境怎麼辦？有備用計畫嗎？"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "與他人合作、共同工作",
+      "example": "We should collaborate on this project, it's huge.",
+      "example_zh": "我們應該合作這個專案，它很龐大。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品的初步模型或原型",
+      "example": "Our team just finished building the prototype.",
+      "example_zh": "我們的團隊剛完成原型製作。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的、不浪費資源的",
+      "example": "We need a more efficient way to save energy.",
+      "example_zh": "我們需要更有效率的方式來節省能源。"
+    },
+    {
+      "word": "bandwidth",
+      "pos": "n.",
+      "meaning": "網路頻寬；能力或時間範圍",
+      "example": "My current bandwidth can't handle another task.",
+      "example_zh": "我目前的時間精力無法應付更多任務了。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "完成工作的截止日期",
+      "example": "The deadline for this report is super tight.",
+      "example_zh": "這份報告的截止日期超級趕。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "對工作或表現的意見",
+      "example": "I'm looking forward to your feedback on my design.",
+      "example_zh": "我很期待你對我設計的回饋。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (If-clauses) - 第一型",
+      "rule": "用於談論未來可能發生且結果真實的情況，結構是 If + 主詞 + 現在簡單式, 主詞 + will + 原形動詞。",
+      "examples": [
+        "If you finish the task early, we will go for coffee.（如果你提早完成任務，我們會去喝咖啡。）",
+        "If it rains tomorrow, I will work from home.（如果明天下雨，我會在家工作。）",
+        "If the system crashes, we will restart it immediately.（如果系統當機，我們會立刻重啟它。）"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds) 作為主詞或受詞",
+      "rule": "動名詞以 -ing 結尾，可以像名詞一樣在句子中充當主詞或受詞，表示一個動作或活動。",
+      "examples": [
+        "Debugging code can be really frustrating sometimes.（除錯程式碼有時候真的很令人沮喪。）",
+        "I enjoy learning new programming languages.（我喜歡學習新的程式語言。）",
+        "Running the simulation takes about an hour.（執行模擬大約需要一個小時。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私の仕事はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "ちょっと休憩しましょうか。",
+      "example_zh": "我們稍微休息一下吧。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "今、何時ですか？",
+      "example_zh": "現在幾點了？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "今日の会議は午後からです。",
+      "example_zh": "今天的會議是從下午開始。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "電気を消してください。",
+      "example_zh": "請關燈。"
+    },
+    {
+      "kana": "きかい",
+      "kanji_romaji": "機械 / kikai",
+      "meaning": "機械",
+      "example": "この新しい機械はすごいですね。",
+      "example_zh": "這台新機器很厲害呢。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "何か問題がありますか？",
+      "example_zh": "有什麼問題嗎？"
+    },
+    {
+      "kana": "まなぶ",
+      "kanji_romaji": "学ぶ / manabu",
+      "meaning": "學習",
+      "example": "私は毎日日本語を学びます。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールを使ってみませんか？",
+      "example_zh": "要不要試用這個工具？"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいパソコンが欲しいです。",
+      "example_zh": "我想要一台新的電腦。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "N1 + は + N2 + です",
+      "rule": "這句型用來介紹或說明事物，表示「N1是N2」。は讀作「wa」，是提示主題的助詞。",
+      "examples": [
+        "私はエンジニアです。（我是工程師。）",
+        "これは私の仕事です。（這是我的工作。）"
+      ]
+    },
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "這個句型用於禮貌地請求或指示對方做某事，表示「請做...」。是一個非常實用的N5句型。",
+      "examples": [
+        "少し待ってください。（請稍等一下。）",
+        "この書類を読んでください。（請閱讀這份文件。）"
+      ]
+    }
+  ]
+}
