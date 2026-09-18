@@ -1,0 +1,187 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "早期模型或原型",
+      "example": "We're building a prototype for the new IoT device.",
+      "example_zh": "我們正在為新的物聯網裝置打造一個原型。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、佈局",
+      "example": "It's time to deploy the new software update.",
+      "example_zh": "是時候部署這個新的軟體更新了。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的、高效的",
+      "example": "This new solar panel design is super efficient.",
+      "example_zh": "這個新的太陽能板設計非常有效率。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、合併",
+      "example": "We need to integrate the AI tool into our workflow.",
+      "what": "我們需要把 AI 工具整合到我們的流程中。",
+      "example_zh": "我們需要將 AI 工具整合到我們的日常工作中。"
+    },
+    {
+      "word": "reliability",
+      "pos": "n.",
+      "meaning": "可靠性",
+      "example": "The reliability of renewable energy is crucial.",
+      "example_zh": "再生能源的可靠性至關重要。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的",
+      "example": "Their approach to energy security is really innovative.",
+      "example_zh": "他們處理能源安全的方法非常創新。"
+    },
+    {
+      "word": "streamline",
+      "pos": "v.",
+      "meaning": "簡化流程",
+      "example": "Let's streamline this development process, okay?",
+      "example_zh": "我們來簡化這個開發流程，好嗎？"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化",
+      "example": "We should optimize the code for better performance.",
+      "example_zh": "我們應該優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "flexible",
+      "pos": "adj.",
+      "meaning": "靈活的、可調整的",
+      "example": "The system needs to be flexible enough to adapt.",
+      "example_zh": "這個系統需要足夠靈活才能適應。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作",
+      "example": "I like to collaborate with my team on new ideas.",
+      "example_zh": "我喜歡和我的團隊合作發想新點子。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成進行式",
+      "rule": "強調動作從過去開始一直持續到現在，並可能繼續下去。",
+      "examples": [
+        "I have been working on this project for weeks. (我已經在這個專案上工作好幾個星期了。)",
+        "She has been learning Japanese since last year. (她從去年就開始學日文了。)",
+        "They have been developing a new energy solution. (他們一直在開發新的能源解決方案。)"
+      ]
+    },
+    {
+      "title": "頻率副詞的位置",
+      "rule": "頻率副詞（如 always, often, usually, sometimes, never）通常放在主要動詞前，be 動詞後。",
+      "examples": [
+        "I usually work on embedded systems. (我通常在做嵌入式系統。)",
+        "He is always interested in new technology. (他總是對新技術感興趣。)",
+        "We sometimes discuss renewable energy. (我們有時候會討論再生能源。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "ちょう",
+      "kanji_romaji": "超 / chou",
+      "meaning": "非常、超級",
+      "example": "これ、超便利ですよ。",
+      "example_zh": "這個，超級方便喔。"
+    },
+    {
+      "kana": "じ",
+      "kanji_romaji": "事 / koto",
+      "meaning": "事情、事務",
+      "example": "大事な仕事があります。",
+      "example_zh": "有重要的事情。"
+    },
+    {
+      "kana": "か",
+      "kanji_romaji": "か / ka",
+      "meaning": "或是、還是",
+      "example": "コーヒーにしますか、紅茶にしますか。",
+      "example_zh": "要咖啡還是紅茶呢？"
+    },
+    {
+      "kana": "よ",
+      "kanji_romaji": "よ / yo",
+      "meaning": "語氣助詞，表示告知、強調",
+      "example": "それはいい考えですよ。",
+      "example_zh": "那個是個好主意喔。"
+    },
+    {
+      "kana": "て",
+      "kanji_romaji": "て / te",
+      "meaning": "助詞，用於連接動詞或形容詞",
+      "example": "資料を見て、勉強します。",
+      "example_zh": "看了資料，然後學習。"
+    },
+    {
+      "kana": "つく",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "新しいシステムを作っています。",
+      "example_zh": "正在製作新的系統。"
+    },
+    {
+      "kana": "かん",
+      "kanji_romaji": "感 / kan",
+      "meaning": "感覺、感受",
+      "example": "すごいと感じます。",
+      "example_zh": "感覺很厲害。"
+    },
+    {
+      "kana": "い",
+      "kanji_romaji": "位 / i",
+      "meaning": "量詞，用於人",
+      "example": "何人いらっしゃいますか。",
+      "example_zh": "有多少位呢？"
+    },
+    {
+      "kana": "で",
+      "kanji_romaji": "で / de",
+      "meaning": "助詞，表示場所、手段",
+      "example": "会社で働いています。",
+      "example_zh": "在公司工作。"
+    },
+    {
+      "kana": "ね",
+      "kanji_romaji": "ね / ne",
+      "meaning": "語氣助詞，表示確認、附和",
+      "example": "今日はいい天気ですね。",
+      "example_zh": "今天天氣真好呢。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ている (te iru)",
+      "structure": "動詞て形 + いる",
+      "rule": "表示正在進行的動作、狀態或習慣。",
+      "examples": [
+        "今、何をしていますか。(Ima, nani o shite imasu ka.) (現在在做什麼？)",
+        "日本語を勉強しています。(Nihongo o benkyou shite imasu.) (我正在學日文。)"
+      ]
+    },
+    {
+      "title": "〜たい (tai)",
+      "structure": "動詞ます形去掉ます + たい",
+      "rule": "表示「想要做某事」的願望。",
+      "examples": [
+        "日本に行きたいです。(Nihon ni ikitai desu.) (我想要去日本。)",
+        "新しい技術を学びたいです。(Atarashii gijutsu o manabitai desu.) (我想要學習新技術。)"
+      ]
+    }
+  ]
+}
