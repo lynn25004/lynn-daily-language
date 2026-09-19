@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署；配置（將軟體或系統上線）",
+      "example": "We need to deploy this new update by Friday.",
+      "example_zh": "我們需要在週五前部署這個新更新。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "偵錯；解決問題（找出問題並解決）",
+      "example": "I spent all morning troubleshooting a bug in the code.",
+      "example_zh": "我花了一整個早上在解決程式碼裡的錯誤。"
+    },
+    {
+      "word": "component",
+      "pos": "n.",
+      "meaning": "零件；組成部分（系統或產品的小單元）",
+      "example": "Which component is causing the system to fail?",
+      "example_zh": "是哪個零件導致系統故障？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；樣本（產品的初期試驗模型）",
+      "example": "We're building a prototype for our new IoT device.",
+      "example_zh": "我們正在為我們的新 IoT 裝置打造原型機。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；最佳化（改善以達到最佳效果）",
+      "example": "Can you optimize this code to run faster?",
+      "example_zh": "你可以優化這段程式碼讓它跑得更快嗎？"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋；意見（對某事物的反應或建議）",
+      "example": "We get a lot of positive feedback on our AI tool.",
+      "example_zh": "我們的 AI 工具收到很多正向的回饋。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合；結合（將不同部分結合成一個整體）",
+      "example": "We need to integrate this new module into the system.",
+      "example_zh": "我們需要將這個新模組整合到現有系統中。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的；有效的（用最少資源達到目標）",
+      "example": "An efficient algorithm saves a lot of computing power.",
+      "example_zh": "一個高效率的演算法能節省大量運算能力。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作；協作（與他人共同工作達成目標）",
+      "example": "Let's collaborate on this renewable energy project.",
+      "example_zh": "我們來合作這個再生能源專案吧。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期；死線（完成任務的最終日期）",
+      "example": "The deadline for the project is next Monday.",
+      "example_zh": "這個專案的截止日期是下週一。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "情態助動詞：can / could",
+      "rule": "用來表達能力、可能性、請求或許可。Could比can更客氣或表示過去的能力，在問句中也常用。",
+      "examples": [
+        "I can write Python code. (我會寫 Python 程式碼。)",
+        "Could you help me troubleshoot this issue? (你可以幫我解決這個問題嗎？)",
+        "We could try a different approach if this doesn't work. (如果這方法不行，我們可以試試別的方法。)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerund) 作主詞/受詞",
+      "rule": "動詞加上-ing，可以變成名詞，用作句子的主詞或受詞，表示一個行為或活動，使句子更生動。",
+      "examples": [
+        "Learning Japanese is fun. (學習日文很有趣。)",
+        "I enjoy developing embedded systems. (我很喜歡開發嵌入式系統。)",
+        "Troubleshooting code can be challenging but rewarding. (偵錯程式碼可能很有挑戰性但很有收穫。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私はエンジニアのしごとが好きです。",
+      "example_zh": "我喜歡工程師的工作。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち、日本語をべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "日本語のべんきょうは楽しいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AIツールを使いますか？",
+      "example_zh": "你使用 AI 工具嗎？"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂；理解",
+      "example": "このシステムの使い方がわかりますか。",
+      "example_zh": "你懂這個系統怎麼用嗎？"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "私はくみこみシステムがすきです。",
+      "example_zh": "我喜歡嵌入式系統。"
+    },
+    {
+      "kana": "ときどき",
+      "kanji_romaji": "時々 / tokidoki",
+      "meaning": "有時；偶爾",
+      "example": "ときどき、IoTのニュースを読みます。",
+      "example_zh": "我偶爾會讀 IoT 的新聞。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいプロジェクトが始まります。",
+      "example_zh": "新的專案要開始了。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電；電燈",
+      "example": "うちのでんき、つけましょうか。",
+      "example_zh": "我把家裡的燈打開好嗎？"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "かれは日本の会社ではたらいています。",
+      "example_zh": "他在日本公司工作。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です / ではありません",
+      "structure": "名詞１ + は + 名詞２ + です / ではありません",
+      "rule": "這是日文最基礎的肯定與否定句型，用來介紹或說明事物，表示「...是...」或「...不是...」。",
+      "examples": [
+        "私はエンジニアです。 (我是工程師。)",
+        "これは私のプロジェクトではありません。 (這不是我的專案。)"
+      ]
+    },
+    {
+      "title": "名詞 + を + 動詞(ます形)",
+      "structure": "名詞 + を + 動詞(ます形)",
+      "rule": "「を」是受格助詞，標示動詞的作用對象，表示對名詞「做某動詞的動作」或「使用某名詞」。",
+      "examples": [
+        "日本語を勉強します。 (我學習日文。)",
+        "AIツールを使います。 (我使用 AI 工具。)"
+      ]
+    }
+  ]
+}
