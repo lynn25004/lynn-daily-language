@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施；執行",
+      "example": "We need to implement this new feature soon.",
+      "example_zh": "我們需要盡快實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；最佳化",
+      "example": "Can we optimize this code for better performance?",
+      "example_zh": "我們可以優化這段程式碼以提升效能嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決問題；故障排除",
+      "example": "I spent hours trying to troubleshoot this error.",
+      "example_zh": "我花了數小時嘗試解決這個錯誤。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；樣品",
+      "example": "Let's build a quick prototype for this idea.",
+      "example_zh": "我們為這個想法快速建立一個原型吧。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯；偵錯",
+      "example": "It's always fun to debug complex systems.",
+      "example_zh": "除錯複雜系統總是很有趣。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "功能；特色",
+      "example": "This new feature will make our product unique.",
+      "example_zh": "這項新功能將讓我們的產品獨特。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的；穩定的",
+      "example": "We need a reliable power supply for the IoT device.",
+      "example_zh": "我們需要可靠的電源供應給物聯網設備。"
+    },
+    {
+      "word": "integration",
+      "pos": "n.",
+      "meaning": "整合；集成",
+      "example": "The integration process was smoother than expected.",
+      "example_zh": "這次整合過程比預期順利。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋；意見",
+      "example": "Your feedback is crucial for our project.",
+      "example_zh": "你的回饋對我們的專案至關重要。"
+    },
+    {
+      "word": "sync",
+      "pos": "v.",
+      "meaning": "同步",
+      "example": "Don't forget to sync your files before leaving.",
+      "example_zh": "離開前別忘了同步你的檔案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "第一類條件句 (If... will...)",
+      "rule": "用於表達未來可能發生且結果也可能實現的狀況，常用於計畫或預測。",
+      "examples": [
+        "If the sensor works, we will collect more data. (如果感測器能運作，我們將會收集更多數據。)",
+        "If you finish the debug, we can deploy it tomorrow. (如果你完成除錯，我們明天就能部署。)",
+        "If it rains, I'll stay home and code my project. (如果下雨，我就會待在家寫我的專案程式。)"
+      ]
+    },
+    {
+      "title": "動詞片語「set」的用法",
+      "rule": "「set」搭配不同介系詞或副詞可形成多種動詞片語，表達建立、分配或開始等意義。",
+      "examples": [
+        "Let's set up the new development environment. (我們來建立新的開發環境吧。)",
+        "I need to set aside some time for system testing. (我需要撥出一些時間進行系統測試。)",
+        "We should set out our goals for this sprint. (我們應該為這次衝刺訂定目標。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしはしごとがすきです。",
+      "example_zh": "我喜歡工作。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち日本語をべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しゅう",
+      "kanji_romaji": "週 / shuu",
+      "meaning": "週",
+      "example": "らいしゅう、かいぎがあります。",
+      "example_zh": "下週有會議。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日コーヒーをのみます。",
+      "example_zh": "我每天喝咖啡。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "懂；理解",
+      "example": "このもんだいがわかりますか。",
+      "example_zh": "你懂這個問題嗎？"
+    },
+    {
+      "kana": "かく",
+      "kanji_romaji": "書く / kaku",
+      "meaning": "寫",
+      "example": "メールをかきます。",
+      "example_zh": "我寫電子郵件。"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "讀",
+      "example": "ほんをよみます。",
+      "example_zh": "我讀書。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "このIoTデバイスは電気を使います。",
+      "example_zh": "這個物聯網設備用電。"
+    },
+    {
+      "kana": "コンピュータ",
+      "kanji_romaji": "コンピュータ / konpyuuta",
+      "meaning": "電腦",
+      "example": "コンピュータでプログラムをかきます。",
+      "example_zh": "我用電腦寫程式。"
+    },
+    {
+      "kana": "あんぜん",
+      "kanji_romaji": "安全 / anzen",
+      "meaning": "安全",
+      "example": "このシステムはとても安全です。",
+      "example_zh": "這個系統非常安全。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞「〜ます / 〜ません」",
+      "structure": "動詞ます形 / 動詞ません形",
+      "rule": "用於禮貌地表達現在或未來的肯定或否定行為，是日文基礎動詞變化。",
+      "examples": [
+        "わたしはまいにちしごとをします。(我每天工作。)",
+        "あしたはしごとをしません。(我明天不工作。)"
+      ]
+    },
+    {
+      "title": "「名詞は名詞です」句型",
+      "structure": "名詞 + は + 名詞 + です",
+      "rule": "用來介紹事物或說明其屬性，是日語最基本的判斷句，表示「A是B」。",
+      "examples": [
+        "これはわたしのコンピュータです。(這是我的電腦。)",
+        "わたしのしゅみは日本語のべんきょうです。(我的興趣是學習日文。)"
+      ]
+    }
+  ]
+}
