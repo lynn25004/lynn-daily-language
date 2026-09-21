@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "控制硬體運作的軟體",
+      "example": "We need to update the firmware for this IoT device.",
+      "example_zh": "我們需要更新這個物聯網裝置的韌體。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同部分整合在一起",
+      "example": "Can we integrate this new sensor into our system?",
+      "example_zh": "我們能把這個新感測器整合到我們的系統嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品的第一個實體模型",
+      "example": "The prototype worked well in the lab.",
+      "example_zh": "這個原型在實驗室運作得不錯。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修正程式錯誤",
+      "example": "It took me hours to debug this tricky code.",
+      "example_zh": "我花了數小時來偵錯這段難搞的程式碼。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "使某事物達到最佳狀態",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以提升效能。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "完成某事的最終期限",
+      "example": "The deadline for this project is next Friday.",
+      "example_zh": "這個專案的截止日期是下週五。"
+    },
+    {
+      "word": "commute",
+      "pos": "v.",
+      "meaning": "往返於家和工作地點",
+      "example": "My commute to work usually takes about 30 minutes.",
+      "example_zh": "我通勤上班通常大約需要三十分鐘。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "引入新方法或新思想",
+      "example": "That's an innovative solution for renewable energy.",
+      "example_zh": "那是再生能源的一個創新解決方案。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "與他人一起工作或合作",
+      "example": "Let's collaborate on this new AI tool project.",
+      "example_zh": "我們來合作這個新的 AI 工具專案吧。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "對表現或產品的意見",
+      "example": "We received good feedback on our new safety system.",
+      "example_zh": "我們的新安全系統收到了不錯的回饋。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to / Be used to / Get used to",
+      "rule": "「Used to」表過去習慣或狀態；「be used to」表習慣某事；「get used to」表逐漸習慣。",
+      "examples": [
+        "I used to play video games every night.（我以前每天晚上都玩電玩。）",
+        "He is used to working with embedded systems.（他習慣於處理嵌入式系統。）",
+        "It took me a while to get used to the new AI interface.（我花了一些時間才習慣新的 AI 介面。）"
+      ]
+    },
+    {
+      "title": "Conditional Sentences (If 句型)",
+      "rule": "If 句型表達條件與結果。Type 1 說可能發生的事；Type 2 說與現實相反或不太可能的事。",
+      "examples": [
+        "If you finish the code today, we will test it tomorrow.（如果你今天完成程式碼，我們明天就測試它。）",
+        "If I had more time, I would learn more about renewable energy.（如果我有更多時間，我會學習更多關於再生能源的知識。）",
+        "If the sensor works, the IoT device will be perfect.（如果感測器能運作，這個物聯網裝置就完美了。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "エンジニアのしごとはおもしろいです。",
+      "example_zh": "工程師的工作很有趣。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしの会社はIoTのプロダクトを作ります。",
+      "example_zh": "我的公司製作物聯網產品。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このデバイスはでんきで動きます。",
+      "example_zh": "這個裝置是用電驅動的。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AIツールをよく使います。",
+      "example_zh": "我經常使用 AI 工具。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち、新しいプログラミングを学びます。",
+      "example_zh": "我每天學習新的程式設計。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、很累",
+      "example": "このプロジェクトは大変です。",
+      "example_zh": "這個專案很辛苦。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいIoTデバイスを開発します。",
+      "example_zh": "我開發新的物聯網裝置。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "ソフトウェアの開発は楽しいです。",
+      "example_zh": "軟體開發很有趣。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "このシステムに問題がありますか。",
+      "example_zh": "這個系統有問題嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ましょう / 〜ませんか (邀請/提議)",
+      "structure": "動詞ます形 + ましょう / 動詞ます形 + ませんか",
+      "rule": "「〜ましょう」表示一起做或提議做某事；「〜ませんか」更委婉地邀請或建議對方。",
+      "examples": [
+        "一緒にAIツールを勉強しましょう。 （我們一起學習 AI 工具吧。）",
+        "明日、新しいプロジェクトを始めませんか。 （明天不一起開始新專案嗎？）"
+      ]
+    },
+    {
+      "title": "名詞 + が + あります / います (存在句)",
+      "structure": "場所 + に + 名詞 + が + あります/います",
+      "rule": "「あります」用於非生物（物品、抽象概念）；「います」用於生物（人、動物）。",
+      "examples": [
+        "わたしの部屋にパソコンがあります。 （我的房間有電腦。）",
+        "会社にエンジニアがたくさんいます。 （公司裡有很多工程師。）"
+      ]
+    }
+  ]
+}
