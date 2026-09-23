@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體（硬體上的軟體）",
+      "example": "We need to update the device's firmware for better performance.",
+      "example_zh": "我們需要更新設備的韌體以獲得更好的效能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化（使達到最佳狀態）",
+      "example": "I need to optimize this code to run faster.",
+      "example_zh": "我需要優化這段程式碼讓它跑更快。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除（解決問題）",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境（可能發生的情況）",
+      "example": "Let's consider a few different deployment scenarios.",
+      "example_zh": "我們來考慮幾種不同的部署情境。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施（執行計畫或系統）",
+      "example": "We plan to implement the new feature next month.",
+      "example_zh": "我們計劃下個月實施這個新功能。"
+    },
+    {
+      "word": "allocate",
+      "pos": "v.",
+      "meaning": "分配（分派資源）",
+      "example": "We need to allocate more memory for this program.",
+      "example_zh": "我們需要為這個程式分配更多記憶體。"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤（上下班路程）",
+      "example": "My daily commute takes about 30 minutes.",
+      "example_zh": "我每天通勤大約需要30分鐘。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期（完成任務的期限）",
+      "example": "The project deadline is approaching fast!",
+      "example_zh": "專案的截止日期很快就到了！"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋（意見或反應）",
+      "example": "Please give me some feedback on my presentation.",
+      "example_zh": "請給我一些關於我報告的回饋。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電（恢復精力）",
+      "example": "I need to recharge my energy with a cup of coffee.",
+      "example_zh": "我需要一杯咖啡來補充精力。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "表達未來可能發生且結果真實的情況，結構為 \"If + S + V (現在式), S + will + V (原形)。\"",
+      "examples": [
+        "If it rains tomorrow, we will stay home. (如果明天會下雨，我們就待在家。)",
+        "If you finish early, you can go home. (如果你早點完成，你就可以回家。)",
+        "If he studies hard, he will pass the exam. (如果他努力讀書，他會通過考試。)"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs with \"up\"",
+      "rule": "許多動詞和 \"up\" 結合形成片語，常表示「完成」、「增加」或「向上」。",
+      "examples": [
+        "Please pick up your trash. (請撿起你的垃圾。)",
+        "I need to back up my files. (我需要備份我的檔案。)",
+        "Let's set up the new IoT device. (我們來設置這個新的物聯網設備。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おきる",
+      "kanji_romaji": "起きる / okiru",
+      "meaning": "起床",
+      "example": "わたしはまいにちろくじにおきます。",
+      "example_zh": "我每天六點起床。"
+    },
+    {
+      "kana": "はたらく",
+      "kanji_romaji": "働く / hataraku",
+      "meaning": "工作",
+      "example": "エンジニアとして、かいしゃではたらきます。",
+      "example_zh": "身為工程師，我在公司工作。"
+    },
+    {
+      "kana": "でんしゃ",
+      "kanji_romaji": "電車 / densha",
+      "meaning": "電車",
+      "example": "まいにちでんしゃでかいしゃへいきます。",
+      "example_zh": "我每天搭電車去公司。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをつかって、しごとをします。",
+      "example_zh": "我使用這個工具來工作。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "このもんだいはとてもむずかしいです。",
+      "example_zh": "這個問題非常困難。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "にほんごのべんきょうはとてもたのしいです。",
+      "example_zh": "學日文很有趣。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいデバイスをかいはつしています。",
+      "example_zh": "我們正在開發新型設備。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "せんせいのせつめいがよくわかります。",
+      "example_zh": "我很明白老師的說明。"
+    },
+    {
+      "kana": "ごはん",
+      "kanji_romaji": "ご飯 / gohan",
+      "meaning": "飯、餐點",
+      "example": "ひるごはんをたべます。",
+      "example_zh": "我吃午餐。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きんようびはかいしゃのやすみです。",
+      "example_zh": "星期五是公司的休息日。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + と + 名詞",
+      "structure": "名詞 + と + 名詞",
+      "rule": "用來連接兩個或多個名詞，表示「和」、「以及」的意思，通常用於並列。",
+      "examples": [
+        "わたしはペンとノートをもっています。 (我帶著筆和筆記本。)",
+        "きょうはしごととべんきょうがあります。 (今天有工作和學習。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょう",
+      "structure": "動詞(ます形) + ましょう",
+      "rule": "表示「我們一起做...吧！」的提議或勸誘，或是表達「我來做...吧！」的意願。",
+      "examples": [
+        "いっしょにカフェへいきましょう。 (我們一起去咖啡館吧！)",
+        "このしごとをはじましょう。 (我們開始這項工作吧！)"
+      ]
+    }
+  ]
+}
