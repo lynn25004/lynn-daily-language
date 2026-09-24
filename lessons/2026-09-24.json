@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施（計畫或系統）",
+      "example": "We need to implement the new system by next month.",
+      "example_zh": "我們需要在下個月前實施這個新系統。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化（效能或效率）",
+      "example": "I'm trying to optimize the code for better speed.",
+      "example_zh": "我正在嘗試優化程式碼以提高速度。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題（技術性）",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本（產品或系統）",
+      "example": "The team is building a prototype for the new IoT device.",
+      "example_zh": "團隊正在為新的物聯網設備建造一個原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合（不同部分）",
+      "example": "We need to integrate this module into the main system.",
+      "example_zh": "我們需要將這個模組整合到主系統中。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的（如能源）",
+      "example": "Solar power is a great example of renewable energy.",
+      "example_zh": "太陽能是可再生能源的一個很好的例子。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、場景（可能發生的事）",
+      "example": "Let's consider a few different scenarios for this project.",
+      "example_zh": "讓我們為這個專案考慮幾種不同的情境。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作（與他人共同工作）",
+      "example": "It's always better to collaborate with colleagues on big tasks.",
+      "example_zh": "在大型任務上與同事合作總是更好的。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見（對工作表現等）",
+      "example": "We'll get feedback on our presentation next week.",
+      "example_zh": "我們下週會收到關於我們簡報的回饋。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期（完成工作的期限）",
+      "example": "The deadline for this report is super tight, unfortunately.",
+      "example_zh": "不幸的是，這份報告的截止日期非常緊。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "過去習慣與現在習慣：Used to vs. Be used to",
+      "rule": "Used to 表示過去的習慣或狀態，現在已不復存在；Be used to 表示習慣於某事，強調習慣的狀態。",
+      "examples": [
+        "I used to work on embedded systems full-time. (我過去是全職從事嵌入式系統工作。)",
+        "I'm used to dealing with complex technical issues. (我習慣處理複雜的技術問題。)",
+        "It took a while, but I got used to the new software. (花了一些時間，但我習慣了新軟體。)"
+      ]
+    },
+    {
+      "title": "條件句：假設語氣 Type 1 & Type 2",
+      "rule": "Type 1 假設未來可能發生的真實情況；Type 2 假設現在或未來不可能或非真實的情況。",
+      "examples": [
+        "If we optimize this, the system will run faster. (如果我們優化這個，系統會跑得更快。)",
+        "If I had more time, I would learn a new programming language. (如果我有更多時間，我會學一門新的程式語言。)",
+        "What would you do if the project suddenly failed? (如果專案突然失敗，你會怎麼辦？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私のしごとはエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち日本語をべんきょうします。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このへやのでんきをつけてください。",
+      "example_zh": "請打開這個房間的燈。"
+    },
+    {
+      "kana": "ぶひん",
+      "kanji_romaji": "部品 / buhin",
+      "meaning": "零件",
+      "example": "あたらしいぶひんがひつようです。",
+      "example_zh": "我需要新的零件。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "これはとてもべんりなツールです。",
+      "example_zh": "這是一個非常方便的工具。"
+    },
+    {
+      "kana": "あんぜん",
+      "kanji_romaji": "安全 / anzen",
+      "meaning": "安全",
+      "example": "あんぜんにきをつけてください。",
+      "example_zh": "請注意安全。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "このもんだいはすこしむずかしいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "まなぶ",
+      "kanji_romaji": "学ぶ / manabu",
+      "meaning": "學習",
+      "example": "あたらしいぎじゅつをまなびたいです。",
+      "example_zh": "我想學習新技術。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょうはかいぎがあります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "しごとをはじめるじかんです。",
+      "example_zh": "是時候開始工作了。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません (動詞肯定/否定)",
+      "structure": "動詞ます形 + ます / ません",
+      "rule": "動詞「ます形」接續「ます」表示肯定現在或未來的動作；接續「ません」表示否定。",
+      "examples": [
+        "毎日コーヒーを飲みます。 (我每天喝咖啡。)",
+        "明日会社へ行きません。 (我明天不去公司。)"
+      ]
+    },
+    {
+      "title": "〜たいです (表達願望)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "動詞「ます形」去掉「ます」後接「たいです」，表示「想做某事」的願望。",
+      "examples": [
+        "新しいAIツールを使いたいです。 (我想使用新的AI工具。)",
+        "もっと日本語を勉強したいです。 (我想學更多日語。)"
+      ]
+    }
+  ]
+}
