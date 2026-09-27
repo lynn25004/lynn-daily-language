@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化調整，讓效率更好",
+      "example": "We need to optimize the code for speed.",
+      "example_zh": "我們需要優化程式碼來提升速度。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品原型，初步模型",
+      "example": "The team is testing a new prototype.",
+      "example_zh": "團隊正在測試一個新的原型。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障，解決問題",
+      "example": "Can you help me troubleshoot this error?",
+      "example_zh": "你能幫我排查這個錯誤嗎？"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的，永續的",
+      "example": "Solar power is a renewable energy source.",
+      "example_zh": "太陽能是一種可再生能源。"
+    },
+    {
+      "word": "algorithm",
+      "pos": "n.",
+      "meaning": "演算法，步驟流程",
+      "example": "AI relies on complex algorithms.",
+      "example_zh": "AI 依賴複雜的演算法。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的，省時省力",
+      "example": "This new tool is very efficient.",
+      "example_zh": "這個新工具非常有效率。"
+    },
+    {
+      "word": "commute",
+      "pos": "n.",
+      "meaning": "通勤，上下班路程",
+      "example": "My morning commute is quite long.",
+      "example_zh": "我早上的通勤時間蠻長的。"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇，空閒時間",
+      "example": "What do you do in your leisure time?",
+      "example_zh": "你閒暇時都做些什麼？"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合在一起",
+      "example": "We need to integrate these two systems.",
+      "example_zh": "我們需要將這兩個系統整合。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見反饋",
+      "example": "Your feedback is really helpful.",
+      "example_zh": "你的回饋真的很有幫助。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "過去完成式 (Past Perfect)",
+      "rule": "用來描述在過去某個時間點之前，已經完成的動作或狀態。它強調的是「過去的過去」。",
+      "examples": [
+        "When I arrived, they had already started the meeting. (我到的時候，他們已經開會了。)",
+        "She had finished the report before the deadline. (她在截止日期前就完成了報告。)",
+        "I realized I had left my laptop at home. (我才意識到我把筆電忘在家了。)"
+      ]
+    },
+    {
+      "title": "情態動詞 (Modal Verbs) - might/may/could",
+      "rule": "這些詞用來表達可能性、推測或請求。might和may的可能性較高，could則可能性較低或表示能力。",
+      "examples": [
+        "It might rain later, so bring an umbrella. (晚點可能會下雨，所以帶把傘吧。)",
+        "We could try a different approach next time. (下次我們可以試試不同的方法。)",
+        "May I ask a quick question about the project? (我可以問一個關於專案的小問題嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末你做什麼呢？"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "ちょっと休憩しましょう。",
+      "example_zh": "我們休息一下吧。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習，讀書",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日語。"
+    },
+    {
+      "kana": "べんり",
+      "kanji_romaji": "便利 / benri",
+      "meaning": "方便的",
+      "example": "このアプリはとても便利です。",
+      "example_zh": "這個應用程式很方便。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいパソコンが欲しいです。",
+      "example_zh": "我想要一台新的電腦。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作，製造",
+      "example": "私はIoTデバイスを作ります。",
+      "example_zh": "我製作 IoT 設備。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電，電燈",
+      "example": "電気をつけてください。",
+      "example_zh": "請開燈。"
+    },
+    {
+      "kana": "ときどき",
+      "kanji_romaji": "時々 / tokidoki",
+      "meaning": "有時候",
+      "example": "時々、ゲームをします。",
+      "example_zh": "我有時候會玩遊戲。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的，有趣的",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "學習日語很有趣。"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "閱讀",
+      "example": "本をよく読みます。",
+      "example_zh": "我經常讀書。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 (Verb -te form)",
+      "structure": "動詞ます形去ます + て/で",
+      "rule": "這個形式用於連接多個動作，表示請求、許可或理由。它是日語中非常基礎且多功能的形態。",
+      "examples": [
+        "コーヒーを飲んで、本を読みます。 (喝咖啡，然後讀書。)",
+        "ちょっと待ってください。 (請等一下。)"
+      ]
+    },
+    {
+      "title": "名詞 + が + あります/います (N + ga arimasu/imasu)",
+      "structure": "名詞 + が + あります (無生命) / います (有生命)",
+      "rule": "這個文法用來表達某物或某人「存在」於某處。區分無生命物體用あります，有生命物體用います。",
+      "examples": [
+        "机の上に本があります。 (桌子上有書。)",
+        "部屋に猫がいます。 (房間裡有貓。)"
+      ]
+    }
+  ]
+}
