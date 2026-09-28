@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體，裝置的內建程式",
+      "example": "Updating the firmware can fix some bugs.",
+      "example_zh": "更新韌體可以修復一些錯誤。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，將不同部分結合",
+      "example": "We need to integrate this module into the system.",
+      "example_zh": "我們需要將這個模組整合到系統中。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使效率或性能最佳",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的，能補充的",
+      "example": "Solar power is a great renewable energy source.",
+      "example_zh": "太陽能是很棒的再生能源。"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "裝置，設備，儀器",
+      "example": "My smart home devices make life easier.",
+      "example_zh": "我的智慧家庭裝置讓生活更輕鬆。"
+    },
+    {
+      "word": "curious",
+      "pos": "adj.",
+      "meaning": "好奇的，有求知慾的",
+      "example": "I'm curious about the new AI tool.",
+      "example_zh": "我對新的 AI 工具很好奇。"
+    },
+    {
+      "word": "approach",
+      "pos": "n.",
+      "meaning": "方法，處理方式，途徑",
+      "example": "What's your approach to learning Japanese?",
+      "example_zh": "你學日文的方法是什麼？"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，找出並修復錯誤",
+      "example": "It took me hours to debug this program.",
+      "example_zh": "我花了數小時來為這個程式除錯。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案，解答",
+      "example": "We need a creative solution for this problem.",
+      "example_zh": "我們需要一個創意的解決方案來解決這個問題。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見，反應",
+      "example": "Can you give me some feedback on my resume?",
+      "example_zh": "你能給我一些關於我履歷的回饋嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "表示從過去某個時間點開始，一直持續到現在的動作或經驗，或已完成但影響持續到現在的動作。",
+      "examples": [
+        "I have worked on IoT projects for five years. (我已經在物聯網專案上工作五年了。)",
+        "She has learned a lot about renewable energy. (她學到了很多關於再生能源的知識。)",
+        "Have you ever used an AI tool for coding? (你曾經用 AI 工具來寫程式嗎？)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds) 作為主詞或受詞",
+      "rule": "動名詞（動詞-ing 形式）可以像名詞一樣在句子中作主詞或受詞，表示某個動作或活動。",
+      "examples": [
+        "Debugging takes a lot of patience. (除錯需要很多耐心。)",
+        "I enjoy learning new programming languages. (我喜歡學習新的程式語言。)",
+        "Using AI tools can boost productivity. (使用 AI 工具可以提升生產力。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私の仕事はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "この本はとても面白いです。",
+      "example_zh": "這本書很有趣。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "私はパソコンをよく使います。",
+      "example_zh": "我經常使用電腦。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "明白、懂",
+      "example": "英語が少し分かりますか。",
+      "example_zh": "你懂一點英文嗎？"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しい AI ツールが欲しいです。",
+      "example_zh": "我想要一個新的 AI 工具。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日コーヒーを飲みます。",
+      "example_zh": "我每天喝咖啡。"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "私は組み込みシステムが好きです。",
+      "example_zh": "我喜歡嵌入式系統。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "日本語の勉強に時間を使います。",
+      "example_zh": "我花時間學習日文。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦的、嚴峻的",
+      "example": "エンジニアの仕事は大変ですが、楽しいです。",
+      "example_zh": "工程師的工作很辛苦，但很有趣。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "用來介紹人事物，表示「名詞１就是名詞２」或「名詞１是名詞２」，是日文最基本的肯定句型。",
+      "examples": [
+        "私はエンジニアです。(我是工程師。)",
+        "これは私のパソコンです。(這是我的電腦。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者想要做某個動作或事情，是非常常用來表達願望的句型。",
+      "examples": [
+        "日本へ行きたいです。(我想去日本。)",
+        "新しい技術を学びたいです。(我想學習新技術。)"
+      ]
+    }
+  ]
+}
