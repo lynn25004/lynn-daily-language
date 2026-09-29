@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行計畫或功能",
+      "example": "We need to implement this new feature quickly.",
+      "example_zh": "我們需要快速實施這項新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、改善效能或效率",
+      "example": "Can we optimize the code for better performance?",
+      "example_zh": "我們可以優化程式碼以提高效能嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent hours trying to troubleshoot the network issue.",
+      "example_zh": "我花了幾個小時嘗試排除網路問題。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想、可能發生的情況",
+      "example": "Let's think about the worst-case scenario for this project.",
+      "example_zh": "讓我們思考一下這個專案最壞的情況。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本，初步的模型",
+      "example": "The team is building a prototype for the new IoT device.",
+      "example_zh": "團隊正在為新的物聯網設備製作原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同部分",
+      "example": "We plan to integrate AI into our renewable energy system.",
+      "example_zh": "我們計劃將人工智慧整合到再生能源系統中。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的、有效率的",
+      "example": "Using AI tools makes our workflow more efficient.",
+      "example_zh": "使用人工智慧工具讓我們的工作流程更有效率。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作完成任務",
+      "example": "We need to collaborate closely with the software team.",
+      "example_zh": "我們需要與軟體團隊密切合作。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見、反應",
+      "example": "Please give me some feedback on my presentation.",
+      "example_zh": "請給我一些關於我簡報的回饋意見。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控、監測、觀察",
+      "example": "We need to monitor the system performance constantly.",
+      "example_zh": "我們需要持續監控系統性能。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "用於表達如果某條件發生，未來就會產生某結果的預測，強調可能性較高。",
+      "examples": [
+        "If we optimize the code, the app will run faster. (如果我們優化程式碼，應用程式會跑得更快。)",
+        "If you finish debugging, we can go home early. (如果你調試完畢，我們就能早點回家。)",
+        "If the sensor fails, we will get an error message. (如果感測器故障，我們會收到錯誤訊息。)"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs with \"set\"",
+      "rule": "動詞 \"set\" 加上不同介系詞或副詞，構成新的意義，常用於日常或工作情境。",
+      "examples": [
+        "Let's set up the new server this afternoon. (我們今天下午來設定新的伺服器吧。)",
+        "We need to set out clear goals for this project. (我們需要為這個專案訂定明確的目標。)",
+        "I always set aside some time for learning new tech. (我總會撥出一些時間學習新技術。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "明日、仕事があります。",
+      "example_zh": "我明天有工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私の会社は台北にあります。",
+      "example_zh": "我的公司在台北。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "午後に会議があります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "しりょう",
+      "kanji_romaji": "資料 / shiryou",
+      "meaning": "資料",
+      "example": "この資料を読んでください。",
+      "example_zh": "請閱讀這份資料。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "新しいパソコンが欲しいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "メール",
+      "kanji_romaji": "メール / meeru",
+      "meaning": "電子郵件",
+      "example": "彼にメールを送りました。",
+      "example_zh": "我寄了一封電子郵件給他。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "もう時間がないです。",
+      "example_zh": "已經沒時間了。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "日本語は難しいですが、面白いです。",
+      "example_zh": "日文很難，但很有趣。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "明白、懂",
+      "example": "この問題が分かりません。",
+      "example_zh": "我不懂這個問題。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AIツールを使います。",
+      "example_zh": "我使用AI工具。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "~ます / ~ません / ~ました / ~ませんでした",
+      "structure": "動詞 + ます / ません / ました / ませんでした",
+      "rule": "用於表達現在、未來動作或過去動作的肯定與否定，是日語最基本的禮貌體動詞變化。",
+      "examples": [
+        "私は毎日会社に行きます。(我每天去公司。)",
+        "昨日、会議に行きませんでした。(昨天我沒去會議。)"
+      ]
+    },
+    {
+      "title": "名詞 + を + 動詞",
+      "structure": "名詞 + を + 動詞(ます)",
+      "rule": "助詞「を」用於標示動詞的直接受詞，說明動詞動作的對象，表示「做〇〇」。",
+      "examples": [
+        "資料を読みます。(我讀資料。)",
+        "コーヒーを飲みます。(我喝咖啡。)"
+      ]
+    }
+  ]
+}
