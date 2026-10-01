@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、佈署軟體或系統",
+      "example": "We need to deploy the new feature by Friday.",
+      "example_zh": "我們需要在週五前部署新功能。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的、效率高的",
+      "example": "This new algorithm is way more efficient.",
+      "example_zh": "這個新演算法效率高多了。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "Let's integrate the IoT device with the cloud platform.",
+      "example_zh": "讓我們把物聯網設備整合到雲端平台。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的、信賴的",
+      "example": "We need a reliable power source for the lab.",
+      "example_zh": "我們實驗室需要一個可靠的電源。"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創新、革新",
+      "example": "The company encourages us to innovate constantly.",
+      "example_zh": "公司鼓勵我們不斷創新。"
+    },
+    {
+      "word": "streamline",
+      "pos": "v.",
+      "meaning": "使...更有效率、簡化流程",
+      "example": "We should streamline the testing process.",
+      "example_zh": "我們應該簡化測試流程。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使...達到最佳狀態",
+      "example": "Can you help me optimize this code?",
+      "example_zh": "你能幫我優化這段程式碼嗎？"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作",
+      "example": "It's great to collaborate with such talented people.",
+      "example_zh": "能和這麼有才華的人合作真好。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "Renewable energy is a sustainable solution.",
+      "example_zh": "再生能源是一種永續的解決方案。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯",
+      "example": "I spent all morning debugging that tricky issue.",
+      "example_zh": "我花了一整個上午在除錯那個棘手的問題。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式",
+      "rule": "用於表示過去發生的動作對現在造成影響，或強調過去到現在的經驗。",
+      "examples": [
+        "I have worked on embedded systems for five years. (我從事嵌入式系統五年了。)",
+        "She has already deployed the prototype. (她已經部署了原型機。)",
+        "Have you ever used AI tools in your projects? (你在專案裡有用過 AI 工具嗎？)"
+      ]
+    },
+    {
+      "title": "被動語態 (現在簡單式)",
+      "rule": "當動作的承受者比執行者重要，或執行者不明確時使用。",
+      "examples": [
+        "The data is collected every hour. (資料每小時被收集。)",
+        "This device is designed for IoT applications. (這個設備是為物聯網應用設計的。)",
+        "The system is updated weekly. (系統每週被更新。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "でんち",
+      "kanji_romaji": "電池 / denchi",
+      "meaning": "電池",
+      "example": "この電池は長持ちします。",
+      "example_zh": "這個電池很持久。"
+    },
+    {
+      "kana": "へんこう",
+      "kanji_romaji": "変更 / henkou",
+      "meaning": "變更、修改",
+      "example": "計画を変更しました。",
+      "example_zh": "改變了計畫。"
+    },
+    {
+      "kana": "せってい",
+      "kanji_romaji": "設定 / settei",
+      "meaning": "設定",
+      "example": "設定を確認してください。",
+      "example_zh": "請確認設定。"
+    },
+    {
+      "kana": "かかく",
+      "kanji_romaji": "価格 / kakaku",
+      "meaning": "價格",
+      "example": "この部品の価格はいくらですか。",
+      "example_zh": "這個零件的價格是多少？"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "新しいシステムを開発しています。",
+      "example_zh": "我們正在開發新系統。"
+    },
+    {
+      "kana": "じょうほう",
+      "kanji_romaji": "情報 / jouhou",
+      "meaning": "情報",
+      "example": "最新の情報を教えてください。",
+      "example_zh": "請告訴我最新的資訊。"
+    },
+    {
+      "kana": "てつづき",
+      "kanji_romaji": "手続き / tetsuzuki",
+      "meaning": "手續、程序",
+      "example": "登録の手続きは簡単です。",
+      "example_zh": "註冊手續很簡單。"
+    },
+    {
+      "kana": "げんりょう",
+      "kanji_romaji": "原料 / genryou",
+      "meaning": "原料",
+      "example": "この製品の原料は何ですか。",
+      "example_zh": "這個產品的原料是什麼？"
+    },
+    {
+      "kana": "そくど",
+      "kanji_romaji": "速度 / sokudo",
+      "meaning": "速度",
+      "example": "インターネットの速度が速いです。",
+      "example_zh": "網路速度很快。"
+    },
+    {
+      "kana": "あんぜん",
+      "kanji_romaji": "安全 / anzen",
+      "meaning": "安全",
+      "example": "安全第一で作業してください。",
+      "example_zh": "請務必注意安全第一地工作。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "～ています (～te imasu)",
+      "structure": "動詞て形 + います",
+      "rule": "表示正在進行的動作、持續的狀態或習慣性的行為。",
+      "examples": [
+        "今、プログラムを書いています。(Ima, puroguramu o kaite imasu.) (我現在正在寫程式。)",
+        "この装置は動いています。(Kono souchi wa ugoite imasu.) (這個裝置正在運作。)"
+      ]
+    },
+    {
+      "title": "～なければなりません (～nakereba narimasen)",
+      "structure": "動詞ない形（去掉い） + ければなりません",
+      "rule": "表示「必須做某事」、「不得不做」。",
+      "examples": [
+        "明日までにレポートを提出しなければなりません。(Ashita made ni repooto o teishutsu shinakereba narimasen.) (我必須在明天前提交報告。)",
+        "安全に注意しなければなりません。(Anzen ni chuui shinakereba narimasen.) (必須注意安全。)"
+      ]
+    }
+  ]
+}
