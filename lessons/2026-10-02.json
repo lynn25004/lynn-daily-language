@@ -1,0 +1,188 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使效益最大化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，佈署（軟硬體或軍隊）",
+      "example": "They plan to deploy the new IoT system next month.",
+      "example_zh": "他們計劃下個月部署新的物聯網系統。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的，效率高的",
+      "example": "Renewable energy sources are becoming more efficient.",
+      "example_zh": "再生能源變得越來越有效率。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合",
+      "example": "Can we integrate the AI tool into our workflow?",
+      "example_zh": "我們可以將 AI 工具整合到我們的流程中嗎？"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創新，革新",
+      "example": "The company is always looking for ways to innovate.",
+      "example_zh": "該公司一直在尋找創新的方法。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的，可信賴的",
+      "example": "A reliable power source is crucial for safety.",
+      "example_zh": "可靠的電源對安全至關重要。"
+    },
+    {
+      "word": "streamline",
+      "pos": "v.",
+      "meaning": "簡化，使流程順暢",
+      "example": "Let's streamline this process to save time.",
+      "example_zh": "讓我們簡化這個流程以節省時間。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，協作",
+      "example": "Engineers often collaborate on complex projects.",
+      "example_zh": "工程師經常在複雜的專案上合作。"
+    },
+    {
+      "word": "flexible",
+      "pos": "adj.",
+      "meaning": "靈活的，有彈性的",
+      "example": "We need a flexible schedule for testing.",
+      "example_zh": "我們需要一個靈活的測試排程。"
+    },
+    {
+      "word": "insight",
+      "pos": "n.",
+      "meaning": "見解，洞察力",
+      "example": "The data provides valuable insight into user behavior.",
+      "example_zh": "這些數據提供了對使用者行為的有價值見解。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成進行式",
+      "rule": "用於表示動作從過去開始，一直持續到現在，並且可能還會繼續下去。",
+      "examples": [
+        "I have been working on this project for three hours. (我已經在這個專案上工作三個小時了。)",
+        "She has been studying Japanese since last year. (她從去年就開始學日文了。)",
+        "They have been developing the new software for months. (他們開發新軟體已經好幾個月了。)"
+      ]
+    },
+    {
+      "title": "假設語氣過去式 (第二類)",
+      "rule": "用於描述與現在事實相反的假設情況，表達「如果...就...」的語氣。",
+      "examples": [
+        "If I had more time, I would learn more programming languages. (如果我有更多時間，我會學更多程式語言。)",
+        "If he were here, he would help us. (如果他在這裡，他就會幫我們。)",
+        "If I knew the answer, I would tell you. (如果我知道答案，我就會告訴你。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "でんち",
+      "kanji_romaji": "電池 / denchi",
+      "meaning": "電池",
+      "example": "このかいしゃはでんちをせいぞうしています。",
+      "example_zh": "這家公司生產電池。"
+    },
+    {
+      "kana": "でんげん",
+      "kanji_romaji": "電源 / dengen",
+      "meaning": "電源",
+      "example": "でんげんをいれてください。",
+      "example_zh": "請打開電源。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "あたらしいソフトをかいはつしています。",
+      "example_zh": "我正在開發新軟體。"
+    },
+    {
+      "kana": "せつび",
+      "kanji_romaji": "設備 / setsubi",
+      "meaning": "設備",
+      "example": "ひさいろのせつびはあんぜんですか。",
+      "example_zh": "再生能源的設備安全嗎？"
+    },
+    {
+      "kana": "あんぜん",
+      "kanji_romaji": "安全 / anzen",
+      "meaning": "安全",
+      "example": "あんぜんがさいしょです。",
+      "example_zh": "安全第一。"
+    },
+    {
+      "kana": "けいかく",
+      "kanji_romaji": "計画 / keikaku",
+      "meaning": "計劃",
+      "example": "らいげつ、あたらしいけいかくがあります。",
+      "example_zh": "下個月有一個新計劃。"
+    },
+    {
+      "kana": "じっこう",
+      "kanji_romaji": "実行 / jikkou",
+      "meaning": "執行，實行",
+      "example": "けいかくをじっこうします。",
+      "example_zh": "我們將執行計劃。"
+    },
+    {
+      "kana": "ちょうさ",
+      "kanji_romaji": "調査 / chousa",
+      "meaning": "調查",
+      "example": "このしりょうをちょうさしています。",
+      "example_zh": "我正在調查這些資料。"
+    },
+    {
+      "kana": "じょうほう",
+      "kanji_romaji": "情報 / jouhou",
+      "meaning": "情報，資訊",
+      "example": "そのじょうほうはほんとうですか。",
+      "example_zh": "那個資訊是真的嗎？"
+    },
+    {
+      "kana": "ひつよう",
+      "kanji_romaji": "必要 / hitsuyou",
+      "meaning": "必要，必需",
+      "example": "すいぶんほきゅうがひつようです。",
+      "example_zh": "補充水分是必要的。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「〜ています」的用法",
+      "structure": "動詞ます形去掉ます + ています",
+      "rule": "表示動作正在進行、狀態持續或習慣性動作。",
+      "examples": [
+        "いま、かいぎをしています。(現在，我們正在開會。)",
+        "わたしはにほんごをべんきょうしています。(我正在學習日文。)",
+        "えきはあそこです。(車站就在那裡。)"
+      ]
+    },
+    {
+      "title": "「〜なければなりません」",
+      "structure": "動詞ない形去掉ない + ければなりません",
+      "rule": "表示「必須做某事」，是「～なくてはいけません」的另一種說法。",
+      "examples": [
+        "しごとをしなければなりません。(我必須工作。)",
+        "じゅぎょうにでなければなりません。(我必須去上課。)",
+        "かいぎにしゅっぱつしなければなりません。(我必須要去參加會議。)"
+      ]
+    }
+  ]
+}
