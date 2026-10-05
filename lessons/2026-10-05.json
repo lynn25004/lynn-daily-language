@@ -1,0 +1,192 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫",
+      "example": "We need to implement this new feature quickly.",
+      "example_zh": "我們需要快速實施這個新功能。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "偵錯、修正錯誤",
+      "example": "It took hours to debug that tricky software bug!",
+      "example_zh": "花了數小時才偵測出那個棘手的軟體錯誤！"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步模型",
+      "example": "Let's build a prototype to test the concept.",
+      "example_zh": "我們來做個原型測試這個概念。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使效率更高",
+      "example": "Can we optimize this code for better performance?",
+      "example_zh": "我們能優化這段程式碼以提升效能嗎？"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案、答案",
+      "example": "I think I found a good solution for this problem.",
+      "example_zh": "我想我找到這個問題的好解決方案了。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "特色、功能",
+      "example": "This new device has some really cool features.",
+      "example_zh": "這個新裝置有一些很酷的功能。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The project deadline is next Friday, let's hurry!",
+      "example_zh": "專案截止日是下週五，我們快點！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協同工作",
+      "example": "We should collaborate more often on these tasks.",
+      "example_zh": "我們在這些任務上應該更常合作。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見反應",
+      "example": "Your feedback on the design is much appreciated.",
+      "example_zh": "非常感謝你對設計的回饋意見。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、恢復精力",
+      "example": "I need to recharge with some coffee after this meeting.",
+      "example_zh": "開完會我需要喝咖啡充個電。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to V (過去習慣)",
+      "rule": "用來描述過去經常發生但現在已停止的習慣或狀態，或過去的事實。",
+      "examples": [
+        "I used to work late every day.",
+        "我以前每天都工作到很晚。",
+        "She used to develop games.",
+        "她以前是開發遊戲的。",
+        "There used to be an old factory here.",
+        "這裡以前有間舊工廠。"
+      ]
+    },
+    {
+      "title": "Phrasal verbs with 'up'",
+      "rule": "動詞加上 'up' 可以表達完成、增加、建立或整理等意思，具體語境而定。",
+      "examples": [
+        "Let's wrap up this meeting soon.",
+        "我們快點結束這個會議吧。",
+        "Can you look up that information for me?",
+        "你能幫我查一下那個資訊嗎？",
+        "We need to set up the new server.",
+        "我們需要設定好新的伺服器。"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょうはげつようびです。",
+      "example_zh": "今天是星期一。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしのしごとはエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "かいしゃへいきます。",
+      "example_zh": "去公司。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "にほんごをべんきょうします。",
+      "example_zh": "學習日文。"
+    },
+    {
+      "kana": "ききます",
+      "kanji_romaji": "聞きます / kikimasu",
+      "meaning": "聽、問",
+      "example": "おんがくをききます。",
+      "example_zh": "聽音樂。"
+    },
+    {
+      "kana": "よみます",
+      "kanji_romaji": "読みます / yomimasu",
+      "meaning": "讀",
+      "example": "ほんをよみます。",
+      "example_zh": "讀書。"
+    },
+    {
+      "kana": "いきます",
+      "kanji_romaji": "行きます / ikimasu",
+      "meaning": "去",
+      "example": "えきへいきます。",
+      "example_zh": "去車站。"
+    },
+    {
+      "kana": "なに",
+      "kanji_romaji": "何 / nani",
+      "meaning": "什麼",
+      "example": "これはなんですか。",
+      "example_zh": "這是什麼？"
+    },
+    {
+      "kana": "～じ",
+      "kanji_romaji": "～時 / ~ji",
+      "meaning": "～點 (時間)",
+      "example": "いまごじです。",
+      "example_zh": "現在五點。"
+    },
+    {
+      "kana": "わかります",
+      "kanji_romaji": "分かります / wakarimasu",
+      "meaning": "明白、懂",
+      "example": "にほんごがわかりますか。",
+      "example_zh": "你懂日文嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + ましょうか (我幫你…好嗎？)",
+      "structure": "動詞(ます形) + ましょうか",
+      "rule": "用於主動提出為對方做某事，語氣禮貌且帶有詢問對方意願。",
+      "examples": [
+        "てつだいましょうか。（我幫你嗎？）",
+        "まどをあけましょうか。（我開窗戶好嗎？）"
+      ]
+    },
+    {
+      "title": "～はどこですか (～在哪裡？)",
+      "structure": "名詞 + は + どこ + ですか",
+      "rule": "用來詢問某個地點或物品的確切位置，非常實用。",
+      "examples": [
+        "トイレはどこですか。（洗手間在哪裡？）",
+        "あなたの会社はどこですか。（你的公司在哪裡？）"
+      ]
+    }
+  ]
+}
