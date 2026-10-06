@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施",
+      "example": "We need to implement this new feature quickly.",
+      "example_zh": "我們需要快點實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Can we optimize the code for better performance?",
+      "example_zh": "我們能優化程式碼以提高效能嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障",
+      "example": "I spent an hour troubleshooting the network issue.",
+      "example_zh": "我花了一小時排除網路故障。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The project deadline is next Friday.",
+      "example_zh": "專案的截止日期是下週五。"
+    },
+    {
+      "word": "schedule",
+      "pos": "n./v.",
+      "meaning": "行程、安排",
+      "example": "What's your schedule like tomorrow?",
+      "example_zh": "你明天的行程怎麼樣？"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "優先處理",
+      "example": "Let's prioritize the most urgent tasks first.",
+      "example_zh": "我們優先處理最緊急的任務吧。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋意見",
+      "example": "Your feedback helps us improve the product.",
+      "example_zh": "你的回饋幫助我們改進產品。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "We often collaborate with other teams.",
+      "example_zh": "我們經常和其他團隊協作。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型",
+      "example": "We're building a prototype for the new device.",
+      "example_zh": "我們正在為新設備建造一個原型。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控、監測",
+      "example": "We need to monitor the system's performance.",
+      "example_zh": "我們需要監控系統的效能。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "動名詞 (Gerunds) 作為主詞或受詞",
+      "rule": "動名詞 (-ing 形式) 可以在句中扮演名詞的角色，作為主詞或受詞使用，表達一個動作或活動。",
+      "examples": [
+        "Debugging code can be really challenging. (除錯程式碼可能真的很有挑戰性。)",
+        "I enjoy learning new programming languages. (我喜歡學習新的程式語言。)",
+        "Working from home saves a lot of commute time. (在家工作省下很多通勤時間。)"
+      ]
+    },
+    {
+      "title": "情態助動詞 (Modal Verbs) 表建議或可能性 (should, might)",
+      "rule": "Should 用於給予建議，might 用於表示可能性較低或不確定性。兩者讓語氣更委婉。",
+      "examples": [
+        "You should back up your files regularly. (你應該定期備份你的檔案。)",
+        "The system might crash if we don't fix it. (如果我們不修好，系統可能會當機。)",
+        "We should probably take a short break now. (我們現在或許該休息一下了。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょう、しごとはおわりましたか。",
+      "example_zh": "今天工作結束了嗎？"
+    },
+    {
+      "kana": "あした",
+      "kanji_romaji": "明日 / ashita",
+      "meaning": "明天",
+      "example": "あした、かいぎがあります。",
+      "example_zh": "明天有會議。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "どのくらいじかんがかかりますか。",
+      "example_zh": "大約要花多少時間呢？"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしのしごとはエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "每天都學習日文。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きょうはやすみですか。",
+      "example_zh": "今天是假日嗎？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "かいぎはなんじからですか。",
+      "example_zh": "會議是幾點開始？"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをつかいますか。",
+      "example_zh": "你會使用這個工具嗎？"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "しごとはごじにおわります。",
+      "example_zh": "工作在五點結束。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "プロジェクトはらいしゅうはじめます。",
+      "example_zh": "專案下週開始。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞ます形 + ましょう/ませんか",
+      "structure": "動詞ます形 + ましょう / ませんか",
+      "rule": "「ましょう」表示「一起做…吧！」的提議；「ませんか」表示「…好嗎？」的邀請，語氣更為委婉。",
+      "examples": [
+        "いっしょにべんきょうしましょう。(我們一起學習吧。)",
+        "コーヒーをのみませんか。(要不要喝杯咖啡呢？)"
+      ]
+    },
+    {
+      "title": "〜たいです (希望做某事)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "用於表達說話者想做某事的願望或希望。將動詞的ます形後加上「たいです」。",
+      "examples": [
+        "あたらしいパソコンをかいたいです。(我想買一台新電腦。)",
+        "しごとにせいこうしたいです。(我希望在工作上成功。)"
+      ]
+    }
+  ]
+}
