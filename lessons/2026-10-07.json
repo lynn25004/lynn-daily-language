@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體",
+      "example": "Updating the firmware usually fixes glitches.",
+      "example_zh": "更新韌體通常能修復小故障。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯",
+      "example": "I spent all morning debugging this code.",
+      "example_zh": "我整個早上都在為這段程式碼除錯。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行",
+      "example": "We need to implement this new feature soon.",
+      "example_zh": "我們需要快點實施這項新功能。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型",
+      "example": "The team is testing the new prototype.",
+      "example_zh": "團隊正在測試這個新原型。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化",
+      "example": "We need to optimize the system for speed.",
+      "example_zh": "我們需要優化系統以提升速度。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合",
+      "example": "This new module integrates well with the existing system.",
+      "example_zh": "這個新模組與現有系統整合得很好。"
+    },
+    {
+      "word": "commute",
+      "pos": "v.",
+      "meaning": "通勤",
+      "example": "How long is your daily commute to work?",
+      "example_zh": "你每天通勤到公司要多久？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "We're trying to meet a tight deadline.",
+      "example_zh": "我們正努力趕上一個很緊的截止日期。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋",
+      "example": "We appreciate your honest feedback on the project.",
+      "example_zh": "我們很感謝你對專案的誠實回饋。"
+    },
+    {
+      "word": "sync",
+      "pos": "v.",
+      "meaning": "同步",
+      "example": "Did you remember to sync your calendar?",
+      "example_zh": "你記得同步你的行事曆了嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "描述過去發生但與現在相關的動作、狀態，或從過去持續到現在的經驗。",
+      "examples": [
+        "I have already finished my coding task. (我已經完成我的編碼任務了。)",
+        "She has worked on IoT projects for five years. (她已經在物聯網專案上工作五年了。)",
+        "Have you ever debugged a really complex system? (你曾經除錯過非常複雜的系統嗎？)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds) 作為主詞或受詞",
+      "rule": "動詞加-ing變成動名詞，可在句中作主詞、受詞或介系詞的受詞。",
+      "examples": [
+        "Debugging can be quite challenging sometimes. (除錯有時候會非常有挑戰性。)",
+        "I enjoy learning new programming languages. (我喜歡學習新的程式語言。)",
+        "They are good at optimizing system performance. (他們擅長優化系統性能。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おはようございます",
+      "kanji_romaji": "お早うございます / ohayou gozaimasu",
+      "meaning": "早上好",
+      "example": "おはようございます！きょうは いい てんき ですね。",
+      "example_zh": "早上好！今天天氣很好呢。"
+    },
+    {
+      "kana": "おつかれさまです",
+      "kanji_romaji": "お疲れ様です / otsukare sama desu",
+      "meaning": "辛苦了",
+      "example": "しごと おつかれさま です。ゆっくり やすんで くださいね。",
+      "example_zh": "工作辛苦了。請好好休息喔。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしの しごとは エンジニア です。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "もう じかんが ないので、いそぎましょう。",
+      "example_zh": "已經沒時間了，我們快點吧。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "ごごから かいぎが あります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "まいにち パソコンを つかって います。",
+      "example_zh": "我每天都使用電腦。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "この でんきは さいせいかのうエネルギー です。",
+      "example_zh": "這個電力是再生能源。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、知道",
+      "example": "にほんごが すこし わかります。",
+      "example_zh": "我懂一點日文。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "もうすぐ プロジェクトを はじめます。",
+      "example_zh": "快要開始專案了。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "しごとが おわったら、いっしょに ごはんを たべませんか？",
+      "example_zh": "工作結束後，要不要一起吃飯？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません (Masu form / Masen form)",
+      "structure": "動詞ます形 / 動詞ません形",
+      "rule": "動詞ます形表示禮貌的肯定語氣，ません形表示禮貌的否定語氣，用於日常交流。",
+      "examples": [
+        "わたしは まいにち コーヒーを のみます。(我每天喝咖啡。)",
+        "きょうは かいしゃに いきません。(今天我不去公司。)"
+      ]
+    },
+    {
+      "title": "〜たいです (Tai desu)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表示說話者「想要做某事」的願望或意圖，是比較禮貌的表達方式。",
+      "examples": [
+        "もっと にほんごを べんきょうしたい です。(我想要多學習日文。)",
+        "あたらしい AIツールを つかってみたい です。(我想要試用新的AI工具。)"
+      ]
+    }
+  ]
+}
