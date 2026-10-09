@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "configure",
+      "pos": "v.",
+      "meaning": "設定、配置系統",
+      "example": "Set the system.",
+      "example_zh": "設定系統。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "偵錯、找出並修正錯誤",
+      "example": "Fix the bug.",
+      "example_zh": "修正錯誤。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同部分",
+      "example": "Combine parts.",
+      "example_zh": "結合零件。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使效率更好",
+      "example": "Make it better.",
+      "example_zh": "讓它更好。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、應用程式上線",
+      "example": "Release it now.",
+      "example_zh": "現在發布。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋意見、反應",
+      "example": "Give us ideas.",
+      "example_zh": "給我們建議。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、期限",
+      "example": "Due next week.",
+      "example_zh": "下週到期。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效率的、有效的",
+      "example": "It works well.",
+      "example_zh": "它運作良好。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的、值得信賴的",
+      "example": "It's dependable.",
+      "example_zh": "它是可靠的。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、有新意的",
+      "example": "New fresh idea!",
+      "example_zh": "新鮮好點子！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "第一類型條件句 (If + 現在簡單式, will + 原形動詞)",
+      "rule": "當你討論未來可能發生的真實情況和其結果時，就會使用這種句型喔。",
+      "examples": [
+        "If it rains, we will stay inside. (如果下雨，我們就待在室內。)",
+        "If you finish your work, you can go home early. (如果你完成工作，就可以提早回家。)",
+        "If the system crashes, we will restart it. (如果系統當機，我們會重啟它。)"
+      ]
+    },
+    {
+      "title": "片語動詞：Work on 和 Figure out",
+      "rule": "\"Work on\" 指從事某事；\"Figure out\" 則是用來理解或找出解決方案。",
+      "examples": [
+        "I'm currently working on a new project. (我目前正在處理一個新專案。)",
+        "Let's figure out how to fix this bug. (我們來想想辦法解決這個錯誤。)",
+        "Can you help me work on this problem? (你能幫我處理這個問題嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "まいにちしごとをします。",
+      "example_zh": "我每天都工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "かいしゃへいきます。",
+      "example_zh": "我去公司。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにちコーヒーをのみます。",
+      "example_zh": "我每天都喝咖啡。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束",
+      "example": "しごとはごじにおわります。",
+      "example_zh": "工作在五點結束。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "かいぎはくじにはじめます。",
+      "example_zh": "會議在九點開始。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "きゅうけいしましょう。",
+      "example_zh": "我們休息一下吧。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょうかいぎがあります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、創造",
+      "example": "プログラムをつくります。",
+      "example_zh": "我製作程式。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをつかいます。",
+      "example_zh": "我使用這個工具。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、很麻煩",
+      "example": "このしごとはたいへんです。",
+      "example_zh": "這份工作很辛苦。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください (te-form + kudasai)",
+      "structure": "動詞て形 + ください",
+      "rule": "當你想禮貌地請對方做某事，或者發出一個請求時，就可以用這個句型喔。",
+      "examples": [
+        "ちょっとまってください。(請等一下。)",
+        "このしりょうをよんでください。(請閱讀這份資料。)"
+      ]
+    },
+    {
+      "title": "名詞 + が + 好きです / 嫌いです (ga suki desu / kirai desu)",
+      "structure": "名詞 + が + 好きです / 嫌いです",
+      "rule": "這個句型用來表達你對某事物的好惡，是日文日常對話很常用到的喔。",
+      "examples": [
+        "わたしはコーヒーがすきです。(我喜歡咖啡。)",
+        "わたしはなっとうがきらいです。(我不喜歡納豆。)"
+      ]
+    }
+  ]
+}
