@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "weekend",
+      "pos": "n.",
+      "meaning": "一週的結束，週六日",
+      "example": "What are your plans for the upcoming weekend?",
+      "example_zh": "你這個週末有什麼計畫啊？"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索、發掘新事物",
+      "example": "I want to explore new AI tools this month.",
+      "example_zh": "這個月我想探索新的 AI 工具。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品或系統原型",
+      "example": "The team is building a new IoT prototype.",
+      "example_zh": "團隊正在打造一個新的物聯網原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的、高效率的",
+      "example": "We need to find a more efficient way to debug.",
+      "example_zh": "我們需要找到一種更有效率的除錯方式。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "That's an innovative solution for renewable energy.",
+      "example_zh": "那是個關於再生能源的創新解決方案。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修正程式錯誤",
+      "example": "It took hours to debug that tiny error.",
+      "example_zh": "花了好幾個小時才把那個小錯誤除掉。"
+    },
+    {
+      "word": "update",
+      "pos": "n./v.",
+      "meaning": "更新、最新消息",
+      "example": "Any update on the embedded system project?",
+      "example_zh": "嵌入式系統專案有任何最新消息嗎？"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇、空閒時間",
+      "example": "I enjoy reading books in my leisure time.",
+      "example_zh": "我喜歡在閒暇時間讀書。"
+    },
+    {
+      "word": "gadget",
+      "pos": "n.",
+      "meaning": "小器具、小裝置",
+      "example": "This new smart home gadget is pretty cool.",
+      "example_zh": "這個新的智慧家庭小裝置還蠻酷的。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以提升效能。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "表達未來計畫：be going to",
+      "rule": "用來談論已經決定好、有計畫的未來行動，或根據目前跡象判斷即將發生的事。",
+      "examples": [
+        "I'm going to visit my family this weekend. (我這個週末要去探望家人。)",
+        "She is going to start a new project next month. (她下個月將要開始一個新專案。)",
+        "Look at those dark clouds! It's going to rain soon. (看那些烏雲！要下雨了。)"
+      ]
+    },
+    {
+      "title": "假設語氣：If (現在簡單式), will (原形動詞)",
+      "rule": "用於描述在目前或未來可能發生的狀況，以及其結果，表達可能性或預測。",
+      "examples": [
+        "If you study hard, you will pass the TOEIC test easily. (如果你努力學習，你就會輕鬆通過多益考試。)",
+        "If the weather is good, we will go hiking tomorrow. (如果天氣好，我們明天就會去健行。)",
+        "If I finish debugging early, I will relax more. (如果我早點完成除錯，我就會更放鬆。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは なにを しますか？",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうは しごとが あります。",
+      "example_zh": "今天有工作。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きのうは 休みでした。",
+      "example_zh": "昨天是休息日。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "それは とても 楽しいです。",
+      "example_zh": "那真是太有趣了。"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "どこ / doko",
+      "meaning": "哪裡",
+      "example": "あなたの うちは どこですか？",
+      "example_zh": "你家在哪裡？"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看",
+      "example": "えいがを 見ます。",
+      "example_zh": "看電影。"
+    },
+    {
+      "kana": "きく",
+      "kanji_romaji": "聞く / kiku",
+      "meaning": "聽、問",
+      "example": "おんがくを 聞きます。",
+      "example_zh": "聽音樂。"
+    },
+    {
+      "kana": "する",
+      "kanji_romaji": "する / suru",
+      "meaning": "做",
+      "example": "スポーツを します。",
+      "example_zh": "做運動。"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "ともだちと あそびます。",
+      "example_zh": "和朋友玩。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞的禮貌形：〜ます / 〜ません",
+      "structure": "動詞ます形 / 動詞ません形",
+      "rule": "用於表達現在或未來將會發生的動作，以及其否定形式，是日文最基本的禮貌體動詞變化。",
+      "examples": [
+        "わたしは ごはんを 食べます。 (我吃飯。)",
+        "わたしは テレビを 見ません。 (我不看電視。)"
+      ]
+    },
+    {
+      "title": "描述和判斷：名詞 + は + 名詞 + です / ではありません",
+      "structure": "名詞１ + は + 名詞２ + です / ではありません",
+      "rule": "用於說明或判斷事物是什麼，或不是什麼。動詞「です」表示肯定，而「ではありません」表示否定。",
+      "examples": [
+        "これは ペンです。 (這是筆。)",
+        "わたしは エンジニアではありません。 (我不是工程師。)"
+      ]
+    }
+  ]
+}
