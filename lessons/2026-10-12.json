@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體，介於硬體和軟體之間",
+      "example": "Updating the firmware usually fixes a lot of bugs.",
+      "example_zh": "更新韌體通常能修復許多錯誤。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化，使效率提升",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以提升效能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決技術問題",
+      "example": "I spent all morning trying to troubleshoot the network issue.",
+      "example_zh": "我花了整個早上在排除網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品的初步模型或樣品",
+      "example": "The team is building a prototype for the new IoT device.",
+      "example_zh": "團隊正在為新的物聯網裝置建造一個原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同部分結合為一體",
+      "example": "We need to integrate this module into the main system.",
+      "example_zh": "我們需要將這個模組整合到主系統中。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效的、有效率的，不浪費資源",
+      "example": "This new algorithm for data processing is much more efficient.",
+      "example_zh": "這個用於數據處理的新演算法效率高很多。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "修復程式中的錯誤",
+      "example": "I spent hours debugging this tricky error in the code.",
+      "example_zh": "我花了數小時在除錯程式碼中這個棘手的錯誤。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "將軟體或系統上線運行",
+      "example": "The new software will be deployed next week.",
+      "example_zh": "這個新軟體將於下週部署上線。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "關於工作或產品的回饋、意見",
+      "example": "We got some good feedback on the new design.",
+      "example_zh": "我們收到了關於新設計的一些良好回饋。"
+    },
+    {
+      "word": "colleague",
+      "pos": "n.",
+      "meaning": "工作上的合作夥伴",
+      "example": "My colleague helped me with the project last week.",
+      "example_zh": "我的同事上週幫助了我這個專案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式 (will / be going to)",
+      "rule": "表達未來計畫、預測或自發決定，will更廣泛，be going to多用於確定計畫。",
+      "examples": [
+        "I will check the system logs tomorrow morning. (我明天早上會檢查系統日誌。)",
+        "We are going to launch the new feature next month. (我們下個月將會推出新功能。)",
+        "Oh, the server crashed! I'll restart it right away. (喔，伺服器當了！我馬上重啟它。)"
+      ]
+    },
+    {
+      "title": "過去進行式 (Past Continuous)",
+      "rule": "描述過去某特定時間點正在進行的動作，常與簡單過去式一同使用。",
+      "examples": [
+        "I was working on the embedded system when you called. (你打電話來時，我正在處理嵌入式系統。)",
+        "While she was debugging, the power went out. (她正在除錯時，停電了。)",
+        "They were discussing the IoT project all afternoon. (他們整個下午都在討論那個物聯網專案。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごとはどうですか？",
+      "example_zh": "工作怎麼樣？"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日コーヒーを飲みます。",
+      "example_zh": "我每天都喝咖啡。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力、電燈",
+      "example": "このへやはでんきがくらいです。",
+      "example_zh": "這房間的電燈很暗。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "日本語をべんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "わたしはAIツールがすきです。",
+      "example_zh": "我喜歡AI工具。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいスマホがほしいです。",
+      "example_zh": "我想要一台新手機。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "しごとのおわりにじかんがありますか。",
+      "example_zh": "工作結束後有時間嗎？"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "きょうはいそがしいです。",
+      "example_zh": "今天很忙。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "プロジェクトをはじめる。",
+      "example_zh": "開始專案。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "わたしはそれがわかります。",
+      "example_zh": "我明白那個。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません (Masu Form)",
+      "structure": "動詞ます形 / 動詞ません形",
+      "rule": "表示現在或未來發生的動作，或習慣性的行為，是禮貌體。",
+      "examples": [
+        "毎日日本語を勉強します。 (我每天學習日文。)",
+        "このシステムはまだ動きません。 (這個系統還不會動。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です / ではありません",
+      "structure": "名詞 + は + 名詞 + です / ではありません",
+      "rule": "用於介紹或說明主語的身份、狀態或屬性，是日文最基本的肯定/否定句型。",
+      "examples": [
+        "わたしはエンジニアです。 (我是工程師。)",
+        "これはわたしのパソコンではありません。 (這不是我的電腦。)"
+      ]
+    }
+  ]
+}
