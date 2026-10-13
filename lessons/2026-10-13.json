@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "韌體程式",
+      "example": "We need to update the firmware for this IoT device.",
+      "example_zh": "我們需要更新這個物聯網設備的韌體。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "It's crucial to integrate all these sensors smoothly.",
+      "example_zh": "將這些感測器順利整合是很重要的。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Can you help me optimize this code for better performance?",
+      "example_zh": "你能幫我優化這段程式碼以提升效能嗎？"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、情況",
+      "example": "Let's consider a few different use-case scenarios.",
+      "example_zh": "我們來考慮幾種不同的使用情境。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除",
+      "example": "I spent hours trying to troubleshoot that network issue.",
+      "example_zh": "我花了幾個小時試圖排除那個網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "The team is excited about building the first prototype.",
+      "example_zh": "團隊對於打造第一個原型感到很興奮。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持續的",
+      "example": "Renewable energy is key for a sustainable future.",
+      "example_zh": "再生能源是永續未來的關鍵。"
+    },
+    {
+      "word": "interface",
+      "pos": "n.",
+      "meaning": "介面",
+      "example": "The user interface should be intuitive and easy to use.",
+      "example_zh": "使用者介面應該直觀且易於使用。"
+    },
+    {
+      "word": "bug",
+      "pos": "n.",
+      "meaning": "程式錯誤、蟲子",
+      "example": "Oh no, I found another bug in the new software release.",
+      "example_zh": "喔不，我在新版軟體中又找到一個錯誤。"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "設備、裝置",
+      "example": "My smart home devices make life so much easier.",
+      "example_zh": "我的智慧家庭設備讓生活輕鬆許多。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 Type 1 (First Conditional)",
+      "rule": "用來描述未來可能發生且結果也可能實現的狀況，結構是「If + S + V(現在式), S + will + V(原形)」。",
+      "examples": [
+        "If we fix this bug, the system will run smoothly.（如果我們修復這個錯誤，系統將會順利運行。）",
+        "If you finish the report early, we can grab some coffee.（如果你提早完成報告，我們可以去喝杯咖啡。）",
+        "If it rains tomorrow, I will just work from home.（如果明天會下雨，我就在家工作。）"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds) 作為主詞或受詞",
+      "rule": "動詞加上-ing變成動名詞，可以當作名詞使用，在句中作主詞或受詞。",
+      "examples": [
+        "Developing new features is always exciting for engineers.（開發新功能對工程師來說總是令人興奮的。）",
+        "I enjoy learning about the latest AI tools.（我喜歡學習最新的 AI 工具。）",
+        "Troubleshooting complex problems takes a lot of patience.（排除複雜的問題需要很多耐心。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "わかります",
+      "kanji_romaji": "分かります / wakarimasu",
+      "meaning": "懂、明白",
+      "example": "日本語が分かりますか？",
+      "example_zh": "你懂日文嗎？"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "この本は面白いです。",
+      "example_zh": "這本書很有趣。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學日文。"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "私はコーヒーが好きです。",
+      "example_zh": "我喜歡咖啡。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "今日の仕事は大変でした。",
+      "example_zh": "今天的工作很辛苦。"
+    },
+    {
+      "kana": "かえります",
+      "kanji_romaji": "帰ります / kaerimasu",
+      "meaning": "回家、回去",
+      "example": "私は家に帰ります。",
+      "example_zh": "我回家。"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "何処 / doko",
+      "meaning": "哪裡",
+      "example": "トイレはどこですか？",
+      "example_zh": "廁所在哪裡？"
+    },
+    {
+      "kana": "いつ",
+      "kanji_romaji": "何時 / itsu",
+      "meaning": "什麼時候",
+      "example": "いつ日本へ行きますか？",
+      "example_zh": "你什麼時候去日本？"
+    },
+    {
+      "kana": "つくります",
+      "kanji_romaji": "作ります / tsukurimasu",
+      "meaning": "製作、製造",
+      "example": "私はIoTデバイスを作ります。",
+      "example_zh": "我製作 IoT 設備。"
+    },
+    {
+      "kana": "とても",
+      "kanji_romaji": "とても / totemo",
+      "meaning": "非常",
+      "example": "これはとても美味しいです。",
+      "example_zh": "這個非常好吃。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です (N1 wa N2 desu)",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "用來陳述「N1就是N2」或「N1是N2」，「は」讀作「wa」，表示前面是主題。",
+      "examples": [
+        "私はエンジニアです。（我是工程師。）",
+        "これは私のペンです。（這是我的筆。）"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょう (V(ます) + mashou)",
+      "structure": "動詞(ます形) + ましょう",
+      "rule": "用來建議或提議做某事，也表示「一起做...吧」或「我們來做...吧」。",
+      "examples": [
+        "帰りましょう。（我們回去吧。）",
+        "日本語を勉強しましょう。（我們來學日文吧。）"
+      ]
+    }
+  ]
+}
