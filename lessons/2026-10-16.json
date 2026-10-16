@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "控制硬體運作的程式",
+      "example": "I updated the firmware on my smart speaker last night.",
+      "example_zh": "我昨晚更新了我的智慧音箱韌體。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同部分",
+      "example": "We need to integrate this new module into the existing system.",
+      "example_zh": "我們需要將這個新模組整合到現有系統中。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化效能",
+      "example": "Can you help me optimize this code for better performance?",
+      "example_zh": "你能幫我優化這段程式碼以提升效能嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品或系統的初步模型",
+      "example": "The team is building a prototype for the new IoT device.",
+      "example_zh": "團隊正在為新的物聯網設備製作原型。"
+    },
+    {
+      "word": "commute",
+      "pos": "n.",
+      "meaning": "從家到公司的路程",
+      "example": "My morning commute usually takes about an hour, quite long.",
+      "example_zh": "我早上通勤通常要花大約一小時，蠻長的。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "專案或任務的截止日期",
+      "example": "We have a tight deadline for this project, so let's focus.",
+      "example_zh": "這個專案的截止日期很緊，所以我們專心一點吧。"
+    },
+    {
+      "word": "flexible",
+      "pos": "adj.",
+      "meaning": "彈性的、靈活的安排",
+      "example": "Our work schedule is pretty flexible, which is really nice.",
+      "example_zh": "我們的工作時間很彈性，這真的很棒。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "與他人一起工作",
+      "example": "Engineers often collaborate with designers on new products.",
+      "example_zh": "工程師常與設計師合作開發新產品。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "創造新的想法或產品",
+      "example": "Seeking innovation is key to staying competitive in tech.",
+      "example_zh": "追求創新是在科技業保持競爭力的關鍵。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "讓自己恢復精力",
+      "example": "After a long week, I just want to recharge my batteries.",
+      "example_zh": "漫長的一週後，我只想好好充電恢復精力。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Present Perfect (現在完成式)",
+      "rule": "用來描述從過去開始持續到現在的動作或經驗，或已完成但影響持續到現在的事件。",
+      "examples": [
+        "I have worked on several IoT projects. (我曾參與過幾個物聯網專案。)",
+        "She hasn't finished debugging the code yet. (她還沒調試完程式碼。)",
+        "Have you ever presented at a tech conference? (你曾經在科技研討會上發表過嗎？)"
+      ]
+    },
+    {
+      "title": "Conditional Sentences Type 1 (條件句型一)",
+      "rule": "用於談論未來可能發生且結果真實的可能性，結構是 If + 現在簡單式, will + 動詞原形。",
+      "examples": [
+        "If the system works, we will launch it next month. (如果系統運作正常，我們下個月就會推出。)",
+        "If you debug carefully, you will find the error quickly. (如果你仔細調試，你會很快找到錯誤。)",
+        "I will go for a run if the weather is good tomorrow. (如果明天天氣好，我就去跑步。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "今日は仕事が忙しいです。",
+      "example_zh": "今天工作很忙。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私の仕事はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私の会社は台北にあります。",
+      "example_zh": "我的公司在台北。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末要做什麼？"
+    },
+    {
+      "kana": "でんしゃ",
+      "kanji_romaji": "電車 / densha",
+      "meaning": "電車",
+      "example": "毎日電車で会社に行きます。",
+      "example_zh": "我每天搭電車去公司。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "日本語を毎日勉強しています。",
+      "example_zh": "我每天都在學習日語。"
+    },
+    {
+      "kana": "だいじょうぶ",
+      "kanji_romaji": "大丈夫 / daijoubu",
+      "meaning": "沒關係，不要緊",
+      "example": "この問題、大丈夫ですか？",
+      "example_zh": "這個問題，沒關係嗎？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "会議の時間を確認してください。",
+      "example_zh": "請確認會議時間。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作，製造",
+      "example": "新しいシステムを作ります。",
+      "example_zh": "我會製作新的系統。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的，有趣的",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "學習日語很有趣。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞 + は + 名詞 + です",
+      "rule": "用於肯定句，表示「A是B」。は為提示助詞，發音為 wa，而非 ha。",
+      "examples": [
+        "私はエンジニアです。(我是工程師。)",
+        "これは私のパソコンです。(這是我的電腦。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょう",
+      "structure": "動詞(ます形) + ましょう",
+      "rule": "表示「我們一起...吧」或「做...吧」，用於提出建議或邀請對方共同進行某事。",
+      "examples": [
+        "明日、一緒に昼ごはんを食べましょう。(明天我們一起吃午餐吧。)",
+        "週末、新しいプロジェクトについて話しましょう。(週末我們聊聊新專案吧。)"
+      ]
+    }
+  ]
+}
