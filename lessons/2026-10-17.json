@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行；實施",
+      "example": "We need to implement the new system soon.",
+      "example_zh": "我們需要盡快實施新系統。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；最佳化",
+      "example": "Can we optimize this code for speed?",
+      "example_zh": "我們可以優化這段程式碼以提高速度嗎？"
+    },
+    {
+      "word": "component",
+      "pos": "n.",
+      "meaning": "零件；組成部分",
+      "example": "This component is crucial for the device.",
+      "example_zh": "這個零件對設備至關重要。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決故障；排除問題",
+      "example": "Let's troubleshoot the network issue together.",
+      "example_zh": "我們一起解決網路問題吧。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的；值得信賴的",
+      "example": "Is this data source reliable enough?",
+      "example_zh": "這個資料來源足夠可靠嗎？"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "業餘愛好；嗜好",
+      "example": "What's your favorite hobby on weekends?",
+      "example_zh": "你週末最喜歡的嗜好是什麼？"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索；探究",
+      "example": "I want to explore new AI tools this month.",
+      "example_zh": "我這個月想探索新的 AI 工具。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案；解答",
+      "example": "Do you have a solution for this problem?",
+      "example_zh": "你有這個問題的解決方案嗎？"
+    },
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "專案；計畫",
+      "example": "My IoT project is almost finished.",
+      "example_zh": "我的 IoT 專案快完成了。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期；最後期限",
+      "example": "The project deadline is next Friday.",
+      "example_zh": "專案的截止日期是下週五。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式：be going to",
+      "rule": "表示事先計畫好、即將發生的事情，或根據目前跡象判斷會發生的事。",
+      "examples": [
+        "I'm going to work on my embedded project this weekend. (我這個週末要忙我的嵌入式專案。)",
+        "Are you going to attend the tech meetup? (你打算參加那個科技聚會嗎？)",
+        "It's going to rain soon; look at those clouds. (快要下雨了；看看那些雲。)"
+      ]
+    },
+    {
+      "title": "現在完成式：Have/Has + Vpp",
+      "rule": "描述從過去某時點開始持續到現在的動作或經驗，或已完成但影響持續到現在的動作。",
+      "examples": [
+        "I have worked on several IoT projects. (我曾經參與過幾個物聯網專案。)",
+        "Have you ever tried using this AI tool? (你曾經試過使用這個 AI 工具嗎？)",
+        "She hasn't finished her report yet. (她還沒完成她的報告。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習；讀書",
+      "example": "日本語を勉強します。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的；有趣的",
+      "example": "週末はとても楽しいです。",
+      "example_zh": "週末非常愉快。"
+    },
+    {
+      "kana": "いく",
+      "kanji_romaji": "行く / iku",
+      "meaning": "去",
+      "example": "どこへ行きますか？",
+      "example_zh": "你要去哪裡？"
+    },
+    {
+      "kana": "たべる",
+      "kanji_romaji": "食べる / taberu",
+      "meaning": "吃",
+      "example": "おいしいものを食べたいです。",
+      "example_zh": "我想吃好吃的東西。"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看；觀看",
+      "example": "映画を見ます。",
+      "example_zh": "我看電影。"
+    },
+    {
+      "kana": "なに",
+      "kanji_romaji": "何 / nani",
+      "meaning": "什麼",
+      "example": "何が好きですか？",
+      "example_zh": "你喜歡什麼？"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "どこ / doko",
+      "meaning": "哪裡",
+      "example": "駅はどこですか？",
+      "example_zh": "車站是在哪裡？"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "友達と会います。",
+      "example_zh": "我會見朋友。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "今日は土曜日です。",
+      "example_zh": "今天是星期六。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜たいです (想做...)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表達自己的願望或想做的事情，動詞的ます形去掉ます後接たいです。",
+      "examples": [
+        "新しいAIツールを使いたいです。(我想使用新的AI工具。)",
+        "週末はゆっくり休みたいです。(週末我想好好休息。)"
+      ]
+    },
+    {
+      "title": "〜ませんか (要不要...？)",
+      "structure": "動詞ます形 + ませんか",
+      "rule": "用於邀請或建議對方一起做某事，語氣輕鬆友善，常用於日常對話。",
+      "examples": [
+        "一緒にコーヒーを飲みませんか？(要不要一起喝咖啡？)",
+        "明日、映画を見に行きませんか？(明天要不要去看電影？)"
+      ]
+    }
+  ]
+}
