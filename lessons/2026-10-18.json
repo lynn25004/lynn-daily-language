@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創新、革新",
+      "example": "Engineers love to innovate new solutions.",
+      "example_zh": "工程師喜歡創新解決方案。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本",
+      "example": "We built a small prototype for our IoT device.",
+      "example_zh": "我們為IoT設備做了一個小原型。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯",
+      "example": "I spent hours trying to debug this tricky code.",
+      "example_zh": "我花了好幾個小時除錯這段難搞的程式碼。"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇時間",
+      "example": "What do you usually do in your leisure time?",
+      "example_zh": "你通常在閒暇時間做什麼？"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、休息",
+      "example": "Weekends are perfect to recharge your energy.",
+      "example_zh": "週末是替自己充電的最佳時機。"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好、興趣",
+      "example": "My main hobby is building small robots.",
+      "example_zh": "我主要的嗜好是製作小型機器人。"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索、研究",
+      "example": "I want to explore new AI tools next month.",
+      "example_zh": "我下個月想探索新的AI工具。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化",
+      "example": "Can we optimize this algorithm for speed?",
+      "example_zh": "我們可以優化這個演算法以提高速度嗎？"
+    },
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "專案、計畫",
+      "example": "I'm working on a personal project this weekend.",
+      "example_zh": "我這個週末在忙一個個人專案。"
+    },
+    {
+      "word": "insight",
+      "pos": "n.",
+      "meaning": "洞察力、見解",
+      "example": "That article gave me some great insights.",
+      "example_zh": "那篇文章給了我一些很棒的見解。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "常用片語動詞：Look系列",
+      "rule": "這些動詞與介系詞組合，意思會完全不同，例如 look forward to (期待)、look up (查閱)、look into (調查)。",
+      "examples": [
+        "I'm looking forward to the long holiday weekend. (我期待著這個長週末假期。)",
+        "Could you look up this term for me? (你可以幫我查一下這個詞嗎？)",
+        "The team will look into the system issue. (團隊會調查這個系統問題。)"
+      ]
+    },
+    {
+      "title": "Used to (過去習慣或狀態)",
+      "rule": "用來描述過去經常發生但現在已不再發生的習慣、動作或過去的某種狀態。",
+      "examples": [
+        "I used to play a lot of video games when I was younger. (我年輕的時候常玩很多電玩。)",
+        "There used to be a coffee shop here. (這裡以前有間咖啡店。)",
+        "He used to work on embedded systems quite often. (他以前常常處理嵌入式系統。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつはなにをしますか。",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣、嗜好",
+      "example": "わたしのしゅみはコンピューターです。",
+      "example_zh": "我的興趣是電腦。"
+    },
+    {
+      "kana": "けいかく",
+      "kanji_romaji": "計画 / keikaku",
+      "meaning": "計畫",
+      "example": "しゅうまつのけいかくはありますか。",
+      "example_zh": "你有週末的計畫嗎？"
+    },
+    {
+      "kana": "べんきょうします",
+      "kanji_romaji": "勉強します / benkyoushimasu",
+      "meaning": "學習",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "つくります",
+      "kanji_romaji": "作ります / tsukurimasu",
+      "meaning": "製作",
+      "example": "わたしはロボットをつくります。",
+      "example_zh": "我製作機器人。"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "ともだちといっしょにあそびます。",
+      "example_zh": "我和朋友一起玩。"
+    },
+    {
+      "kana": "いっしょに",
+      "kanji_romaji": "一緒に / isshoni",
+      "meaning": "一起",
+      "example": "いっしょにコーヒーをのみませんか。",
+      "example_zh": "要不要一起喝咖啡？"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "それはたのしいしゅみですね。",
+      "example_zh": "那是有趣的興趣呢。"
+    },
+    {
+      "kana": "ときどき",
+      "kanji_romaji": "時々 / tokidoki",
+      "meaning": "有時候",
+      "example": "ときどき、IoTのほんをよみます。",
+      "example_zh": "我有時候會讀IoT的書。"
+    },
+    {
+      "kana": "としょかん",
+      "kanji_romaji": "図書館 / toshokan",
+      "meaning": "圖書館",
+      "example": "しゅうまつはとしょかんでべんきょうします。",
+      "example_zh": "週末在圖書館學習。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "助詞「で」（表示動作場所）",
+      "structure": "場所名詞 + で + 動詞",
+      "rule": "助詞「で」放在地點名詞後面，表示某個動作或事件發生的場所。",
+      "examples": [
+        "わたしはへやでほんをよみます。 (我在房間讀書。)",
+        "カフェでコーヒーをのみませんか。 (要不要在咖啡廳喝咖啡？)"
+      ]
+    },
+    {
+      "title": "「〜ませんか」（邀請、建議）",
+      "structure": "動詞(ます形)去ます + ませんか",
+      "rule": "這個句型用來向對方提出邀請或建議，帶有禮貌的語氣，期待對方的回應。",
+      "examples": [
+        "いっしょにえいがをみませんか。 (要不要一起看電影？)",
+        "あした、カフェでべんきょうしませんか。 (明天要不要在咖啡廳學習？)"
+      ]
+    }
+  ]
+}
