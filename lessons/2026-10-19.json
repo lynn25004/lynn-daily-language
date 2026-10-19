@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行計畫",
+      "example": "We need to implement this new feature by next week, engineer.",
+      "example_zh": "工程師，我們下週前需要實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使最佳化",
+      "example": "Can we optimize the code to make it run faster and smoother?",
+      "example_zh": "我們可以優化程式碼讓它跑得更快更順暢嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、檢修",
+      "example": "I spent an hour trying to troubleshoot that network issue this morning.",
+      "example_zh": "我今天早上花了一小時試圖排除那個網路問題。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、使結合",
+      "example": "This new module needs to integrate seamlessly with our existing system.",
+      "example_zh": "這個新模組需要與我們現有系統無縫整合。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Could you give me some honest feedback on my presentation slides?",
+      "example_zh": "你可以給我一些關於我簡報投影片的誠實回饋嗎？"
+    },
+    {
+      "word": "schedule",
+      "pos": "n./v.",
+      "meaning": "行程、排定時間",
+      "example": "What's your schedule looking like for tomorrow's team meeting?",
+      "example_zh": "你明天團隊會議的行程如何安排？"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤時間或路程",
+      "example": "My commute to work usually takes about thirty minutes by scooter.",
+      "example_zh": "我通勤上班通常騎機車大約需要三十分鐘。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、共同工作",
+      "example": "We often collaborate with the design team on new product ideas.",
+      "example_zh": "我們經常與設計團隊合作開發新產品概念。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "Your idea for the IoT device sounds really innovative and exciting!",
+      "example_zh": "你關於物聯網設備的想法聽起來非常有創新性且令人興奮！"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "優先處理、排列優先順序",
+      "example": "I need to prioritize my tasks for today to hit the deadline.",
+      "example_zh": "我需要優先處理我今天的任務才能趕上截止日期。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Sentences) Type 1",
+      "rule": "用於表達未來可能發生的狀況及其結果，假設語氣的真實條件句。",
+      "examples": [
+        "If you finish your coding by noon, we can grab lunch together. (如果你中午前完成編碼，我們可以一起去吃午餐。)",
+        "If the server goes down, we will have to restart the whole system. (如果伺服器當機，我們就必須重啟整個系統。)",
+        "If I have time tonight, I'll definitely check out that new AI tool. (如果我今晚有時間，我一定會去看看那個新的AI工具。)"
+      ]
+    },
+    {
+      "title": "Used to / Be used to",
+      "rule": "\"Used to\"表示過去的習慣或狀態；\"Be used to\"表示習慣於某事，後面接動名詞或名詞。",
+      "examples": [
+        "I used to work late almost every day in my old job. (我以前的工作幾乎每天都加班。)",
+        "Now, I'm used to waking up early for my commute. (現在，我習慣早起通勤了。)",
+        "Engineers are used to dealing with complex problems and debugging. (工程師習慣於處理複雜問題和除錯。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作、職業",
+      "example": "わたしはエンジニアのしごとをしています。",
+      "example_zh": "我正在做工程師的工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "まいにちかいしゃへいきます。",
+      "example_zh": "我每天去公司。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごのべんきょうはたのしいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "きょうのしごとのおわりはなんじかんかかりますか。",
+      "example_zh": "今天的工作結束要花多少小時呢？"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きょうはげつようびですが、やすみじゃありません。",
+      "example_zh": "今天是星期一，但不是假日。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "このプログラミングのもんだいがわかりますか。",
+      "example_zh": "你懂這個程式設計的問題嗎？"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "わたしはAIツールをつかいます。",
+      "example_zh": "我使用AI工具。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "あしたのあさ、たいせつなかいぎがあります。",
+      "example_zh": "明天早上有個重要的會議。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "さあ、しごとをはじめるじかんです！",
+      "example_zh": "好了，是時候開始工作了！"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦、不得了、嚴重",
+      "example": "このIoTプロジェクトはすこしたいへんですね。",
+      "example_zh": "這個IoT專案有點辛苦呢。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません / 〜ました / 〜ませんでした (動詞的肯定、否定、過去式)",
+      "structure": "動詞(ます形)",
+      "rule": "用於表達動詞現在、未來、過去的肯定與否定，是日文敬體的基本形式，非常實用。",
+      "examples": [
+        "わたしはまいにちしごとをします。(我每天都工作。)",
+        "きのうはかいぎにいきませんでした。(昨天我沒有去會議。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です / ではありません (A是B / A不是B)",
+      "structure": "名詞1 + は + 名詞2 + です / ではありません",
+      "rule": "用於介紹或說明主語的身份、狀態或屬性，是日文最基礎的肯定與否定句型。",
+      "examples": [
+        "わたしは台湾のエンジニアです。(我是台灣的工程師。)",
+        "これはわたしのパソコンではありません。(這不是我的筆記型電腦。)"
+      ]
+    }
+  ]
+}
