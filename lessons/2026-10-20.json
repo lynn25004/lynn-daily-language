@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修正程式錯誤",
+      "example": "I need to debug this code before the demo.",
+      "example_zh": "我需要在演示前把這段程式碼的錯誤找出來。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品或模型的初步原型",
+      "example": "We're building a prototype for our new IoT device.",
+      "example_zh": "我們正在為新的物聯網設備製作原型。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施（計畫或系統）",
+      "example": "Let's implement this new feature next week.",
+      "example_zh": "我們下週來實施這個新功能吧。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的、有效的",
+      "example": "This new algorithm is very efficient.",
+      "example_zh": "這個新演算法非常有效率。"
+    },
+    {
+      "word": "challenge",
+      "pos": "n.",
+      "meaning": "挑戰、艱鉅的任務",
+      "example": "Learning Japanese is a fun challenge for me.",
+      "example_zh": "學習日文對我來說是個有趣的挑戰。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協同工作",
+      "example": "We should collaborate on this project for better results.",
+      "example_zh": "我們應該在這個專案上合作，以取得更好的成果。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "I'm trying to meet the deadline for this report.",
+      "example_zh": "我正在努力趕這份報告的截止日期。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案、答案",
+      "example": "We need to find a good solution to this problem.",
+      "example_zh": "我們需要找到一個好的解決方案來解決這個問題。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見反應",
+      "example": "Can you give me some feedback on my presentation?",
+      "example_zh": "你能給我一些關於我簡報的回饋嗎？"
+    },
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "裝置、設備",
+      "example": "My smart home device is not connecting to Wi-Fi.",
+      "example_zh": "我的智慧家庭裝置無法連接到Wi-Fi。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "描述從過去至今持續的動作、狀態或已完成但對現在有影響的經驗，常用於表達經歷。",
+      "examples": [
+        "I have worked on IoT projects for five years. (我已經做了五年物聯網專案了。)",
+        "She has never debugged a system like this before. (她以前從未除錯過這樣的系統。)",
+        "We have finished the first prototype of the new AI tool. (我們已經完成了新AI工具的第一個原型。)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds)",
+      "rule": "動詞加上 -ing 後形成動名詞，可以當作名詞使用，在句中擔任主詞、受詞或介系詞後。",
+      "examples": [
+        "Debugging embedded systems can be challenging. (除錯嵌入式系統可能很有挑戰性。)",
+        "I enjoy learning about renewable energy safety. (我喜歡學習再生能源安全。)",
+        "He is good at programming in Python. (他擅長用Python程式設計。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日、仕事をします。",
+      "example_zh": "我每天工作。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日、日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "愉快的、快樂的",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "私は日本語を勉強しています。",
+      "example_zh": "我正在學習日文。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "勉強する時間がありません。",
+      "example_zh": "我沒有時間學習。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいAIツールを使います。",
+      "example_zh": "我會使用新的AI工具。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "パソコンを使いますか。",
+      "example_zh": "你會使用電腦嗎？"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "明白、理解",
+      "example": "日本語が少し分かります。",
+      "example_zh": "我會一點日文。"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "友達と会います。",
+      "example_zh": "我會和朋友見面。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦的、困難的",
+      "example": "仕事は大変ですが、楽しいです。",
+      "example_zh": "工作很辛苦，但是很快樂。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請對方做某事，或給予指示。是日常生活中很常用到的句型。",
+      "examples": [
+        "ちょっと待ってください。 (請等一下。)",
+        "この書類を読んでください。 (請讀一下這份文件。)"
+      ]
+    },
+    {
+      "title": "名詞 + が + あります / います",
+      "structure": "名詞 + が + あります / います",
+      "rule": "「います」用於表示人或動物等有生命物體的存在；「あります」則用於無生命物體。",
+      "examples": [
+        "私の部屋にパソコンがあります。 (我的房間有電腦。)",
+        "会議室に田中さんがいます。 (會議室裡有田中先生。)"
+      ]
+    }
+  ]
+}
