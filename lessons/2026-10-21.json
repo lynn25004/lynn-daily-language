@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施（計畫或系統）",
+      "example": "We need to implement this new feature by next month.",
+      "example_zh": "我們需要在下個月前實施這個新功能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使效率最大化",
+      "example": "We're trying to optimize the code for better performance.",
+      "example_zh": "我們正在努力優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想狀況",
+      "example": "Let's consider a few different scenarios for this project.",
+      "example_zh": "讓我們為這個專案考慮幾種不同的情境。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "I'd appreciate your feedback on my presentation.",
+      "example_zh": "我會很感謝你對我簡報的回饋。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同部分",
+      "example": "Our goal is to integrate these two systems seamlessly.",
+      "example_zh": "我們的目標是無縫整合這兩個系統。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步模型",
+      "example": "The team is building a new prototype for the IoT device.",
+      "example_zh": "團隊正在為物聯網設備建造一個新的原型。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、共同工作",
+      "example": "We need to collaborate closely on this cross-functional project.",
+      "example_zh": "我們需要在這個跨部門專案上緊密合作。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The deadline for the report is end of day Friday.",
+      "example_zh": "這份報告的截止日期是星期五下班前。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的、高效率的",
+      "example": "We need to find more efficient ways to get things done.",
+      "example_zh": "我們需要找到更有效率的方法來完成事情。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Type 1)",
+      "rule": "用於描述未來可能發生且結果可預期的狀況，結構為「If + 現在簡單式, will + 動詞原形」。",
+      "examples": [
+        "If it rains tomorrow, we will work from home. (如果明天下雨，我們就居家辦公。)",
+        "If you finish the report early, you can leave. (如果你提早完成報告，就可以離開。)",
+        "If the new system works, it will save us a lot of time. (如果新系統有效，它會幫我們省下很多時間。)"
+      ]
+    },
+    {
+      "title": "動詞片語 with \"up\"",
+      "rule": "動詞與副詞 “up” 結合，常有「完成、建立、增加、出現」等意思，使表達更自然、口語化。",
+      "examples": [
+        "Can you help me set up the new server? (你能幫我設置新伺服器嗎？)",
+        "We need to come up with a solution by Friday. (我們需要在週五前想出一個解決方案。)",
+        "Let's catch up over coffee sometime soon. (我們找時間喝咖啡聊聊吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうはしごとがおおいですね。",
+      "example_zh": "今天工作很多呢。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしはかいしゃではたらいています。",
+      "example_zh": "我在公司上班。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにちにほんごをべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありますか。",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "ぱそこん",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦 (PC)",
+      "example": "あたらしいパソコンがほしいです。",
+      "example_zh": "我想要一台新電腦。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "ごごからかいぎがあります。",
+      "example_zh": "下午有會議。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力、電燈",
+      "example": "でんきをつけてください。",
+      "example_zh": "請開燈。"
+    },
+    {
+      "kana": "きく",
+      "kanji_romaji": "聞く / kiku",
+      "meaning": "聽、問",
+      "example": "おんがくをききます。",
+      "example_zh": "聽音樂。"
+    },
+    {
+      "kana": "かく",
+      "kanji_romaji": "書く / kaku",
+      "meaning": "寫",
+      "example": "メールをかきます。",
+      "example_zh": "寫郵件。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "えいごがわかりますか。",
+      "example_zh": "你懂英文嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません (Masu / Masen 形)",
+      "structure": "動詞(ます形)",
+      "rule": "動詞「ます形」用於表示肯定、禮貌的現在或未來動作；「ません形」則表示否定。是日常最常用、最基本的句型。",
+      "examples": [
+        "毎日会社に行きます。(我每天去公司。)",
+        "コーヒーを飲みません。(我不喝咖啡。)"
+      ]
+    },
+    {
+      "title": "〜てください (Te-kudasai 形)",
+      "structure": "動詞(て形) + ください",
+      "rule": "用於禮貌地請求或指示對方做某事，表示「請做...」。是日常指令和服務情境中很常用的句型。",
+      "examples": [
+        "資料を読んでください。(請閱讀資料。)",
+        "このボタンを押してください。(請按這個按鈕。)"
+      ]
+    }
+  ]
+}
