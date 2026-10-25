@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "控制硬體的程式",
+      "example": "Updating the firmware can fix bugs.",
+      "example_zh": "更新韌體可以修復錯誤。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、使結合",
+      "example": "We need to integrate this sensor into our system.",
+      "example_zh": "我們需要將這個感測器整合到我們的系統中。"
+    },
+    {
+      "word": "component",
+      "pos": "n.",
+      "meaning": "零件、組成部分",
+      "example": "Which component is causing the issue?",
+      "example_zh": "是哪個元件導致了這個問題？"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想",
+      "example": "Let's consider a few different scenarios.",
+      "example_zh": "讓我們考慮幾種不同的情境吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的性能。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率",
+      "example": "Improving battery efficiency is our goal.",
+      "example_zh": "提高電池效率是我們的目標。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、雛形",
+      "example": "The team just finished building the new prototype.",
+      "example_zh": "團隊剛完成新原型的建置。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯、偵錯",
+      "example": "I spent all morning trying to debug this code.",
+      "example_zh": "我花了整個上午試圖為這段程式碼除錯。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案、解答",
+      "example": "Do you have a creative solution for this problem?",
+      "example_zh": "你對這個問題有創意性的解決方案嗎？"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、配置",
+      "example": "We are ready to deploy the new update next week.",
+      "example_zh": "我們準備好下週部署新的更新了。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "情態助動詞：Should, Ought to, Had better",
+      "rule": "這些詞都用於給予建議或提出看法，語氣由弱到強。Should 最常見，Had better 帶有警告意味。",
+      "examples": [
+        "You should back up your data regularly. (你應該定期備份你的資料。)",
+        "We ought to check the system logs. (我們應該檢查系統日誌。)",
+        "You had better finish this report by Friday. (你最好在週五前完成這份報告。)"
+      ]
+    },
+    {
+      "title": "動詞片語與 'up'",
+      "rule": "動詞與介係詞或副詞組合成新的意義，常用於日常對話和職場情境，掌握能讓表達更自然。",
+      "examples": [
+        "Could you help me set up this new device? (你能幫我設定這個新裝置嗎？)",
+        "I need to follow up on that email. (我需要追蹤那封電子郵件。)",
+        "Let's pick up some coffee before the meeting. (我們開會前去買些咖啡吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おはようございます",
+      "kanji_romaji": "おはようございます / ohayou gozaimasu",
+      "meaning": "早上好",
+      "example": "おはようございます！今日もがんばりましょう。",
+      "example_zh": "早上好！今天也一起努力吧。"
+    },
+    {
+      "kana": "おやすみなさい",
+      "kanji_romaji": "おやすみなさい / oyasuminasai",
+      "meaning": "晚安",
+      "example": "もう遅いから、おやすみなさい。",
+      "example_zh": "已經很晚了，晚安。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "このIoTプロジェクトはとても面白いですね。",
+      "example_zh": "這個IoT專案很有趣呢。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日日本語を勉強しています。",
+      "example_zh": "我每天都在學習日語。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "エンジニアの仕事は楽しいです。",
+      "example_zh": "工程師的工作很有趣。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電燈/電力",
+      "example": "この部屋の電気がつきません。",
+      "example_zh": "這個房間的電燈不亮。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂/明白",
+      "example": "この説明、分かりますか？",
+      "example_zh": "這個說明，你明白嗎？"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AIツールをよく使います。",
+      "example_zh": "我經常使用AI工具。"
+    },
+    {
+      "kana": "システム",
+      "kanji_romaji": "システム / shisutemu",
+      "meaning": "系統",
+      "example": "新しいシステムをテストします。",
+      "example_zh": "我測試新的系統。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦的/非常",
+      "example": "仕事は大変ですが、やりがいがあります。",
+      "example_zh": "工作很辛苦，但很有意義。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞は名詞です (N1 wa N2 desu)",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "用於表示「N1是N2」，是最基本的肯定句型，介紹自己或事物時常用，語氣禮貌。",
+      "examples": [
+        "私はエンジニアです。(我是工程師。)",
+        "これはわたしのパソコンです。(這是我的筆記型電腦。)"
+      ]
+    },
+    {
+      "title": "動詞のます形 (Doushi no masu-kei)",
+      "structure": "動詞ます形 (例：行きます、食べます)",
+      "rule": "動詞的禮貌體，用於日常對話和正式場合，表達未來的動作、習慣性動作或請求。",
+      "examples": [
+        "毎日日本語を勉強します。(我每天學習日語。)",
+        "週末はよくアニメを見ます。(週末我經常看動漫。)"
+      ]
+    }
+  ]
+}
