@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫",
+      "example": "Let's implement this new feature soon.",
+      "example_zh": "我們快點實施這個新功能吧。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使效率最高",
+      "example": "We need to optimize our code for speed.",
+      "example_zh": "我們需要優化程式碼以提高速度。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "Can you help me troubleshoot this error?",
+      "example_zh": "你能幫我排除這個錯誤嗎？"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想狀況",
+      "example": "Consider the worst-case scenario here.",
+      "example_zh": "考慮一下這裡最壞的情況。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、共同完成",
+      "example": "Let's collaborate on this IoT project.",
+      "example_zh": "我們一起合作這個物聯網專案吧。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效的、有效率的",
+      "example": "This new AI tool is very efficient.",
+      "example_zh": "這個新的AI工具非常高效。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步樣本",
+      "example": "We built a prototype last week.",
+      "example_zh": "我們上週做了一個原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合到一起",
+      "example": "We need to integrate these modules.",
+      "example_zh": "我們需要整合這些模組。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Please give me some feedback on this.",
+      "example_zh": "請給我一些關於這個的回饋。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The deadline for this task is tight.",
+      "example_zh": "這項任務的截止日期很緊。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Conditional Sentences (Type 1)",
+      "rule": "用於描述真實或極可能發生的未來情境，結構為「If + 現在式, will + 動詞原形」。",
+      "examples": [
+        "If the code compiles, we'll deploy it. (如果程式碼編譯成功，我們就部署它。)",
+        "If you finish early, let's grab coffee. (如果你早點忙完，我們去喝咖啡吧。)",
+        "If they need help, I will assist them. (如果他們需要協助，我會幫他們。)"
+      ]
+    },
+    {
+      "title": "常用片語動詞 (Phrasal Verbs)",
+      "rule": "動詞與介詞或副詞組成的片語，其意義往往與單字本身不同，常在口語中使用。",
+      "examples": [
+        "We need to set up the new server. (我們需要設定新的伺服器。)",
+        "I ran into an old colleague today. (我今天巧遇一位老同事。)",
+        "Can you look over this report for me? (你可以幫我瀏覽一下這份報告嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしのしごとはエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "まいにち、かいしゃへいきます。",
+      "example_zh": "我每天去公司。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このへやはでんきがありますか。",
+      "example_zh": "這個房間有電嗎？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしはにほんごをべんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち、コーヒーをのみます。",
+      "example_zh": "我每天喝咖啡。"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "きょうはとてもいそがしいです。",
+      "example_zh": "今天非常忙碌。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、創造",
+      "example": "あたらしいシステムをつくります。",
+      "example_zh": "我製作新的系統。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをよくつかいます。",
+      "example_zh": "我經常使用這個工具。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "にほんごがすこしわかります。",
+      "example_zh": "我懂一點日文。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "いまからきゅうけいします。",
+      "example_zh": "我現在要休息了。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "表示說話者想做某事的願望，將動詞的ます形去掉ます，加上たいです。",
+      "examples": [
+        "日本語を勉強したいです。(我想要學習日文。)",
+        "コーヒーを飲みたいです。(我想要喝咖啡。)"
+      ]
+    },
+    {
+      "title": "場所 + に/へ + 行きます/来ます/帰ります",
+      "structure": "場所 + に/へ + 行きます/来ます/帰ります",
+      "rule": "表示移動的目的地，に是明確指點，へ則強調方向，兩者在很多情況下可互換。",
+      "examples": [
+        "会社へ行きます。(我去公司。)",
+        "日本へ行きたいです。(我想要去日本。)"
+      ]
+    }
+  ]
+}
