@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "最佳化，讓效能更好",
+      "example": "We need to optimize this code for speed.",
+      "example_zh": "我們需要最佳化這段程式碼以提高速度。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，合併不同部分",
+      "example": "Let's integrate this new module into the system.",
+      "example_zh": "我們將這個新模組整合到系統中吧。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障，解決問題",
+      "example": "I spent hours troubleshooting the network issue.",
+      "example_zh": "我花了數小時排除網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初步的模型",
+      "example": "The team built a prototype in just two days.",
+      "example_zh": "團隊僅用兩天就建立了一個原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的，不浪費時間",
+      "example": "This new tool is super efficient!",
+      "example_zh": "這個新工具超級有效率！"
+    },
+    {
+      "word": "curious",
+      "pos": "adj.",
+      "meaning": "好奇的，想知道更多",
+      "example": "I'm curious about how IoT security works.",
+      "example_zh": "我很好奇 IoT 安全是如何運作的。"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤，上下班路程",
+      "example": "My morning commute usually takes 30 minutes.",
+      "example_zh": "我早上通勤通常需要 30 分鐘。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，完成期限",
+      "example": "We are facing a tight deadline next week.",
+      "example_zh": "我們下週面臨一個很緊的截止日期。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "創新，新的方法或點子",
+      "example": "Innovation drives progress in renewable energy.",
+      "example_zh": "創新推動了再生能源的進步。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見或建議",
+      "example": "We appreciate your feedback on this design.",
+      "example_zh": "我們很感謝您對這個設計的回饋。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to do (過去習慣)",
+      "rule": "這個片語用來表達過去常做但現在已不再做的事情，或描述過去的狀態。",
+      "examples": [
+        "I used to read tech blogs every morning. (我以前每天早上都會看科技部落格。)",
+        "Did you use to play video games a lot? (你以前很常玩電動嗎？)",
+        "He didn't use to drink coffee, but now he does. (他以前不喝咖啡，但現在會喝了。)"
+      ]
+    },
+    {
+      "title": "Gerunds as subjects/objects (動名詞作主詞/受詞)",
+      "rule": "動詞加上-ing形式變成動名詞，可以在句中作為主詞，或作為動詞、介系詞的受詞。",
+      "examples": [
+        "Learning new languages is fun for me. (學習新語言對我來說很有趣。)",
+        "I enjoy tinkering with IoT devices on weekends. (我喜歡在週末把玩 IoT 裝置。)",
+        "He's good at troubleshooting software issues. (他很擅長排除軟體問題。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おはようございます",
+      "kanji_romaji": "ohayou gozaimasu",
+      "meaning": "早安",
+      "example": "おはようございます、いい天気ですね。",
+      "example_zh": "早安，天氣真好呢。"
+    },
+    {
+      "kana": "おつかれさま",
+      "kanji_romaji": "otsukaresama",
+      "meaning": "辛苦了",
+      "example": "今日（きょう）も一日（いちにち）おつかれさまでした。",
+      "example_zh": "今天也辛苦一整天了。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしはしごとがすきです。",
+      "example_zh": "我喜歡工作。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "きょうはやすみです。",
+      "example_zh": "今天是假日。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日（まいにち）日本語（にほんご）をべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "つかれる",
+      "kanji_romaji": "疲れる / tsukareru",
+      "meaning": "累",
+      "example": "しごとでおつかれました。",
+      "example_zh": "因為工作累了。"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji_romaji": "面白い / omoshiroi",
+      "meaning": "有趣的",
+      "example": "この本（ほん）はとてもおもしろいです。",
+      "example_zh": "這本書很有趣。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "日本語（にほんご）はちょっとむずかしいです。",
+      "example_zh": "日文有點難。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "日本語（にほんご）がわかりますか。",
+      "example_zh": "你懂日文嗎？"
+    },
+    {
+      "kana": "いつも",
+      "kanji_romaji": "itsumo",
+      "meaning": "總是、一直",
+      "example": "わたしはいつも朝（あさ）ごはんを食（た）べます。",
+      "example_zh": "我總會吃早餐。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「～ます」形 (動詞現在/未來肯定)",
+      "structure": "動詞ます形",
+      "rule": "這是動詞禮貌形的肯定說法，用來表達現在習慣做的事情或未來會做的事情。",
+      "examples": [
+        "毎日（まいにち）日本語（にほんご）を勉強（べんきょう）します。(我每天學習日文。)",
+        "明日（あした）、会社（かいしゃ）へ行（い）きます。(我明天要去公司。)"
+      ]
+    },
+    {
+      "title": "「～ません」形 (動詞現在/未來否定)",
+      "structure": "動詞ません形",
+      "rule": "這是動詞禮貌形的否定說法，用來表達現在不習慣做的事情或未來不會做的事情。",
+      "examples": [
+        "テレビをあまり見（み）ません。(我不太看電視。)",
+        "お酒（さけ）を飲（の）みません。(我不喝酒。)"
+      ]
+    }
+  ]
+}
