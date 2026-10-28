@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "最佳化、充分利用",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來最佳化程式碼以提高效能。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "We need to integrate this new feature smoothly.",
+      "example_zh": "我們需要順利整合這個新功能。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "解決問題、排除故障",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本",
+      "example": "The team is building a new prototype for the IoT device.",
+      "example_zh": "團隊正在為物聯網裝置打造一個新原型。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The project deadline is next Friday, so let's focus.",
+      "example_zh": "專案截止日是下週五，我們專心點。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "We should collaborate more often on these tasks.",
+      "example_zh": "我們應該更常在這些任務上合作。"
+    },
+    {
+      "word": "commute",
+      "pos": "n.",
+      "meaning": "通勤",
+      "example": "My commute to work usually takes about 30 minutes.",
+      "example_zh": "我上班的通勤時間通常大約 30 分鐘。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、新穎的",
+      "example": "We're looking for innovative solutions for energy storage.",
+      "example_zh": "我們正在尋找儲能的創新解決方案。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Your feedback on the design is much appreciated.",
+      "example_zh": "我們很感謝你對設計的回饋意見。"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "優先處理、排列優先次序",
+      "example": "It's important to prioritize tasks effectively.",
+      "example_zh": "有效地排定任務優先順序很重要。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "片語動詞：動詞 + up",
+      "rule": "動詞與介係詞「up」結合，形成帶有新意義的片語動詞，常用於日常對話及職場情境。",
+      "examples": [
+        "Can you help me set up this new monitor?（你能幫我設定這台新螢幕嗎？）",
+        "We need to come up with a solution for this bug.（我們需要想出一個解決這個錯誤的辦法。）",
+        "Let's catch up over coffee sometime next week.（我們下週找時間喝咖啡聊聊吧。）"
+      ]
+    },
+    {
+      "title": "表達偏好：Would rather",
+      "rule": "表達「寧願...也不願...」的偏好時使用，後面接動詞原形，比「prefer」更口語化。",
+      "examples": [
+        "I'd rather work from home today than go to the office.（我今天寧願在家工作也不想去辦公室。）",
+        "Would you rather have a meeting now or later?（你寧願現在開會還是晚一點？）",
+        "He'd rather debug the code himself than ask for help.（他寧願自己偵錯程式碼也不願尋求協助。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "はたらく",
+      "kanji_romaji": "働く / hataraku",
+      "meaning": "工作、勞動",
+      "example": "毎日、会社ではたらきます。",
+      "example_zh": "我每天在公司工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "かれはあたらしいかいしゃをさがしています。",
+      "example_zh": "他正在找新公司。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "いま、なんじですか。",
+      "example_zh": "現在幾點了？"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的、難的",
+      "example": "このもんだいはすこしむずかしいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょうはいい天気ですね。",
+      "example_zh": "今天天氣很好呢。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電燈",
+      "example": "でんきをつけるのをわすれました。",
+      "example_zh": "我忘記開燈了。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、用功",
+      "example": "毎日、日本語をべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題、疑問",
+      "example": "なにかもんだいがありますか。",
+      "example_zh": "有什麼問題嗎？"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點、少許",
+      "example": "すこしやすみましょう。",
+      "example_zh": "我們休息一下吧。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "わかる / wakaru",
+      "meaning": "明白、懂",
+      "example": "せんせいのはなしがよくわかります。",
+      "example_zh": "我很懂老師說的話。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "基本句型：～は～です / ～ではありません",
+      "structure": "名詞 + は + 名詞 + です / 名詞 + は + 名詞 + ではありません",
+      "rule": "用於說明主語是什麼或不是什麼，是日文最基本的肯定與否定句型。",
+      "examples": [
+        "わたしはエンジニアです。（我是工程師。）",
+        "これはわたしの本ではありません。（這不是我的書。）"
+      ]
+    },
+    {
+      "title": "動詞 ます形：～ます / ～ません",
+      "structure": "動詞(ます形) / 動詞(ません形)",
+      "rule": "表示現在或未來發生的動作，以及習慣性動作，是禮貌體動詞基本型態。",
+      "examples": [
+        "毎日、プログラミングをします。（我每天寫程式。）",
+        "いま、ごはんを食べません。（我現在不吃飯。）"
+      ]
+    }
+  ]
+}
