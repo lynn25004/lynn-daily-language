@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫",
+      "example": "Let's implement this new feature by next week. It's exciting!",
+      "example_zh": "我們下週前實施這個新功能吧。很令人興奮！"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、改善效率",
+      "example": "We need to optimize the code for better performance. What do you think?",
+      "example_zh": "我們需要優化程式碼以提高效能。你覺得呢？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "Can you help me troubleshoot this network issue? It's driving me crazy.",
+      "example_zh": "你能幫我排除這個網路故障嗎？它快把我逼瘋了。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、狀況設定",
+      "example": "Consider a worst-case scenario for our renewable energy project. Just in case!",
+      "example_zh": "考慮一下我們再生能源專案的最壞情況。以防萬一！"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、共同完成",
+      "example": "I love to collaborate with smart people on embedded systems. It's fun!",
+      "example_zh": "我喜歡和聰明的人一起合作嵌入式系統專案。很有趣！"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同部分",
+      "example": "We need to integrate this new AI tool into our existing system seamlessly.",
+      "example_zh": "我們需要將這個新的 AI 工具無縫整合到現有系統中。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初次模型",
+      "example": "The team built a cool IoT prototype in just one weekend. Impressive!",
+      "example_zh": "團隊在一個週末就做了一個很酷的 IoT 原型。太厲害了！"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持續的、永續的",
+      "example": "How can we make our energy solutions more sustainable for the future?",
+      "example_zh": "我們要如何讓我們的能源解決方案對未來更具永續性？"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率、效能",
+      "example": "Improving energy efficiency is crucial for our planet. We should try!",
+      "example_zh": "提高能源效率對我們的地球至關重要。我們應該努力！"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Your feedback on my embedded project would be super helpful. Thanks!",
+      "example_zh": "你對我嵌入式專案的回饋會非常有幫助。謝謝！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Sentences) - Type 1",
+      "rule": "用於描述未來可能發生的事情及其結果，表達實際或可能實現的條件。",
+      "examples": [
+        "If you finish early, we can grab coffee. (如果你早點結束，我們可以去喝咖啡。)",
+        "If the system works, we'll save a lot of time. (如果系統運行順利，我們會省下很多時間。)",
+        "She will join us if she's done with her project. (如果她完成專案，她就會加入我們。)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds) after Prepositions",
+      "rule": "介系詞後面通常接動名詞 (V-ing)，表示動作或行為。",
+      "examples": [
+        "I'm interested in learning more about AI tools. (我對學習更多 AI 工具很感興趣。)",
+        "He is good at troubleshooting network issues. (他擅長解決網路問題。)",
+        "Thanks for helping me with this embedded system project. (謝謝你幫我處理這個嵌入式系統專案。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "毎日、仕事があります。",
+      "example_zh": "我每天都有工作。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣、嗜好",
+      "example": "私の趣味はIoTです。",
+      "example_zh": "我的興趣是 IoT。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末に何をしますか？",
+      "example_zh": "你週末要做什麼？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "少し時間がありますか？",
+      "example_zh": "你有一點時間嗎？"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "このプロジェクトはとても楽しいです。",
+      "example_zh": "這個專案非常有趣。"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點",
+      "example": "AIは少し難しいです。",
+      "example_zh": "AI 有點難。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日、日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールを使います。",
+      "example_zh": "我使用這個工具。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "再生エネルギーが分かりますか？",
+      "example_zh": "你懂再生能源嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + を + 動詞(ます)",
+      "structure": "名詞 + を + 動詞(ます)",
+      "rule": "表示動詞的直接受詞，說明動作的對象是誰或什麼。",
+      "examples": [
+        "毎日、日本語を勉強します。 (我每天學習日文。)",
+        "週末に本を読みます。 (我週末讀書。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 形容詞 + です",
+      "structure": "名詞 + は + 形容詞 + です",
+      "rule": "用來描述名詞的性質或狀態，表達主語「是」某種形容詞。",
+      "examples": [
+        "この仕事は楽しいです。 (這份工作很有趣。)",
+        "IoTは少し難しいです。 (IoT 有點難。)"
+      ]
+    }
+  ]
+}
