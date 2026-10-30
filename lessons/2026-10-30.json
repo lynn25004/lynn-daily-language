@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施（計畫或功能）",
+      "example": "We need to implement this new feature by next month.",
+      "example_zh": "我們需要在下個月前實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化（效能或效率）",
+      "example": "Can you help me optimize this code for better performance?",
+      "example_zh": "你能幫我優化這段程式碼，讓它表現更好嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent hours trying to troubleshoot the network issue yesterday.",
+      "example_zh": "我昨天花了數小時嘗試排除網路問題。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The deadline for this project is really tight, unfortunately.",
+      "example_zh": "很不幸，這個專案的截止日期真的很趕。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見（對表現或產品）",
+      "example": "We got some positive feedback on the new user interface.",
+      "example_zh": "我們收到了關於新使用者介面的一些正面回饋。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣本（產品或系統）",
+      "example": "Let's build a quick prototype to test the concept first.",
+      "example_zh": "我們快速製作一個原型來測試這個概念吧。"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤（上下班的路程）",
+      "example": "My commute to work is usually about 30 minutes by scooter.",
+      "example_zh": "我通勤上班通常騎機車約 30 分鐘。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的（發展或資源）",
+      "example": "More companies are focusing on sustainable energy solutions now.",
+      "example_zh": "現在越來越多公司專注於永續能源解決方案。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合（不同部分）",
+      "example": "We need to integrate the new module with the existing system.",
+      "example_zh": "我們需要將新模組與現有系統整合。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、休息（補充體力或精力）",
+      "example": "I really need the weekend to recharge and relax a bit.",
+      "example_zh": "我真的很需要週末來充電休息一下。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Phrasal verbs with \"look\" (look forward to, look into, look up)",
+      "rule": "這些是動詞和介系詞組成的片語，意思會和原動詞不同，讓口語表達更自然，也能表達期待、調查或查找。",
+      "examples": [
+        "I'm really looking forward to the long weekend! (我真的很期待這個長週末！)",
+        "I'll look into that bug report right after lunch. (我午餐後會馬上調查那個錯誤報告。)",
+        "I need to look up some technical terms for my presentation. (我需要查一些技術術語來做我的簡報。)"
+      ]
+    },
+    {
+      "title": "Using \"would like to\" vs. \"want to\"",
+      "rule": "\"Would like to\" 比 \"want to\" 更有禮貌，常用於表達願望、請求或提供幫助，讓語氣更委婉，適合各種情境。",
+      "examples": [
+        "I would like to discuss the project timeline with you. (我想與您討論一下專案時間表。)",
+        "Would you like to join us for a quick coffee break? (您想和我們一起去喝杯咖啡小憩一下嗎？)",
+        "I would like to learn more about embedded systems. (我希望能多學習一些關於嵌入式系統的知識。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "明日、仕事がありますか？",
+      "example_zh": "你明天有工作嗎？"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "日本語を毎日勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "あなたの趣味は何ですか？",
+      "example_zh": "你的興趣是什麼？"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "週末はゆっくり休みます。",
+      "example_zh": "週末我要好好休息。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいIoTデバイスを買いたいです。",
+      "example_zh": "我想買新的 IoT 裝置。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツールを使いますか？",
+      "example_zh": "你會使用這個 AI 工具嗎？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間の計画は大切です。",
+      "example_zh": "時間規劃很重要。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "いく",
+      "kanji_romaji": "行く / iku",
+      "meaning": "去",
+      "example": "週末、カフェに行きます。",
+      "example_zh": "週末我去咖啡廳。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "～たいです (tai desu)",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "用來表達自己想要做某件事情的願望，將動詞的ます形去掉「ます」後加上「たいです」。這是 N5 常用來表達個人願望的句型。",
+      "examples": [
+        "週末、映画を見たいです。(週末我想看電影。)",
+        "新しい技術を勉強したいです。(我想學習新技術。)"
+      ]
+    },
+    {
+      "title": "～に行きます (ni ikimasu)",
+      "structure": "場所名詞 + へ/に + 動詞(ます形) + に行きます",
+      "rule": "表示去某個地方做某個活動或目的，動詞通常是ます形去掉「ます」後再接「に」。這個句型強調移動的目的。",
+      "examples": [
+        "図書館に本を借りに行きます。(我去圖書館借書。)",
+        "カフェにコーヒーを飲みに行きます。(我去咖啡廳喝咖啡。)"
+      ]
+    }
+  ]
+}
