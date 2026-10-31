@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "讓效能更好，最佳化",
+      "example": "Let's optimize this code for faster speed.",
+      "example_zh": "我們來優化這段程式碼，讓速度更快。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修復程式錯誤",
+      "example": "I spent hours trying to debug this circuit.",
+      "example_zh": "我花了數小時試圖除錯這個電路。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行並實現某計畫",
+      "example": "We need to implement this new feature soon.",
+      "example_zh": "我們需要盡快實作這個新功能。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "可能發生的一種情況",
+      "example": "What's the worst-case scenario for this project?",
+      "example_zh": "這個專案最壞的情況會是怎樣？"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "對某事提出的意見",
+      "example": "Your feedback helps us improve a lot!",
+      "example_zh": "你的回饋對我們改進很有幫助！"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "穩定且值得信賴的",
+      "example": "We need a reliable power supply for IoT devices.",
+      "example_zh": "我們的IoT設備需要可靠的電源。"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "每天上下班的行程",
+      "example": "My commute to work usually takes an hour.",
+      "example_zh": "我通勤上班通常需要一小時。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "初步測試用的模型",
+      "example": "The team is building a new prototype this week.",
+      "example_zh": "團隊這週正在製作一個新原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同系統結合",
+      "example": "We should integrate these two modules easily.",
+      "example_zh": "我們應該能輕鬆整合這兩個模組。"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "閒暇時的興趣活動",
+      "example": "What's your favorite hobby outside of work?",
+      "example_zh": "工作之餘你最喜歡的嗜好是什麼？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來式：Be going to vs. Will",
+      "rule": "「Be going to」表計畫或預測，而「will」表即時決定或一般性預測。",
+      "examples": [
+        "I'm going to work on my IoT project this weekend. (我這個週末打算做我的IoT專案。)",
+        "The system will crash if we don't fix it. (如果我們不修好，系統會當機。)",
+        "Oh, I'll help you debug that code now! (喔，我現在就幫你除錯！)"
+      ]
+    },
+    {
+      "title": "動詞片語：Set up & Look into",
+      "rule": "動詞與介係詞組合，形成新意思，常用於日常或工作溝通。",
+      "examples": [
+        "Can you help me set up this new sensor? (你能幫我設定這個新感測器嗎？)",
+        "We need to look into this security vulnerability. (我們需要調查這個安全漏洞。)",
+        "I'm setting up my home lab this afternoon. (我今天下午要建立我的家庭實驗室。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "你週末要做什麼？"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "明日は休みです。",
+      "example_zh": "明天是假日。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "日本語を勉強します。",
+      "example_zh": "學習日文。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "とても楽しいです！",
+      "example_zh": "非常有趣！"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "時間がありますか？",
+      "example_zh": "有時間嗎？"
+    },
+    {
+      "kana": "なに",
+      "kanji_romaji": "何 / nani",
+      "meaning": "什麼",
+      "example": "何をしますか？",
+      "example_zh": "要做什麼？"
+    },
+    {
+      "kana": "いえ",
+      "kanji_romaji": "家 / ie",
+      "meaning": "家",
+      "example": "家に帰ります。",
+      "example_zh": "回家。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "仕事が好きです。",
+      "example_zh": "喜歡工作。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、創造",
+      "example": "IoTデバイスを作ります。",
+      "example_zh": "製作IoT設備。"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "問題がありますか？",
+      "example_zh": "有問題嗎？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞肯定/否定/過去式 (-ます / -ません / -ました / -ませんでした)",
+      "structure": "動詞ます形",
+      "rule": "用來表示現在或未來會做的動作，以及過去的動作或習慣。",
+      "examples": [
+        "週末、映画を見ます。(週末要看電影。)",
+        "先週は働きませんでした。(上週沒有工作。)"
+      ]
+    },
+    {
+      "title": "想做某事 (-たいです)",
+      "structure": "動詞ます形去ます + たいです",
+      "rule": "表達說話者想要做某事的願望或意圖，動詞ます形去ます後接「たいです」。",
+      "examples": [
+        "新しいプロジェクトを始めたいです。(想開始一個新專案。)",
+        "日本へ行きたいです。(想去日本。)"
+      ]
+    }
+  ]
+}
