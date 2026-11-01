@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行",
+      "example": "Let's implement this new feature next week.",
+      "example_zh": "我們下週來實施這個新功能吧。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障",
+      "example": "I spent all morning troubleshooting that bug.",
+      "example_zh": "我花了一整個早上排除那個錯誤。"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的",
+      "example": "Solar power is a great example of renewable energy.",
+      "example_zh": "太陽能是可再生能源的好例子。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型",
+      "example": "We're building a new prototype for our IoT device.",
+      "example_zh": "我們正在為我們的物聯網裝置打造一個新原型。"
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "meaning": "無縫的、流暢的",
+      "example": "We want the user experience to be seamless.",
+      "example_zh": "我們希望使用者體驗是流暢的。"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇、休閒",
+      "example": "What do you do in your leisure time on weekends?",
+      "example_zh": "週末閒暇時間你都做些什麼？"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持續的",
+      "example": "We aim for sustainable development in our projects.",
+      "example_zh": "我們在專案中以永續發展為目標。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "We need to integrate this module with the main system.",
+      "example_zh": "我們需要將這個模組整合到主系統中。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的",
+      "example": "That's an innovative solution to the problem!",
+      "example_zh": "那是個很有創意的解決方案！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "不定詞 (To-infinitive) 表目的",
+      "rule": "用 \"to + 動詞原形\" 來表達某行為的目的或原因，相當於「為了…」，讓句子更清楚。",
+      "examples": [
+        "I study hard to pass the exam. (我努力學習以通過考試。)",
+        "She went to the market to buy some fruit. (她去市場買水果。)",
+        "We need to optimize the code to improve performance. (我們需要優化程式碼來提升效能。)"
+      ]
+    },
+    {
+      "title": "現在完成式 (Present Perfect) 表經驗與持續",
+      "rule": "用 \"have/has + 過去分詞\" 來表達過去發生且持續到現在的動作，或過去累積的經驗。",
+      "examples": [
+        "I have worked on several IoT projects. (我參與過好幾個物聯網專案。)",
+        "He has studied Japanese for six months. (他學日文已經六個月了。)",
+        "Have you ever visited a renewable energy plant? (你參觀過再生能源廠嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おやすみ",
+      "kanji_romaji": "休み / oyasumi",
+      "meaning": "休息、假日",
+      "example": "きょうは にちようび です。おやすみ です。",
+      "example_zh": "今天是星期日。是假日。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "わたしの しゅみは えいがを みること です。",
+      "example_zh": "我的興趣是看電影。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、讀書",
+      "example": "わたしは にほんごを べんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "つかれる",
+      "kanji_romaji": "疲れる / tsukareru",
+      "meaning": "疲倦",
+      "example": "しごとが おわって、とても つかれました。",
+      "example_zh": "工作結束後，很累。"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "わたしは AI ツールが すき です。",
+      "example_zh": "我喜歡 AI 工具。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "にほんごが すこし わかります。",
+      "example_zh": "我懂一點日文。"
+    },
+    {
+      "kana": "あたらし",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしい コンピューターを かいました。",
+      "example_zh": "我買了一台新電腦。"
+    },
+    {
+      "kana": "まち",
+      "kanji_romaji": "町 / machi",
+      "meaning": "城鎮、街道",
+      "example": "この まちは しずか です。",
+      "example_zh": "這個城鎮很安靜。"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "きんようびは とても いそがしかったです。",
+      "example_zh": "星期五非常忙碌。"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "どこ / doko",
+      "meaning": "哪裡",
+      "example": "あなたの へやは どこ ですか。",
+      "example_zh": "你的房間在哪裡？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「名詞 は 名詞 です」",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "這個句型用於介紹或說明某物是什麼，構成基本的肯定句，其中「は」讀作「wa」。",
+      "examples": [
+        "これは わたしの パソコン です。(這是我的電腦。)",
+        "わたしは エンジニア です。(我是工程師。)"
+      ]
+    },
+    {
+      "title": "「名詞 + を + 動詞(ます)」",
+      "structure": "名詞 + を + 動詞(ます形)",
+      "rule": "「を」助詞表示動詞的受詞，說明動詞所作用的對象，動詞要用ます形，是很常用句型。",
+      "examples": [
+        "ごはんを たべます。(吃飯。)",
+        "にほんごを べんきょうします。(學習日文。)"
+      ]
+    }
+  ]
+}
