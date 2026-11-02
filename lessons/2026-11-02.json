@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行計畫或想法",
+      "example": "We need to implement this new feature soon.",
+      "example_zh": "我們需要盡快實施這項新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "讓某事達到最佳效果",
+      "example": "How can we optimize this code for speed?",
+      "example_zh": "我們該如何優化這段程式碼來提升速度？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "找出並解決問題",
+      "example": "I spent hours trying to troubleshoot the network issue.",
+      "example_zh": "我花了數小時試著排除網路問題。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "完成任務的最終日期",
+      "example": "The project deadline is next Friday, so let's hurry!",
+      "example_zh": "專案截止日期是下週五，我們快點吧！"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "對成果的意見或建議",
+      "example": "Could you give me some feedback on my presentation?",
+      "example_zh": "你能給我一些關於我報告的回饋嗎？"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "與他人一起合作",
+      "example": "We should collaborate on this task to finish faster.",
+      "example_zh": "我們應該合作這項任務才能更快完成。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "問題的解決方法",
+      "example": "I hope we can find a good solution to this bug.",
+      "example_zh": "我希望我們能找到解決這個錯誤的好方法。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品的最初模型",
+      "example": "The team is working on the first prototype of the device.",
+      "example_zh": "團隊正在製作這個裝置的第一個原型。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同部分結合為一",
+      "example": "We need to integrate this module into the main system.",
+      "example_zh": "我們需要將這個模組整合到主系統中。"
+    },
+    {
+      "word": "sync",
+      "pos": "v./n.",
+      "meaning": "同步、保持一致",
+      "example": "Let's sync up later to discuss the project details.",
+      "example_zh": "我們晚點同步一下來討論專案細節。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "間接問句 (Indirect Questions)",
+      "rule": "當問句嵌入另一個句子時，語序會變成陳述句，主詞在動詞前，且不需倒裝。",
+      "examples": [
+        "Do you know where the server room is? (你知道伺服器機房在哪嗎？)",
+        "I wonder if we can use this AI tool. (我在想我們是否能用這個AI工具。)",
+        "Could you tell me what time the meeting starts? (你能告訴我會議幾點開始嗎？)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds)",
+      "rule": "動名詞是動詞加上-ing，可以作名詞使用，常放在介系詞後或作主詞與受詞。",
+      "examples": [
+        "Debugging code can be really challenging. (偵錯程式碼可能真的很有挑戰性。)",
+        "I enjoy learning about new embedded systems. (我很享受學習新的嵌入式系統。)",
+        "He's good at solving complex technical problems. (他很擅長解決複雜的技術問題。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごとは まいにち あります。",
+      "example_zh": "每天都有工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "かいしゃへ いきます。",
+      "example_zh": "去公司。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしは にほんごを べんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "この ツールを つかいます。",
+      "example_zh": "使用這個工具。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "IoTが 少し わかります。",
+      "example_zh": "我稍微懂一點IoT。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしい プロジェクトです。",
+      "example_zh": "這是新的專案。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち コーヒーを のみます。",
+      "example_zh": "我每天喝咖啡。"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "どこ / doko",
+      "meaning": "哪裡",
+      "example": "あなたの かいしゃは どこですか？",
+      "example_zh": "你的公司在哪裡？"
+    },
+    {
+      "kana": "これ",
+      "kanji_romaji": "これ / kore",
+      "meaning": "這個",
+      "example": "これは AI ツールです。",
+      "example_zh": "這是AI工具。"
+    },
+    {
+      "kana": "すこし",
+      "kanji_romaji": "少し / sukoshi",
+      "meaning": "一點點",
+      "example": "にほんごが 少し できます。",
+      "example_zh": "我會一點點日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞1 + は + 名詞2 + です",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "用來表示「名詞1是名詞2」，是最基本的肯定判斷句，常用於自我介紹或描述事物。",
+      "examples": [
+        "わたしは エンジニアです。(我是工程師。)",
+        "これは おもしろい です。(這個很有趣。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょう",
+      "structure": "動詞(ます形) + ましょう",
+      "rule": "表示「我們一起做...吧」或「我來做...吧」，用於提出建議或表達意願。",
+      "examples": [
+        "いっしょに べんきょうしましょう。(我們一起學習吧。)",
+        "この プロジェクトを はじめましょう。(我們開始這個專案吧。)"
+      ]
+    }
+  ]
+}
