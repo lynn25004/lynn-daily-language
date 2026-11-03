@@ -1,0 +1,187 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；模型",
+      "example": "We're building a working prototype of the new IoT device.",
+      "example_zh": "我們正在打造新款物聯網裝置的可用原型。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署；調動",
+      "example": "The team will deploy the software update next week.",
+      "example_zh": "團隊下週將部署軟體更新。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；最佳化",
+      "example": "Let's try to optimize the power consumption of this chip.",
+      "example_zh": "讓我們試著優化這晶片的功耗。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的；可持續的",
+      "example": "Renewable energy sources are crucial for a sustainable future.",
+      "example_zh": "再生能源對永續的未來至關重要。"
+    },
+    {
+      "word": "insight",
+      "pos": "n.",
+      "meaning": "洞察力；見解",
+      "example": "AI tools can provide valuable insights into market trends.",
+      "example_zh": "AI 工具能提供寶貴的市場趨勢見解。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作；協作",
+      "example": "Engineers from different departments often collaborate on projects.",
+      "example_zh": "不同部門的工程師經常在專案上合作。"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創新；革新",
+      "example": "We need to constantly innovate to stay ahead in tech.",
+      "example_zh": "我們需要不斷創新才能在科技領域保持領先。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障；解決問題",
+      "example": "He's great at troubleshooting complex system issues.",
+      "example_zh": "他擅長排除複雜的系統問題。"
+    },
+    {
+      "word": "streamline",
+      "pos": "v.",
+      "meaning": "簡化流程；使效率化",
+      "example": "We're looking for ways to streamline our development process.",
+      "example_zh": "我們正在尋找方法來簡化開發流程。"
+    },
+    {
+      "word": "feasible",
+      "pos": "adj.",
+      "meaning": "可行的；可能的",
+      "example": "Is this new feature technically feasible within the deadline?",
+      "example_zh": "這個新功能在期限內技術上可行嗎？"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式",
+      "rule": "用來表示過去發生的動作對現在造成影響，或強調動作的完成經驗。",
+      "examples": [
+        "I have already finished the report. (我已經完成報告了。)",
+        "Have you ever worked with IoT devices before? (你之前有處理過物聯網裝置的經驗嗎？)",
+        "She has been learning Japanese for a year. (她學日文學了一年了。)"
+      ]
+    },
+    {
+      "title": "被動語態 (現在簡單式)",
+      "rule": "當動作的承受者比執行者重要時使用，強調「被做」這件事。",
+      "examples": [
+        "The data is collected automatically. (數據是自動收集的。)",
+        "New features are often developed based on user feedback. (新功能常根據使用者回饋開發。)",
+        "The system is monitored 24/7. (系統被 24 小時監控。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "でんち",
+      "kanji_romaji": "電池 / denchi",
+      "meaning": "電池",
+      "example": "このデバイスは、新しい電池が必要です。",
+      "example_zh": "這個裝置需要新的電池。"
+    },
+    {
+      "kana": "きかい",
+      "kanji_romaji": "機械 / kikai",
+      "meaning": "機器",
+      "example": "古い機械の修理をしています。",
+      "example_zh": "我正在修理舊機器。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "新しいシステムを開発中です。",
+      "example_zh": "我正在開發新系統。"
+    },
+    {
+      "kana": "じょうほう",
+      "kanji_romaji": "情報 / jouhou",
+      "meaning": "資訊",
+      "example": "この情報はとても役に立ちます。",
+      "example_zh": "這個資訊非常有幫助。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製造；製作",
+      "example": "新しいアプリを作っています。",
+      "example_zh": "我正在製作一個新的應用程式。"
+    },
+    {
+      "kana": "はやい",
+      "kanji_romaji": "速い / hayai",
+      "meaning": "快的；迅速的",
+      "example": "このコンピューターはとても速いです。",
+      "example_zh": "這台電腦速度非常快。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをどうやって使うんですか？",
+      "example_zh": "這個工具要怎麼使用呢？"
+    },
+    {
+      "kana": "もんだい",
+      "kanji_romaji": "問題 / mondai",
+      "meaning": "問題",
+      "example": "小さな問題が発生しました。",
+      "example_zh": "發生了一個小問題。"
+    },
+    {
+      "kana": "かんたん",
+      "kanji_romaji": "簡単 / kantan",
+      "meaning": "簡單的",
+      "example": "もっと簡単な方法はありませんか？",
+      "example_zh": "沒有更簡單的方法嗎？"
+    },
+    {
+      "kana": "つぎ",
+      "kanji_romaji": "次 / tsugi",
+      "meaning": "下一個；接著",
+      "example": "次の会議は来週です。",
+      "example_zh": "下一次會議是下週。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ています (te imasu)",
+      "structure": "動詞て形 + います",
+      "rule": "表示正在進行的動作、狀態的持續、或習慣的行為。",
+      "examples": [
+        "今、勉強しています。(Ima, benkyou shite imasu.) (我現在正在學習。)",
+        "彼は東京に住んでいます。(Kare wa Toukyou ni sunde imasu.) (他住在東京。)",
+        "毎日、日本語を話しています。(Mainichi, Nihongo o hanashite imasu.) (我每天都說日語。)"
+      ]
+    },
+    {
+      "title": "〜ましょう (mashou)",
+      "structure": "動詞ます形 (去掉ます) + ましょう",
+      "rule": "用於邀請、提議、或表示自己也將一起做某事。",
+      "examples": [
+        "一緒にコーヒーを飲みましょう。(Issho ni koohii o nomimashou.) (我們一起喝杯咖啡吧。)",
+        "明日、早く起きましょう。(Ashita, hayaku okimashou.) (明天早點起床吧。)"
+      ]
+    }
+  ]
+}
