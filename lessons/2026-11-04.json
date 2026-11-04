@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施",
+      "example": "We need to implement this new feature by next week.",
+      "example_zh": "我們需要在下週前實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "Can you help optimize this code for better performance?",
+      "example_zh": "你能幫忙優化這段程式碼以提升效能嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除",
+      "example": "I spent hours trying to troubleshoot the network issue.",
+      "example_zh": "我花了數小時試圖排除網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、樣品",
+      "example": "Let's build a quick prototype to test the idea.",
+      "example_zh": "我們來快速建一個原型測試這個想法。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "Our team is working to integrate the new module.",
+      "example_zh": "我們的團隊正在努力整合這個新模組。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "The project deadline is approaching fast, let's hurry.",
+      "example_zh": "專案截止日期快到了，我們快點吧。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作",
+      "example": "We often collaborate with other teams on big projects.",
+      "example_zh": "我們經常與其他團隊合作大型專案。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋、意見",
+      "example": "Please give me some feedback on my presentation.",
+      "example_zh": "請給我一些關於我報告的回饋。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "創新",
+      "example": "Innovation is key to staying competitive in this field.",
+      "example_zh": "創新是在這個領域保持競爭力的關鍵。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的",
+      "example": "We need to find a more efficient way to do this task.",
+      "example_zh": "我們需要找到更有效率的方法來完成這項任務。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "當動作的執行者不重要或未知，或想強調動作的承受者時，我們使用被動語態，結構是「be動詞 + 過去分詞」。",
+      "examples": [
+        "The new system was launched yesterday. (新系統昨天上線了。)",
+        "This bug needs to be fixed urgently. (這個錯誤需要緊急修復。)",
+        "Many IoT devices are powered by renewable energy. (許多物聯網設備都由再生能源供電。)"
+      ]
+    },
+    {
+      "title": "間接引述 (Reported Speech)",
+      "rule": "用來轉述別人說過的話，通常需要改變動詞時態、代名詞和時間副詞，以反映說話時的觀點。",
+      "examples": [
+        "He said he was working on a new embedded project. (他說他正在研究一個新的嵌入式專案。)",
+        "She asked if I could help troubleshoot the issue. (她問我是否能幫忙排除問題。)",
+        "They mentioned the deadline was moved to Friday. (他們提到截止日期已延到星期五。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしのしごとはえんじにあです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "まいにちかいしゃへいきます。",
+      "example_zh": "我每天去公司。"
+    },
+    {
+      "kana": "ぎじゅつ",
+      "kanji_romaji": "技術 / gijutsu",
+      "meaning": "技術",
+      "example": "あたらしいぎじゅつにきょうみがあります。",
+      "example_zh": "我對新技術很感興趣。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごをべんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "辛苦的；嚴重的",
+      "example": "しごとはたいへんですが、たのしいです。",
+      "example_zh": "工作雖然辛苦，但很有趣。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "ちょっときゅうけいしましょうか。",
+      "example_zh": "我們休息一下好嗎？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "いま、なんじかんありますか。",
+      "example_zh": "現在，你有多少時間？"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作、製造",
+      "example": "IoTデバイスをよくつくります。",
+      "example_zh": "我經常製作物聯網設備。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "明白、懂",
+      "example": "このコード、わかりますか。",
+      "example_zh": "你懂這段程式碼嗎？"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにちコーヒーをのみます。",
+      "example_zh": "我每天喝咖啡。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "「〜たいです」 (想做某事)",
+      "structure": "動詞ます形 + たいです",
+      "rule": "表達說話者想要做某件事情的願望，將動詞的ます形後面的「ます」去掉，加上「たいです」即可。",
+      "examples": [
+        "にほんごをもっとべんきょうしたいです。(我想學更多日文。)",
+        "あたらしいAIツールをつかってみたいです。(我想試用新的AI工具。)"
+      ]
+    },
+    {
+      "title": "「〜ながら」 (一邊...一邊...)",
+      "structure": "動詞ます形 + ながら + 動詞",
+      "rule": "表示同時進行兩項動作，主要動作放在後半句，前半句的動詞ます形後去掉「ます」加上「ながら」。",
+      "examples": [
+        "おんがくをききながらしごとをします。(我一邊聽音樂一邊工作。)",
+        "コーヒーをのみながらニュースをみます。(我一邊喝咖啡一邊看新聞。)"
+      ]
+    }
+  ]
+}
