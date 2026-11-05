@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行、實施計畫",
+      "example": "We need to implement this new feature by next week.",
+      "example_zh": "我們需要下週前實施這個新功能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化處理",
+      "example": "Can you help optimize the code for better performance?",
+      "example_zh": "你能幫忙優化程式碼以提升效能嗎？"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除、解決問題",
+      "example": "I spent hours troubleshooting the network issue yesterday.",
+      "example_zh": "我昨天花了數小時排除網路故障。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初型設計",
+      "example": "Let's build a quick prototype to test this idea.",
+      "example_zh": "我們來快速做個原型測試這個想法吧。"
+    },
+    {
+      "word": "integration",
+      "pos": "n.",
+      "meaning": "整合、集成系統",
+      "example": "System integration is always the trickiest part of a project.",
+      "example_zh": "系統整合總是一個專案中最棘手的環節。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The project deadline is approaching fast, we should hurry.",
+      "example_zh": "專案截止日期快到了，我們得趕快。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作、協作完成",
+      "example": "We need to collaborate closely with the design team.",
+      "example_zh": "我們需要和設計團隊密切合作。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "反饋、意見回饋",
+      "example": "Your feedback on the presentation was really helpful.",
+      "example_zh": "你對簡報的反饋真的很有幫助。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "創新、革新技術",
+      "example": "Innovation is key to staying competitive in this field.",
+      "example_zh": "創新是在這個領域保持競爭力的關鍵。"
+    },
+    {
+      "word": "scalable",
+      "pos": "adj.",
+      "meaning": "可擴展的、具彈性",
+      "example": "We need a scalable solution for future company growth.",
+      "example_zh": "我們需要一個可擴展的解決方案來應對公司未來成長。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "條件句 (Conditional Sentences) Type 1",
+      "rule": "這種句型用來表達未來可能發生的事情，如果條件達成，結果也會發生，語氣比較肯定。",
+      "examples": [
+        "If we finish early, we can grab some coffee. (如果我們早點完成，就可以去喝咖啡。)",
+        "If the system crashes, I'll restart it immediately. (如果系統當機，我會立刻重啟。)",
+        "If you have any questions, feel free to ask me anytime. (如果你有任何問題，隨時都可以問我喔。)"
+      ]
+    },
+    {
+      "title": "動詞片語 (Phrasal Verbs) with \"up\"",
+      "rule": "動詞加上介系詞 \"up\" 常表示完成、增加或向上，讓口語表達更自然有畫面感。",
+      "examples": [
+        "Let's wrap up this meeting in five minutes. (我們五分鐘內結束這個會議吧。)",
+        "I need to back up all my data before the update. (更新前我需要備份所有資料。)",
+        "Can you set up the new server by tomorrow? (你能在明天前設定好新的伺服器嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作、職業",
+      "example": "きょうはしごとがあります。",
+      "example_zh": "今天有工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしはかいしゃへいきます。",
+      "example_zh": "我會去公司。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電、電力",
+      "example": "このへやはでんきがありますか。",
+      "example_zh": "這個房間有電嗎？"
+    },
+    {
+      "kana": "ぶひん",
+      "kanji_romaji": "部品 / buhin",
+      "meaning": "零件、部件",
+      "example": "このぶひんはたいせつです。",
+      "example_zh": "這個零件很重要。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "あたらしいシステムをかいはつします。",
+      "example_zh": "開發新系統。"
+    },
+    {
+      "kana": "でんげん",
+      "kanji_romaji": "電源 / dengen",
+      "meaning": "電源",
+      "example": "でんげんをつけます。",
+      "example_zh": "打開電源。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このツールをつかいます。",
+      "example_zh": "使用這個工具。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的、難的",
+      "example": "このもんだいはむずかしいです。",
+      "example_zh": "這個問題很難。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありません。",
+      "example_zh": "沒有時間。"
+    },
+    {
+      "kana": "まなぶ",
+      "kanji_romaji": "学ぶ / manabu",
+      "meaning": "學習",
+      "example": "にほんごをまなびます。",
+      "example_zh": "學習日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます形) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "這個句型表示說話者「想要做某事」的願望或意圖，是日常生活中表達願望很常用的句型喔。",
+      "examples": [
+        "あたらしいパソコンをかいたいです。(我想買一台新電腦。)",
+        "もっとにほんごをべんきょうしたいです。(我想更努力學習日文。)"
+      ]
+    },
+    {
+      "title": "〜てもいいですか",
+      "structure": "動詞(て形) + もいいですか",
+      "rule": "這個句型用於詢問是否可以做某事，表示徵求許可。在職場或日常生活中徵求同意時很常用喔。",
+      "examples": [
+        "ここにすわってもいいですか。(我可以坐在這裡嗎？)",
+        "このツールをつかってもいいですか。(我可以使用這個工具嗎？)"
+      ]
+    }
+  ]
+}
