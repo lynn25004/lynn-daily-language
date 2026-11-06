@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型產品，樣品",
+      "example": "Let's build a quick prototype this weekend!",
+      "example_zh": "這週末我們來快速做個原型吧！"
+    },
+    {
+      "word": "algorithm",
+      "pos": "n.",
+      "meaning": "演算法，計算步驟",
+      "example": "This algorithm is super efficient for IoT.",
+      "example_zh": "這個演算法對 IoT 超有效率。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "偵錯，排除錯誤",
+      "example": "I need to debug this code for hours.",
+      "example_zh": "我需要偵錯這個程式碼好幾個小時。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合不同部分",
+      "example": "We need to integrate this module smoothly.",
+      "example_zh": "我們需要順利整合這個模組。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，佈署系統",
+      "example": "When will they deploy the new AI model?",
+      "example_zh": "他們什麼時候會部署新的 AI 模型？"
+    },
+    {
+      "word": "weekend",
+      "pos": "n.",
+      "meaning": "週末，週休二日",
+      "example": "What are your plans for the weekend?",
+      "example_zh": "你週末有什麼計畫？"
+    },
+    {
+      "word": "relax",
+      "pos": "v.",
+      "meaning": "放鬆，休息",
+      "example": "I just want to relax after a long week.",
+      "example_zh": "漫長的一週後我只想放鬆。"
+    },
+    {
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好，業餘興趣",
+      "example": "My hobby is building small robots.",
+      "example_zh": "我的嗜好是製作小型機器人。"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索，發掘",
+      "example": "Let's explore new coffee shops soon.",
+      "example_zh": "我們來探索新的咖啡店吧。"
+    },
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "專案，計畫",
+      "example": "My side project involves renewable energy.",
+      "example_zh": "我的副專案涉及再生能源。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect Tense)",
+      "rule": "用於表示從過去到現在持續的動作或經驗，或已完成但對現在有影響的動作。",
+      "examples": [
+        "I have worked on several IoT projects. (我參與過好幾個 IoT 專案。)",
+        "Have you ever debugged a really complex system? (你曾經偵錯過非常複雜的系統嗎？)",
+        "She has learned a lot about AI tools recently. (她最近學了很多關於 AI 工具的知識。)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds) 作為主詞或受詞",
+      "rule": "動詞加-ing形式可作為名詞，在句中作主詞、受詞或介系詞的受詞。",
+      "examples": [
+        "Building prototypes is my favorite hobby. (製作原型是我最喜歡的嗜好。)",
+        "I enjoy exploring new AI models. (我很享受探索新的 AI 模型。)",
+        "He is good at debugging embedded systems. (他擅長偵錯嵌入式系統。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつはなにをしますか。",
+      "example_zh": "週末你做什麼？"
+    },
+    {
+      "kana": "たのしみ",
+      "kanji_romaji": "楽しみ / tanoshimi",
+      "meaning": "期待，樂趣",
+      "example": "しゅうまつがたのしみですね。",
+      "example_zh": "很期待週末呢！"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごのべんきょうはたのしいです。",
+      "example_zh": "學日文很有趣。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "しごとはいそがしいですか。",
+      "example_zh": "工作忙嗎？"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息，假日",
+      "example": "あしたはやすみです。",
+      "example_zh": "明天是假日。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣，嗜好",
+      "example": "しゅみはIoTです。",
+      "example_zh": "我的興趣是IoT。"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "どこ / doko",
+      "meaning": "哪裡",
+      "example": "しゅうまつはどこにいきますか。",
+      "example_zh": "週末要去哪裡？"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "做，製作",
+      "example": "わたしはロボットをつくります。",
+      "example_zh": "我製作機器人。"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看",
+      "example": "えいがをみますか。",
+      "example_zh": "你看電影嗎？"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいAIツール、すごいですね。",
+      "example_zh": "新的AI工具很厲害呢。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請求對方做某事，或給予指示。",
+      "examples": [
+        "これを見てください。(請看這個。)",
+        "ちょっと待ってください。(請稍等一下。)"
+      ]
+    },
+    {
+      "title": "名詞 + が + 好きです / 嫌いです",
+      "structure": "名詞 + が + 好きです / 嫌いです",
+      "rule": "表示喜歡或不喜歡某事物，助詞「が」用於標示喜好或厭惡的對象。",
+      "examples": [
+        "私は日本のドラマが好きです。(我喜歡日本的電視劇。)",
+        "辛い食べ物は嫌いです。(我不喜歡辣的食物。)"
+      ]
+    }
+  ]
+}
