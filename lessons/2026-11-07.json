@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，讓效能更好",
+      "example": "We need to optimize the code for better speed.",
+      "example_zh": "我們需要優化程式碼來提升速度。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，找出並修復錯誤",
+      "example": "I spent all morning trying to debug this issue.",
+      "example_zh": "我花了整個早上在處理這個問題。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行，將計畫付諸實行",
+      "example": "Let's implement the new feature next week.",
+      "example_zh": "我們下週來實作這個新功能吧。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初步的模型或樣品",
+      "example": "The team is building a new IoT prototype.",
+      "example_zh": "團隊正在建立一個新的物聯網原型。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的，值得信任的",
+      "example": "This embedded system is very reliable.",
+      "example_zh": "這個嵌入式系統非常可靠。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "高效率的，省時省力的",
+      "example": "We're looking for more efficient ways to work.",
+      "example_zh": "我們正在尋找更有效率的工作方式。"
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "閒暇，空閒時間",
+      "example": "What do you usually do in your leisure time?",
+      "example_zh": "你閒暇時間通常做什麼？"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電，恢復精力",
+      "example": "I usually recharge myself by playing games.",
+      "example_zh": "我通常透過玩遊戲來恢復精力。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，完成工作的期限",
+      "example": "Don't worry, the project deadline is still far away.",
+      "example_zh": "別擔心，專案截止日期還很遠。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，對表現的意見",
+      "example": "We got some positive feedback on our new product.",
+      "example_zh": "我們收到了新產品的一些正面回饋。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式",
+      "rule": "用來表達從過去某時開始，持續到現在的動作或經驗，或與現在相關的事件。",
+      "examples": [
+        "I have been working on this project for three months. (我已經在這個專案上工作三個月了。)",
+        "She has already finished debugging the code. (她已經完成程式碼的除錯了。)",
+        "Have you ever tried developing an IoT device? (你曾經開發過物聯網裝置嗎？)"
+      ]
+    },
+    {
+      "title": "動名詞作主詞",
+      "rule": "動詞加上-ing變成動名詞，可以當作名詞使用，放在句首作為句子的主詞。",
+      "examples": [
+        "Debugging takes a lot of time and patience. (除錯需要很多時間和耐心。)",
+        "Learning new AI tools is always exciting for engineers. (學習新的AI工具對工程師來說總是令人興奮。)",
+        "Optimizing energy consumption is crucial for embedded systems. (優化能源消耗對嵌入式系統至關重要。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おやすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "假日，休息",
+      "example": "明日はおやすみです。",
+      "example_zh": "明天是假日。"
+    },
+    {
+      "kana": "どこ",
+      "kanji_romaji": "どこ / doko",
+      "meaning": "哪裡",
+      "example": "週末、どこへ行きますか。",
+      "example_zh": "週末，你要去哪裡？"
+    },
+    {
+      "kana": "〜ます",
+      "kanji_romaji": "~ます / ~masu",
+      "meaning": "動詞禮貌形詞尾",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "すき",
+      "kanji_romaji": "好き / suki",
+      "meaning": "喜歡",
+      "example": "私はAIツールが好きです。",
+      "example_zh": "我喜歡AI工具。"
+    },
+    {
+      "kana": "たべます",
+      "kanji_romaji": "食べます / tabemasu",
+      "meaning": "吃",
+      "example": "お昼ごはん、もう食べましたか。",
+      "example_zh": "午餐，你已經吃過了嗎？"
+    },
+    {
+      "kana": "のみます",
+      "kanji_romaji": "飲みます / nomimasu",
+      "meaning": "喝",
+      "example": "コーヒーを飲みます。",
+      "example_zh": "我喝咖啡。"
+    },
+    {
+      "kana": "みます",
+      "kanji_romaji": "見ます / mimasu",
+      "meaning": "看",
+      "example": "週末、映画を見ます。",
+      "example_zh": "週末，我看電影。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "私の仕事はエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習，讀書",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "學習日文很有趣。"
+    },
+    {
+      "kana": "とても",
+      "kanji_romaji": "とても / totemo",
+      "meaning": "非常",
+      "example": "このシステムはとても便利です。",
+      "example_zh": "這個系統非常方便。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "用來表示「名詞1是名詞2」，用於介紹或描述事物，是日文最基本的肯定句型。",
+      "examples": [
+        "私はエンジニアです。(我是工程師。)",
+        "これは私のIoTデバイスです。(這是我的IoT裝置。)"
+      ]
+    },
+    {
+      "title": "動詞ます形",
+      "structure": "動詞 + ます",
+      "rule": "動詞ます形是日文中最基本的禮貌形動詞，用於一般對話中表達禮貌和肯定。",
+      "examples": [
+        "毎日、日本語を勉強します。(我每天學習日文。)",
+        "明日、友達と映画を見ます。(明天我會和朋友看電影。)"
+      ]
+    }
+  ]
+}
