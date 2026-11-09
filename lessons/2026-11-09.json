@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "控制硬體運作的軟體",
+      "example": "We need to update the device's firmware for better performance.",
+      "example_zh": "我們需要更新設備的韌體以獲得更好的性能。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "使達到最佳狀態或效率",
+      "example": "I'm trying to optimize this code to run faster.",
+      "example_zh": "我正試著優化這段程式碼讓它跑更快。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、配置（軟體或系統）",
+      "example": "We plan to deploy the new system by Friday.",
+      "example_zh": "我們計畫在星期五前部署新系統。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "可能發生的情境或情況",
+      "example": "Let's consider a worst-case scenario for this project.",
+      "example_zh": "我們來考慮這個專案最壞的情境吧。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障、解決問題",
+      "example": "I spent all morning troubleshooting the network issue.",
+      "example_zh": "我花了一整個早上排除網路問題。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品或設計的初步原型",
+      "example": "The team built a prototype for the new IoT device.",
+      "example_zh": "團隊為新的物聯網設備製作了原型。"
+    },
+    {
+      "word": "commute",
+      "pos": "v./n.",
+      "meaning": "通勤、上下班的路程",
+      "example": "My morning commute usually takes about 30 minutes.",
+      "example_zh": "我早上的通勤時間通常大約 30 分鐘。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "完成工作的截止日期",
+      "example": "We're working hard to meet the project deadline.",
+      "example_zh": "我們正努力工作以趕上專案截止日期。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合不同部分",
+      "example": "We need to integrate this module into the existing system.",
+      "example_zh": "我們需要將這個模組整合到現有系統中。"
+    },
+    {
+      "word": "sync",
+      "pos": "v.",
+      "meaning": "同步、使兩者一致",
+      "example": "I need to sync my files before leaving the office.",
+      "example_zh": "我離開辦公室前需要同步我的檔案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "描述從過去持續到現在的動作或經驗，或對現在有影響的過去事件，強調完成或結果。",
+      "examples": [
+        "I've already finished my morning coffee. (我已經喝完早上的咖啡了。)",
+        "She hasn't deployed the new feature yet. (她還沒部署新功能。)",
+        "Have you ever worked on a renewable energy project? (你曾參與過再生能源專案嗎？)"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerunds) 作為主詞或受詞",
+      "rule": "動名詞是動詞加上-ing的形式，可以在句中作為名詞使用，充當句子的主詞或動詞、介系詞的受詞。",
+      "examples": [
+        "Troubleshooting is a big part of my job. (故障排除是我工作很大一部分。)",
+        "I enjoy learning about new AI tools. (我喜歡學習新的 AI 工具。)",
+        "Avoiding distractions helps me focus on coding. (避免分心有助於我專注於寫程式。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "はたらく",
+      "kanji_romaji": "働く / hataraku",
+      "meaning": "工作",
+      "example": "わたしは まいにち かいしゃで はたらきます。",
+      "example_zh": "我每天在公司工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "あの かいしゃは おおきいです。",
+      "example_zh": "那間公司很大。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "わたしは まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "きょうは とても いそがしいです。",
+      "example_zh": "今天非常忙。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "ごぜんちゅうに かいぎが あります。",
+      "example_zh": "上午有會議。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "これは あたらしい パソコンです。",
+      "example_zh": "這是新的電腦。"
+    },
+    {
+      "kana": "ぷろじぇくと",
+      "kanji_romaji": "プロジェクト / purojekuto",
+      "meaning": "專案",
+      "example": "あたらしい プロジェクトが はじまります。",
+      "example_zh": "新的專案要開始了。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "愉快的、快樂的",
+      "example": "しごとは とても たのしいです。",
+      "example_zh": "工作非常愉快。"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "ひるごはんの あとで きゅうけいします。",
+      "example_zh": "午飯後休息。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "にほんごの べんきょうが すきです。",
+      "example_zh": "我喜歡學日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ます / 〜ません (肯定/否定)",
+      "structure": "動詞ます形 / 動詞ません形",
+      "rule": "用於表示現在或將來的習慣性動作，以及請求或邀請，是日語中禮貌的動詞基本表達形式。",
+      "examples": [
+        "毎日会社に行きます。(我每天去公司。)",
+        "今日は働きません。(我今天不工作。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です (主題句)",
+      "structure": "名詞 A + は + 名詞 B + です",
+      "rule": "用於介紹或說明名詞A是什麼，表示A就是B，是日語最基礎的判斷句型，其中「は」讀作「wa」。",
+      "examples": [
+        "これは 私の プロジェクトです。(這是我的專案。)",
+        "私は エンジニアです。(我是工程師。)"
+      ]
+    }
+  ]
+}
