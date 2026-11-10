@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，讓事情更好",
+      "example": "Let's optimize the code for better performance.",
+      "example_zh": "我們來優化程式碼以獲得更好的效能。"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創新，導入新方法",
+      "example": "We need to innovate to stay competitive.",
+      "example_zh": "我們需要創新來保持競爭力。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，部署（系統或軟體）",
+      "example": "We plan to deploy the new IoT system next week.",
+      "example_zh": "我們計畫下週部署新的物聯網系統。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的，能長期維持的",
+      "example": "Renewable energy is a sustainable solution.",
+      "example_zh": "再生能源是一個永續的解決方案。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，使成為整體",
+      "example": "Can we integrate AI tools into our workflow?",
+      "example_zh": "我們可以將 AI 工具整合到我們的流程中嗎？"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的，節省資源的",
+      "example": "This new design is more energy-efficient.",
+      "example_zh": "這個新設計更節能。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，協作",
+      "example": "Let's collaborate on this new project.",
+      "example_zh": "我們一起合作這個新專案吧。"
+    },
+    {
+      "word": "robust",
+      "pos": "adj.",
+      "meaning": "穩健的，強健的",
+      "example": "We need a robust security system.",
+      "example_zh": "我們需要一個穩健的安全系統。"
+    },
+    {
+      "word": "analyze",
+      "pos": "v.",
+      "meaning": "分析，詳細檢查",
+      "example": "Can you analyze the data for us?",
+      "example_zh": "你能幫我們分析這些數據嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，樣品",
+      "example": "We built a prototype of the device.",
+      "example_zh": "我們做了一個設備的原型。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect Tense)",
+      "rule": "用於表示過去發生的動作對現在造成影響，或未明確指明時間的過去經驗。",
+      "examples": [
+        "I have worked on IoT projects before. (我之前有做過 IoT 專案。)",
+        "She has just deployed the new software. (她剛剛部署了新軟體。)",
+        "Have you ever seen an AI robot? (你曾經看過 AI 機器人嗎？)"
+      ]
+    },
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "當動作的承受者比執行者更重要時使用，或不確定是誰做的。",
+      "examples": [
+        "The system was designed by our team. (這個系統是我們的團隊設計的。)",
+        "The data needs to be analyzed carefully. (這些數據需要仔細分析。)",
+        "New renewable energy sources are being developed. (新的再生能源正在被開發。"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "か",
+      "kanji_romaji": "か / ka",
+      "meaning": "嗎 (疑問助詞)",
+      "example": "これ、わかりますか？",
+      "example_zh": "這個，你明白嗎？"
+    },
+    {
+      "kana": "です",
+      "kanji_romaji": "です / desu",
+      "meaning": "是 (判斷助動詞)",
+      "example": "これは新しいパソコンです。",
+      "example_zh": "這是新的電腦。"
+    },
+    {
+      "kana": "ます",
+      "kanji_romaji": "ます / masu",
+      "meaning": "します (動詞ます形)",
+      "example": "明日、会社に行きます。",
+      "example_zh": "明天，我會去公司。"
+    },
+    {
+      "kana": "は",
+      "kanji_romaji": "は / wa",
+      "meaning": "主題標記助詞",
+      "example": "私はエンジニアです。",
+      "example_zh": "我是工程師。"
+    },
+    {
+      "kana": "の",
+      "kanji_romaji": "の / no",
+      "meaning": "的 (屬格助詞)",
+      "example": "これは私のスマホです。",
+      "example_zh": "這是我的智慧型手機。"
+    },
+    {
+      "kana": "も",
+      "kanji_romaji": "も / mo",
+      "meaning": "也 (亦、亦然)",
+      "example": "私もAIが好きです。",
+      "example_zh": "我也喜歡 AI。"
+    },
+    {
+      "kana": "さん",
+      "kanji_romaji": "さん / san",
+      "meaning": "先生/女士 (稱謂)",
+      "example": "田中さんはどこですか？",
+      "example_zh": "田中先生/女士在哪裡？"
+    },
+    {
+      "kana": "ね",
+      "kanji_romaji": "ね / ne",
+      "meaning": "呢 (表示確認或感嘆)",
+      "example": "今日はいい天気ですね。",
+      "example_zh": "今天天氣真好呢。"
+    },
+    {
+      "kana": "これ",
+      "kanji_romaji": "これ / kore",
+      "meaning": "這個 (指近處)",
+      "example": "これ、見てください。",
+      "example_zh": "這個，請看看。"
+    },
+    {
+      "kana": "あれ",
+      "kanji_romaji": "あれ / are",
+      "meaning": "那個 (指遠處)",
+      "example": "あれは何ですか？",
+      "example_zh": "那個是什麼？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞述語文 (〜は〜です)",
+      "structure": "主語 + は + 名詞 + です",
+      "rule": "用來判斷「主語」是什麼，結尾的「です」表示禮貌。",
+      "examples": [
+        "私 は エンジニア です。（我是工程師。）",
+        "これ は 新しい アイデア です。（這是新的點子。）"
+      ]
+    },
+    {
+      "title": "動詞ます形 (現在肯定)",
+      "structure": "動詞ます形",
+      "rule": "表示現在或將來會做某動作，用於禮貌場合。",
+      "examples": [
+        "今日、仕事 を します。（今天，我工作。）",
+        "明日、会議 に 出ます。（明天，我會出席會議。）"
+      ]
+    }
+  ]
+}
