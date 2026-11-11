@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "控制硬體的軟體程式",
+      "example": "Our team is debugging the new firmware for the IoT device.",
+      "example_zh": "我們團隊正在為物聯網設備偵錯新韌體。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "將不同部分結合為一體",
+      "example": "We need to integrate this module with the main system.",
+      "example_zh": "我們需要將這個模組整合到主系統中。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "使某物達到最佳狀態",
+      "example": "Can you optimize the code for better performance?",
+      "example_zh": "你能優化程式碼以提高性能嗎？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "任務或專案的截止日期",
+      "example": "The deadline for this project is next Friday.",
+      "example_zh": "這個專案的截止日期是下週五。"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "meaning": "將任務依重要性排序",
+      "example": "It's important to prioritize tasks to manage your time well.",
+      "example_zh": "管理好時間，重要的是要優先處理任務。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "與他人合作完成工作",
+      "example": "We often collaborate with the marketing team on new product ideas.",
+      "example_zh": "我們經常與行銷團隊合作開發新產品。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "找出並解決問題或故障",
+      "example": "I spent all morning trying to troubleshoot the network issue.",
+      "example_zh": "我花了一整個早上試圖排除網路問題。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "能維持下去的，永續的",
+      "example": "Renewable energy is key to a sustainable future.",
+      "example_zh": "再生能源是永續未來的關鍵。"
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "新想法、方法或產品",
+      "example": "The company encourages innovation in product development.",
+      "example_zh": "公司鼓勵產品開發上的創新。"
+    },
+    {
+      "word": "sync",
+      "pos": "v.",
+      "meaning": "使數據或裝置保持一致",
+      "example": "Don't forget to sync your files before leaving the office.",
+      "example_zh": "離開辦公室前，別忘了同步你的檔案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Used to + V (過去習慣/狀態)",
+      "rule": "用於表達過去經常做但現在不再做的事，或過去的某種狀態。",
+      "examples": [
+        "I used to wake up very early for work, but now I can sleep in a bit. (我以前上班都起很早，但現在可以多睡一下。)",
+        "There used to be a small cafe near our office. (我們辦公室以前有間小咖啡館。)",
+        "Engineers used to rely more on manual testing. (工程師以前比較依賴手動測試。)"
+      ]
+    },
+    {
+      "title": "Phrasal Verbs with \"Take\" (片語動詞 \"Take\")",
+      "rule": "動詞 \"take\" 搭配不同的介系詞或副詞，形成意義多元的片語動詞。",
+      "examples": [
+        "Could you take over this task for me? I'm a bit swamped. (你能接手這個任務嗎？我有點忙不過來。)",
+        "Let's take a break and grab some coffee. (我們休息一下去喝咖啡吧。)",
+        "I need to take down some notes during the meeting. (會議期間我需要記下一些筆記。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おきる",
+      "kanji_romaji": "起きる / okiru",
+      "meaning": "起床",
+      "example": "わたしは まいにち 6じに おきます。",
+      "example_zh": "我每天六點起床。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "きょうも しごとが あります。",
+      "example_zh": "今天也有工作。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしの かいしゃは えきから ちかいです。",
+      "example_zh": "我的公司離車站很近。"
+    },
+    {
+      "kana": "つかれる",
+      "kanji_romaji": "疲れる / tsukareru",
+      "meaning": "疲累",
+      "example": "きょうの しごとは とても つかれました。",
+      "example_zh": "今天的工作非常累。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息；假日",
+      "example": "あしたは わたしの 休みです。",
+      "example_zh": "明天是我的休息日。"
+    },
+    {
+      "kana": "コンピュータ",
+      "kanji_romaji": "コンピュータ / konpyuuta",
+      "meaning": "電腦",
+      "example": "わたしは まいにち コンピュータを つかいます。",
+      "example_zh": "我每天都用電腦。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしは にほんごを べんきょうします。",
+      "example_zh": "我學習日語。"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "この もんだいは 少し 難しいです。",
+      "example_zh": "這個問題有點難。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂，明白",
+      "example": "わたしの 日本語は まだ よく わかりません。",
+      "example_zh": "我的日語還不太懂。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "しごとの 時間が おわりました。",
+      "example_zh": "工作時間結束了。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "~ます形 (ます型)",
+      "structure": "動詞ます形 (例: 食べます、行きます)",
+      "rule": "動詞的禮貌體，用於日常對話和陳述事實、習慣或未來計畫。",
+      "examples": [
+        "わたしは コーヒーを 飲みます。(我喝咖啡。)",
+        "まいあさ ニュースを 見ます。(我每天早上看新聞。)"
+      ]
+    },
+    {
+      "title": "~で (表示地點、工具)",
+      "structure": "場所 + で + 動詞 / 工具 + で + 動詞",
+      "rule": "表示動作進行的地點，或表示使用某種工具或交通方式。",
+      "examples": [
+        "かいしゃで しごとを します。(在公司工作。)",
+        "コンピュータで メールを かきます。(用電腦寫郵件。)"
+      ]
+    }
+  ]
+}
