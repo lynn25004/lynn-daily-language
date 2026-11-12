@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，最佳化處理",
+      "example": "We need to optimize this code for better performance.",
+      "example_zh": "我們需要優化這段程式碼以提升效能。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合，結合多個部分",
+      "example": "It's tricky to integrate all these smart home devices.",
+      "example_zh": "把這些智慧家庭裝置都整合起來很棘手。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署，配置系統",
+      "example": "Finally, we can deploy the new system next week!",
+      "example_zh": "終於，我們下週可以部署新系統了！"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初步模型",
+      "example": "The team is building a new prototype for the IoT device.",
+      "example_zh": "團隊正在為這款物聯網設備製作新原型。"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率，效能表現",
+      "example": "Improving energy efficiency is key for renewable tech.",
+      "example_zh": "提升能源效率對再生能源技術至關重要。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作，協同工作",
+      "example": "Engineers often collaborate on complex projects.",
+      "example_zh": "工程師們常在複雜專案上互相協作。"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤，上下班路程",
+      "example": "My commute to work usually takes about 30 minutes.",
+      "example_zh": "我通勤上班通常大約要花 30 分鐘。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期，最後期限",
+      "example": "We're trying to hit the deadline for the project launch.",
+      "example_zh": "我們正努力趕上專案發布的截止日期。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "回饋，意見反應",
+      "example": "Always good to get feedback on our product features.",
+      "example_zh": "能收到產品功能的回饋總是好事。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的，有革新意的",
+      "example": "They came up with a truly innovative solution for the problem.",
+      "example_zh": "他們為這個問題想出了一個真正創新的解決方案。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "動名詞 (Gerunds) 作為主詞或受詞",
+      "rule": "動名詞 (-ing 形式) 可以像名詞一樣，在句子中擔任主詞或受詞，表達一個動作或活動。",
+      "examples": [
+        "Developing new AI tools is exciting for engineers.（開發新的 AI 工具對工程師來說很令人興奮。）",
+        "I enjoy learning about renewable energy safety.（我很喜歡學習再生能源安全。）",
+        "Finishing this project on time is our top priority.（準時完成這個專案是我們的首要任務。）"
+      ]
+    },
+    {
+      "title": "情態動詞 (Modal Verbs) \"Should\" 和 \"Could\"",
+      "rule": "\"Should\" 表示建議或義務，而 \"Could\" 表示可能性或能力（過去式或更客氣的用法）。",
+      "examples": [
+        "You should probably check the system logs first.（你應該先檢查一下系統日誌。）",
+        "We could try a different approach to solve this bug.（我們可以嘗試不同的方法來解決這個錯誤。）",
+        "Maybe I should start practicing more for the TOEIC test.（也許我應該多練習一下多益考試。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしの しごとは エンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち にほんごを べんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣",
+      "example": "わたしの しゅみは IoT です。",
+      "example_zh": "我的興趣是 IoT。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "もうすぐ かいぎの じかんです。",
+      "example_zh": "快到會議時間了。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "きょうは もくようびです。",
+      "example_zh": "今天是星期四。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしい プロジェクトが はじまります。",
+      "example_zh": "新專案要開始了。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "AI ツールを つかいますか。",
+      "example_zh": "你使用 AI 工具嗎？"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "この ぶんぽうは すこし むずかしいです。",
+      "example_zh": "這個文法有點難。"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂，明白",
+      "example": "にほんごが わかりますか。",
+      "example_zh": "你懂日文嗎？"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつは なにを しますか。",
+      "example_zh": "週末要做什麼呢？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞 + は + 名詞 + です",
+      "rule": "用來介紹或說明 N1 是什麼，表示 N1 等於 N2。は是提示助詞，讀作 \"wa\"。",
+      "examples": [
+        "わたしは たいわんじんです。（我是台灣人。）",
+        "これは わたしの パソコンです。（這是我的電腦。）"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょうか",
+      "structure": "動詞(ます形) + ましょうか",
+      "rule": "用來主動提議為對方做某事，或者徵求對方意見，語氣客氣且帶有詢問。",
+      "examples": [
+        "てつだいましょうか。（需要我幫忙嗎？/ 我來幫忙吧？）",
+        "いっしょに べんきょうしましょうか。（我們一起學習吧？）"
+      ]
+    }
+  ]
+}
