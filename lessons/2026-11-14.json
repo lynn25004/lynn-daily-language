@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "firmware",
+      "pos": "n.",
+      "meaning": "裝置的韌體程式",
+      "example": "Updating the firmware usually fixes small bugs.",
+      "example_zh": "更新韌體通常能修復小錯誤。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "讓效能最佳化",
+      "example": "We need to optimize this code for better speed.",
+      "example_zh": "我們需要優化這段程式碼以提高速度。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "找出並解決問題",
+      "example": "Can you help me troubleshoot my slow Wi-Fi?",
+      "example_zh": "你能幫我解決一下網路很慢的問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "產品的初步模型",
+      "example": "Our team built a cool new IoT prototype.",
+      "example_zh": "我們團隊打造了一個很酷的物聯網原型。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "補充能量或電力",
+      "example": "I need to recharge my brain after a long week.",
+      "example_zh": "忙碌一週後我需要讓大腦充電一下。"
+    },
+    {
+      "word": "browse",
+      "pos": "v.",
+      "meaning": "隨意看看或翻閱",
+      "example": "Let's browse some AI tools online this weekend.",
+      "example_zh": "這個週末我們上網逛逛一些 AI 工具吧。"
+    },
+    {
+      "word": "commute",
+      "pos": "n.",
+      "meaning": "每日上下班路程",
+      "example": "My commute is short, which is really nice.",
+      "example_zh": "我的通勤時間很短，這真的很好。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持續的，環保的",
+      "example": "We should find more sustainable energy solutions.",
+      "example_zh": "我們應該尋找更永續的能源方案。"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合不同部分",
+      "example": "It's tricky to integrate old systems with new ones.",
+      "example_zh": "將舊系統與新系統整合很棘手。"
+    },
+    {
+      "word": "streamline",
+      "pos": "v.",
+      "meaning": "使流程更有效率",
+      "example": "Let's streamline our workflow to save time.",
+      "example_zh": "我們來簡化工作流程以節省時間。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "情態動詞 \"Should\" 的用法",
+      "rule": "表達建議、義務或預期，語氣比 \"must\" 柔和，常用於給予意見或表達合適性。",
+      "examples": [
+        "You should take a break after coding for hours.（你寫程式好幾個小時後應該休息一下。）",
+        "We should definitely explore that new AI tool.（我們絕對應該研究那個新的 AI 工具。）",
+        "I think I should optimize my study plan for TOEIC.（我想我應該優化我的多益學習計畫。）"
+      ]
+    },
+    {
+      "title": "動名詞 (Gerund) 作為主詞或受詞",
+      "rule": "動詞加上 -ing 形成動名詞，可以在句子中像名詞一樣作為主詞或受詞使用，表達某種活動。",
+      "examples": [
+        "Learning Japanese is really fun and challenging.（學習日文真的很有趣也很有挑戰性。）",
+        "Troubleshooting problems makes me feel satisfied.（排除問題讓我感到很有成就感。）",
+        "I enjoy browsing new tech gadgets online.（我喜歡在網上瀏覽新的科技產品。）"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "わたしはにほんごをべんきょうします。",
+      "example_zh": "我學習日文。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "あなたのしごとはなんですか。",
+      "example_zh": "你的工作是什麼？"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつはなにをしますか。",
+      "example_zh": "週末要做什麼？"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "じかんがありますか。",
+      "example_zh": "你有時間嗎？"
+    },
+    {
+      "kana": "きゅうけい",
+      "kanji_romaji": "休憩 / kyuukei",
+      "meaning": "休息",
+      "example": "ちょっときゅうけいしましょう。",
+      "example_zh": "我們稍微休息一下吧。"
+    },
+    {
+      "kana": "でんち",
+      "kanji_romaji": "電池 / denchi",
+      "meaning": "電池",
+      "example": "このでんちはきれいです。",
+      "example_zh": "這個電池沒電了。"
+    },
+    {
+      "kana": "きかい",
+      "kanji_romaji": "機械 / kikai",
+      "meaning": "機械",
+      "example": "あのきかいはすごいですね。",
+      "example_zh": "那台機器很厲害呢。"
+    },
+    {
+      "kana": "あんぜん",
+      "kanji_romaji": "安全 / anzen",
+      "meaning": "安全",
+      "example": "あんぜんにきをつけてください。",
+      "example_zh": "請注意安全。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このアプリをつかいます。",
+      "example_zh": "我使用這個App。"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看",
+      "example": "えいがをみましょう。",
+      "example_zh": "我們去看電影吧。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞１ + は + 名詞２ + です",
+      "rule": "用於說明或介紹，表示「名詞1是名詞2」，是日文最基本的肯定句型，句尾「です」表示禮貌。",
+      "examples": [
+        "わたしはエンジニアです。（我是工程師。）",
+        "これはわたしのしごとです。（這是我的工作。）"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょう",
+      "structure": "動詞ます形 + ましょう",
+      "rule": "表示「一起做...吧」或「讓我們做...吧」，用於提出建議或邀請對方共同行動，語氣輕鬆。",
+      "examples": [
+        "いっしょにべんきょうしましょう。（我們一起學習吧。）",
+        "コーヒーをのみましょう。（我們去喝咖啡吧。）"
+      ]
+    }
+  ]
+}
