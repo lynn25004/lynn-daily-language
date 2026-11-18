@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合；結合",
+      "example": "We need to integrate this module.",
+      "example_zh": "我們要整合這個模組。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障",
+      "example": "Can you help troubleshoot this bug?",
+      "example_zh": "你能幫忙排除這個錯誤嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；樣品",
+      "example": "The prototype looks promising!",
+      "example_zh": "這個原型看起來很有潛力！"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的",
+      "example": "We need a more efficient solution.",
+      "example_zh": "我們需要更有效率的解決方案。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "Our deadline is next Friday.",
+      "example_zh": "我們的截止日是下週五。"
+    },
+    {
+      "word": "colleague",
+      "pos": "n.",
+      "meaning": "同事",
+      "example": "I'm grabbing lunch with a colleague.",
+      "example_zh": "我要跟同事去吃午餐。"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "反饋意見",
+      "example": "Thanks for your valuable feedback.",
+      "example_zh": "謝謝你寶貴的意見。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署；配置",
+      "example": "When will we deploy the new update?",
+      "example_zh": "我們什麼時候會部署新更新？"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "可再生的",
+      "example": "Renewable energy is our future.",
+      "example_zh": "再生能源是我們的未來。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的",
+      "example": "That's an innovative approach!",
+      "example_zh": "那是個創新的方法！"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "未來真實條件句 (If + 現在簡單式, will + 原形動詞)",
+      "rule": "用於描述未來可能發生，且結果很可能實現的情況。",
+      "examples": [
+        "If it rains tomorrow, I will stay home. (如果明天下雨，我會待在家。)",
+        "If you finish early, we can grab coffee. (如果你早點完成，我們可以去喝咖啡。)",
+        "If the system works, we will deploy it. (如果系統運作正常，我們就會部署。)"
+      ]
+    },
+    {
+      "title": "常見動詞片語 (Phrasal Verbs)",
+      "rule": "動詞加介系詞或副詞，形成新意思，在日常對話中很常用。",
+      "examples": [
+        "I need to set up the new device. (我需要設定新設備。)",
+        "Can you figure out this problem? (你能搞懂這個問題嗎？)",
+        "Let's break down the task. (我們來分解一下這項任務。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "食べる",
+      "kanji_romaji": "食べる / taberu",
+      "meaning": "吃",
+      "example": "毎日、お昼ご飯を食べます。",
+      "example_zh": "每天吃午餐。"
+    },
+    {
+      "kana": "飲む",
+      "kanji_romaji": "飲む / nomu",
+      "meaning": "喝",
+      "example": "私はコーヒーを飲みます。",
+      "example_zh": "我喝咖啡。"
+    },
+    {
+      "kana": "読む",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "讀",
+      "example": "彼は本を読みます。",
+      "example_zh": "他讀書。"
+    },
+    {
+      "kana": "勉強",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習；讀書",
+      "example": "私は日本語を勉強します。",
+      "example_zh": "我學日文。"
+    },
+    {
+      "kana": "忙しい",
+      "kanji_romaji": "忙しい / isogashii",
+      "meaning": "忙碌的",
+      "example": "今日はとても忙しいです。",
+      "example_zh": "今天非常忙。"
+    },
+    {
+      "kana": "毎日",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "毎日、会社に行きます。",
+      "example_zh": "每天去公司。"
+    },
+    {
+      "kana": "会社",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "私の会社は駅の近くです。",
+      "example_zh": "我的公司在車站附近。"
+    },
+    {
+      "kana": "仕事",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "彼は仕事が好きです。",
+      "example_zh": "他喜歡工作。"
+    },
+    {
+      "kana": "行く",
+      "kanji_romaji": "行く / iku",
+      "meaning": "去",
+      "example": "週末、どこかへ行きますか？",
+      "example_zh": "週末要去哪裡嗎？"
+    },
+    {
+      "kana": "帰る",
+      "kanji_romaji": "帰る / kaeru",
+      "meaning": "回去；回家",
+      "example": "私は家に帰ります。",
+      "example_zh": "我要回家。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞て形 + ください (請做...)",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請求對方做某事，是很實用的日常指令。",
+      "examples": [
+        "ちょっと待ってください。(請稍等一下。)",
+        "資料を読んでください。(請閱讀資料。)"
+      ]
+    },
+    {
+      "title": "名詞 + で (動作場所)",
+      "structure": "場所名詞 + で + 動詞",
+      "rule": "表示動作或事件發生的地點，例如在公司或咖啡廳。",
+      "examples": [
+        "会社で働きます。(在公司工作。)",
+        "カフェでコーヒーを飲みます。(在咖啡廳喝咖啡。)"
+      ]
+    }
+  ]
+}
