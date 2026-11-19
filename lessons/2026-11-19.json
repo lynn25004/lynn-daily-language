@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "standup",
+      "pos": "n.",
+      "meaning": "每日短會、站立會議",
+      "example": "We have a quick standup meeting every morning at 9 AM.",
+      "example_zh": "我們每天早上九點有個快速的站立會議。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修復程式錯誤",
+      "example": "I spent hours trying to debug this circuit board yesterday.",
+      "example_zh": "我昨天花了好幾個小時試著為這塊電路板除錯。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型、初步模型",
+      "example": "The team is building a new prototype for our smart home device.",
+      "example_zh": "團隊正在為我們的智慧家庭設備打造一個新原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的、有效率的",
+      "example": "Using AI tools makes our data analysis much more efficient.",
+      "example_zh": "使用 AI 工具讓我們的數據分析效率高很多。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情況、場景、設想",
+      "example": "What's the best-case scenario for this IoT project?",
+      "example_zh": "這個物聯網專案的最佳情況會是什麼？"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、結合",
+      "example": "We need to integrate this new module into the existing system.",
+      "example_zh": "我們需要把這個新模組整合進現有的系統。"
+    },
+    {
+      "word": "monitor",
+      "pos": "v.",
+      "meaning": "監控、監視",
+      "example": "We'll monitor the power consumption of this new renewable energy system.",
+      "example_zh": "我們會監控這個新再生能源系統的電力消耗。"
+    },
+    {
+      "word": "briefly",
+      "pos": "adv.",
+      "meaning": "簡短地、扼要地",
+      "example": "Could you briefly explain the project status during the standup?",
+      "example_zh": "你能在站立會議上簡短說明一下專案進度嗎？"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期、最後期限",
+      "example": "The deadline for the IoT security report is next Friday.",
+      "example_zh": "物聯網安全報告的截止日期是下週五。"
+    },
+    {
+      "word": "configure",
+      "pos": "v.",
+      "meaning": "配置、設定",
+      "example": "I need to configure these new embedded systems before deployment.",
+      "example_zh": "我在部署前需要配置這些新的嵌入式系統。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Present Perfect Continuous (現在完成進行式)",
+      "rule": "用來描述從過去某個時間點開始，一直持續到現在，且可能還在進行的動作或狀態。",
+      "examples": [
+        "I've been working on this embedded project for three months. (我這個嵌入式專案已經做了三個月了。)",
+        "She has been learning Japanese since last year, and she's doing great! (她從去年就一直在學日文，而且學得很好！)",
+        "We've been debugging this issue all morning, but still no luck. (我們整個早上都在除錯這個問題，但還是沒進展。)"
+      ]
+    },
+    {
+      "title": "Common Phrasal Verbs (常用動詞片語)：set up, figure out",
+      "rule": "動詞與介詞/副詞結合，產生新意義。'set up'指準備或建立，'figure out'指理解或解決。",
+      "examples": [
+        "Could you help me set up this new development environment? (你能幫我設置這個新的開發環境嗎？)",
+        "I need to figure out how to improve the efficiency of this algorithm. (我需要弄清楚如何提高這個演算法的效率。)",
+        "Let's set up a meeting to figure out the best way forward. (我們來開個會，弄清楚最好的前進方向吧。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おはようございます",
+      "kanji_romaji": "ohayou gozaimasu",
+      "meaning": "早上好",
+      "example": "おはようございます！今日も一日頑張りましょう。",
+      "example_zh": "早上好！今天一天也加油吧。"
+    },
+    {
+      "kana": "おつかれさまでした",
+      "kanji_romaji": "お疲れ様でした / otsukaresama deshita",
+      "meaning": "您辛苦了（工作結束時）",
+      "example": "お仕事お疲れ様でした。ゆっくり休んでくださいね。",
+      "example_zh": "工作辛苦了。請好好休息喔。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "今日の仕事は午前中で終わりました。",
+      "example_zh": "今天的工作上午就結束了。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、休假",
+      "example": "今日は私の休みの日です。",
+      "example_zh": "今天是我休假的日子。"
+    },
+    {
+      "kana": "だいじょうぶ",
+      "kanji_romaji": "大丈夫 / daijoubu",
+      "meaning": "沒關係、沒問題",
+      "example": "「このAIツール、使えますか？」「はい、大丈夫です！」",
+      "example_zh": "「這個AI工具可以用嗎？」「是的，沒問題！」"
+    },
+    {
+      "kana": "いつも",
+      "kanji_romaji": "itsumo",
+      "meaning": "總是、一直",
+      "example": "私はいつもIoTデバイスについて考えています。",
+      "example_zh": "我總是在思考物聯網設備。"
+    },
+    {
+      "kana": "きょう",
+      "kanji_romaji": "今日 / kyou",
+      "meaning": "今天",
+      "example": "今日は新しいプロジェクトが始まります。",
+      "example_zh": "今天新的專案要開始了。"
+    },
+    {
+      "kana": "あした",
+      "kanji_romaji": "明日 / ashita",
+      "meaning": "明天",
+      "example": "明日は再生可能エネルギーのセミナーに行きます。",
+      "example_zh": "明天要去參加再生能源的研討會。"
+    },
+    {
+      "kana": "きのう",
+      "kanji_romaji": "昨日 / kinou",
+      "meaning": "昨天",
+      "example": "昨日は一日中、組み込みシステムをいじっていました。",
+      "example_zh": "我昨天一整天都在玩嵌入式系統。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始",
+      "example": "そろそろ仕事を始めましょうか。",
+      "example_zh": "差不多該開始工作了吧？"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞1 + は + 名詞2 + です",
+      "rule": "表達「A是B」的基本肯定句型，用於介紹、說明主語是什麼。は讀作「wa」。",
+      "examples": [
+        "私はエンジニアです。 (我是工程師。)",
+        "これは私のパソコンです。 (這是我的電腦。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょうか",
+      "structure": "動詞(ます形) + ましょうか",
+      "rule": "用於主動提出為對方做某事，帶有建議或詢問對方意願的語氣，是禮貌的提議。",
+      "examples": [
+        "手伝いましょうか。 (我來幫忙好嗎？/要幫你嗎？)",
+        "コーヒーを飲みましょうか。 (要喝咖啡嗎？/我來泡咖啡好嗎？)"
+      ]
+    }
+  ]
+}
