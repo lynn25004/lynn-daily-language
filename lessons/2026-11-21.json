@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、最佳化",
+      "example": "I need to optimize this code to run faster.",
+      "example_zh": "我需要優化這段程式碼讓它跑更快。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "故障排除、解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我解決這個網路問題嗎？"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "實施、執行",
+      "example": "We plan to implement the new system next month.",
+      "example_zh": "我們計畫下個月實施這個新系統。"
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "情境、設想",
+      "example": "What's the best-case scenario for this project?",
+      "example_zh": "這個專案的最佳情境是什麼？"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning": "效率",
+      "example": "We always try to improve our work efficiency.",
+      "example_zh": "我們總是努力提升工作效率。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "永續的、可持續的",
+      "example": "Renewable energy is a key to a sustainable future.",
+      "example_zh": "再生能源是永續未來的關鍵。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯",
+      "example": "I spent hours trying to debug this small error.",
+      "example_zh": "我花了好幾個小時想除掉這個小錯誤。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的",
+      "example": "They came up with an innovative solution for the IoT device.",
+      "example_zh": "他們為物聯網設備提出了一個創新的解決方案。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、恢復精力",
+      "example": "I need to recharge my social battery this weekend.",
+      "example_zh": "我這個週末需要好好恢復一下社交精力。"
+    },
+    {
+      "word": "colleague",
+      "pos": "n.",
+      "meaning": "同事",
+      "example": "I'm having lunch with my colleagues today.",
+      "example_zh": "我今天中午要和我的同事們一起吃午餐。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "Future Tense (going to vs. will)",
+      "rule": "\"be going to\" 表示事先計畫好的事；\"will\" 常用於當下決定或預測。",
+      "examples": [
+        "I'm going to work on my IoT project this weekend. (我這個週末打算做我的物聯網專案。)",
+        "I think it will be a sunny day tomorrow. (我想明天會是個晴天。)",
+        "\"Oh, the coffee machine is broken!\" \"Don't worry, I'll fix it.\" (「喔，咖啡機壞了！」 「別擔心，我來修。」)"
+      ]
+    },
+    {
+      "title": "Modal Verbs for Possibility/Suggestion (might, could, should)",
+      "rule": "\"might/could\" 表示可能性；\"should\" 表示建議或義務。",
+      "examples": [
+        "I might go hiking if the weather is good on Sunday. (如果星期天天氣好，我可能會去健行。)",
+        "We could use an AI tool to automate this process. (我們或許可以使用一個 AI 工具來自動化這個流程。)",
+        "You should back up your data regularly. (你應該定期備份你的資料。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末は何をしますか？",
+      "example_zh": "週末要做什麼呢？"
+    },
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣、嗜好",
+      "example": "私の趣味は読書です。",
+      "example_zh": "我的興趣是讀書。"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習、唸書",
+      "example": "毎日日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "としょかん",
+      "kanji_romaji": "図書館 / toshokan",
+      "meaning": "圖書館",
+      "example": "図書館で本を借ります。",
+      "example_zh": "我在圖書館借書。"
+    },
+    {
+      "kana": "こうえん",
+      "kanji_romaji": "公園 / kouen",
+      "meaning": "公園",
+      "example": "週末に公園へ行きます。",
+      "example_zh": "週末我去公園。"
+    },
+    {
+      "kana": "えいが",
+      "kanji_romaji": "映画 / eiga",
+      "meaning": "電影",
+      "example": "映画を見に行きませんか？",
+      "example_zh": "要不要去看電影？"
+    },
+    {
+      "kana": "ともだち",
+      "kanji_romaji": "友達 / tomodachi",
+      "meaning": "朋友",
+      "example": "友達と会います。",
+      "example_zh": "我會和朋友見面。"
+    },
+    {
+      "kana": "ときどき",
+      "kanji_romaji": "時々 / tokidoki",
+      "meaning": "有時、偶爾",
+      "example": "時々コーヒーを飲みます。",
+      "example_zh": "我有時喝咖啡。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的、有趣的",
+      "example": "日本語の勉強は楽しいです。",
+      "example_zh": "日文學習很有趣。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "新しいAIツールを使ってみます。",
+      "example_zh": "我試用新的 AI 工具。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞(ます) + たいです",
+      "structure": "動詞(ます形) + たいです",
+      "rule": "表示說話者「想要做某件事」的願望或意圖。",
+      "examples": [
+        "週末にゲームをしたいです。(週末我想玩遊戲。)",
+        "もっと日本語を勉強したいです。(我想要更努力學習日文。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + どこですか",
+      "structure": "名詞 + は + どこですか",
+      "rule": "用來詢問某個地方、物品或人物「在哪裡」的句型。",
+      "examples": [
+        "図書館はどこですか。(圖書館在哪裡？)",
+        "トイレはどこですか。(廁所在哪裡？)"
+      ]
+    }
+  ]
+}
