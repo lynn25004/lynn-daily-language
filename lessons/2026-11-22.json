@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "meaning": "再生能源相關的，可再生的資源。",
+      "example": "I'm interested in renewable energy projects.",
+      "example_zh": "我對再生能源專案很感興趣。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化，使最佳化。",
+      "example": "We really need to optimize the system's performance.",
+      "example_zh": "我們真的需要優化系統效能。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "除錯，找出並修復程式或系統錯誤。",
+      "example": "It took hours to debug that tricky code.",
+      "example_zh": "那個難搞的程式碼花了我好幾個小時才除錯完。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型，初步模型或試驗品。",
+      "example": "Have you finished building the prototype yet?",
+      "example_zh": "你完成原型機的製作了嗎？"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "可靠的，值得信賴的。",
+      "example": "This sensor is very reliable for IoT devices.",
+      "example_zh": "這個感測器對物聯網裝置來說非常可靠。"
+    },
+    {
+      "word": "catch up",
+      "pos": "v.",
+      "meaning": "敘舊，追上進度或某人的近況。",
+      "example": "Let's catch up over coffee this weekend.",
+      "example_zh": "我們這週末找時間喝咖啡聊聊吧。"
+    },
+    {
+      "word": "chill out",
+      "pos": "v.",
+      "meaning": "放鬆身心，輕鬆一下。",
+      "example": "After work, I just want to chill out.",
+      "example_zh": "下班後，我只想好好放鬆一下。"
+    },
+    {
+      "word": "project",
+      "pos": "n.",
+      "meaning": "需要實施的專案或計畫。",
+      "example": "My current project is about smart home devices.",
+      "example_zh": "我目前的專案是關於智慧家庭裝置的。"
+    },
+    {
+      "word": "automation",
+      "pos": "n.",
+      "meaning": "自動化，使過程自動運作的技術。",
+      "example": "Automation can make our daily tasks easier.",
+      "example_zh": "自動化能讓我們的日常任務更輕鬆。"
+    },
+    {
+      "word": "intuitive",
+      "pos": "adj.",
+      "meaning": "直覺的，容易理解和使用的。",
+      "example": "This new AI tool has an intuitive interface.",
+      "example_zh": "這個新的AI工具有個很直覺的介面。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect)",
+      "rule": "用於表達從過去某時開始一直持續到現在的經驗或動作，或已完成但影響持續到現在的動作。",
+      "examples": [
+        "I have visited many tech conferences. (我參加過很多科技研討會。)",
+        "She has worked on several embedded projects. (她參與過好幾個嵌入式專案。)",
+        "We haven't tried that new AI tool yet. (我們還沒試過那個新的AI工具。)"
+      ]
+    },
+    {
+      "title": "條件句 (Conditional Sentences Type 1)",
+      "rule": "用於描述未來可能發生的真實情況，結構為「If + 現在簡單式, will + 動詞原形」。",
+      "examples": [
+        "If it rains tomorrow, we will stay home and code. (如果明天會下雨，我們就待在家裡寫程式。)",
+        "If you finish the report, you can chill out. (如果你完成報告，就可以放鬆一下。)",
+        "If I learn more Python, I'll build a new IoT device. (如果我學更多Python，我就會做一個新的物聯網裝置。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅみ",
+      "kanji_romaji": "趣味 / shumi",
+      "meaning": "興趣，嗜好",
+      "example": "わたしのしゅみはえいがをみることです。",
+      "example_zh": "我的興趣是看電影。"
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "しゅうまつになにをしますか。",
+      "example_zh": "週末要做什麼？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "たのしい",
+      "kanji_romaji": "楽しい / tanoshii",
+      "meaning": "快樂的，有趣的",
+      "example": "このプロジェクトはとてもたのしいです。",
+      "example_zh": "這個專案很有趣。"
+    },
+    {
+      "kana": "でかける",
+      "kanji_romaji": "出かける / dekakeru",
+      "meaning": "出門，外出",
+      "example": "きょうはどこにもでかけません。",
+      "example_zh": "我今天哪裡都不去。"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji_romaji": "新しい / atarashii",
+      "meaning": "新的",
+      "example": "あたらしいスマートホームをつくりたいです。",
+      "example_zh": "我想製作新的智慧家庭系統。"
+    },
+    {
+      "kana": "でんき",
+      "kanji_romaji": "電気 / denki",
+      "meaning": "電，電力",
+      "example": "このIoTデバイスはたくさんのでんきをつかいます。",
+      "example_zh": "這個物聯網裝置消耗很多電力。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "製作，創造",
+      "example": "わたしはプロトタイプをつくります。",
+      "example_zh": "我製作原型。"
+    },
+    {
+      "kana": "よむ",
+      "kanji_romaji": "読む / yomu",
+      "meaning": "閱讀",
+      "example": "しゅうまつはテクノロジーのほんをよみます。",
+      "example_zh": "週末我會讀科技書。"
+    },
+    {
+      "kana": "ときどき",
+      "kanji_romaji": "時々 / tokidoki",
+      "meaning": "有時候，偶爾",
+      "example": "ときどき、AIツールをつかいます。",
+      "example_zh": "我偶爾會使用AI工具。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "動詞ます形 (Verb ます form)",
+      "structure": "動詞(ます形) / 動詞(ません形) / 動詞(ました形) / 動詞(ませんでした形)",
+      "rule": "動詞的禮貌形，表示現在、未來或過去的肯定與否定動作，用於日常正式或禮貌對話。",
+      "examples": [
+        "わたしはにほんごをべんきょうします。 (我學習日文。)",
+        "きょうはしごとをしませんでした。 (我今天沒有工作。)"
+      ]
+    },
+    {
+      "title": "名詞 + を + 動詞 (Noun + を + Verb)",
+      "structure": "名詞 + を + 動詞(ます)",
+      "rule": "助詞「を」用來標示動詞的直接受詞，表示動詞作用的對象。",
+      "examples": [
+        "わたしはコーヒーをのみます。 (我喝咖啡。)",
+        "しゅうまつは本をよみます。 (週末我讀書。)"
+      ]
+    }
+  ]
+}
