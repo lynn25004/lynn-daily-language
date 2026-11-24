@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "commute",
+      "pos": "v./n.",
+      "meaning": "通勤（移動上下班）",
+      "example": "My commute to work is usually pretty smooth.",
+      "example_zh": "我上班的通勤通常蠻順利的。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "example": "We have a tight deadline for this project.",
+      "example_zh": "我們這個專案的截止日期很趕。"
+    },
+    {
+      "word": "troubleshoot",
+      "pos": "v.",
+      "meaning": "排除故障；解決問題",
+      "example": "Can you help me troubleshoot this network issue?",
+      "example_zh": "你能幫我排除這個網路問題嗎？"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "原型；樣品",
+      "example": "We're building a prototype for the new IoT device.",
+      "example_zh": "我們正在為新的 IoT 裝置打造原型。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "效率高的",
+      "example": "This new algorithm is much more efficient.",
+      "example_zh": "這個新演算法效率高很多。"
+    },
+    {
+      "word": "briefing",
+      "pos": "n.",
+      "meaning": "簡報；情況說明會",
+      "example": "We have a morning briefing at 9 AM.",
+      "example_zh": "我們早上九點有個晨會簡報。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化；最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以提高效能。"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "meaning": "可持續的；永續的",
+      "example": "Renewable energy is key to a sustainable future.",
+      "example_zh": "再生能源是永續未來的關鍵。"
+    },
+    {
+      "word": "dashboard",
+      "pos": "n.",
+      "meaning": "儀表板",
+      "example": "The new dashboard provides real-time data.",
+      "example_zh": "新的儀表板提供即時數據。"
+    },
+    {
+      "word": "sync",
+      "pos": "v.",
+      "meaning": "同步",
+      "example": "Let's sync our calendars for next week.",
+      "example_zh": "我們同步一下下週的行程吧。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect Tense)",
+      "rule": "用來描述從過去開始，持續到現在或對現在有影響的動作、經驗或狀態。",
+      "examples": [
+        "I have already finished my morning report. (我已經完成我的早晨報告了。)",
+        "He has been working on this embedded project for months. (他已經在這個嵌入式專案上工作好幾個月了。)",
+        "Have you ever used this AI tool before? (你以前用過這個 AI 工具嗎？)"
+      ]
+    },
+    {
+      "title": "帶有 \"up\" 的片語動詞 (Phrasal Verbs with \"up\")",
+      "rule": "\"Up\" 常帶有「完成、增加、準備、建立」等意思，與動詞結合可表達多種情境。",
+      "examples": [
+        "I need to catch up on my emails. (我需要趕一下我的電子郵件。)",
+        "Let's set up the new IoT sensor. (我們來安裝這個新的 IoT 感測器吧。)",
+        "Can you back up your files regularly? (你可以定期備份你的檔案嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "おはようございます",
+      "kanji_romaji": "ohayou gozaimasu",
+      "meaning": "早安",
+      "example": "おはようございます。今日も一日頑張りましょう！",
+      "example_zh": "早安。今天一天也一起加油吧！"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "わたしのしごとはエンジニアです。",
+      "example_zh": "我的工作是工程師。"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji_romaji": "会社 / kaisha",
+      "meaning": "公司",
+      "example": "わたしはかいしゃへいきます。",
+      "example_zh": "我去公司。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち、にほんごをべんきょうします。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "いま、なんじですか。",
+      "example_zh": "現在幾點了？"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょうはかいぎがあります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "はじめる",
+      "kanji_romaji": "始める / hajimeru",
+      "meaning": "開始（他動詞）",
+      "example": "しごとをはじめるじかんです。",
+      "example_zh": "是時候開始工作了。"
+    },
+    {
+      "kana": "おわる",
+      "kanji_romaji": "終わる / owaru",
+      "meaning": "結束（自動詞）",
+      "example": "きょうのしごとはもうすぐおわります。",
+      "example_zh": "今天的工作快要結束了。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "このAIツールをつかいます。",
+      "example_zh": "我使用這個 AI 工具。"
+    },
+    {
+      "kana": "〜たいです",
+      "kanji_romaji": "〜tai desu",
+      "meaning": "想做〜",
+      "example": "もっとにほんごをはなしたいです。",
+      "example_zh": "我想要多說日文。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "ます形動詞的肯定與否定 (Masu form conjugation)",
+      "structure": "動詞ます形（例：食べます、食べません、食べました、食べませんでした）",
+      "rule": "用於表達現在、未來動作或習慣，以及過去動作的肯定與否定。是禮貌體的常用形式。",
+      "examples": [
+        "わたしはまいにちコーヒーをのみます。(我每天喝咖啡。)",
+        "きのうはしごとをしませんでした。(我昨天沒有工作。)"
+      ]
+    },
+    {
+      "title": "名詞 + は + 名詞 + です / じゃありません (Noun + wa + Noun + desu / ja arimasen)",
+      "structure": "名詞１ + は + 名詞２ + です / じゃありません",
+      "rule": "用來判斷或介紹事物，表達「A是B」或「A不是B」。是日語最基礎的判斷句。",
+      "examples": [
+        "これはわたしのPCです。(這是我的電腦。)",
+        "あれはIoTデバイスじゃありません。(那個不是 IoT 裝置。)"
+      ]
+    }
+  ]
+}
