@@ -1,0 +1,188 @@
+{
+  "english_words": [
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "早期模型或試驗品",
+      "example": "We're building a prototype for the new IoT device.",
+      "example_zh": "我們正在為新的物聯網設備打造原型機。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "排除程式錯誤",
+      "example": "I spent all morning trying to debug this code.",
+      "example_zh": "我花了一整個早上試圖排除這段程式碼的錯誤。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "meaning": "部署、佈局",
+      "example": "We need to deploy the new software next week.",
+      "example_zh": "我們需要在下週部署新軟體。"
+    },
+    {
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "創新",
+      "example": "Let's brainstorm ways to innovate in renewable energy.",
+      "example_zh": "讓我們腦力激盪一下如何在再生能源領域創新。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、使…最佳化",
+      "example": "Can we optimize the power consumption of this chip?",
+      "example_zh": "我們能優化這個晶片的功耗嗎？"
+    },
+    {
+      "word": "flexible",
+      "pos": "adj.",
+      "meaning": "靈活的、可變通的",
+      "example": "The work schedule is quite flexible here.",
+      "example_zh": "這裡的工作時間表相當靈活。"
+    },
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作",
+      "example": "I often collaborate with my colleagues on projects.",
+      "example_zh": "我經常與同事合作專案。"
+    },
+    {
+      "word": "streamline",
+      "pos": "v.",
+      "meaning": "簡化流程",
+      "example": "We need to streamline the development process.",
+      "example_zh": "我們需要簡化開發流程。"
+    },
+    {
+      "word": "insight",
+      "pos": "n.",
+      "meaning": "深刻見解",
+      "example": "The AI tool gave us valuable insight into user behavior.",
+      "example_zh": "這個 AI 工具給了我們關於用戶行為的寶貴見解。"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning": "有效率的",
+      "example": "Renewable energy sources are becoming more efficient.",
+      "example_zh": "再生能源變得越來越有效率。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect Tense)",
+      "rule": "用於表示過去發生的動作對現在造成的結果或影響，或強調動作的經驗。",
+      "examples": [
+        "I have already deployed the new system. (我已經部署了新系統。)",
+        "Have you ever debugged a complex system before? (你以前有除錯過複雜的系統嗎？)",
+        "She has worked on IoT projects for five years. (她已經在物聯網專案上工作五年了。)"
+      ]
+    },
+    {
+      "title": "被動語態 (Passive Voice)",
+      "rule": "當動作的對象比動作的執行者更重要時使用，或執行者不清楚。",
+      "examples": [
+        "The prototype will be tested next week. (原型機將在下週進行測試。)",
+        "This code needs to be optimized. (這段程式碼需要被優化。)",
+        "New safety standards are being implemented. (新的安全標準正在被實施。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "はじめまして",
+      "kanji_romaji": "初めまして / hajimemashite",
+      "meaning": "初次見面",
+      "example": "はじめまして、エンジニアの[名前]です。",
+      "example_zh": "初次見面，我是工程師 [名字]。"
+    },
+    {
+      "kana": "どうぞよろしく",
+      "kanji_romaji": "どうぞ宜しく / douzo yoroshiku",
+      "meaning": "請多指教",
+      "example": "はじめまして。どうぞよろしくおねがいします。",
+      "example_zh": "初次見面，請多多指教。"
+    },
+    {
+      "kana": "ちょうさ",
+      "kanji_romaji": "調査 / chousa",
+      "meaning": "調查",
+      "example": "新しい技術を調査しています。",
+      "example_zh": "我正在調查新的技術。"
+    },
+    {
+      "kana": "かいはつ",
+      "kanji_romaji": "開発 / kaihatsu",
+      "meaning": "開發",
+      "example": "IoTのシステムを開発しています。",
+      "example_zh": "我正在開發物聯網系統。"
+    },
+    {
+      "kana": "けいかく",
+      "kanji_romaji": "計画 / keikaku",
+      "meaning": "計畫",
+      "example": "来週の計画を立てています。",
+      "example_zh": "我正在制定下週的計畫。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "開発に時間がかかります。",
+      "example_zh": "開發需要花費時間。"
+    },
+    {
+      "kana": "たいへん",
+      "kanji_romaji": "大変 / taihen",
+      "meaning": "困難、辛苦",
+      "example": "仕事は大変ですが、面白いです。",
+      "example_zh": "工作雖然辛苦，但是很有趣。"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "どんな仕事が好きですか。",
+      "example_zh": "你喜歡什麼樣的工作？"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji_romaji": "難しい / muzukashii",
+      "meaning": "困難的",
+      "example": "この問題は少し難しいです。",
+      "example_zh": "這個問題有點困難。"
+    },
+    {
+      "kana": "やすい",
+      "kanji_romaji": "易い / yasui",
+      "meaning": "容易的",
+      "example": "それは易い仕事ではありません。",
+      "example_zh": "那不是一份容易的工作。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "〜ています",
+      "structure": "動詞ます形 + ています",
+      "rule": "表示正在進行的動作、狀態的持續或習慣性行為。",
+      "examples": [
+        "今、プログラムを書いています。(我現在正在寫程式。)",
+        "私はAIについて勉強しています。(我正在學習 AI 相關知識。)",
+        "彼は毎日、図書館で勉強しています。(他每天都在圖書館學習。)"
+      ]
+    },
+    {
+      "title": "〜について",
+      "structure": "名詞 + について",
+      "rule": "表示談話或思考的對象，相當於中文的「關於…」。",
+      "examples": [
+        "再生エネルギーについて話しましょう。(我們來談談再生能源吧。)",
+        "この本は日本の歴史についてです。(這本書是關於日本歷史的。)",
+        "IoTについて質問があります。(我對 IoT 有個問題。)"
+      ]
+    }
+  ]
+}
