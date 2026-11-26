@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "一起合作完成某事",
+      "example": "Let's collaborate on this IoT project, it'll be fun!",
+      "example_zh": "我們來合作這個 IoT 專案吧，會很有趣！"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "讓性能或效率最佳化",
+      "example": "We need to optimize the code for better performance.",
+      "example_zh": "我們需要優化程式碼以獲得更好的性能。"
+    },
+    {
+      "word": "implement",
+      "pos": "v.",
+      "meaning": "執行或實現計畫/系統",
+      "example": "It's time to implement our new renewable energy solution.",
+      "example_zh": "是時候實施我們新的再生能源解決方案了。"
+    },
+    {
+      "word": "debug",
+      "pos": "v.",
+      "meaning": "找出並修正程式錯誤",
+      "example": "I spent all morning trying to debug this tricky bug.",
+      "example_zh": "我花了一整個早上試圖除錯這個棘手的 bug。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "meaning": "初步模型或測試品",
+      "example": "The first prototype of our new device looks promising!",
+      "example_zh": "我們新設備的第一個原型看起來很有前途！"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "meaning": "性能穩定且值得信賴",
+      "example": "We need reliable sensors for this embedded system.",
+      "example_zh": "這個嵌入式系統需要可靠的感測器。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "完成任務的最後期限",
+      "example": "The deadline for the report is next Friday. Can we make it?",
+      "example_zh": "報告的截止日期是下週五。我們能趕上嗎？"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning": "對某事物的反應或意見",
+      "example": "Your feedback on my AI tool design is really helpful!",
+      "example_zh": "你對我 AI 工具設計的回饋真的很有幫助！"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "產品或軟體的主要功能",
+      "example": "This new phone has some really cool AI features.",
+      "example_zh": "這款新手機有一些非常酷的 AI 功能。"
+    },
+    {
+      "word": "analyze",
+      "pos": "v.",
+      "meaning": "仔細研究以了解其含義",
+      "example": "Let's analyze the data to find any potential issues.",
+      "example_zh": "我們來分析一下數據，看看有沒有潛在問題。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "常用動詞片語 (Phrasal Verbs)",
+      "rule": "動詞片語是由動詞加上介系詞或副詞組成，意思通常與原動詞不同，很常用於日常對話。",
+      "examples": [
+        "Could you help me set up the new IoT device? (你能幫我設定這個新的 IoT 設備嗎？)",
+        "I need to figure out how this renewable energy system works. (我需要弄清楚這個再生能源系統是如何運作的。)",
+        "We ran into a small issue during testing, but it's okay. (我們在測試時遇到一個小問題，但沒關係。)"
+      ]
+    },
+    {
+      "title": "第一類條件句 (First Conditional)",
+      "rule": "用於表達未來可能發生且結果可預期的情況。結構為 'If + 現在簡單式, will + 動詞原形'。",
+      "examples": [
+        "If we finish this early, we'll go for bubble tea. (如果我們早點完成，我們就去喝珍奶。)",
+        "If the system fails, I will check the embedded firmware. (如果系統故障，我會檢查嵌入式韌體。)",
+        "If you have any questions, just ask me anytime. (如果你有任何問題，隨時問我就好。)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "まいにち、しごとをします。",
+      "example_zh": "每天都工作。"
+    },
+    {
+      "kana": "かいぎ",
+      "kanji_romaji": "会議 / kaigi",
+      "meaning": "會議",
+      "example": "きょうは かいぎが あります。",
+      "example_zh": "今天有會議。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "しごとの じかんが ながいです。",
+      "example_zh": "工作時間很長。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息",
+      "example": "ちょっと やすみを とりましょう。",
+      "example_zh": "稍微休息一下吧。"
+    },
+    {
+      "kana": "たべる",
+      "kanji_romaji": "食べる / taberu",
+      "meaning": "吃",
+      "example": "ひるごはんを たべます。",
+      "example_zh": "吃午餐。"
+    },
+    {
+      "kana": "のむ",
+      "kanji_romaji": "飲む / nomu",
+      "meaning": "喝",
+      "example": "コーヒーを のみますか。",
+      "example_zh": "要喝咖啡嗎？"
+    },
+    {
+      "kana": "わかる",
+      "kanji_romaji": "分かる / wakaru",
+      "meaning": "懂、明白",
+      "example": "にほんごが すこし わかります。",
+      "example_zh": "我懂一點日文。"
+    },
+    {
+      "kana": "つかう",
+      "kanji_romaji": "使う / tsukau",
+      "meaning": "使用",
+      "example": "この ツールを つかいます。",
+      "example_zh": "使用這個工具。"
+    },
+    {
+      "kana": "まいにち",
+      "kanji_romaji": "毎日 / mainichi",
+      "meaning": "每天",
+      "example": "まいにち えいごを べんきょうします。",
+      "example_zh": "每天學習英文。"
+    },
+    {
+      "kana": "パソコン",
+      "kanji_romaji": "パソコン / pasokon",
+      "meaning": "電腦",
+      "example": "あたらしい パソコンが ほしいです。",
+      "example_zh": "我想要一台新電腦。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "あります / います (Arimasu / Imasu)",
+      "structure": "名詞 + が + あります/います",
+      "rule": "「あります」用於非生物事物，「います」用於生物存在。兩者都表達「有」或「存在」。",
+      "examples": [
+        "ここに かばんが あります。 (這裡有包包。)",
+        "へやに ねこが います。 (房間裡有貓。)"
+      ]
+    },
+    {
+      "title": "動詞て形 + ください (Te-kei + Kudasai)",
+      "structure": "動詞て形 + ください",
+      "rule": "用於禮貌地請求對方做某事。動詞變「て形」後加上「ください」即可。",
+      "examples": [
+        "この レポートを よんで ください。 (請讀一下這份報告。)",
+        "すこし まって ください。 (請等一下。)"
+      ]
+    }
+  ]
+}
