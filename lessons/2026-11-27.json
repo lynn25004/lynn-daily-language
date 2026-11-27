@@ -1,0 +1,186 @@
+{
+  "english_words": [
+    {
+      "word": "device",
+      "pos": "n.",
+      "meaning": "設備、裝置、器具",
+      "example": "My new smart home device is super cool, it controls everything!",
+      "example_zh": "我的新智慧家庭裝置超酷，它控制所有東西！"
+    },
+    {
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合、使融入",
+      "example": "It's tricky to integrate all these smart gadgets into one system.",
+      "example_zh": "將所有這些智慧小工具整合到一個系統中很棘手。"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "優化、改善",
+      "example": "I need to optimize my code for better performance, especially on Fridays.",
+      "example_zh": "我需要優化我的程式碼以獲得更好的性能，尤其是在星期五。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "meaning": "充電、休息恢復",
+      "example": "After a busy week, I just want to recharge this weekend.",
+      "example_zh": "忙碌一週後，我這個週末只想好好充電。"
+    },
+    {
+      "word": "browse",
+      "pos": "v.",
+      "meaning": "瀏覽、閒逛",
+      "example": "I often browse tech blogs for new ideas and cool gadgets.",
+      "example_zh": "我經常瀏覽科技部落格尋找新想法和酷炫小工具。"
+    },
+    {
+      "word": "feature",
+      "pos": "n.",
+      "meaning": "特色、功能",
+      "example": "This new phone has some really impressive features for engineers.",
+      "example_zh": "這款新手機有一些令工程師印象深刻的功能。"
+    },
+    {
+      "word": "commute",
+      "pos": "n./v.",
+      "meaning": "通勤、上下班路程",
+      "example": "My daily commute usually involves listening to podcasts about AI.",
+      "example_zh": "我每天通勤通常會聽關於AI的播客。"
+    },
+    {
+      "word": "innovative",
+      "pos": "adj.",
+      "meaning": "創新的、革新的",
+      "example": "Engineers always look for innovative solutions to complex problems.",
+      "example_zh": "工程師總是在尋找解決複雜問題的創新方案。"
+    },
+    {
+      "word": "solution",
+      "pos": "n.",
+      "meaning": "解決方案、解答",
+      "example": "We're trying to find a clever solution to this persistent bug.",
+      "example_zh": "我們正在努力尋找一個巧妙的解決方案來解決這個持續存在的錯誤。"
+    },
+    {
+      "word": "update",
+      "pos": "v./n.",
+      "meaning": "更新、最新消息",
+      "example": "Remember to update your software regularly for better security.",
+      "example_zh": "記得定期更新你的軟體以提高安全性。"
+    }
+  ],
+  "english_grammar": [
+    {
+      "title": "現在完成式 (Present Perfect Tense)",
+      "rule": "用於表達過去發生的動作或狀態，持續到現在或對現在有影響，或表示經驗。",
+      "examples": [
+        "I have worked on this IoT project for three months already. (我已經在這個物聯網專案上工作三個月了。)",
+        "She has never tried building an embedded system before. (她以前從未嘗試過製作嵌入式系統。)",
+        "Have you ever updated your AI tool's firmware? (你曾經更新過你的AI工具韌體嗎？)"
+      ]
+    },
+    {
+      "title": "片語動詞 (Phrasal Verbs)",
+      "rule": "由動詞加上介系詞或副詞組成，意思通常與原動詞不同，廣泛用於日常口語。",
+      "examples": [
+        "I need to look up how to fix this coding error. (我需要查詢如何修復這個程式錯誤。)",
+        "Let's set up the new server this afternoon before the weekend. (我們今天下午來設定新的伺服器吧。)",
+        "Can you help me figure out this complex circuit diagram? (你能幫我搞懂這個複雜的電路圖嗎？)"
+      ]
+    }
+  ],
+  "japanese_words": [
+    {
+      "kana": "しゅうまつ",
+      "kanji_romaji": "週末 / shuumatsu",
+      "meaning": "週末",
+      "example": "週末、何をしますか？",
+      "example_zh": "週末你要做什麼？"
+    },
+    {
+      "kana": "しごと",
+      "kanji_romaji": "仕事 / shigoto",
+      "meaning": "工作",
+      "example": "あなたの仕事は楽しいですか？",
+      "example_zh": "你的工作開心嗎？"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji_romaji": "勉強 / benkyou",
+      "meaning": "學習",
+      "example": "毎日、日本語を勉強します。",
+      "example_zh": "我每天學習日文。"
+    },
+    {
+      "kana": "やすみ",
+      "kanji_romaji": "休み / yasumi",
+      "meaning": "休息、假日",
+      "example": "今日は休みなので、ゆっくりします。",
+      "example_zh": "今天放假，所以要好好休息。"
+    },
+    {
+      "kana": "じかん",
+      "kanji_romaji": "時間 / jikan",
+      "meaning": "時間",
+      "example": "私には時間がありません。",
+      "example_zh": "我沒有時間。"
+    },
+    {
+      "kana": "みる",
+      "kanji_romaji": "見る / miru",
+      "meaning": "看",
+      "example": "週末に映画を見ます。",
+      "example_zh": "我週末看電影。"
+    },
+    {
+      "kana": "つくる",
+      "kanji_romaji": "作る / tsukuru",
+      "meaning": "做、製作",
+      "example": "IoTデバイスを作るのが好きです。",
+      "example_zh": "我喜歡製作IoT設備。"
+    },
+    {
+      "kana": "いく",
+      "kanji_romaji": "行く / iku",
+      "meaning": "去",
+      "example": "来週、東京へ行きます。",
+      "example_zh": "我下週要去東京。"
+    },
+    {
+      "kana": "なに",
+      "kanji_romaji": "何 / nani",
+      "meaning": "什麼",
+      "example": "今日、何を食べますか？",
+      "example_zh": "今天你要吃什麼？"
+    },
+    {
+      "kana": "そして",
+      "kanji_romaji": "そして / soshite",
+      "meaning": "然後、而且",
+      "example": "本を読みます、そして寝ます。",
+      "example_zh": "我讀書，然後睡覺。"
+    }
+  ],
+  "japanese_grammar": [
+    {
+      "title": "名詞 + は + 名詞 + です",
+      "structure": "名詞 + は + 名詞 + です",
+      "rule": "這是一個基礎的日語肯定句型，用於表達「A是B」或「A是某物/某人」，介紹事物或人的身份。",
+      "examples": [
+        "私はエンジニアです。(我是工程師。)",
+        "これは私のコンピュータです。(這是我的電腦。)"
+      ]
+    },
+    {
+      "title": "動詞(ます形) + ましょうか",
+      "structure": "動詞(ます形) + ましょうか",
+      "rule": "這個句型用於提議「我來做...好嗎？」或邀請對方「我們一起做...吧？」，表示建議或詢問對方意願。",
+      "examples": [
+        "コーヒーを入れましょうか。(我來泡咖啡好嗎？)",
+        "資料を作りましょうか。(我來製作資料好嗎？)"
+      ]
+    }
+  ]
+}
